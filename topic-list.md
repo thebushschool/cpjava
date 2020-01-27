@@ -1,4 +1,4 @@
-_HCDE 598 Winter 2017_
+_Bush School IDMD Spring Semester 2020_
 
 # Topic List
 * All the languages! Why p5.js?
@@ -18,5 +18,5 @@ _HCDE 598 Winter 2017_
 * Arrays
 * Data visuzlization and reading from a file
 * Basic overview/introduction to classes/objects
-* Using video
-* Physics simulations
+* OPTIONAL Using video
+* OPTIONAL Physics simulations

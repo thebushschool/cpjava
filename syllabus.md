@@ -1,4 +1,4 @@
-_Bush School Spring Semester 2020_
+_Bush School IDMD Spring Semester 2020_
 
 # IDMD Course Syllabus
 ## Catalog Information
