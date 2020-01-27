@@ -1,6 +1,7 @@
 # Student Work
 
 ## Student Portfolios
+
 | Student | Link |
 | :--- | :--- |
 | Pamela | [https://xxxxxx.github.io/idmd-portfolio](https://xxxxxx.github.io/idmd-portfolio) |
@@ -14,7 +15,7 @@
 
 ## Student Final Projects
 
-| People | Project | Video | 
+| People | Project | Video |
 | :--- | :--- | :--- |
 | Pamela | [https://xxxxxx.github.io/final-project](https://xxxxxx.github.io/final-project) |
 | Aidan | [https://xxxxxx.github.io/final-project](https://xxxxxx.github.io/final-project) |
