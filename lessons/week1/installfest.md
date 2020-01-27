@@ -3,7 +3,7 @@ _Bush School IDMD Spring Semester 2020_
 # Installfest
 
 ## Git
-_Follow the instructions for your operating system below. If you have any trouble please reach out to your instructor on slack._
+_Follow the instructions for your operating system below. If you have any trouble please reach out to your instructor._
 
 ### Mac OS X
 1. Download the [git .zip file](https://git-scm.com/download/mac)
@@ -31,13 +31,5 @@ _Follow the instructions for your operating system below. If you have any troubl
  	```
 
 ## p5.js Editor
-_Follow the instructions for your operating system below. If you have any trouble please reach out to your instructor on slack._
+_Using the [web editor](https://editor.p5js.org) no downloads needed_
 
-### Mac OS X
-1. Download the [.zip file](https://github.com/processing/p5.js-editor/releases/download/v0.6.2/p5-mac.zip)
-1. Double-click the .zip file
-1. Drag p5 down to your dock for easy access
-
-### Windows
-1. Download the [.zip file](https://github.com/processing/p5.js-editor/releases/download/v0.6.2/p5-win.zip)
-1. Open the .zip file and click the _Extract All_ button

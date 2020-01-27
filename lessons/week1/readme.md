@@ -3,9 +3,7 @@ _Bush School IDMD Spring Semester 2020_
 # Week 1
 
 ## Prep Work
-* Review the [syllabus](https://github.com/susanev/uw-hcde-creative-computing/blob/master/syllabus.md)
-* Complete the [course survey](https://goo.gl/forms/kjdQvKnmWT7DBY3T2)
-* Join our [slack team](https://hcde598-winter-2017.slack.com) and introduce yourself
+* Review the [syllabus](https://github.com/chandrunarayan/idmd/blob/master/syllabus.md)
 * Create a [Github](https://github.com/) account
 * Complete the [installfest](installfest.md)
 * Setup your [portfolio](portfolio.md)

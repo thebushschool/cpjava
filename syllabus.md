@@ -27,12 +27,11 @@ __Final__: No standard final, instead a final project.
 ## Materials
 
 ### Course Links
-* Google Classroom: [Class Code "ocwndek"](https://classroom.google.com/u/2/c/NTAyNzIwNzA2Nzda)
 * Course materials: [Google Drive IDMD](https://drive.google.com/drive/folders/1iRMwhQ_s2qayCJFFZz6Z3hnwFvgMTEI4?usp=sharing)
-* Assignment Submissions via Google Classroom [Class Code "ocwndek"](https://classroom.google.com/u/2/c/NTAyNzIwNzA2Nzda)
+* Assignment Submissions via [Google Drive IDMD](https://drive.google.com/drive/folders/1iRMwhQ_s2qayCJFFZz6Z3hnwFvgMTEI4?usp=sharing)
 * Anonymous feedback form: [TBD]
 
-Students are expected to check Google Classroom daily for announcements, discussions, and assignments.
+Students are expected to check Portal daily for assignments.
 
 ### Computing Software (all free)
 Students will need regular access to a computer with git and p5.js installed, both are free, and available for MacOSX, Windows, and Linux.
@@ -47,7 +46,7 @@ Students will need regular access to a computer with git and p5.js installed, bo
 ## Grading
 
 The grade weighting is as follows:
-* Programming assignments: 50%
+* Student Portfolio (Classwork, Homework): 50%
 * Final Project: 25%
 * Participation: 25%
 

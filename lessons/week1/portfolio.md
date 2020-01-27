@@ -8,7 +8,7 @@ You can either complete the steps by following the text described here, or watch
 ## Create your portfolio repository
 1. Login to [Github](https://github.com/)
 1. Click the `+` in the upper-right corner and choose _New repository_
-1. Fill in a repository name (e.g., portfolio, hcde-portfolio, etc)
+1. Fill in a repository name (e.g., portfolio, idmd-portfolio, etc)
 1. Check _Initialize this repository with a README_
 1. Click _Create repository_
 

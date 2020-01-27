@@ -1,10 +1,6 @@
 _Bush School IDMD Spring Semester 2020_
 # Final Project
 
-_[Code Due Sunday, 03/12, at 9pm](https://canvas.uw.edu/courses/1099807/assignments/3624548)_
-
-_[Presentation, Monday, 03/13, at 6pm](https://canvas.uw.edu/courses/1099807/assignments/3624549)_
-
 ### Goals
 * Demonstrate success and learning in p5.js
 * Demonstrate knowledge of variables, functions, parameters, conditional statements, loops, and arrays
@@ -39,15 +35,12 @@ _[Presentation, Monday, 03/13, at 6pm](https://canvas.uw.edu/courses/1099807/ass
 * Any complicated parts of your code should have line comments
 * Add your final project to your Github personal portfolio and submit a link to your project on Canvas
 
-### Grading Rubric
-
 #### Code
 
 | Criteria | Points |
 | :--- | :--- |
-| Group demonstrated progress after the first week of work | 1 pt |
-| Group used Trello to track progress and tasks | 1 pt |
-| Group pushed to Github often (at least 10 commits) | 1 pt |
+| Demonstrated progress after the first week of work | 1 pt |
+| Pushed to Github often (at least 10 commits) | 1 pt |
 | Showcased a complete project, that runs without errors | 2 pts |
 | Showcased a well-executed, creative project | 3 pts |
 | Used variables as appropriate | 1 pt |
@@ -57,18 +50,3 @@ _[Presentation, Monday, 03/13, at 6pm](https://canvas.uw.edu/courses/1099807/ass
 | Code is fully commented as described in the _Code Submission_ section | 3 pts |
 | Code uses correct style throughout as discussed in class | 3 pts |
 | Extra Credit: Group created a video, showcasing the project | 3 pts |
-
-#### Presentation 
-
-| Criteria | Points |
-| :--- | :--- |
-| Group's presentation was 5 - 10 minutes in length | 1 pt |
-| Group was prepared, and professional during the presentation | 1 pt |
-| Group clearly presented an overview of their project | 1 pt |
-| Group clearly described their project process in detail | 2 pts |
-| Group presented data collected from their usability studies and how it informed their project | 2 pts | 
-| Group demoed a live version of their program | 2 pts |
-| Group talked about the details of their code with appropriate detail | 2 pts |
-| Group talked about extensions they would like to have added if more time allowed | 1 pt |
-| Group presented what they learned from the experience, and if/how they will be moving forward with the project | 1 pt |
-| Group fielded questions about their project and code with ease | 1 pt |
