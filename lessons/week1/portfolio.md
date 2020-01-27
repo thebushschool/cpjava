@@ -1,4 +1,4 @@
-_HCDE 598 Winter 2017_
+_Bush School IDMD Spring Semester 2020_
 
 # Creating Your Portfolio
 These steps will guide you through setting up your portfolio on [Github](https://github.com/). These instructions are more complicated than we would like, if you have any trouble at all please reach out to your instructor.

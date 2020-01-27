@@ -1,4 +1,4 @@
-_HCDE 598 Winter 2017_
+_Bush School IDMD Spring Semester 2020_
 
 # Week 6
 _Note: No in-person class this week due to the holiday, continue to work on your Data Visualization and add some CSS to your portfolio._

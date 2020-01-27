@@ -1,4 +1,4 @@
-_HCDE 598 Winter 2017_
+_Bush School IDMD Spring Semester 2020_
 
 # Installfest
 

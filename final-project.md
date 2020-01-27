@@ -1,4 +1,4 @@
-_HCDE 598 Winter 2017_
+_Bush School IDMD Spring Semester 2020_
 # Final Project
 
 _[Code Due Sunday, 03/12, at 9pm](https://canvas.uw.edu/courses/1099807/assignments/3624548)_
