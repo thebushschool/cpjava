@@ -33,7 +33,7 @@ _Bush School IDMD Spring Semester 2020_
 * Each line in setup and draw should have a comment
 * Each function that you created should have a top comment briefly explaining what that function does (note that setup and draw do not need top comments)
 * Any complicated parts of your code should have line comments
-* Add your final project to your Github personal portfolio and submit a link to your project on Canvas
+* Add your final project to your Github personal portfolio and submit a link to your project on Google Drive
 
 #### Code
 

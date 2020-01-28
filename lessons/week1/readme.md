@@ -16,8 +16,8 @@ _Bush School IDMD Spring Semester 2020_
 
 ## Warm up
 * Introductions
-* Paper coding activity
-* [Lightbot](exercises/lightbot.md) in pairs
+* Try P5JS!
+
 
 ## Lessons
 * All the languages! Why p5.js?
@@ -30,7 +30,7 @@ _Bush School IDMD Spring Semester 2020_
 * [Building a robot](exercises/robot.md) 
   * Given the code for a black/white robot; add a customized color scheme and adjust to make it your own
   * Practice using the reference
-  * Practice using RGB color values
+  * Practice using RGB color values - [Use this website](https://image-color.com)
   * Understand programming flow
 * [Taijitu](exercises/taijitu.md)
   * Create a Taijitu using only ellipses and a single rectangle
@@ -40,13 +40,10 @@ _Bush School IDMD Spring Semester 2020_
 * What new things did you learn today?
 * What topics are you still struggling with?
 * What did you especially enjoy about today's class?
-* What can be improved for future classes?
 
 ## Resources
 * [How to add projects to your Github portfolio video](https://youtu.be/M-bNnVwBHUY)
-* [Week 1 exercises video](https://youtu.be/TNEm5U8tnhQ)
-* [Week 1 homework video](https://youtu.be/QhvBb-69quY)
+  * The video references UW "hcde-portfolio" - Instead use Bush School "idmd-portfolio"
 
 ## Homework
-* [Personal values](homework/personal_values.md) Due Sunday, 01/15
-* [Digitize an analog piece of art](homework/digitize.md) Due Saturday, 01/21
+* Continue classwork Exercises to finish at home

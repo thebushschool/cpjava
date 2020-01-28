@@ -28,7 +28,7 @@ Write your static code (no draw function needed) in p5.js making sure to include
 In most situations we expect you to use many different kinds of p5.js functions including but not limited to `line`, `triangle`, `quad`, `rect`, `ellipse`, `arc`, `stroke`, `fill`, and `background`. 
 
 ### Submission
-Make sure your code has a comment on most every line and then add your project to your Github portfolio website. If you have any trouble adding it to your portfolio please reach out to your instructor. Then you should submit your reference image and link to your Github portfolio on [canvas](https://canvas.uw.edu/courses/1099807/assignments/3544132).
+Make sure your code has a comment on most every line and then add your project to your Github portfolio website. If you have any trouble adding it to your portfolio please reach out to your instructor. Then you should submit your reference image and link to your Github portfolio on Google Drive
 
 ### Reference
 This assignment is inspired by the assignment, _Port an Image to Code_ created by [Chandler McWilliams](http://chandlermcwilliams.com/), [Casey Reas](http://reas.com/), and [Lauren McCarthy](http://lauren-mccarthy.com/).

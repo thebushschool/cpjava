@@ -20,4 +20,4 @@ Start by taking notes or brainstorming a list of what you value. Then move to a 
 * Your writing will be private between you and the instructor, your response will not be shared with the class
 
 ### Submission
-Your personal values paper should be submitted on [Canvas](https://canvas.uw.edu/courses/1099807/assignments/3544127) as a `.pdf`. If you need help creating a `.pdf` let us know.
+Your personal values paper should be submitted on [Google Drive
