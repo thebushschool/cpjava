@@ -19,17 +19,16 @@ __Final__: No standard final, instead a final project.
 ## Contact Information
 | Chandru Narayan, Instructor |
 | :--- |
-| Office hours: Mon/Tue 8 - 8:20 Wed/Thu/Fri 1:20 - 1:40 |
-| Office location: Gracemont Faculty Room or BANC |
-| Mail: chandru.narayan@bush.edu |
-
+| Office hours- Mon/Tue 8 - 8:20 Wed/Thu/Fri 1:20 - 1:40 |
+| Office location- Gracemont Faculty Room or BANC |
+| Mail- chandru.narayan@bush.edu |
 
 ## Materials
 
 ### Course Links
+* Online textbook: [Getting Started with P5JS](https://drive.google.com/drive/u/2/folders/15GK0VESxqTvYGst9EtvILshb0MGlO4c5)
 * Course materials: [Google Drive IDMD](https://drive.google.com/drive/folders/1iRMwhQ_s2qayCJFFZz6Z3hnwFvgMTEI4?usp=sharing)
 * Assignment Submissions via [Google Drive IDMD](https://drive.google.com/drive/folders/1iRMwhQ_s2qayCJFFZz6Z3hnwFvgMTEI4?usp=sharing)
-* Anonymous feedback form: [TBD]
 
 Students are expected to check Portal daily for assignments.
 
