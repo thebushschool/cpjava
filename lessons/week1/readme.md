@@ -2,11 +2,12 @@ _Bush School IDMD Spring Semester 2020_
 
 # Week 1
 
-## Prep Work
-* Review the [syllabus](https://github.com/chandrunarayan/idmd/blob/master/syllabus.md)
-* Create a [Github](https://github.com/) account
-* Complete the [installfest](installfest.md)
-* Setup your [portfolio](portfolio.md)
+
+## Warm up
+* Introductions
+* Try P5JS!
+  * [First right-click-here and open new Tab to open editor](https://editor.p5js.org)
+  * [Then create your first Sketch with these instructions](https://p5js.org/get-started/#sketch)
 
 ## Goals
 * Learn about the course and your classmates
@@ -14,17 +15,18 @@ _Bush School IDMD Spring Semester 2020_
 * Practice using the reference
 * Understand and be able to write code to draw shapes, and use different colors
 
-## Warm up
-* Introductions
-* Try P5JS!
-
-
 ## Lessons
 * All the languages! Why p5.js?
 * Environment setup
 * How to use the reference
 * Digital color
 * Coordinate system
+
+## Prep Work
+* Review the [syllabus](https://github.com/chandrunarayan/idmd/blob/master/syllabus.md)
+* Create a [Github](https://github.com/) account
+* Complete the [installfest](installfest.md)
+* Setup your [portfolio](portfolio.md)
 
 ## Exercises
 * [Building a robot](exercises/robot.md) 
