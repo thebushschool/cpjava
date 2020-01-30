@@ -17,6 +17,8 @@ _Follow the instructions for your operating system below. If you have any troubl
 	
 	```
 	git config --global user.name "Your name"
+	```
+	```
  	git config --global user.email "Your email address"
  	```
 
