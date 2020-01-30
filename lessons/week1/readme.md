@@ -25,8 +25,8 @@ _Bush School IDMD Spring Semester 2020_
 ## Prep Work
 * Review the [syllabus](https://github.com/chandrunarayan/idmd/blob/master/syllabus.md)
 * Create a [Github](https://github.com/) account
-* Complete the [installfest](installfest.md)
 * Setup your [portfolio](portfolio.md)
+* Complete the [installfest](installfest.md)
 
 ## Exercises
 * [Building a robot](exercises/robot.md) 
