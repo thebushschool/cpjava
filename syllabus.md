@@ -39,12 +39,18 @@ Students will need regular access to a computer with git and p5.js installed, bo
 * p5.js Editor: [https://github.com/processing/p5.js-editor/releases](https://github.com/processing/p5.js-editor/releases)
 
 ## Textbooks
+### Online
+* [Getting Started with P5JS](https://drive.google.com/drive/u/2/folders/)
+* [Nature of Code](https://drive.google.com/file/d/1hMEbXcZDfEbSfmh_-XpBJTePuTg_xiJ5/view?usp=sharing)
 ### Optional
 * [Getting Started with p5.js](https://www.amazon.com/Make-Interactive-Graphics-JavaScript-Processing/dp/1457186772) by Lauren McCarthy, Casey Reas, and Ben Fry, O'Reilly, 1st edition ($8 – $16)
 
+## Differentiation
+This course is designed to accommodate students with differing pre-existing computing knowledge and future expectations for learning computer programming. The course exercises, homework, and projects will be assigned categories "required" and "advanced". Those stuents will be asked to choose their pathway ("required" or "advanced") though the curriculum at the beginning of the Semester. This choice will be recoded on the [Student Portfilio](). The students will then proceed to complete their assignments and be evaluated according to this choice. 
+
 ## Grading
 
-The grade weighting is as follows:
+The grade weighting is as follows (irresective of student choice for differentiation):
 * Student Portfolio (Classwork, Homework): 50%
 * Final Project: 25%
 * Participation: 25%
@@ -67,10 +73,10 @@ We expect all students to arrive on time to class except for in cases of emergen
 Late work is not accepted unless under special circumstances. If you need to turn in an assignment late under special circumstances, please email the instructor to schedule a meeting in which we can discuss and determine if extra time is needed.
 
 ## Academic Conduct
-All work in this class must be your own. We encourage you to use online resources to learn how to achieve new things, but we expect you to use these resources to learn to write your own code, rather than copying code you find online directly and submitting it as your own work.
+All work in this class must be your own. Copying code from other students is strictly prohibited and will defeat the purpose of taking this class. We expect you to produce original work to the best of your abilities. However, we encourage you to use online resources to learn how to achieve new things, but we expect you to use these resources to learn to write your own code, rather than copying code you find online directly and submitting it as your own work. When using online work citations are a requirement - see below.
 
 ### Academic Integrity
-The essence of academic life revolves around respect not only for the ideas of others, but also their rights to those ideas. It is therefore essential that all of us engaged in the life of the mind take the utmost care that the ideas and expressions of ideas of other people always be appropriately handled, and, where necessary, cited. When ideas or materials of others are used, they must be cited. The format is not that important—as long as the source material can be located and the citation verified, it's OK. What is important is that the material be cited. In any situation, if you have a question, please feel free to ask. Please acquaint yourself with the University of Washington's resources on academic honesty.
+The essence of academic life revolves around respect not only for the ideas of others, but also their rights to those ideas. It is therefore essential that all of us engaged in the life of the mind take the utmost care that the ideas and expressions of ideas of other people always be appropriately handled, and, where necessary, cited. When ideas or materials of others are used, they must be cited. The format is not that important—as long as the source material can be located and the citation verified, it's OK. What is important is that the material be cited. In any situation, if you have a question, please feel free to ask. Please acquaint yourself with the Bush School resources on academic honesty.
 
 ### Copyright
 All of the expressions of ideas in this class that are fixed in any tangible medium such as digital and physical documents are protected by copyright law as embodied in title 17 of the United States Code. These expressions include the work product of both: (1) your student colleagues (e.g., any assignments published here in the course environment or statements committed to text in a discussion forum); and, (2) your instructors (e.g., the syllabus, assignments, reading lists, and lectures). Within the constraints of "fair use," you may copy these copyrighted expressions for your personal intellectual use in support of your education here in the UW. Such fair use by you does not include further distribution by any means of copying, performance or presentation beyond the circle of your close acquaintances, student colleagues in this class and your family. If you have any questions regarding whether a use to which you wish to put one of these expressions violates the creator's copyright interests, please feel free to ask the instructor for guidance.
