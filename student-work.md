@@ -3,28 +3,28 @@ _Bush School IDMD Spring Semester 2020_
 
 ## Student Portfolios
 
-| Student | Link |
-| :--- | :--- |
-| Pamela | [https://xxxxxx.github.io/idmd-portfolio](https://xxxxxx.github.io/idmd-portfolio) |
-| Aidan | [https://xxxxxx.github.io/idmd-portfolio](https://xxxxxx.github.io/idmd-portfolio) |
-| Philipp | [https://xxxxxx.github.io/idmd-portfolio](https://xxxxxx.github.io/idmd-portfolio) |
-| Erik | [https://xxxxxx.github.io/idmd-portfolio](https://xxxxxx.github.io/idmd-portfolio) |
-| Jeffrey | [https://xxxxxx.github.io/idmd-portfolio](https://xxxxxx.github.io/idmd-portfolio) |
-| Carter | [https://xxxxxx.github.io/idmd-portfolio](https://xxxxxx.github.io/idmd-portfolio) |
-| Maya | [https://xxxxxx.github.io/idmd-portfolio](https://xxxxxx.github.io/idmd-portfolio) |
-| Leah | [https://xxxxxx.github.io/idmd-portfolio](https://xxxxxx.github.io/idmd-portfolio) |
-| Ghislaine | [https://xxxxxx.github.io/idmd-portfolio](https://xxxxxx.github.io/idmd-portfolio) |
+| Student | Link | Pathway
+| :--- | :--- | :--- |
+| Pamela | [https://xxxxxx.github.io/idmd-portfolio](https://xxxxxx.github.io/idmd-portfolio) | Required
+| Aidan | [https://xxxxxx.github.io/idmd-portfolio](https://xxxxxx.github.io/idmd-portfolio) | Required
+| Philipp | [https://xxxxxx.github.io/idmd-portfolio](https://xxxxxx.github.io/idmd-portfolio) | Required
+| Erik | [https://xxxxxx.github.io/idmd-portfolio](https://xxxxxx.github.io/idmd-portfolio) | Required
+| Jeffrey | [https://xxxxxx.github.io/idmd-portfolio](https://xxxxxx.github.io/idmd-portfolio) | Required
+| Carter | [https://xxxxxx.github.io/idmd-portfolio](https://xxxxxx.github.io/idmd-portfolio) | Required
+| Maya | [https://xxxxxx.github.io/idmd-portfolio](https://xxxxxx.github.io/idmd-portfolio) | Required
+| Leah | [https://xxxxxx.github.io/idmd-portfolio](https://xxxxxx.github.io/idmd-portfolio) | Required
+| Ghislaine | [https://xxxxxx.github.io/idmd-portfolio](https://xxxxxx.github.io/idmd-portfolio) | Required
 
 ## Student Final Projects
 
-| People | Project | Video |
+| People | Project | Pathway |
 | :--- | :--- | :--- |
-| Pamela | [https://xxxxxx.github.io/final-project](https://xxxxxx.github.io/final-project) |
-| Aidan | [https://xxxxxx.github.io/final-project](https://xxxxxx.github.io/final-project) |
-| Philipp | [https://xxxxxx.github.io/final-project](https://xxxxxx.github.io/final-project) |
-| Erik | [https://xxxxxx.github.io/final-project](https://xxxxxx.github.io/final-project) |
-| Jeffrey | [https://xxxxxx.github.io/final-project](https://xxxxxx.github.io/final-project) |
-| Carter | [https://xxxxxx.github.io/final-project](https://xxxxxx.github.io/final-project) |
-| Maya | [https://xxxxxx.github.io/final-project](https://xxxxxx.github.io/final-project) |
-| Leah | [https://xxxxxx.github.io/final-project](https://xxxxxx.github.io/final-project) |
-| Ghislaine | [https://xxxxxx.github.io/final-project](https://xxxxxx.github.io/final-project) |
+| Pamela | [https://xxxxxx.github.io/final-project](https://xxxxxx.github.io/final-project) | Required
+| Aidan | [https://xxxxxx.github.io/final-project](https://xxxxxx.github.io/final-project) | Required
+| Philipp | [https://xxxxxx.github.io/final-project](https://xxxxxx.github.io/final-project) | Required
+| Erik | [https://xxxxxx.github.io/final-project](https://xxxxxx.github.io/final-project) | Required
+| Jeffrey | [https://xxxxxx.github.io/final-project](https://xxxxxx.github.io/final-project) | Required
+| Carter | [https://xxxxxx.github.io/final-project](https://xxxxxx.github.io/final-project) | Required
+| Maya | [https://xxxxxx.github.io/final-project](https://xxxxxx.github.io/final-project) | Required
+| Leah | [https://xxxxxx.github.io/final-project](https://xxxxxx.github.io/final-project) | Required
+| Ghislaine | [https://xxxxxx.github.io/final-project](https://xxxxxx.github.io/final-project) | Required
