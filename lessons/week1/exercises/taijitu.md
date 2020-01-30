@@ -6,8 +6,8 @@ _Bush School IDMD Spring Semester 2020_
 Stretch your problem solving skills by programming a Taijitu.
 
 ### Task
-<img align="right" src="https://www.ancient-symbols.com/symbols-directory/taijitu.html" alt="Image of a Taijitu drawn with p5.js">
-Create a Taijitu using p5.js similar to the one shown at right. You are limited to using only one rectangle, and as many ellipses as you need. Other commands you may want to use include: `createCanvas`, `background`, `stroke`, `noStroke`, `fill`, `noFill`, `strokeWeight`.
+Create a Taijitu using p5.js similar to the one shown below. You are limited to using only one rectangle, and as many ellipses as you need. Other commands you may want to use include: `createCanvas`, `background`, `stroke`, `noStroke`, `fill`, `noFill`, `strokeWeight`.
+[Taijitu symbol](https://www.ancient-symbols.com/symbols-directory/taijitu.html)
 
 You may work together with others in class but make sure you fully understand your own solution.
 
