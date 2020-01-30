@@ -46,7 +46,7 @@ Students will need regular access to a computer with git and p5.js installed, bo
 * [Getting Started with p5.js](https://www.amazon.com/Make-Interactive-Graphics-JavaScript-Processing/dp/1457186772) by Lauren McCarthy, Casey Reas, and Ben Fry, O'Reilly, 1st edition ($8 – $16)
 
 ## Differentiation
-This course is designed to accommodate students with differing pre-existing computing knowledge and future expectations for learning computer programming. The course exercises, homework, and projects will be assigned categories "required" and "advanced". Those stuents will be asked to choose their pathway ("required" or "advanced") though the curriculum at the beginning of the Semester. This choice will be recoded on the [Student Portfolio](student-work.md). The students will then proceed to complete their assignments and be evaluated according to this choice. 
+This course is designed to accommodate students with differing pre-existing computing knowledge and future expectations for learning computer programming. The course exercises, homework, and projects will be assigned categories "required" and "advanced". Those stuents will be asked to choose their pathway ("required" or "advanced") though the curriculum at the beginning of the Semester. This choice will be recorded on the [Student Portfolio](student-work.md). The students will then proceed to complete their assignments and be evaluated according to this choice. 
 
 ## Grading
 
