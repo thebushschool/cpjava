@@ -20,7 +20,7 @@ _Topics: Installfest, git, github, why p5.js, environment setup, using the refer
 * [Overview](lessons/week1)
 * [Installfest](lessons/week1/installfest.md)
 * [Portfolio Setup](lessons/week1/portfolio.md)
-* [Exercises](lessons/week1/exercises)
+* [Exercises](lessons/week1/readme.md)
 
 ### [Week 2](lessons/week2)
 _Topics: Programming flow, animation loops, functions, parameters, variables, max, min_
