@@ -5,8 +5,8 @@ _Bush School IDMD Spring Semester 2020_
 ### Goal 
 This exercise is designed to explain the difference between a static program and a dynamic program and to practice using the Processing language by coloring a robot. 
 ### Part 1: Color The Robot
-<img align="right" src="https://github.com/susanev/2016_Winter_UWHCDE_p5/blob/master/lessons/week1/exercises/images/robot.png" alt="Black, white, and gray robot">
 * Program the code given below in your own p5.js sketch. Run it after every few lines to make sure you did not mistype and create an error. 
+* [A Sample Robot](https://editor.p5js.org/cnarayan/present/appTUuhm)
 * Make the robot more interesting by coloring it with a theme (e.g., sports team, favorite food, or cartoon character).
 * Most parts of the robot should be colored with something other than black, white, or gray. Your coloring theme should be unique, please do not copy another person's work, show us your own creativity and style!
 * Add a comment to every line of your code clearly describing what it does
