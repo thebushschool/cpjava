@@ -30,7 +30,9 @@ _Bush School IDMD Spring Semester 2020_
 
 ## Exercises
 * [Building a robot](exercises/robot.md) 
-  * Given the code for a black/white robot; add a customized color scheme and adjust to make it your own
+  * Code your own colorful robot; make it your own with requirements below.
+  * Standard requirements - Legs, Body, Head, Eyes, Eyebrows - Robot is always facing front irrespective of movement
+  * Advanced requirements - Standard + Robot is sideways facing the direction of movement
   * Practice using the reference
   * Practice using RGB color values - [Use this website](https://image-color.com)
   * Understand programming flow
