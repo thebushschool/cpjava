@@ -35,3 +35,7 @@ _Follow the instructions for your operating system below. If you have any troubl
 ## p5.js Editor
 _Using the [web editor](https://editor.p5js.org) no downloads needed_
 
+## Helpful videos
+[Use Github to store and manage your sketches](https://www.youtube.com/watch?v=8HPYsDTk17A&vl=en)
+
+
