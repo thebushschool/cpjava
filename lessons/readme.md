@@ -12,7 +12,7 @@ _Topics: Installfest, git, github, why p5.js, environment setup, using the refer
 ## [Week 2](week2)
 _Topics: Programming flow, animation loops, functions, parameters, variables, max, min_
 
-* Details to be added
+* [Exercises](week2/exercises)
 
 ## [Week 3](week3)
 _Topics: Conditional statements, logical operators, events, mouseX, mouseY, mouesIsPressed, frameCount, random, dist, mousePressed, mouseReleased_
