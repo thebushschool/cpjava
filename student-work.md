@@ -5,26 +5,26 @@ _Bush School IDMD Spring Semester 2020_
 
 | Student | Link | Pathway
 | :--- | :--- | :--- |
-| Pamela | [https://xxxxxx.github.io/idmd-portfolio](https://xxxxxx.github.io/idmd-portfolio) | Required
-| Aidan | [https://xxxxxx.github.io/idmd-portfolio](https://xxxxxx.github.io/idmd-portfolio) | Required
-| Philipp | [https://xxxxxx.github.io/idmd-portfolio](https://xxxxxx.github.io/idmd-portfolio) | Required
-| Erik | [https://xxxxxx.github.io/idmd-portfolio](https://xxxxxx.github.io/idmd-portfolio) | Required
-| Jeffrey | [https://xxxxxx.github.io/idmd-portfolio](https://xxxxxx.github.io/idmd-portfolio) | Required
-| Carter | [https://xxxxxx.github.io/idmd-portfolio](https://xxxxxx.github.io/idmd-portfolio) | Required
-| Maya | [https://xxxxxx.github.io/idmd-portfolio](https://xxxxxx.github.io/idmd-portfolio) | Required
-| Leah | [https://xxxxxx.github.io/idmd-portfolio](https://xxxxxx.github.io/idmd-portfolio) | Required
-| Ghislaine | [https://xxxxxx.github.io/idmd-portfolio](https://xxxxxx.github.io/idmd-portfolio) | Required
+| Pamela | [Project Portfilio](https://pamelabiniam.github.io/idmd-portfolio) | Standard
+| Aidan | [Project Portfilio](https://aidan-lynch.github.io/idmd-portfolio) | Standard
+| Jeffrey | [Project Portfilio](https://jpbatzz.github.io/idmd-portfolio) | Standard
+| Maya | [Project Portfilio](https://mayaschrum.github.io/idmd-portfolio) | Standard
+| Leah | [Project Portfilio](https://leahtruman.github.io/idmd-portfolio/) | Standard
+| Ghislaine | [Project Portfilio](https://github.com/ghislaineederer/idmb-portfolio) | Standard
+| Philipp | [Project Portfilio](https://philippknmergener.github.io/idmd-portfolio) | Advanced
+| Erik | [Project Portfilio](https://erikonsager.github.io/idmd-portfolio) | Advanced
+| Carter | [Project Portfilio](https://carterschafer.github.io/idmd-portfolio) | Advanced
 
 ## Student Final Projects
 
 | People | Project | Pathway |
 | :--- | :--- | :--- |
-| Pamela | [https://xxxxxx.github.io/final-project](https://xxxxxx.github.io/final-project) | Required
-| Aidan | [https://xxxxxx.github.io/final-project](https://xxxxxx.github.io/final-project) | Required
-| Philipp | [https://xxxxxx.github.io/final-project](https://xxxxxx.github.io/final-project) | Required
-| Erik | [https://xxxxxx.github.io/final-project](https://xxxxxx.github.io/final-project) | Required
-| Jeffrey | [https://xxxxxx.github.io/final-project](https://xxxxxx.github.io/final-project) | Required
-| Carter | [https://xxxxxx.github.io/final-project](https://xxxxxx.github.io/final-project) | Required
-| Maya | [https://xxxxxx.github.io/final-project](https://xxxxxx.github.io/final-project) | Required
-| Leah | [https://xxxxxx.github.io/final-project](https://xxxxxx.github.io/final-project) | Required
-| Ghislaine | [https://xxxxxx.github.io/final-project](https://xxxxxx.github.io/final-project) | Required
+| Pamela | [Final Project](https://pamelabiniam.github.io/idmd-portfolio) | Standard
+| Aidan | [Final Project](https://aidan-lynch.github.io/idmd-portfolio) | Standard
+| Jeffrey | [Final Project](https://jpbatzz.github.io/idmd-portfolio) | Standard
+| Maya | [Final Project](https://mayaschrum.github.io/idmd-portfolio) | Standard
+| Leah | [Final Project](https://leahtruman.github.io/idmd-portfolio/) | Standard
+| Ghislaine | [Final Project](https://github.com/ghislaineederer/idmb-portfolio) | Standard
+| Philipp | [Final Project](https://philippknmergener.github.io/idmd-portfolio) | Advanced
+| Erik | [Final Project](https://erikonsager.github.io/idmd-portfolio) | Advanced
+| Carter | [Final Project](https://carterschafer.github.io/idmd-portfolio) | Advanced
