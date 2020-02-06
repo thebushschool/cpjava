@@ -28,7 +28,6 @@ _Bush School IDMD Spring Semester 2020_
 ## Resources
 
 * [Code examples](code)
-* [Functions Video](https://youtu.be/PbUObX7JVlw)
 
 ## Homework
 
