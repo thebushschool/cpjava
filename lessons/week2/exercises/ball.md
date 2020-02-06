@@ -10,6 +10,7 @@ _Bush School IDMD Spring Semester 2020_
 * Explore the sound library
 
 ### Task
+
 * Together with your partner modify the [moving ball](../code/moving_ball/sketch.js) by opening sketch.js and copy-paste to the p5js web editor
 * Change the color of the ball to a random color with each hit on the wall. Look up random function in reference
 * Add a speed variable to modify the speed
