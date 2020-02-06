@@ -1,21 +1,18 @@
 _Bush School IDMD Spring Semester 2020_
-# Final Project
+# Final Project - The Bush Robot
 
 ### Goals
 * Demonstrate success and learning in p5.js
 * Demonstrate knowledge of variables, functions, parameters, conditional statements, loops, and arrays
 * Demonstrate the ability to learn and explore new concepts and topics not explored in class
 * Demonstrate successful communication and the ability to work with others
-* Practice informal usability studies
 * Practice presenting to others
 
 ### Prework
-* Generate a list or sketches (or both!) of your project ideas, think big, I will help you scope down your project next week
-* General topics you might explore: Games, Puzzles, Choose-Your-Own-Adventure Stories, Digital Prototype, Data Visualizations, Text Generators, Educational experience, Twitter bot, Generative art ...
-* Post your ideas to the Slack channel to share with others and find a partner
+* Generate a list or sketches of your project ideas for the Bush Robot apperance and interactivity (Movement, Sound, Colors etc.)
 
 ### Specification
-* You must maintain a Trello board throughout the project that tracks what you are planning to do, what you are wokring on, and what you are done with (along with anything else your group would like to track)
+
 * Each partner must push edits/changes to Github for everyday that they work on something
 * Your project must be unique and based on your own ideas, consulting web resources is highly recommended, but make sure your project is not the same as something else you found
 * Your project must demonstrate your ability to use variables, functions, parameters, conditional statements, loops, and arrays in your code
