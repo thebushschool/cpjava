@@ -2,43 +2,20 @@
     Modified by Susan Evans
     Modified by Chandru Narayan
     Last edited 02/06/2020
-    
-    Draws a bald man, that "sings" to music
 */
 
-// holds the audio input object
-var mic;
-// holds the current volume
-var vol;
-
 function setup() {
-  createCanvas(500, 500);
-  background(255);
   noStroke();
-  
-  // Create an Audio input
-  mic = new p5.AudioIn();
+  createCanvas(500, 500);
+  background(255, 255, 255);
 
-  // start the Audio Input.
-  mic.start();
-}
-
-function draw() {
-  background(255);
-  // Get the overall volume (between 0 and 1.0)
-  vol = mic.getLevel();
-  
-  if (vol > 0.1) {
-    background(random(255), random(255), random(255));
-  }
-  
   allHair();
   ears();
   head();
-  eyes(); 
+  eyes();
   nose();
   mouth();
-  bowtie(); 
+  bowtie();
   eyebrows();
 }
 
@@ -48,9 +25,8 @@ function allHair() {
 }
 
 function hair(x, y) {
-  var adjustedVol = map(vol, 0, 1, 0, 500);
   fill(0);
-  ellipse(x, y, 50 + adjustedVol, 80 + adjustedVol);
+  ellipse(x, y, 50, 80);
 }
 
 function ears() {
@@ -62,7 +38,7 @@ function ear(x, y) {
   noStroke();
   fill(243, 205, 159);
   ellipse(x, y, 50, 50);
-  
+
   fill(234, 184, 125);
   ellipse(x, y, 30, 30);
 }
@@ -84,11 +60,11 @@ function eye(x, y) {
   strokeWeight(1);
   fill(255, 255, 255);
   ellipse(x, y, 50, 30);
-  
+
   noStroke();
   fill(0);
   ellipse(x, y, 30, 30);
-  
+
   fill(255);
   ellipse(x + 9, y, 10, 10);
 }
@@ -97,7 +73,7 @@ function nose() {
   stroke(0);
   strokeWeight(2);
   line(248, 224, 248, 281);
-  
+
   nostril(264, 281);
   nostril(232, 281);
 }
@@ -110,12 +86,11 @@ function nostril(x, y) {
 }
 
 function mouth() {
-  var adjustedVol = map(vol, 0, 1, 1, 10);
   noStroke();
   fill(242, 159, 159);
-  ellipse(249, 325, 40 * adjustedVol, 10 * adjustedVol);
+  ellipse(249, 325, 40, 10);
   fill(0);
-  ellipse(249, 325, 30 * adjustedVol, 5 * adjustedVol);
+  ellipse(249, 325, 30, 5);
 }
 
 function bowtie() {

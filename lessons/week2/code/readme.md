@@ -2,6 +2,6 @@ _Bush School IDMD Spring Semester 2020_
 
 # Week 2 Code
 
-* [Basic Face](basic_face)
+* [Basic Face](basic_face_plus)
 * [Moving Ball](moving_ball)
 * [Setup and Draw Overview](setup_draw_overview)
