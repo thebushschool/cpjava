@@ -13,8 +13,8 @@ We will learn and create using the programming language Javascript and the libra
 * [Student Work](student-work.md)
 * [Final Project Information](final-project.md)
 
-## [Lessons](lessons)
-## [Week 1](lessons/week1)
+## [Lessons]()
+### [Week 1](lessons/week1)
 _Topics: Installfest, git, github, why p5.js, environment setup, using the reference, digital color, coordinate system_
 
 * [Overview](lessons/week1)
@@ -25,39 +25,39 @@ _Topics: Installfest, git, github, why p5.js, environment setup, using the refer
 ### [Week 2](lessons/week2)
 _Topics: Programming flow, animation loops, functions, parameters, variables, max, min_
 
-* Details to be added
+* Details being be added
 
-### [Week 3](lessons/week3)
+### [Week 3]()
 _Topics: Conditional statements, logical operators, events, mouseX, mouseY, mouesIsPressed, frameCount, random, dist, mousePressed, mouseReleased_
 
 * Details to be added
 
-### [Week 4](lessons/week4)
+### [Week 4]()
 _Topics: keyPressed events, for loops, using text and fonts, using images_
 
 * Details to be added
 
-### [Week 5](lessons/week5)
+### [Week 5]()
 _Topics: Review for loops, while loops, arrays, return statements_
 
 * Details to be added
 
-### [Week 6](lessons/week6)
+### [Week 6]()
 _Topics: HTML/CSS_
 
 * Details to be added
 
-### [Week 7](lessons/week7)
+### [Week 7]()
 _Topics: HTML/CSS_
 
 * Details to be added
 
-### [Week 8](lessons/week8)
+### [Week 8]()
 _Topics: Array review, tile game, final project_
 
 * Details to be added
 
-### [Week 9](lessons/week9)
+### [Week 9]()
 _Topics: Moving beyond the p5.js editor, objects, final project work time_
 
 * Details to be added
