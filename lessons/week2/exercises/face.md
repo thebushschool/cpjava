@@ -13,7 +13,7 @@ _Bush School IDMD Spring Semester 2020_
 ### Required Tasks
 
 * Use the reference, use variables and conditionals to make your face expressive!
-* Together with your partner modify the [basic face](../code/basic_face_plus) by opening sketch.js and copy-paste to the p5js web editor
+* Together with your partner modify the [basic face](../code/basic_face_plus/sketch.js) by opening sketch.js and copy-paste to the p5js web editor
 * Notice how the different parts of the face is structured into functions and how similar facial parts use parameters within your functions
 * Notice the comments around code blocks
 * Make the eyebrows thicker when mouse is pressed - look up mouseIsPressed() function in reference
@@ -24,7 +24,7 @@ _Bush School IDMD Spring Semester 2020_
 ### Advanced Tasks
 * Complete the Required Tasks plus ..
 * Use the sound library, along with variables and conditionals to make your face interactive.
-* Use [these code snippets](../code/sound_face) to make the face respond to sounds!
+* Use [these code snippets](../code/sound_face/sketch.js) to make the face respond to sounds!
 
 ### Submission
 Make sure your code is indented correctly and that most of your lines of code have a comment, then each partner should add this project to their Github portfolio.
