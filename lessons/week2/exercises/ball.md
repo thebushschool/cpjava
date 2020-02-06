@@ -1,16 +1,16 @@
 _Bush School IDMD Spring Semester 2020_
 # Week 2 Exercise
 
-## Responsive Face
+## Ball
 
 ### Goals
 * Practice collaborating in code with others
-* Practice using functions by modifying a basic face
+* Practice using functions by modifying the moving ball
 * Practice using variables and conditional statements
 * Explore the sound library
 
 ### Task
-* Together with your partner modify the [basic face](lessons/week2/code/basic_face/sketch.js)
+* Together with your partner modify the [basic ball](lessons/week2/code/moving_ball/sketch.js)
 * The different parts of your face should be structured into functions, for similar facial parts use parameters within your functions
 * Use the sound library, along with variables and conditionals to make your face interactive
 

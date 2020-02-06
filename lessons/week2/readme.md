@@ -15,6 +15,7 @@ _Bush School IDMD Spring Semester 2020_
 
 ## Exercises
 * [Responsive face](exercises/face.md)
+* [Moving Ball](exercises/ball.md))
 
 ## Debrief
 * What new things did you learn today?
