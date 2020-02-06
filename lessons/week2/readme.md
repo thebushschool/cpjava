@@ -16,8 +16,9 @@ _Bush School IDMD Spring Semester 2020_
 
 ## Exercises
 
-* [Responsive face](exercises/face.md)
 * [Moving Ball](exercises/ball.md)
+* [Responsive face](exercises/face.md)
+
 
 ## Debrief
 
