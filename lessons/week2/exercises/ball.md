@@ -10,7 +10,7 @@ _Bush School IDMD Spring Semester 2020_
 * Explore the sound library
 
 ### Task
-* Together with your partner modify the [moving ball](moving_ball)
+* Together with your partner modify the [moving ball](../code/moving_ball)
 * The different parts of your face should be structured into functions, for similar facial parts use parameters within your functions
 * Use the sound library, along with variables and conditionals to make your face interactive
 

@@ -12,7 +12,7 @@ _Bush School IDMD Spring Semester 2020_
 
 ### Task
 
-* Together with your partner modify the [basic face](basic_face)
+* Together with your partner modify the [basic face](../code/basic_face)
 * The different parts of your face should be structured into functions, for similar facial parts use parameters within your functions
 * Use the sound library, along with variables and conditionals to make your face interactive
 
