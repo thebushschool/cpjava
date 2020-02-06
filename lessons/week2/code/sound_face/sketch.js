@@ -46,7 +46,7 @@ function allHair() {
   hair(128, 235);
   hair(373, 235);
 }
-
+// Raise hair reacting to sound!
 function hair(x, y) {
   var adjustedVol = map(vol, 0, 1, 0, 500);
   fill(0);
@@ -109,13 +109,13 @@ function nostril(x, y) {
   ellipse(x, y, 20, 10);
 }
 
+// Make face sing by using the vol variable and map function
 function mouth() {
-  var adjustedVol = map(vol, 0, 1, 1, 10);
   noStroke();
   fill(242, 159, 159);
-  ellipse(249, 325, 40 * adjustedVol, 10 * adjustedVol);
+  ellipse(249, 325, 40, 10);
   fill(0);
-  ellipse(249, 325, 30 * adjustedVol, 5 * adjustedVol);
+  ellipse(249, 325, 30, 5);
 }
 
 function bowtie() {
