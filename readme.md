@@ -8,10 +8,18 @@ Software influences all aspects of contemporary visual culture. Students will ex
 We will learn and create using the programming language Javascript and the library p5.js, a full featured library that allows one to create interactive digital art for the web. To see examples of the interactive digital media you can create with code, [watch this video](https://www.youtube.com/watch?v=HerCR8bw_GE) by the creators of p5.js.
 
 ## Course Documents
+
 * [Syllabus](syllabus.md)
 * [Topic List](topic-list.md)
 * [Student Work](student-work.md)
 * [Final Project Information](final-project.md)
+
+## Course Links
+* Online textbook: [Getting Started with P5JS](https://drive.google.com/drive/u/2/folders/15GK0VESxqTvYGst9EtvILshb0MGlO4c5)
+* Course Website: [IDMD Website](https://chandrunarayan.github.io/idmd/)
+* Course materials: [Google Drive IDMD](https://drive.google.com/drive/folders/1iRMwhQ_s2qayCJFFZz6Z3hnwFvgMTEI4?usp=sharing)
+* Assignment Submissions via [Your Github Site](https://github.com/)
+* Slack Instant Messaging - [IDMD 2020](https://idmd2020.slack.com/)
 
 ## Lessons
 ### [Week 1](lessons/week1)
