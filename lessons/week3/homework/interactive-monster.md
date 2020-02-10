@@ -22,7 +22,10 @@ This assignment will help you practice using if-statements, to allow your progra
 
 	Feel free to also explore the [monster code](../code/monster) to review functions, parameters, style, and commenting.
 
-Example monsters: [monster 1] [monster 2] [monster 3]
+Example monsters:
+	![alt text][monster-1]
+	![alt text][monster-2]
+	![alt text][monster-3]
 
 1. Setup the if statements to control whether your program will display a monster with moving eyes, or a jumping monster. First start by creating a variable named `page` at the top of your code, you should set its starting value to 0. Then add the code below to draw.
 
