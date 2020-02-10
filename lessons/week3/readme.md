@@ -1,10 +1,9 @@
 _Bush School IDMD Spring Semester 2020_
 
-# Week 3
-
 ## Week2 Review and Homework Expectations
 
-* Review the pending [Homework and Classwork completions](https://bush.myschoolapp.com/app/faculty#academicclass/109608285/0/assignments). Review submissions to Github amd modifications to the Table of Contents (index.html)
+* Review the pending [Homework and Classwork completions](https://bush.myschoolapp.com/app/faculty#academicclass/109608285/0/assignments)
+* Review [submissions to Github](../../student-work.md) and modifications to the Table of Contents (index.html)
 
 ## Learning Objectives
 
