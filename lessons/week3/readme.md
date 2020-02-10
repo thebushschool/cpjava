@@ -24,11 +24,15 @@ _Bush School IDMD Spring Semester 2020_
 
 ## Exercises
 
-* Add restart button to Projects
-* Dot Drawing
-* Line Drawing
-* Growing Ellipse
-* Working with text
+* [Dot Drawing](code/drawing_with_ellipses_0) - Look in Slack for initial code
+	* Update to change to random color when mouse is clicked
+* [Line Drawing](code/line_drawing) - Look in Slack for initial code
+	* Update to change to add a tiny circle at the end of the line filled with a random color each time when when the mouse is clicked
+* [Growing Ellipse](code/growing_circle) - Look in Slack for initial code
+	* Update to make it look like a red giant star with increasing temperature with increasing size 
+		* slowly increase the intensity of the Red color only as the circle grows
+	* ADVANCED - Explode the star when it reaches the frame border and stop
+* [Working with text]()  - Look in Slack for initial code - Add restart button to Projects
 
 ## Debrief
 
