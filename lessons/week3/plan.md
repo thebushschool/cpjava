@@ -3,21 +3,21 @@ _Bush School IDMD Spring Semester 2020_
 # Plan
 ## Week 3
 
-### Introduction (5 minutes)
-* Re-introduce myself and the class
-* Round of names from the class
-* Office hours 2 – 5 instead?
-* Review today's learning objectives
-* Meet your partner
+### Re-Introduction
+* Did you write a statement about yourself and modify your TOC ?
+* Do you know [my office hours](../../../syllabus.md) ?
+* Do you how your [work will be evaluated](../../../syllabus.md)] ?
+* Have you joined the [IDMD Slack IM](https://idmd2020.slack.com/) ?
+* What's working and not working - [post a message in Slack](https://idmd2020.slack.com/) !
 
-### Warmup (30 minutes)
-* Share your Lego Family with your partner, talk about process and what you are struggling with
-* Share a few class examples
-	* [Danielle](https://dteska.github.io/hcde-portfolio/lego_family/)
-	* [Kelly](https://kellyjeangraham.github.io/portfolio/lego-bojack-family/)
-	* [Nichole](https://nicholekim.github.io/portfolio/LegoFamily/)
-	* [Tess](https://tws123.github.io/portfolio598Class/DynamicLegoFamily/)
-	* [Zack](https://zjrobinson90.github.io/portfolio/rickmorty/)
+### Pair Programming for Week 3
+* Carter - Maya
+* Aidan - Ghislaine
+* Philipp - Pamela
+* Erik - Jeffrey - Leah 
+* Student Portfolios in Paired Teams (Please lep each other!)
+* for a primer on index.html modifications [see this](../../../portfolio.md)
+
 * Review Lego Family
 * Suggestions for improvements
 * Fix/clean your code; help each other!

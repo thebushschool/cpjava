@@ -23,7 +23,7 @@ _Bush School IDMD Spring Semester 2020_
 * Coordinate system
 
 ## Prep Work
-* Review the [syllabus](https://github.com/chandrunarayan/idmd/blob/master/syllabus.md)
+* Review the [syllabus](../../syllabus.md)
 * Create a [Github](https://github.com/) account
 * Setup your [portfolio](portfolio.md)
 * Complete the [installfest](installfest.md)

@@ -19,8 +19,10 @@ __Final__: No standard final, instead a final project.
 ## Contact Information
 | Chandru Narayan, Instructor |
 | :--- |
-| Office hours- Mon/Tue 8 - 8:20 Wed/Thu/Fri 1:20 - 1:40 |
-| Office location- Gracemont Faculty Room or BANC |
+| Office hours- Mon thru Thu 7:45 - 8:15 AM by [Google Appt](https://calendar.google.com/calendar/selfsched?sstoken=UU9lVFdVYVhjbGp3fGRlZmF1bHR8MTViMWFlNmVjMmVkMmU3ODEyNDNlMjg5NjY2MWE4ZDQ) |
+| Office hours- Mon thru Thu 1:20 - 1:40 PM No Appt Needed |
+| Office hours- Mon thru Thu 3:10 - 3:40 PM by [Google Appt](https://calendar.google.com/calendar/selfsched?sstoken=UU9lVFdVYVhjbGp3fGRlZmF1bHR8MTViMWFlNmVjMmVkMmU3ODEyNDNlMjg5NjY2MWE4ZDQ) |
+| Office location- BANC or Wissner 205 |
 | Mail- chandru.narayan@bush.edu |
 
 ## Materials

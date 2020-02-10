@@ -39,7 +39,8 @@ _Topics: Programming flow, animation loops, functions, parameters, variables, ma
 ### Week 3
 _Topics: Conditional statements, logical operators, events, mouseX, mouseY, mouesIsPressed, frameCount, random, dist, mousePressed, mouseReleased_
 
-* Details to be added
+* [Overview](lessons/week3)
+* [Exercises](lessons/week3/readme.md)
 
 ### Week 4
 _Topics: keyPressed events, for loops, using text and fonts, using images_
