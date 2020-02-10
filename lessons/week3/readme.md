@@ -32,7 +32,7 @@ _Bush School IDMD Spring Semester 2020_
 	* Update to make it look like a red giant star with increasing temperature with increasing size 
 		* slowly increase the intensity of the Red color only as the circle grows
 	* ADVANCED - Explode the star when it reaches the frame border and stop
-* [Working with text]()  - Look in Slack for initial code - Add restart button to Projects
+* Working with text  - Look in Slack for initial code - Add restart button to Projects
 
 ## Debrief
 
