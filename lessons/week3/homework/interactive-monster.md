@@ -1,27 +1,28 @@
 _Bush School IDMD Spring Semester 2020_
+
 # Week 3 Homework
 
 ## Interactive Monster
-_[Due Saturday, 02/04, at 9pm](https://canvas.uw.edu/courses/1099807/assignments/3592118)_
+
+_[Due Thursday, 02/13]_
 
 ### Goals
+
 This assignment will help you practice using if-statements, to allow your program to perform different operations without interference. You will be creating a custom monster, with a moving eye(s), and jumping interactions. 
 
 ### Specification
+
 * Your canvas size should take up at least 3/4 of your screen size; work big .. not small!
 * Your monster should be created with a series of functions using parameters
 * Your monster must be able to switch between jumping and eye movements when the user clicks the mouse
 
 ### Tasks
-1. Create a own customized monster, it should have it's very own function with parameters to control its position. It should have at least 1 leg and at least 1 eye, but everything else is up to you. Some inspiration is shown below, but remember this monster should be your very own and not a copy of someone else's. As usual please sketch your ideas before you start to code and save those sketches as you will be submitting them with your portfolio link.
 
-	![alt text][robot]
-	![alt text][monster-1]
-	![alt text][monster-2]
+1. Create a own customized monster, it should have it's very own function with parameters to control its position. It should have at least 1 leg and at least 1 eye, but everything else is up to you. Some inspiration is shown below, but remember this monster should be your very own and not a copy of someone else's. You may want to sketch your ideas before you start to code and save those sketches and submit them with your portfolio link.
 
-	Feel free to also explore the [monster code](../code/monster) we reviewed in class to review functions, parameters, style, and commenting.
+	Feel free to also explore the [monster code](../code/monster) to review functions, parameters, style, and commenting.
 
-	Make sure to run your code, and ensure your monster looks as intended before moving on to the next step.
+Example monsters: [monster 1] [monster 2] [monster 3]
 
 1. Setup the if statements to control whether your program will display a monster with moving eyes, or a jumping monster. First start by creating a variable named `page` at the top of your code, you should set its starting value to 0. Then add the code below to draw.
 
@@ -62,7 +63,7 @@ This assignment will help you practice using if-statements, to allow your progra
 
 	If its working you should now be able to click to switch between your moving eyes and jumping monster.
 
-### [Submission](https://canvas.uw.edu/courses/1099807/assignments/3592118)
+### Submit Code to Github and modify the index page
 * Your code should have a top comment block with your name, last edited date, and a brief description of the entire program
 * Each line in setup and draw should have a comment
 * Each function that you created should have a top comment briefly explaining what that function does (note that setup and draw do not need top comments)
@@ -72,16 +73,14 @@ This assignment will help you practice using if-statements, to allow your progra
 ### Extra Challenge
 * Add code to make it look like the monster is bending its knees as it jumps (hint: you can achieve this effect my varying the length of the monster's leg(s))
 * We are changing monsters by clicking, as an improvement add some buttons that allows the user to switch by clicking a button instead of just any mouse click
-* Add some more interactive elements by adding more buttons and more monster versions
-* Add more custom details to your monster
-* Add an interesting moving background
+* Add an interesting moving background to the monster
 
 ### Resources
 * Daniel Shiffman [conditionals video 1](https://vimeo.com/138935676)
 * Daniel Shiffman [conditionals video 2](https://vimeo.com/138935678)
 
-[robot]: https://github.com/susanev/uw-hcde-creative-computing/blob/master/lessons/week3/homework/images/robot.png "Robot"
+[monster-1]: https://github.com/chandrunarayan/idmd/blob/master/lessons/week3/homework/images/robot.png "Monster Example 1"
 
-[monster-1]: https://github.com/susanev/uw-hcde-creative-computing/blob/master/lessons/week3/homework/images/monster_1.png "Monster Example 1"
+[monster-2]: https://github.com/chandrunarayan/idmd/blob/master/lessons/week3/homework/images/monster_2.png "Monster Example 2"
 
-[monster-2]: https://github.com/susanev/uw-hcde-creative-computing/blob/master/lessons/week3/homework/images/monster_2.png "Monster Example 2"
+[monster-3]: https://github.com/chandrunarayan/idmd/blob/master/lessons/week3/homework/images/monster_2.png "Monster Example 3"

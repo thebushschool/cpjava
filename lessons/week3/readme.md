@@ -4,7 +4,7 @@ _Bush School IDMD Spring Semester 2020_
 
 * Review the pending [Homework and Classwork completions](https://bush.myschoolapp.com/app/faculty#academicclass/109608285/0/assignments)
 * Review [Student Portfolios](../../student-work.md) and modifications to the Table of Contents (index.html)
-* Review [submissions to Github](https://github.com/chandrunarayan/idmd/blob/ce7d5f3c8a6fcdde684ebdd7d1d4d3395ee02780/lessons/week1/collaborator.png) and modifications to the Table of Contents (index.html)
+* Review [submissions to Github](https://github.com/chandrunarayan/idmd/blob/lessons/week1/collaborator.png) and modifications to the Table of Contents (index.html)
 
 ## Learning Objectives
 
@@ -46,5 +46,6 @@ _Bush School IDMD Spring Semester 2020_
 	* [More Conditionals Video](https://vimeo.com/138935678)
 
 ## Homework
-
-* [Interactive Monster](homework/interactive-monster.md) Due Saturday, 02/04, 9pm
+* Complete Week 1 and Week 2 Homework and Week 3 Exercises for Standard Pathway Students
+* For Advanced Students [Interactive Monster](homework/interactive-monster.md) Due Thursday, 02/13
+* All Sudents - Upload project code to Github and modify index.html

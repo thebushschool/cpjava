@@ -11,27 +11,22 @@ _Bush School IDMD Spring Semester 2020_
 * What's working and not working - [post a message in Slack](https://idmd2020.slack.com/) !
 
 ### Pair Programming for Week 3
-* Carter - Maya
-* Aidan - Ghislaine
-* Philipp - Pamela
-* Erik - Jeffrey - Leah 
-* Student Portfolios in Paired Teams (Please lep each other!)
+* [Carter](https://carterschafer.github.io/idmd-portfolio) - [Maya](https://mayaschrum.github.io/idmd-portfolio)
+* [Aidan](https://aidan-lynch.github.io/idmd-portfolio) - [Ghislaine](https://ghislaineederer.github.io/idmb-portfolio)
+* [Philipp](https://philippknmergener.github.io/idmd-portfolio) - [Pamela](https://pamelabiniam.github.io/idmd-portfolio)
+* [Erik](https://erikonsager.github.io/idmd-portfolio) - [Jeffrey](https://jpbatzz.github.io/idmd-portfolio) - [Leah](https://leahtruman.github.io/idmd-portfolio) 
+* Student Portfolios in Paired Teams (Please help each other!)
 * for a primer on index.html modifications [see this](../../../portfolio.md)
+* Comment/Fix/clean your code; help each other!
 
-* Review Lego Family
-* Suggestions for improvements
-* Fix/clean your code; help each other!
-
-## Lessons (25 minutes)
+## Lessons
 * Conditional statement structure
 * Logical operators (and, or)
 * Events
 * Variables: mouseX, mouseY, mouseIsPressed, frameCount
 * Functions: random, dist, mousePressed, mouseReleased
 
-### Break (7pm—10 minutes)
-
-### Exercises (50 minutes)
+### Exercises
 * Rotating square
 
 	```javascript
@@ -158,7 +153,7 @@ _Bush School IDMD Spring Semester 2020_
 	}
 	```
 
-* Add restart button to Lego Family
+* Add restart button to Projects
 
 	```javascript
 	function button() {
@@ -180,10 +175,6 @@ _Bush School IDMD Spring Semester 2020_
 	}
 	```
 
-### Break (8pm—5 minutes)
+### Introduce Week 3 Homework
 
-### Introduce Homework (10 minutes)
-
-### Start Homework (20 minutes)
-
-### Debrief (10 minutes)
+### Debrief
