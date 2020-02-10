@@ -36,7 +36,7 @@ _Topics: Programming flow, animation loops, functions, parameters, variables, ma
 * [Overview](lessons/week2)
 * [Exercises](lessons/week2/readme.md)
 
-### Week 3
+### [Week 3](lessons/week3)
 _Topics: Conditional statements, logical operators, events, mouseX, mouseY, mouesIsPressed, frameCount, random, dist, mousePressed, mouseReleased_
 
 * [Overview](lessons/week3)
