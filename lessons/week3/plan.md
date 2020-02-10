@@ -8,6 +8,7 @@ _Bush School IDMD Spring Semester 2020_
 * Do you know [my office hours](../../../syllabus.md) ?
 * Do you how your [work will be evaluated](../../../syllabus.md)] ?
 * Have you joined the [IDMD Slack IM](https://idmd2020.slack.com/) ?
+* You may benefit by using an actual mouse in this class - Please ask me for one
 * What's working and not working - [post a message in Slack](https://idmd2020.slack.com/) !
 
 ### Pair Programming for Week 3
