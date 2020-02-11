@@ -4,7 +4,8 @@ _Bush School IDMD Spring Semester 2020_
 
 * Review the pending [Homework and Classwork completions](https://bush.myschoolapp.com/app/faculty#academicclass/109608285/0/assignments)
 * Review [Student Portfolios](../../student-work.md) and modifications to the Table of Contents (index.html)
-* Review [submissions to Github](https://github.com/chandrunarayan/idmd/blob/lessons/week1/collaborator.png) and modifications to the Table of Contents (index.html)
+* Review [Add Collaborator to Github Process](../week1/repository_collaborator.md)
+* Review [Add a P5JS Project to Github Process](../week1/add_p5js_project_to_github.md)
 
 ## Learning Objectives
 

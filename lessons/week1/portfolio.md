@@ -34,9 +34,14 @@ You can either complete the steps by following the text described here, or watch
 1. Navigate to https://username.github.io/repositoryname/ where you replace _username_ with your github username, and replace _repsoitoryname_ with your repository name
 1. Congratulate yourself on setting up your portfolio website, this website is live and you can share the link with others. We will be posting our class projects to our portfolios throughout the quarter.
 
+## Add P5JS project to your Github using Drag and Drop
+
+1. [Add P5JS project to your Github using Drag and Drop Video](https://github.com/chandrunarayan/idmd/blob/master/add_p5js_to_index.mov) 
+
 ## Add Chandru as a Collaborator on your idmd-portfolio repository
 
 1. [Add Collaborator to your Github Repository](repository_collaborator.md)
+
 
 ## Extension
 _This is optional, but encouraged if you have some extra time_
