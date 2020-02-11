@@ -6,6 +6,7 @@ These steps will guide you through setting up your portfolio on [Github](https:/
 You can either complete the steps by following the text described here, or watching along in the [video](https://youtu.be/cbNokegf9mI).
 
 ## Create your portfolio repository
+
 1. Login to [Github](https://github.com/)
 1. Click the `+` in the upper-right corner and choose _New repository_
 1. Fill in a repository name (e.g., portfolio, idmd-portfolio, etc)
@@ -13,6 +14,7 @@ You can either complete the steps by following the text described here, or watch
 1. Click _Create repository_
 
 ## Update your default branch
+
 1. Click _Branch: master_ on the left-side, type _gh-pages_ intro the text box, and press enter
 1. Click _Settings_, Click _Branches_, in the _Default branch_ drop-down select _gh-pages_
 1. Click _Update_, and then click _I understand, update the default branch._
@@ -21,14 +23,20 @@ You can either complete the steps by following the text described here, or watch
 1. Click the trash-can icon, deleting the master branch
 
 ## Creating your portfolio index page
+
 1. Click _Create new file_
 1. Name it `index.html`
 1. Add in a portfolio title and an introduction paragraph about yourself
 1. Click _Commit new file_ at the bottom of the page
 
 ## Viewing your portfolio
+
 1. Navigate to https://username.github.io/repositoryname/ where you replace _username_ with your github username, and replace _repsoitoryname_ with your repository name
 1. Congratulate yourself on setting up your portfolio website, this website is live and you can share the link with others. We will be posting our class projects to our portfolios throughout the quarter.
+
+## Add Chandru as a Collaborator on your idmd-portfolio repository
+
+1. [Add Collaborator to your Github Repository](respository_collaborator.md)
 
 ## Extension
 _This is optional, but encouraged if you have some extra time_
