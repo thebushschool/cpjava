@@ -20,5 +20,3 @@ The Taijitu your wrote is probably static, using the robot exercise as a guide, 
 ### Reference
 This assignment is inspired by a blog post on [Joy of Processing](http://joyofprocessing.com/) by [Jim Bumgardner](http://krazydad.com/about.php).
 
-## Adding a new section
-Ths is it!
