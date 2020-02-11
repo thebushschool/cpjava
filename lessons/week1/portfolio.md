@@ -36,7 +36,7 @@ You can either complete the steps by following the text described here, or watch
 
 ## Add Chandru as a Collaborator on your idmd-portfolio repository
 
-1. [Add Collaborator to your Github Repository](respository_collaborator.md)
+1. [Add Collaborator to your Github Repository](repository_collaborator.md)
 
 ## Extension
 _This is optional, but encouraged if you have some extra time_
