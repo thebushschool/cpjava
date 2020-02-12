@@ -33,7 +33,8 @@ _Bush School IDMD Spring Semester 2020_
 	* Update to make it look like a red giant star with increasing temperature with increasing size 
 		* slowly increase the intensity of the Red color only as the circle grows
 	* ADVANCED - Explode the star when it reaches the frame border and stop
-* Working with text  - Look in Slack for initial code - Add restart button to Projects
+* ADVANCED [Add a Reset Button](code/rect_hover) - Look in Slack for initial code - Modify this code to add a small Reset button to Projects
+* ADVANCED OPTIONAL [Interactive Monster - Follow Specifications as noted](homework/interactive-monster.md)
 
 ## Debrief
 
@@ -51,6 +52,6 @@ _Bush School IDMD Spring Semester 2020_
 	* [More Conditionals Video](https://vimeo.com/138935678)
 
 ## Homework
-* Complete Week 1 and Week 2 Homework and Week 3 Exercises for Standard Pathway Students
-* For Advanced Students [Interactive Monster](homework/interactive-monster.md) Due Thursday, 02/13
+* Standard Pathway Students Complete Week 1 and Week 2 Homework and Week 3 Exercises
+* Advanced Pathway Students Complete Week 1 and Week 2 Homework and Week 3 Exercises PLUS ADVANCED options to exercises 
 * All Sudents - Upload project code to Github and modify index.html
