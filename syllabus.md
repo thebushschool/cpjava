@@ -14,7 +14,7 @@ __Prerequisites__: None
 
 __Description__: Software influences all aspects of contemporary visual culture. Students will explore the essentials of Computer Programming including: cconditional control structures, iteration, data structures, functions, classes, objects, and event-driven design. We will create projects based on student interest including, but not limited to video games, installation art, and simulations of biological and social phenomena. We will learn and create using the programming language Javascript and the library p5.js, a full featured library that allows one to create interactive digital art for the web.
 
-__Final__: No standard final, instead a final project.
+__Final__: No standard final, instead a final project. The Final Project will be assigned based on student skills _Diiferentiation_. For students following the standard curriculum, the final project will be team-based.  For those students following the Advanced curriculum, Final Project will be individual. These assignments will be discussed and finalized soon after returning from Winter break.
 
 ## Contact Information
 | Chandru Narayan, Instructor |
@@ -61,6 +61,7 @@ The grade weighting is as follows (irresective of student choice for differentia
 
 The programming assignments will include weekly individual and pair programming assignments, as well as your portfolio work to showcase your programming assignments.
 
+For specific details on how code submisisons will be graded please refer to [Project Submission Specifications for Assessment](final-project.md)
 
 ### Participation
 Your participation grade will include your scores on quizzes, your active participation in class, as well as your participation on Google Classroom. We expect students to come to class with relevant ideas, and questions related to the class topics.
