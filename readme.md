@@ -11,7 +11,7 @@ Software influences all aspects of contemporary visual culture. Students will ex
 * [Syllabus](syllabus.md)
 * [Topic List](topic-list.md)
 * [Student Work](student-work.md)
-* [Final Project Information](final-project.md)
+* [Project Requirements](final-project.md)
 
 ## Course Links
 
