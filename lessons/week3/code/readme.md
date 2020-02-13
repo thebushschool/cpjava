@@ -4,5 +4,5 @@
 * [Drawing with Ellipses](drawing_with_ellipses_0)
 * [Growing Circle](growing_circle)
 * [Line Drawing](line_drawing)
-* [Monster](monster)
-* [Rect Hover](rect_hover)
+* [Reset Button](rect_hover)
+* [OPTIONAL:Monster](monster)
