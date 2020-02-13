@@ -33,7 +33,7 @@
 	* Update to make it look like a red giant star with increasing temperature with increasing size 
 		* slowly increase the intensity of the Red color only as the circle grows
 	* ADVANCED - Explode the star when it reaches the frame border and stop
-* ADVANCED [Add a Reset Button](code/rect_hover) - Look in Slack for initial code - Modify this code to add a small Reset button to Projects
+* ADVANCED [Add a Reset Button](code/rect_hover) - Look in Slack for initial code - Modify this code to add a small Reset button to Projects. Ensure that the button is small and located at the bottom right of the canvas. It should work regardless of the size of the canvas.
 * ADVANCED OPTIONAL [Interactive Monster - Follow Specifications as noted](homework/interactive-monster.md)
 
 ## Debrief
