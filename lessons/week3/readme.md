@@ -55,3 +55,4 @@
 * Standard Pathway Students Complete Week 1 and Week 2 Homework and Week 3 Exercises
 * Advanced Pathway Students Complete Week 1 and Week 2 Homework and Week 3 Exercises PLUS ADVANCED options to exercises 
 * All Sudents - Upload project code to Github and modify index.html
+* All Sudents - [Read Code Submission Expectations for Assessments](../../final-project.md)

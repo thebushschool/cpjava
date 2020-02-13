@@ -157,23 +157,48 @@
 * Add restart button to Projects
 
 	```javascript
-	function button() {
-	  if (mouseX > 300 && mouseX < 500 && mouseY > 775 && mouseY < 825  && mouseIsPressed) {
-	    fill(0, 200, 0);
-	  } else {
-	    fill(0, 255, 0);
-	  }
-	  rect(300, 775, 200, 50, 10);
-	  fill(0);
-	  textSize(40);
-	  text("Reset", 350, 815);
+	function setup() {
+	createCanvas(400, 400);
+	noStroke();
 	}
 
-	function mouseReleased() {
-	  if (mouseX > 300 && mouseX < 500 && mouseY > 775 && mouseY < 825) {
-	    resetVariables();
-	  }
+	function draw() {
+	background(220);
+	let s = 'Reset';  
+	if (mouseX > 100 && mouseX < 150 && mouseY > 200 && mouseY < 220) {
+		render_hovered_button(s, 100, 200)
+	} else {
+		render_dormant_button(s,100, 200)
+	} 
 	}
+
+	function render_hovered_button(s, x, y) {
+		fill(0);
+		rect(x, y, 50, 20);
+		fill(255)
+		// Add some code here if isMousePressed then reset sketch variables
+		if(mouseIsPressed) {
+		fill(200)
+		resetVariables();
+		} else {
+		fill(255)
+		}
+	text(s, x+7, y+3, 50, 20);
+	}
+
+	function render_dormant_button(s, x, y) {
+		fill(255);
+		rect(x, y, 50, 20);
+		fill(0)
+		text(s, x+7, y+3, 50, 20);
+	}
+
+	function resetVariables() {
+	// reset the variables ti inital sketch values
+	print("resetting sketch variables")
+	}
+
+
 	```
 
 ### Introduce Week 3 Homework

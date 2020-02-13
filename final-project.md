@@ -23,7 +23,7 @@
 ### Project Code Submission
 * Your code should have a top comment block with your name, last edited date, and a brief description of the entire program
 * Each block of code in global, setup and draw should have a comment describing its purpose
-* Each function that you created should have a top comment briefly explaining what that function does (note that setup and draw do not need top comments bu they will need comments for blocks inside)
+* Each function that you created should have a top comment briefly explaining what that function does (note that setup and draw do not need top comments but they will need comments for blocks inside)
 * Any complicated parts of your code should have line comments
 * Add all of your projects to your Github student portfolios
 * Create and submit a video showcasing your final project (this can be anywhere from 2 - 6 minutes, depending on the project). The video should demonstrate a run-through of the program, with a voice talking through what is happening
