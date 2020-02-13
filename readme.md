@@ -1,4 +1,4 @@
-_Bush School IDMD Spring Semester 2020_
+[_Bush School IDMD Spring Semester 2020_](https://chandrunarayan.github.io/idmd/)
 
 # IDMD - Bush School Interactive Digital Media Design Course
 

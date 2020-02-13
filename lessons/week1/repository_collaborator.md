@@ -1,6 +1,6 @@
 ---
 marp: true
-header: '_Bush School IDMD Spring Semester 2020_'
+header: '[_Bush School IDMD Spring Semester 2020_](https://chandrunarayan.github.io/idmd/)'
 ---
 # Adding Collaborators to your Github IDMD-Portfolio
 ---

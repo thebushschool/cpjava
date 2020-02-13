@@ -1,4 +1,4 @@
-_Bush School IDMD Spring Semester 2020_
+[_Bush School IDMD Spring Semester 2020_](https://chandrunarayan.github.io/idmd/)
 
 # Topic List
 * All the languages! Why p5.js?
