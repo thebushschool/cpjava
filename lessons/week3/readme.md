@@ -1,6 +1,6 @@
 [_Bush School IDMD Spring Semester 2020_](https://chandrunarayan.github.io/idmd/)
 
-## Week2 Review and Homework Expectations
+## Homework Expectations
 
 * Review the pending [Homework and Classwork completions](https://bush.myschoolapp.com/app/faculty#academicclass/109608285/0/assignments)
 * Review [Student Portfolios](../../student-work.md) and modifications to the Table of Contents (index.html)
@@ -25,6 +25,7 @@
 
 ## Exercises
 
+* [Complete Week 2 Exercises: Moving Ball and Responsive Face](../week2/readme.md)
 * [Dot Drawing](code/drawing_with_ellipses_0) - Look in Slack for initial code
 	* Update to change to random color when mouse is clicked
 * [Line Drawing](code/line_drawing) - Look in Slack for initial code
