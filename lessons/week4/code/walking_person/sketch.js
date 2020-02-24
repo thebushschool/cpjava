@@ -1,5 +1,6 @@
 /*  Written by Susan Evans
-    Last edited 02/06/2017
+     Updated by Chandru Narayan
+    Last edited 02/23/2020
     Animaties a walking person
 */
 

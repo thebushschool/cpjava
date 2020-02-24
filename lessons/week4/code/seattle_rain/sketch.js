@@ -1,5 +1,6 @@
 /*  Written by Susan Evans
-    Last edited 02/05/2017
+    Updated by Chandru Narayan
+    Last edited 02/23/2020
     Simulates the Seattle rain with slow appearing ellipses
 */
 

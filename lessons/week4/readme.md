@@ -33,7 +33,8 @@
 * What can be improved for future classes?
 
 ## Resources
-* [Code Examples](code)
+* Study/Code from [Getting Started with P5JS Book](https://drive.google.com/drive/u/2/folders/15GK0VESxqTvYGst9EtvILshb0MGlO4c5) Chapters 4-4 to 4-13 and 5-1 to 5-13
+* Practice [Code Examples](code)
 
 
 ## Homework
