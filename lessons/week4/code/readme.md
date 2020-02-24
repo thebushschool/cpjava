@@ -3,7 +3,7 @@
 
 ## Use  - Use following examples as inspiration for your Creativity Exploration Project
 
-## In-class Examples
+## In-class mini projects (see Slack for code extracts)
 * [Key Typed Red Green Blue](keyTypedRedGreenBlue)
 * [Key Pressed Moving Ball](keyIsPressedMovingBall)
 * [Font Example](fontExample)

@@ -12,12 +12,10 @@ function setup() {
 }
 
 function draw() {
-  // background(255);
-  // image(cat, 0, 0, mouseX, mouseX * aspectRatio);
+
 }
 
 function mousePressed() {
   background(255);
-  catWidth = random(10, 600);
-  image(cat, random(0, 700), random(0, 700), catWidth, catWidth * aspectRatio);
+  image(cat, mouseX, mouseY, catWidth, catWidth * aspectRatio);
 }
