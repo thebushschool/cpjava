@@ -54,7 +54,9 @@ _Topics: Conditional statements, logical operators, events, mouseX, mouseY, moue
 
 _Topics: keyPressed events, for loops, using text and fonts, using images_
 
-* Details to be added
+* [Overview](lessons/week4)
+* [Code](lessons/week4/code)
+* [Homework: Creativity Exploration](lessons/week4/homework/creativity-exploration.md)
 
 ### Week 5
 
