@@ -3,7 +3,7 @@
 
 
 
-## In-class mini projects (see Slack for code extracts)
+## In-class Exercises (see Slack for code extracts)
 ## Submit these into Github along with the Creativity Exploration Project
 * [Key Typed Red Green Blue](keyTypedRedGreenBlue)
 * [Key Pressed Moving Ball](keyIsPressedMovingBall)
