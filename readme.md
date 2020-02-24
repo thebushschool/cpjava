@@ -50,7 +50,7 @@ _Topics: Conditional statements, logical operators, events, mouseX, mouseY, moue
 * [Overview](lessons/week3)
 * [Exercises](lessons/week3/readme.md)
 
-### Week 4 After Winter Break
+### [Week 4 After Winter Break](lessons/week4)
 
 _Topics: keyPressed events, for loops, using text and fonts, using images_
 

@@ -3,7 +3,8 @@
 # Week 4
 
 ## Prep Work
-* Discuss issues with Weekly submissions - All Week1, Week2 Exercises due by this Thursday Feb 27th
+* Discuss issues with Weekly submissions
+  * All completed [Week 1 Exercises](lessons/week1/readme.md), [Week 1 Exercises](lessons/week1/readme.md) due by this Thursday Feb 27th
 * Week4 [Creativity Exploration Project](homework/creativity-exploration.md) is due Monday March 2nd
 * Review and be prepared to talk with others about your assignments 
 
@@ -36,4 +37,4 @@
 
 
 ## Homework
-* [Creativity Exploration](homework/creativity-exploration.md) Due Monday, March 2nd
+* [Creativity Exploration Project](homework/creativity-exploration.md) Due Monday, March 2nd

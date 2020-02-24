@@ -1,7 +1,9 @@
 [_Bush School IDMD Spring Semester 2020_](https://chandrunarayan.github.io/idmd/)
 # Week 4 Code
 
-## In-class Examples - Use as inspiration for your creativity assignment
+## Use  - Use following examples as inspiration for your Creativity Exploration Project
+
+## In-class Examples
 * [Key Typed Red Green Blue](keyTypedRedGreenBlue)
 * [Key Pressed Moving Ball](keyIsPressedMovingBall)
 * [Font Example](fontExample)
