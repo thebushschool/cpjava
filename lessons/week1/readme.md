@@ -36,7 +36,7 @@
   * Practice using the reference
   * Practice using RGB color values - [Use this website](https://image-color.com)
   * Understand programming flow
-* [Taijitu](exercises/taijitu.md)
+* [Taijitu](exercises/taijitu.md) OPTIONAL Extra Credit  
   * Create a Taijitu using only ellipses and a single rectangle
   * Problem solving practice
 
