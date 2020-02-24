@@ -38,7 +38,7 @@
 | Pushed to Github often (at least 3 commits per week) | 1 pt |
 | Showcased a complete project, that runs without errors | 2 pts |
 | Showcased a well-executed, creative project | 3 pts |
-| Used variables as appropriate | 1 pt |
+| Used variables as appropriate | 2 pts |
 | Used functions and parameters as appropriate | 2 pts |
 | Used conditional statements as appropriate | 2 pts |
 | Used loops and arrays as appropriate | 3 pts |
