@@ -21,7 +21,7 @@
 * Using images
 * for loops
 
-## Exercises
+## In-Class Exercises - Submit into GitHub
 * Key Pressed Examples
 * Font Example
 * Image Example
@@ -37,4 +37,5 @@
 
 
 ## Homework
+* [In Class Exercises](code/readme.md) Due Monday, March 2nd
 * [Creativity Exploration Project](homework/creativity-exploration.md) Due Monday, March 2nd

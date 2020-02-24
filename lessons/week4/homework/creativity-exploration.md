@@ -1,7 +1,7 @@
 [_Bush School IDMD Spring Semester 2020_](https://chandrunarayan.github.io/idmd/)
 # Week 4 Homework
 
-## Creativity Exploration
+## Creativity Exploration and In-Class Exercises
 _[Due Monday, 03/02]_
 
 ### Goals
