@@ -18,7 +18,7 @@
   * To demonstrate the "while" loop we will use the [Gradients](../week4/code/gradients) example. 
 
 ## ADVANCED Pathway Students
-1. Answer my WHAT IS WRON WITH THIS CODE? Question on Slack.
+1. Answer my WHAT IS WRONG WITH THIS CODE? Question on Slack.
 1. Code a [modified version of the moving ball](../week4/code/modifiedMovingBall) example. Whenever the moving ball goes over the mouse pointer in the canvas, it should change it's color from Green to Red. When the ball is not hiding the mouse pointer, it should turn back to Green. You may need the dist() function to implement this efficiently. See example 5-14 in the [P5JS book]((https://drive.google.com/drive/u/2/folders/15GK0VESxqTvYGst9EtvILshb0MGlO4c5))
 3. Work on the [Creativity Exploration Project](../week4/homework/creativity-exploration.md)
 
