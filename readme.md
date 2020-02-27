@@ -19,7 +19,7 @@ Software influences all aspects of contemporary visual culture. Students will ex
 * Online textbook: [Getting Started with P5JS](https://drive.google.com/drive/u/2/folders/15GK0VESxqTvYGst9EtvILshb0MGlO4c5)
 * Other Course materials: [Google Drive IDMD](https://drive.google.com/drive/folders/1iRMwhQ_s2qayCJFFZz6Z3hnwFvgMTEI4?usp=sharing)
 * Assignment Submissions via [Your Github Site](https://github.com/)
-* Slack Instant Messaging - [IDMD 2020](https://idmd2020.slack.com/)
+* Slack Instant Messaging - [IDMD 2020 Slack](https://idmd2020.slack.com/)
 
 ## Course Credit
 
@@ -35,6 +35,7 @@ _Topics: Installfest, git, github, why p5.js, environment setup, using the refer
 * [Installfest](lessons/week1/installfest.md)
 * [Portfolio Setup](lessons/week1/portfolio.md)
 * [Exercises](lessons/week1/readme.md)
+* [Project: Robot](lessons/week1/exercises/robot.md)
 
 ### [Week 2](lessons/week2)
 
@@ -52,11 +53,11 @@ _Topics: Conditional statements, logical operators, events, mouseX, mouseY, moue
 
 ### [Week 4 After Winter Break](lessons/week4)
 
-_Topics: keyPressed events, for loops, using text and fonts, using images_
+_Topics: keyPressed events, while and for loops, using text and fonts, using images_
 
 * [Overview](lessons/week4)
-* [Code](lessons/week4/code)
-* [Homework: Creativity Exploration](lessons/week4/homework/creativity-exploration.md)
+* [Exercises](lessons/week4/code)
+* [Project: Creativity Exploration](lessons/week4/homework/creativity-exploration.md)
 
 ### Week 5
 

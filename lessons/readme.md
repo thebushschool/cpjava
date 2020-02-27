@@ -8,6 +8,7 @@ _Topics: Installfest, git, github, why p5.js, environment setup, using the refer
 * [Installfest](week1/installfest.md)
 * [Portfolio Setup](week1/portfolio.md)
 * [Exercises](week1/exercises)
+* [Project: Robot](week1/exercises/robot.md)
 
 ## [Week 2](week2)
 _Topics: Programming flow, animation loops, functions, parameters, variables, max, min_
@@ -18,12 +19,15 @@ _Topics: Programming flow, animation loops, functions, parameters, variables, ma
 ## [Week 3](week3)
 _Topics: Conditional statements, logical operators, events, mouseX, mouseY, mouesIsPressed, frameCount, random, dist, mousePressed, mouseReleased_
 
-* Details to be added
+* [Overview](week3)
+* [Exercises](week3/readme.md)
 
 ## [Week 4](week4)
 _Topics: keyPressed events, for loops, using text and fonts, using images_
 
-* Details to be added
+* [Overview](week4)
+* [Exercises](week4/code)
+* [Project: Creativity Exploration](week4/homework/creativity-exploration.md)
 
 ## [Week 5](week5)
 _Topics: Review for loops, while loops, arrays, return statements_
