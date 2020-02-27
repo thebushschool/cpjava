@@ -8,6 +8,7 @@ _Topics: Installfest, git, github, why p5.js, environment setup, using the refer
 * [Installfest](week1/installfest.md)
 * [Portfolio Setup](week1/portfolio.md)
 * [Exercises](week1/exercises)
+* [Project: Robot](week1/exercises/robot.md)
 
 ## [Week 2](week2)
 _Topics: Programming flow, animation loops, functions, parameters, variables, max, min_
