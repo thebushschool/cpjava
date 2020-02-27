@@ -16,7 +16,7 @@
 * Understand when and how to use loops
 * Practice writing and using for loops
 
-## Lessons
+## [Lessons](plan.md)
 * keyPressed events
 * Working with text
 * Using images

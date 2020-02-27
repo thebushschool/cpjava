@@ -53,10 +53,10 @@ _Topics: Conditional statements, logical operators, events, mouseX, mouseY, moue
 
 ### [Week 4 After Winter Break](lessons/week4)
 
-_Topics: keyPressed events, for loops, using text and fonts, using images_
+_Topics: keyPressed events, while and for loops, using text and fonts, using images_
 
 * [Overview](lessons/week4)
-* [Code](lessons/week4/code)
+* [Exercises](lessons/week4/code)
 * [Project: Creativity Exploration](lessons/week4/homework/creativity-exploration.md)
 
 ### Week 5

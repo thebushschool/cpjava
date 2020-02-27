@@ -16,6 +16,7 @@ In-class Exercises (see Slack "General" channel for code extracts)
 Submit these as separate projects into Github. You might also consider combining ALL of the visusal elements below into a single submission to Github! 
 * [Key Typed Red Green Blue for Character key response](keyTypedRedGreenBlue)
 * [Key Pressed Moving Ball for Arrow key response](keyIsPressedMovingBall)
+* [Modified Moving Ball for showing while loop](modifiedMovingBall)
 * [Font Example](fontExample)
 * [Image Example](imageExample)
 * [Ellipse Grid](ellipseGrid)
