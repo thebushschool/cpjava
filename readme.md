@@ -35,6 +35,7 @@ _Topics: Installfest, git, github, why p5.js, environment setup, using the refer
 * [Installfest](lessons/week1/installfest.md)
 * [Portfolio Setup](lessons/week1/portfolio.md)
 * [Exercises](lessons/week1/readme.md)
+* [Project: Robot](lessons/week1/exercises/robot.md)
 
 ### [Week 2](lessons/week2)
 
@@ -56,7 +57,7 @@ _Topics: keyPressed events, for loops, using text and fonts, using images_
 
 * [Overview](lessons/week4)
 * [Code](lessons/week4/code)
-* [Homework: Creativity Exploration](lessons/week4/homework/creativity-exploration.md)
+* [Project: Creativity Exploration](lessons/week4/homework/creativity-exploration.md)
 
 ### Week 5
 
