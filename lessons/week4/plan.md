@@ -17,6 +17,7 @@
   * To demonstrate the "for" loop we will use the [Ellipse Grid](../week4/code/ellipseGrid) example.
   * To demonstrate the "for" loop we will use the [Ellipse Grid 2](../week4/code/ellipseGrid2) example.  
   * To demonstrate the "while" loop we will use the [Gradients](../week4/code/gradients) example. 
+  * To demonstrate the "while" loop we will use the [Gradients](../week4/code/gradients2) example.   
 
 ### ADVANCED Pathway Students
 1. Answer my WHAT IS WRONG WITH THIS CODE? Question on Slack.
