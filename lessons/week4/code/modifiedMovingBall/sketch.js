@@ -1,5 +1,7 @@
 var x = 100;
 var y = 75;
+var dia = 75;
+var rad = dia/2;
 
 function setup() {
   createCanvas(500, 500);
@@ -8,18 +10,24 @@ function setup() {
 
 function draw() {
   background(255);
-  fill(0, 255, 0);
-  ellipse(x, y, 150, 150);
+  var d = dist(mouseX, mouseY, x, y);
+  if (d < rad) {
+    fill(255, 0, 0);
+  } else {
+    fill(0, 255, 0);
+  }
+  
+  ellipse(x, y, dia, dia);
   
   if (keyIsPressed) {
     if (keyCode == UP_ARROW) {
-      y = max(75, y - 10);
+      y = max(rad, y - 10);
     } else if (keyCode == DOWN_ARROW) {
-      y = min(y + 10, 425);
+      y = min(y + 10, width-rad);
     } else if (keyCode == RIGHT_ARROW) {
-      x = min(x + 10, 425);
+      x = min(x + 10, width-rad);
     } else if (keyCode == LEFT_ARROW) {
-      x = max(75, x - 10);
+      x = max(rad, x - 10);
     }
   }
 }

@@ -11,11 +11,14 @@
   * There was a code error that made the image not appear in the sketch. It turns out that Safari browser does NOT give proper/complete error messages!
   * Moral of story - Use Chrome for all your P5JS sketch editing!
 * We will cover "for" loops and "while" loops today. In general the loops can be used interchageably.  It is more appropriate to use "for" loops when you know the bounds (no. of iterations) of your loop.  If you do not know the bounds ahead of time, it is better to use "while" loops.
-  * To demonstrate the "while" loop, we will code the [modified moving ball](../week4/modifiedMovingBall) example. Whenever the moving ball goes over the mouse pointer in the canvas, it should change it's color from Green to Red. When it is not hiding the mouse pointer, it should turn back to Green.
+
   * To demonstrate the "for" loop we will use the [Ellipse Grid](../week4/ellipseGrid) example.
+   * To demonstrate the "while" loop we will use the [Gradients](../week4/gradients) example. 
 
 ## ADVANCED Pathway Students
-* You may work independently for the rest of the class. No code will be provided for the looping examples.  Please use the P5JS reference. 
+* Code a [modified version of the moving ball](../week4/modifiedMovingBall) example. Whenever the moving ball goes over the mouse pointer in the canvas, it should change it's color from Green to Red. When the ball is not hiding the mouse pointer, it should turn back to Green. You may need the dist() function to implement this efficiently. See example 5-14 in the [P5JS book]((https://drive.google.com/drive/u/2/folders/15GK0VESxqTvYGst9EtvILshb0MGlO4c5))
+* You may now work independently for the rest of the class. Please use the P5JS reference for the looping syntax.
+*  However, if you are having trouble with the coding, let me know, I will give you some hints and started code.
 
 ## STANDARD Pathway Students
 * Let is code the Week 4 Looping examples together.  Look in your personal Slack for code extracts ...
