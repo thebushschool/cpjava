@@ -1,14 +1,15 @@
 function setup() {
-  createCanvas(500, 500);
-  background(200);
+  createCanvas(400, 400);
+  background(255);
+  stroke(0);
+  noFill();
   
-  for (i = 0; i < 10; i++) {
-    for (j = 0; j < 10; j++) {
-      ellipse(i * 50 + 25, j * 50 + 25, 50, 50);
-    }
+  var i = 0;
+  while (i <= 10) {
+    ellipse(width/2,height/2,i*10, i*20);
+    i++;
   }
 }
-
 function draw() {
-
+  // nothing needs to go here
 }
