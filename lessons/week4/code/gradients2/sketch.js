@@ -1,15 +1,17 @@
 function setup() {
-  createCanvas(500, 500);
+  createCanvas(600, 600);
+
+  var w = width;
+  while (w > 0) {
+    stroke(0);
+    grad = map(w, 0, width, 0, 255)
+    print(grad);
+    fill(grad);
+    ellipse(width / 2, height / 2, w, w);
+    w = w - 20;
+  }
 }
 
 function draw() {
-  for (i = 0; i < 500; i++) {
-    stroke(i * 0.5, i * 0.5, 150);
-    line(0, i, 500, i);
-  }
-  
-  // for (i = 0; i < 500; i++) {
-  //   stroke(i * 0.5);
-  //   line(i, 0, i, 500);
-  // }
+
 }
