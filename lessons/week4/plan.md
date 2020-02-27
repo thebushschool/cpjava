@@ -3,9 +3,9 @@
 
 ## ALL Students
 * Review Expectations for Week 4
-  1. Ensure completion and proper submission of [Week 1](../week1), [Week 2](../week2), [Week 3](../week3) Exercises into GitHub.  The code should work, meet the specifications, and be properly formatted.  Make sure they are complete by end of day on <u>_Friday, Feb 28th_</u>. These will be graded this weekend.
-  1. Complete the [Week 4](../week4) In-class Exercises and Submit to Github before class on <u>_Monday, March 2nd_</u>..
-  1. Complete the [Creativity Exploration Project](../week4/homework/creativity-exploration.md) and submit to Github before class on <u>_Monday, March 2nd_</u>.
+  1. Ensure completion and proper submission of [Week 1](../week1), [Week 2](../week2), [Week 3](../week3) Exercises into GitHub.  The code should work, meet the specifications, and be properly formatted.  Make sure they are complete by end of day on <u>Friday, Feb 28th</u>. These will be graded this weekend.
+  1. Complete the [Week 4](../week4) In-class Exercises and Submit to Github before class on <u>Monday, March 2nd</u>..
+  1. Complete the [Creativity Exploration Project](../week4/homework/creativity-exploration.md) and submit to Github before class on <u>Monday, March 2nd</u>.
 
 * Clarification about Fonts in-class exercise from Wednesday
   * There was a code error that made the image not appear in the sketch. It turns out that Safari browser does NOT give proper/complete error messages!
