@@ -19,7 +19,7 @@ Software influences all aspects of contemporary visual culture. Students will ex
 * Online textbook: [Getting Started with P5JS](https://drive.google.com/drive/u/2/folders/15GK0VESxqTvYGst9EtvILshb0MGlO4c5)
 * Other Course materials: [Google Drive IDMD](https://drive.google.com/drive/folders/1iRMwhQ_s2qayCJFFZz6Z3hnwFvgMTEI4?usp=sharing)
 * Assignment Submissions via [Your Github Site](https://github.com/)
-* Slack Instant Messaging - [IDMD 2020](https://idmd2020.slack.com/)
+* Slack Instant Messaging - [IDMD 2020 Slack](https://idmd2020.slack.com/)
 
 ## Course Credit
 
