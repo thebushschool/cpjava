@@ -15,9 +15,9 @@
 * We will cover "for" loops and "while" loops today. In general the loops can be used interchageably.  It is more appropriate to use "for" loops when you know the bounds (no. of iterations) of your loop.  If you do not know the bounds ahead of time, it is better to use "while" loops.
 
   * To demonstrate the "for" loop we will use the [Ellipse Grid](../week4/code/ellipseGrid) example.
-  * To demonstrate the "for" loop we will use the [Ellipse Grid 2](../week4/code/ellipseGrid2) example.  
+  * Another example of the "for" loop[Ellipse Grid 2](../week4/code/ellipseGrid2) example.  
   * To demonstrate the "while" loop we will use the [Gradients](../week4/code/gradients) example. 
-  * To demonstrate the "while" loop we will use the [Gradients](../week4/code/gradients2) example.   
+  * Another example of the "while" loop[Gradients 2](../week4/code/gradients2) example.   
 
 ### ADVANCED Pathway Students
 1. Answer my WHAT IS WRONG WITH THIS CODE? Question on Slack.
