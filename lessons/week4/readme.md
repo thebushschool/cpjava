@@ -2,9 +2,10 @@
 
 # Week 4
 
-## Prep Work
+## Reminders and Prep Work
 * Discuss issues with Weekly submissions
   * All completed [Week 1 Exercises](../week1/readme.md), [Week 2 Exercises](../week2/readme.md) due by this Thursday Feb 27th
+* Week4 [In-Class Exercises](code/readme.md) detailed below should be completed are due Monday March 2nd
 * Week4 [Creativity Exploration Project](homework/creativity-exploration.md) is due Monday March 2nd
 * Review and be prepared to talk with others about your assignments 
 
@@ -19,12 +20,13 @@
 * keyPressed events
 * Working with text
 * Using images
-* for loops
+* Working with while and for loops
 
 ## In-Class Exercises - Submit into GitHub
 * Key Pressed Examples
 * Font Example
 * Image Example
+* Looping Exaamples
 
 ## Debrief
 * What new things did you learn this week?
@@ -36,7 +38,6 @@
 * Study/Code from [Getting Started with P5JS Book](https://drive.google.com/drive/u/2/folders/15GK0VESxqTvYGst9EtvILshb0MGlO4c5) Chapters 4-4 to 4-13 and 5-1 to 5-13
 * Practice [Code Examples](code)
 
-
-## Homework
+## Homework Submissions to Github
 * [In Class Exercises](code/readme.md) Due Monday, March 2nd
 * [Creativity Exploration Project](homework/creativity-exploration.md) Due Monday, March 2nd
