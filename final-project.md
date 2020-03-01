@@ -30,7 +30,7 @@
 	* You can record a video, or use screen recording software (I recommend [screencast-o-matic](https://screencast-o-matic.com/))
 	* Note: You will be evaluated on your ability to tell the story of a user using your project, not on the execution of your video
 
-#### Code
+#### Code Grading Criteria
 
 | Criteria | Points |
 | :--- | :--- |
@@ -44,4 +44,4 @@
 | Used loops and arrays as appropriate | 3 pts |
 | Code is fully commented as described in the _Project_Code Submission_ section | 3 pts |
 | Code uses correct style throughout as discussed in class | 3 pts |
-| Group created a video showcase for the Final the project | 3 pts |
+| Code meets documented specifications for the project or exercise| 3 pts |

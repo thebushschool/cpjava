@@ -10,12 +10,12 @@ Software influences all aspects of contemporary visual culture. Students will ex
 
 * [Syllabus](syllabus.md)
 * [Topic List](topic-list.md)
-* [Student Work](student-work.md)
-* [Project Requirements](final-project.md)
+* [Student Portfolios](student-work.md)
+* [Exercise/Project Requirements](final-project.md)
 
 ## Course Links
 
-* Course Website: [IDMD Website](https://chandrunarayan.github.io/idmd/)
+* Course Website: [IDMD 2020 Website](https://chandrunarayan.github.io/idmd/)
 * Online textbook: [Getting Started with P5JS](https://drive.google.com/drive/u/2/folders/15GK0VESxqTvYGst9EtvILshb0MGlO4c5)
 * Other Course materials: [Google Drive IDMD](https://drive.google.com/drive/folders/1iRMwhQ_s2qayCJFFZz6Z3hnwFvgMTEI4?usp=sharing)
 * Assignment Submissions via [Your Github Site](https://github.com/)
