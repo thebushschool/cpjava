@@ -20,7 +20,9 @@ Submit these as separate projects into Github. You might also consider combining
 * [Font Example](fontExample)
 * [Image Example](imageExample)
 * [Ellipse Grid](ellipseGrid)
+* [Ellipse Grid 2](ellipseGrid2)
 * [Gradients](gradients)
+* [Gradients 2](gradients2)
 
 Creativity Exploration Project (see Slack "Visual Programming" channel for code extracts).
 
