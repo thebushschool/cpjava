@@ -20,7 +20,8 @@
 * Opportunity to redo a past assignment
 * [Programming is hard, but you're doing great!](programming-is-hard-youre-doing-great.md)
 
-## Schedule for March
+* Schedule for March
+
 	| Date | Description |
 	| :--- | :--- |
 	| 03/02 | Data vis project, catch-up |
