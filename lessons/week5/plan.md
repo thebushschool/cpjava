@@ -231,11 +231,3 @@ function getDaysInMonth(month) {
   }
 }
 ```
-
-### Break (8pm—5 minutes)
-
-### Finish Birthday Visualization (35 minutes)
-
-### Introduce/Start Homework (10 minutes)
-
-### Debrief (10 minutes)
