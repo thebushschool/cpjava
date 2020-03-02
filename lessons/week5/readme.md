@@ -24,7 +24,7 @@
 
 	| Date | Description |
 	| :--- | :--- |
-	| 03/02 | Data vis project, catch-up |
+	| 03/02 | Iteration review, Arrays, Data vis project, catch-up |
 	| 03/04 | HISTORY DAY - NO CLASSES |
 	| 03/05 | Exercises, Data vis project |
 	| 03/09 | HTML/CSS, Screencast |
@@ -44,7 +44,7 @@
 * arrays
 * returning a value form a function
 
-## Exercises
+## Exercises (Submit to Github for grading)
 * Mouse Lines
 * Dot Grid
 * Concentric Circles
@@ -59,5 +59,5 @@
 ## Resources
 * [Code Examples](code)
 
-## Project
+## Project (Submit to Github for grading)
 * [Data Visualization](homework/data-visualization.md) Due Thursday, 03/12, before class

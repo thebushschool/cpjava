@@ -12,7 +12,7 @@ The purpose of this exercise is to give you a chance to create a data visualizat
 ### Specification
 In this assignment you should create a unique data visualization using a small set of data (of any kind). Your program must dynamically create the visualization from the data set (this means I should be able to change your data, and the visualization will change too). Your visualization should be graphically interesting, and should include some sort of user interaction or changes based on actions the user takes.
 
-Your program should use loops(for or while, or both), arrays, functions and parameters. The birthday visualization we created is a good example of what is expected.
+Your program should use loops(for or while, or both), arrays, functions and parameters. The birthday visualization we created is a good example of what is expected. Sample code is provided for the STANDARD team to understand the basics of parameter passing and return values from functions.
 
 This is a much more challenging assignment then past assignments and as such you will have two weeks to complete it. You should complete your program in stages, and reach out to me if you get stuck or need any help along the way.
 
