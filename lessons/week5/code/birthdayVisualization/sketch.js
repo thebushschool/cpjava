@@ -175,11 +175,11 @@ function getNumDays(monthIndex) {
 // takes in a month, zero based
 // and returns the days in that month
 // 0 is January, 11 is December
-function getDaysInMonth(currentMonth) {
-  // if the currentMonth is 3, 5, 8, or 10 send back 30, representing 30 days
-  if (currentMonth == 3 || currentMonth == 5 || currentMonth == 8 || currentMonth == 10) {
+function getDaysInMonth(month) {
+  // if the month is 3, 5, 8, or 10 send back 30, representing 30 days
+  if (month == 3 || month == 5 || month == 8 || month == 10) {
     return 30;
-  } else if (currentMonth == 1) { // otherwise if its 1 (feb), send back 29
+  } else if (month == 1) { // otherwise if its 1 (feb), send back 29
     return 29;
   } else {
     return 31; // otherwise, in all other cases send back 31
