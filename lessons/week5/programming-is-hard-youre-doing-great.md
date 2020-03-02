@@ -22,8 +22,8 @@
 ### References
 _Thanks to [Crystal Hess](https://www.linkedin.com/in/crystaljhess/) for gathering most of this content_
 
-[two-stages]: https://github.com/susanev/uw-hcde-creative-computing/blob/master/lessons/week5/imgs/two_stages.png "Two Stages of Every Programmer"
+[two-stages]: https://chandrunarayan.github.io/idmd/lessons/week5/imgs/two_stages.png "Two Stages of Every Programmer"
 
-[your-plan]: https://github.com/susanev/uw-hcde-creative-computing/blob/master/lessons/week5/imgs/your_plan.jpg "Your Plan vs Reality"
+[your-plan]: https://chandrunarayan.github.io/idmd/lessons/week5/imgs/your_plan.jpg "Your Plan vs Reality"
 
-[i-can]: https://github.com/susanev/uw-hcde-creative-computing/blob/master/lessons/week5/imgs/i_can_do_this.png "I may not be ready, but I can do this"
+[i-can]: https://chandrunarayan.github.io/idmd/lessons/week5/imgs/i_can_do_this.png "I may not be ready, but I can do this"
