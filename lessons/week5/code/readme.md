@@ -7,5 +7,5 @@ Review
 * [Mouse Lines](mouseLines)
 * [Print Nums](printNums)
 * [Birthday Visualization](birthdayVisualization)
-    * [Look in Slack for starter code](https://idmd2020.slack.com/)
+    * [Look in Slack for starter code for STANDARD TEAM ONLY](https://idmd2020.slack.com/)
 
