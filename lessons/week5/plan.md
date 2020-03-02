@@ -13,7 +13,7 @@
 * [Programming is hard, but you're doing great!](programming-is-hard-youre-doing-great.md)
 * Did you select your coding partner?
 
-## Lessons
+## [Lessons](plan.md)
 * Review for loops
 	* Vocabulary, order, forward and backward
 	* Mouse Lines
