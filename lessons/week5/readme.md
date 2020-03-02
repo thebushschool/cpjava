@@ -3,7 +3,7 @@
 # Week 5
 
 ## Reminders and Prep Work
-* Week 1-4 Exercises/Projects were due last Friday (assigned a grade - see Slack for your individual grade so far)
+* Week 1-4 Exercises/Projects were due last Friday (assigned a grade - see Slack for your individual grade so far without the Creativity Exploration Project)
 * Creativity Exploration Project is due now (will grade this week)
 * Review the comments you received on your Week 1-4 Exercises/Projects) and update your code for make-up credit
 
