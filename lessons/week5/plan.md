@@ -1,34 +1,23 @@
 [_Bush School IDMD Spring Semester 2020_](https://chandrunarayan.github.io/idmd/)
 
-# Plan
+# Lesson Plan
 ## Week 5
 
-### Midterm Evaluation (20 minutes)
-
-### Introduction (5 minutes)
-* Introduce Andy
-* Update on Quizzes
-* Opportunity to redo an assignment
+### Introduction 
+* Update on Exercises, Projects and Grading
+* How do we catch-up?
 * Schedule for the rest of the quarter
 * You will have 2 weeks for the visualization assignment, we will do a similar project together today
 
-### Warmup (15 minutes)
+### Warmup 
 * [Programming is hard, but you're doing great!](programming-is-hard-youre-doing-great.md)
-* Meet your partner
-* Share a few class examples
-	* Sang's [Chicago](https://skatkddn.github.io/portfolio/Homework4/Chicago/)
-	* Anna's [Basketball](https://annarosecasey.github.io/hcde-portfolio/Basketball/)
-	* Lulu's [Turtle](https://lusquared.github.io/HCDE-598-Portfolio/Turtles_Hatching/)
-	* Julie's [Albuquerque](https://jstu2.github.io/JS_HCDE_portfolio/Albuquerque/)
-	* Josh L.'s [Platformer](https://joleibs.github.io/hcde-portfolio/Platformer_Game/)
+* Did you select your coding partner?
 
-## Lessons (20 minutes)
-* Review learning objectives
+## Lessons
 * Review for loops
 	* Vocabulary, order, forward and backward
 	* Mouse Lines
-
-		```java
+  ```java
 		function setup() {
 			createCanvas(400, 400);
 			strokeWeight(4);
@@ -72,9 +61,6 @@
 		}
 		```
 
-### Break (7pm—10 minutes)
-
-### Continue Lesson (15 minutes)
 * Introduce while loops
 	* Syntax
 	* When to use one over the other
@@ -89,7 +75,7 @@
 	* Accessing elements
 	* Modifying a value
 
-### Birthday Visualization (35 minutes)
+### Birthday Visualization 
 * Show working version
 * Talk about current version
 	* Talk about returning a value
@@ -97,7 +83,8 @@
 
 ```java
 /*  Created by susan evans
-    Last edited 02/12/2017
+    Modified by Chandru Narayan
+    Last edited 03/01/2020
     This program displays a visualizations of the most popular
     birthdays of the year.
 */

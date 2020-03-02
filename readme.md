@@ -61,31 +61,35 @@ _Topics: keyPressed events, while and for loops, using text and fonts, using ima
 
 ### Week 5
 
-_Topics: Review for loops, while loops, arrays, return statements_
+_Topics: Review for loops, while loops, arrays, return statements, data vis_
 
-* Details to be added
+* [Overview](lessons/week5)
+* [Code](lessons/week5/code)
+* [Project: Data Visualization](lessons/week5/homework/data-visualization.md)
 
 ### Week 6
 
-_Topics: HTML/CSS_
+_Topics: data vis, HTML/CSS_
 
-* Details to be added
+* [Overview](lessons/week6)
+* [Project: Data Visualization](lessons/week5/homework/data-visualization.md)
+* [Exercises: Student Portfolio HTML/CSS](lessons/week6/homework/portfolio-html-css.md)
 
 ### Week 7
 
-_Topics: HTML/CSS_
+_Topics: final project, video/screencast_
 
 * Details to be added
 
 ### Week 8
 
-_Topics: Array review, tile game, final project_
+_Topics: catch-up exercises, final project_
 
 * Details to be added
 
 ### Week 9
 
-_Topics: Moving beyond the p5.js editor, objects, final project work time_
+_Topics: Moving beyond the p5.js editor, objects, final project presentation_
 
 * Details to be added
 

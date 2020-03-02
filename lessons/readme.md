@@ -35,21 +35,22 @@ _Topics: Review for loops, while loops, arrays, return statements_
 * Details to be added
 
 ## [Week 6](week6)
-_Topics: HTML/CSS_
+_Topics: project work, HTML/CSS_
 
 * Details to be added
 
 ## [Week 7](week7)
-_Topics: Array review, tile game, final project_
+_Topics: All exercises/projects due Monday ahead of conferences this week_
 
 * Details to be added
 
-## [Week 8](week8)
-_Topics: Moving beyond the p5.js editor, objects, final project work time_
+## [Week 8-10](week8-10)
+_Topics: Objects, in-class exercises_
 
 * Details to be added
 
-## [Week 9](week9)
-_Topics: Learning beyond this class, final project presentations_
+## [Week 11](week11)
+_Topics: SPRING BREAK - NO CLASSES_
 
-* Details to be added
+## [Week 12-13](week12-13)
+_Topics: FINAL PROJECT - in lieu of Final Exam_
