@@ -59,5 +59,5 @@
 ## Resources
 * [Code Examples](code)
 
-## Homework
+## Project
 * [Data Visualization](homework/data-visualization.md) Due Thursday, 03/12, before class
