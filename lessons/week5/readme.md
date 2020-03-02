@@ -38,7 +38,7 @@
 	| 03/26 | New Lessons, Exercises/Projects |
 	| 03/30 | New Lessons, Exercises/Projects |
 
-## Lessons
+## [Lessons](plan.md)
 * for loops
 * while loops
 * arrays
