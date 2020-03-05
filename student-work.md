@@ -15,7 +15,7 @@
 | Carter | [https://carterschafer.github.io/idmd-portfolio](https://carterschafer.github.io/idmd-portfolio) | Advanced
 | Aidan | [https://aidan-lynch.github.io/idmd-portfolio](https://aidan-lynch.github.io/idmd-portfolio) | Advanced
 
-## Student Final Projects
+## Student Final Project
 
 | People | Project | Pathway |
 | :--- | :--- | :--- |
