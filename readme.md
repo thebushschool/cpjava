@@ -64,7 +64,7 @@ _Topics: keyPressed events, while and for loops, using text and fonts, using ima
 _Topics: Review for loops, while loops, arrays, return statements, data vis_
 
 * [Overview](lessons/week5)
-* [Code](lessons/week5/code)
+* [Exercises](lessons/week5/code)
 * [Project: Data Visualization](lessons/week5/homework/data-visualization.md)
 
 ### Week 6
