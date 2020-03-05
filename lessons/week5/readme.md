@@ -44,7 +44,7 @@
 * arrays
 * returning a value form a function
 
-## Exercises (Submit to Github for grading)
+## [Exercises](https://chandrunarayan.github.io/idmd/lessons/week5/code/) (Submit to Github for grading)
 * Mouse Lines
 * Dot Grid
 * Concentric Circles
@@ -59,5 +59,5 @@
 ## Resources
 * [Code Examples](code)
 
-## Project (Submit to Github for grading)
+## [Project](https://chandrunarayan.github.io/idmd/lessons/week5/homework/data-visualization.html) (Submit to Github for grading)
 * [Data Visualization](homework/data-visualization.md) Due Thursday, 03/12, before class
