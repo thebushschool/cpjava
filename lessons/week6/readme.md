@@ -7,6 +7,6 @@ _Note: Remote schooling this week due to the coronavirus, continue to work on yo
 * [Adding HTML/CSS to your portfolio](https://youtu.be/ANqqQgAb4w0)
 
 ## Homework
-* [Project: Creativity Exploration](lessons/week4/homework/creativity-exploration.md) Due Thursday, 03/12 before class
+* [Project: Creativity Exploration](../week4/homework/creativity-exploration.md) Due Thursday, 03/12 before class
 * [Data Visualization](../week5/homework/data-visualization.md) Due Monday, 03/16 before class
 * [Portfolio HTML/CSS](homework/portfolio-html-css.md) Due Monday, 03/16 before class
