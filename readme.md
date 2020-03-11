@@ -4,7 +4,14 @@
 
 ## Remote Classroom Tools _*new_
 
-In our IDMD classroom we are already using tools and techniques that are naturally adapted to a remote learning format. We will continue using our already established tools and techniques for learning IDMD.  We will add to that, a video conferencing solution  to complete our toolset needed for remote learning! All applications (except email) are to be run using your Chrome Browser on your laptop.
+In our IDMD classroom we are already using tools and techniques that are naturally adapted to a remote learning format. We will continue using our already established tools and techniques for learning IDMD.  We will add to that, a video conferencing solution  to complete our toolset needed for remote learning! All applications (except email) are to be run using your Chrome Browser on your laptop. 
+
+#### [Seattle Rain](../code/seattle_rain)
+This program simulates the Seattle rain. This program generates droplets of a random size and one of two different (but very similar) random colors. The slow frame rate makes the action develop in kind of a hypnotic way, like Seattle rain.
+
+![alt text][washhands]
+
+[REMINDER]()
 
 1. [ZOOM for IDMD](https://zoom.us/j/5176316708) - video conferencing application - join here each day and time IDMD classes are held
 2. [IDMD WEBSITE](https://chandrunarayan.github.io/idmd/) - lessons, exercises, projects, student-portfolios, references
@@ -105,3 +112,4 @@ _Topics: Moving beyond the p5.js editor, objects, final project presentation_
 
 * Details to be added
 
+[washhands]: https://chandrunarayan.github.io/idmd/lessons/week4/homework/images/seattle_rain.png "Seattle Rain Project"
