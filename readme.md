@@ -6,19 +6,17 @@
 
 In our IDMD classroom we are already using tools and techniques that are naturally adapted to a remote learning format. We will continue using our already established tools and techniques for learning IDMD.  We will add to that, a video conferencing solution  to complete our toolset needed for remote learning! All applications (except email) are to be run using your Chrome Browser on your laptop. 
 
-#### [Seattle Rain](../code/seattle_rain)
-This program simulates the Seattle rain. This program generates droplets of a random size and one of two different (but very similar) random colors. The slow frame rate makes the action develop in kind of a hypnotic way, like Seattle rain.
-
-![alt text][washhands]
-
-[REMINDER]()
-
 1. [ZOOM for IDMD](https://zoom.us/j/5176316708) - video conferencing application - join here each day and time IDMD classes are held
 2. [IDMD WEBSITE](https://chandrunarayan.github.io/idmd/) - lessons, exercises, projects, student-portfolios, references
 3. [SLACK Instant Messaging](https://app.slack.com/client/TTS9Y46VC) - differentiated classroom, code extract, bug fixes, instant help, quick challenges
 4. [GITHUB repository](https://github.com/) - code submissions for exercises and projects, published student portfilios
 5. [Bush PORTAL](https://bush.myschoolapp.com/app/faculty#academicclass/109608285/0/bulletinboard) - links for all tools, official assignments, schedules, syllabus, grade rubric, conference appointments
 6. EMAIL - check your Bush email multiple times a day. Default communication method when all else fails! 
+
+#### A Reminder
+We are all going through some extraordinary times due to the coronavirus.  I would like to ask you to think about those among us who are suffering due to this affliction. Let us take time to be vigilant about washing hands frequently, not touching our face and avoiding being in large groups. Most of all, be calm about things beyond our control. As an exercise today, please type +1 in the [#touchingface channel on Slack](https://app.slack.com/client/TTS9Y46VC/CUWD22ZCK/user_groups/SUABCEQSV) if you see me touch my face at anytime during our class, I will report results at the end of class!
+
+![alt text][washhands]
 
 ## Course Description
 
@@ -112,4 +110,4 @@ _Topics: Moving beyond the p5.js editor, objects, final project presentation_
 
 * Details to be added
 
-[washhands]: https://chandrunarayan.github.io/idmd/lessons/week4/homework/images/seattle_rain.png "Seattle Rain Project"
+[washhands]: https://chandrunarayan.github.io/idmd/KCWH.png "Wash Hands"
