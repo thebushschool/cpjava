@@ -1,6 +1,17 @@
 [_Bush School IDMD Spring Semester 2020_](https://chandrunarayan.github.io/idmd/)
 
-# IDMD - Bush School Interactive Digital Media Design Course
+# IDMD Main Page
+
+## Remote Classroom Tools _*new_
+
+In our IDMD classroom we are already using tools and techniques that are naturally adapted to a remote learning format. We will continue using our already established tools and techniques for learning IDMD.  We will add to that, a video conferencing solution  to complete our toolset needed for remote learning! All applications (except email) are to be run using your Chrome Browser on your laptop.
+
+1. [ZOOM for IDMD](https://zoom.us/j/5176316708) - video conferencing application - join here each day and time IDMD classes are held
+2. [IDMD WEBSITE](https://chandrunarayan.github.io/idmd/) - lessons, exercises, projects, student-portfolios, references
+3. [SLACK Instant Messaging](https://app.slack.com/client/TTS9Y46VC) - differentiated classroom, code extract, bug fixes, instant help, quick challenges
+4. [GITHUB repository](https://github.com/) - code submissions for exercises and projects, published student portfilios
+5. [Bush PORTAL](https://bush.myschoolapp.com/app/faculty#academicclass/109608285/0/bulletinboard) - links for all tools, official assignments, schedules, syllabus, grade rubric, conference appointments
+6. EMAIL - check your Bush email multiple times a day. Default communication method when all else fails! 
 
 ## Course Description
 
@@ -67,11 +78,12 @@ _Topics: Review for loops, while loops, arrays, return statements, data vis_
 * [Exercises](lessons/week5/code)
 * [Project: Data Visualization](lessons/week5/homework/data-visualization.md)
 
-### Week 6
+### [Week 6 - First week of Remote Schooling!](lessons/week6)
 
-_Topics: data vis, HTML/CSS_
+_Topics: complete creativity expl, data vis, HTML/CSS_
 
 * [Overview](lessons/week6)
+* [Project: Creativity Exploration](lessons/week4/homework/creativity-exploration.md)
 * [Project: Data Visualization](lessons/week5/homework/data-visualization.md)
 * [Exercises: Student Portfolio HTML/CSS](lessons/week6/homework/portfolio-html-css.md)
 
