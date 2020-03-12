@@ -81,7 +81,7 @@ _Topics: Review for loops, while loops, arrays, return statements, data vis_
 
 * [Overview](lessons/week5)
 * [Exercises](lessons/week5/code)
-* [Project: Data Visualization](lessons/week5/homework/data-visualization.md)
+* [Project: Data Visualization](lessons/week5/homework/data-visualization.md)  (For Advanced Pathway Students Only)
 
 ### [Week 6 - First week of Remote Schooling!](lessons/week6)
 
@@ -89,8 +89,8 @@ _Topics: complete creativity expl, data vis, HTML/CSS_
 
 * [Overview](lessons/week6)
 * [Project: Creativity Exploration](lessons/week4/homework/creativity-exploration.md)
-* [Project: Data Visualization](lessons/week5/homework/data-visualization.md)
-* [Exercises: Student Portfolio HTML/CSS](lessons/week6/homework/portfolio-html-css.md)
+* [Project: Data Visualization](lessons/week5/homework/data-visualization.md) (For Advanced Pathway Students Only)
+* [Exercises: Student Portfolio HTML/CSS](lessons/week6/homework/portfolio-html-css.md) (For Advanced Pathway Students Only)
 
 ### Week 7
 
