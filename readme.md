@@ -10,8 +10,9 @@ In our IDMD classroom we are already using tools and techniques that are natural
 2. [IDMD WEBSITE](https://chandrunarayan.github.io/idmd/) - lessons, exercises, projects, student-portfolios, references
 3. [SLACK Instant Messaging](https://app.slack.com/client/TTS9Y46VC) - differentiated classroom, code extract, bug fixes, instant help, quick challenges
 4. [GITHUB repository](https://github.com/) - code submissions for exercises and projects, published student portfilios
-5. [Bush PORTAL](https://bush.myschoolapp.com/app/faculty#academicclass/109608285/0/bulletinboard) - links for all tools, official assignments, schedules, syllabus, grade rubric, conference appointments
-6. EMAIL - check your Bush email multiple times a day. Default communication method when all else fails! 
+5. [P5JS Web Editor](https://p5js.org)] - web code editor for p5js
+6. [Bush PORTAL](https://bush.myschoolapp.com/app/faculty#academicclass/109608285/0/bulletinboard) - links for all tools, official assignments, schedules, syllabus, grade rubric, conference appointments
+7. EMAIL - check your Bush email multiple times a day. Default communication method when all else fails! 
 
 #### A Reminder
 We are all going through some extraordinary times due to the coronavirus.  I would like to ask you to think about those among us who are suffering due to this affliction. Let us take time to be vigilant about washing hands frequently, not touching our face and avoiding being in large groups. Most of all, be calm about things beyond our control. As an exercise today, please type +1 in the [#touchingface channel on Slack](https://app.slack.com/client/TTS9Y46VC/CUWD22ZCK/user_groups/SUABCEQSV) if you see me touch my face at anytime during our class, I will report results at the end of class!
