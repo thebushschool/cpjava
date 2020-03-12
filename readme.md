@@ -10,7 +10,7 @@ In our IDMD classroom we are already using tools and techniques that are natural
 2. [IDMD WEBSITE](https://chandrunarayan.github.io/idmd/) - lessons, exercises, projects, student-portfolios, references
 3. [SLACK Instant Messaging](https://app.slack.com/client/TTS9Y46VC) - differentiated classroom, code extract, bug fixes, instant help, quick challenges
 4. [GITHUB repository](https://github.com/) - code submissions for exercises and projects, published student portfilios
-5. [P5JS Web Editor](https://p5js.org) - web code editor for p5js
+5. [P5JS Web Editor](https://editor.p5js.org) - web code editor for p5js
 6. [Bush PORTAL](https://bush.myschoolapp.com/app/faculty#academicclass/109608285/0/bulletinboard) - links for all tools, official assignments, schedules, syllabus, grade rubric, conference appointments
 7. EMAIL - check your Bush email multiple times a day. Default communication method when all else fails! 
 
