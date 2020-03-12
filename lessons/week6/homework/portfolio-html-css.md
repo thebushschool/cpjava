@@ -2,7 +2,7 @@
 # Week 6 Homework
 
 ## Portfolio HTML/CSS
-_This assignment is Due Monday, 03/16 before class_
+_This assignment is Due Monday, 03/16_
 
 ## Tasks (For Advanced Pathway students only)
 1. Watch the [HTML/CSS video](https://youtu.be/ANqqQgAb4w0) (Just watch 12 minutes of the video. To upload to Github we are simply using Drag & Drop folder into Github directly in order to keep Git tasks simple)
