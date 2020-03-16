@@ -3,56 +3,31 @@
 # Week 7
 
 ## Prep Work
-* Review the comments you received on your [Data Visualization](../week5/homework/data-visualization.md) assignment and update your code to address the comments if time allows
-* Review and be prepared to talk with others about your [Data Visualization](../week5/homework/data-visualization.md) assignment
+* Review the Assignments Status comments you received by email 
+* Accept the separate Zoom breakout room invitation for Advanced and Standard Pathway students
 
-## Learning Objectives
-* Review importance of git
-* Understand and be able to collaborate on github
-* Understand and be able to use branches in git
-* Review arrays
-* Explore a tile game to see an additional application of arrays
+## Learning Objectives (Standard Pathway Students)
+* Practice For Loops and While Loops
+* Practice KeyTyped and KeyPressed Events
+* Practice with Fonts and Images
+* [Online Textbook reference Chapter 4, 5 and Chapter 7](https://drive.google.com/drive/u/2/folders/15GK0VESxqTvYGst9EtvILshb0MGlO4c5)
 
-## Warm up
-* Schedule for the rest of the quarter
-	
-	| Date | Description |
-	| :--- | :--- |
-	| 02/27 | Tile game, objects, start final project |
-	| 03/06 | Physics simulations, final project work time |
-	| 03/13 | Final project presentations |
+## Learning Objectives (Advanced Pathway Students)
+* Practice Motion - Tweening, Shaking, Timers
+* [Online Textbook reference Chapter 8.6, 8.7, 8.8, 8.9, 8.10](https://drive.google.com/drive/u/2/folders/15GK0VESxqTvYGst9EtvILshb0MGlO4c5)
 
-* Assignments for the rest of the quarter
+## Comments Break Assignments
 
-	| Due Date | Description |
-	| :--- | :--- |
-	| Sunday, 03/12, 9pm | Final project (code+video) |
-	| Monday, 03/13, 6pm | Final project in-class presentation |
-	| Saturday, 03/18, 9pm | Class reflection |
+* Assignment during Comments Break
+	| Team | Due Date | Description |
+	| :--- | :--- | :---
+	| Standard | Monday, 03/23 | Commence work on Final Project incorporating techniques Chapter 4, 5, 7 |
+	| Advanced | Monday, 03/23 | Study and Practice "Functions", "Objects", "Arrays" Chapter 9, 10, 11. Commence work on Final Project incorporating techniques from 4-11 (excluding chapter 6)|
 
-* Share your [Data Visualization](../week5/homework/data-visualization.md) assignment
 
-## Lessons
-* Review arrays
-* Tile Game
+## Exercise for Advanced Pathway Students
+* [Exercise - Exploding Bubbles](code/exploding_bubbles.md)
 
-## Final Project Work-Time
-* Walk through final project expectations
-* Find partner, agree on topic, and post to Slack 
-* Create a Trello board, and start creating a to-do list
-* Create a totally new repository on github, and add your instructor and your partner as a collaborators
-* Both partners should practice pushing up to the repository before leaving for the day
-* If time allows, start the code for your project
-
-## Debrief
-* What new things did you learn today?
-* What topics are you still struggling with?
-* What did you especially enjoy about today's class?
-* What can be improved for future classes?
-
-## Resources
-* [Code Examples](code)
-
-## Homework
-* [Final Project Video and Code](../../final-project.md) Due Saturday, 03/12, at 9pm
-* [Final Project Presentation](../../final-project.md) Due Monday, 03/13, at 6pm
+## Code Examples
+* [Shaking Sticks](code/shakingsticks)
+* [Timing Bubbles](code/timingbubbles)

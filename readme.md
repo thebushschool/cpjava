@@ -93,11 +93,12 @@ _Topics: complete creativity expl, data vis, HTML/CSS_
 * [Project: Data Visualization](lessons/week5/homework/data-visualization.md) (For Advanced Pathway Students Only)
 * [Exercises: Student Portfolio HTML/CSS](lessons/week6/homework/portfolio-html-css.md) (For Advanced Pathway Students Only)
 
-### Week 7
+### [Week 7 - 3/16 - Second Week of Remote Schooling](lessons/week7)
 
-_Topics: final project, video/screencast_
+_Topics: Exercise and Project submissions ahead of comments_
 
-* Details to be added
+* Discuss Submissions Status and catch-up for Standard Pathway Students
+* Timer based trigger exercise for Advanced Pathway Students 
 
 ### Week 8
 
