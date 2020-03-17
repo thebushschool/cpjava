@@ -9,7 +9,7 @@
 | Jeffrey | [https://jpbatzz.github.io/idmd-portfolio](https://jpbatzz.github.io/idmd-portfolio) | Standard
 | Maya | [https://mayaschrum.github.io/idmd-portfolio](https://mayaschrum.github.io/idmd-portfolio) | Standard
 | Leah | [https://leahtruman.github.io/idmd-portfolio](https://leahtruman.github.io/idmd-portfolio) | Standard
-| Ghislaine | [https://ghislaineederer.github.io/idmb-portfolio](https://ghislaineederer.github.io/idmb-portfolio) | Standard
+| Ghislaine | [https://ghislaineederer.github.io/idmd-portfolio](https://ghislaineederer.github.io/idmb-portfolio) | Standard
 | Philipp | [https://philippknmergener.github.io/idmd-portfolio](https://philippknmergener.github.io/idmd-portfolio) | Advanced
 | Erik | [https://erikonsager.github.io/idmd-portfolio](https://erikonsager.github.io/idmd-portfolio) | Advanced
 | Carter | [https://carterschafer.github.io/idmd-portfolio](https://carterschafer.github.io/idmd-portfolio) | Advanced
@@ -23,7 +23,7 @@
 | Jeffrey | [https://jpbatzz.github.io/idmd-portfolio](https://jpbatzz.github.io/idmd-portfolio) | Standard
 | Maya | [https://mayaschrum.github.io/idmd-portfolio](https://mayaschrum.github.io/idmd-portfolio) | Standard
 | Leah | [https://leahtruman.github.io/idmd-portfolio](https://leahtruman.github.io/idmd-portfolio) | Standard
-| Ghislaine | [https://ghislaineederer.github.com/idmb-portfolio](https://ghislaineederer.github.io/idmb-portfolio/) | Standard
+| Ghislaine | [https://ghislaineederer.github.com/idmd-portfolio](https://ghislaineederer.github.io/idmb-portfolio/) | Standard
 | Philipp | [https://philippknmergener.github.io/idmd-portfolio](https://philippknmergener.github.io/idmd-portfolio) | Advanced
 | Erik | [https://erikonsager.github.io/idmd-portfolio](https://erikonsager.github.io/idmd-portfolio) | Advanced
 | Carter | [https://carterschafer.github.io/idmd-portfolio](https://carterschafer.github.io/idmd-portfolio) | Advanced
