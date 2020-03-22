@@ -18,11 +18,12 @@
 
 ## Comments Break Assignments
 
-* Assignment during Comments Break
-	| Team | Due Date | Description |
-	| :--- | :--- | :---
-	| Standard | Monday, 03/23 | Commence work on Final Project incorporating techniques Chapter 4, 5, 7 |
-	| Advanced | Monday, 03/23 | Study and Practice "Functions", "Objects", "Arrays" Chapter 9, 10, 11. Commence work on Final Project incorporating techniques from 4-11 (excluding chapter 6)|
+*	Assignment during Comments Break
+
+    | Team | Due Date | Description |
+    | :--- | :--- | :---
+    | Standard | Monday, 03/23 | Commence work on Final Project incorporating techniques Chapter 4, 5, 7 |
+    | Advanced | Monday, 03/23 | Study and Practice "Functions", "Objects", "Arrays" Chapter 9, 10, 11. Commence work on Final Project incorporating techniques from 4-11 (excluding chapter 6)|
 
 
 ## Exercise for Advanced Pathway Students
