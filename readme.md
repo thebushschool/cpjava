@@ -106,7 +106,8 @@ _Topics: Motion, Functions_
 
 * STD Team: Study and practice techniques for Motion Chapter 8 in Online textbook: [Getting Started with P5JS](https://drive.google.com/drive/u/2/folders/15GK0VESxqTvYGst9EtvILshb0MGlO4c5)
 * STD Team: [Complete Moving Pacman Exercise](lessons/week8/code/moving_pacman.md). Add to Github and Student Portfolio
-* ADV Team: [Complete Bubbles Exercise](lessons/week7/code/exploding_bubbles.md). Add to Github and Student Portfolio
+* ADV Team: [Submit Data Viz Project](lessons/week5/homework/data-visualization.md). Add to Github and Student Portfolio
+* ADV Team: [Submit Exploding Bubbles Exercise](lessons/week7/code/exploding_bubbles.md). Add to Github and Student Portfolio
 * ADV Team: Modularize your Robot project from Week 1 with a custom drawRobot() user defined Function. Create an Array of Robots by repeatedly calling your custome function
 
 ### Week 9 - 3/30
