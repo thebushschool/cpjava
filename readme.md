@@ -42,7 +42,7 @@ Software influences all aspects of contemporary visual culture. Students will ex
 
 This course draws from the materials used in the UW Human Center for Design Engineering Master of Science curriculum. Significant credit is also due to the many member founders of the Processing Foundation whose tireless efforts have advanced the cause for open, accessible, and free CS education across the world.
 
-## [Lessons](lessons)
+## Lessons
 
 ### [Week 1](lessons/week1)
 
@@ -108,7 +108,7 @@ _Topics: Motion, Functions_
 * STD Team: [Complete Moving Pacman Exercise](lessons/week8/code/moving_pacman.md). Add to Github and Student Portfolio
 * ADV Team: [Submit Data Viz Project](lessons/week5/homework/data-visualization.md). Add to Github and Student Portfolio
 * ADV Team: [Submit Exploding Bubbles Exercise](lessons/week7/code/exploding_bubbles.md). Add to Github and Student Portfolio
-* ADV Team: Modularize your Robot project from Week 1 with a custom drawRobot() user defined Function. Create an Array of Robots by repeatedly calling your custome function
+* ADV Team: Modularize your Robot project from Week 1 with a custom drawRobot() user defined Function. Create an Array of Robots by repeatedly calling your custom function
 
 ### Week 9 - 3/30
 
