@@ -108,7 +108,7 @@ _Topics: Motion, Functions_
 * STD Team: [Complete Moving Pacman Exercise](lessons/week8/code/moving_pacman.md). Add to Github and Student Portfolio
 * ADV Team: [Submit Data Viz Project](lessons/week5/homework/data-visualization.md). Add to Github and Student Portfolio
 * ADV Team: [Submit Exploding Bubbles Exercise](lessons/week7/code/exploding_bubbles.md). Add to Github and Student Portfolio
-* ADV Team: Modularize your Robot project from Week 1 with a custom drawRobot() user defined Function. Create an Array of Robots by repeatedly calling your custom function
+* ADV Team: [Complete Moving Robot Project](lessons/week8/code/moving_robot.md). Add to Github and Student Portfolio]
 
 ### Week 9 - 3/30
 
@@ -118,7 +118,7 @@ _Topics: Arrays, Objects_
 
 ### Week 10 - 4/6
 
-_Topics: TBD_
+_Topics: Arrays, Objects_
 
 * Details to be added
 

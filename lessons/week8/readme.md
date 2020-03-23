@@ -30,3 +30,9 @@
 ## Homework due Thursday 3/26
 * STD Team: [Moving Pacman Exercise](code/moving_pacman.md). Add to Github and Student Portfolio
 * ADV Team: [Moving Robot Project Part 1](code/moving_robot.md). Add Part 1 to Github and Student Portfolio
+
+## Homework due Thursday 4/2
+* ADV Team: [Moving Robot Project Part 2](code/moving_robot.md). Add Part 2 to Github and Student Portfolio
+
+## Homework due Thursday 4/9
+* ADV Team: [Moving Robot Project Part 3](code/moving_robot.md). Add Part 3 to Github and Student Portfolio
