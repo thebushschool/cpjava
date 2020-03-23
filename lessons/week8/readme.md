@@ -14,13 +14,16 @@
 * STD Team: Motion
 * ADV Team: Functions, Arrays
 
-### STD Team Tasks - Split into STDTEAM Zoom Meeting Room or Individual Rooms for Async time
+### STD Team Tasks
 1. Study and practice techniques for Motion Chapter 8 in Online textbook: [Getting Started with P5JS](https://drive.google.com/drive/u/2/folders/15GK0VESxqTvYGst9EtvILshb0MGlO4c5)
+1. Split into STDTEAM Zoom Meeting Room or Individual Rooms for Async time
 1. [Complete Moving Pacman Exercise](code/moving_pacman.md)
 
 
-### ADV Team Tasks - Split into Individual Zoom Meeting Rooms for Async time
-* Modularize your Robot project from Week 1 with a custom drawRobot() user defined Function. Create an Array of Robots by repeatedly calling your custom function. [Refer to Chapter 9.8 and Chapters 10-11 in your online textbook](https://drive.google.com/drive/u/2/folders/15GK0VESxqTvYGst9EtvILshb0MGlO4c5)
+### ADV Team Tasks
+1. Split into ADVTEAM Zoom Meeting Room or Individual Rooms for Async time
+1. Modularize your Robot project from Week 1 with a custom drawRobot() user defined Function. 
+1. Create an Array of Robots by repeatedly calling your custom function. [Refer to Chapter 9.8 and Chapters 10-11 in your online textbook](https://drive.google.com/drive/u/2/folders/15GK0VESxqTvYGst9EtvILshb0MGlO4c5)
 
 ## Homework
 
