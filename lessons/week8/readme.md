@@ -14,7 +14,7 @@
 * STD Team: Motion
 * ADV Team: Functions, Arrays
 
-### STD Team Tasks - Split into Individual Zoom Meeting Rooms 
+### STD Team Tasks - Split into STDTEAM Zoom Meeting Room 
 1. Study and practice techniques for Motion Chapter 8 in Online textbook: [Getting Started with P5JS](https://drive.google.com/drive/u/2/folders/15GK0VESxqTvYGst9EtvILshb0MGlO4c5)
 1. [Complete Moving Pacman Exercise](code/moving_pacman.md)
 
