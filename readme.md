@@ -97,6 +97,7 @@ _Topics: complete creativity expl, data vis, HTML/CSS_
 
 _Topics: Exercise and Project submissions ahead of comments_
 
+* [Overview](lessons/week8)
 * Discuss Submissions Status and catch-up for Standard Pathway Students
 * Timer based trigger exercise for Advanced Pathway Students 
 
