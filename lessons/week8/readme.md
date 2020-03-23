@@ -3,8 +3,8 @@
 # Week 8
 
 ## Learning Objectives
-* Understand why and when to use Objects in your code
-* Understand and be able to use Object syntax
+* Understand Motion of shapes in your canvas
+* Understand code structuring by using Functions and use of Arrays
 
 ## Announcements
 * [New Remote Schooling Daily Schedule](https://bush.myschoolapp.com/ftpimages/409/download/download_4431973.pdf)
