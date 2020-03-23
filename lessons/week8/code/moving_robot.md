@@ -3,10 +3,5 @@
 
 ## Exercise: Moving Robot
 
-1. Setup the Pacman to enter the left part of the canvas when it disappears from the right edge of the canvas. Start with the pacman code extract in [Slack #stdteamch](https://app.slack.com/client/TTS9Y46VC/GUMN732S0/details/info). Make this change and verify that it work correctly.
-![alt text][pacmanhint]
-1. Then update the pacman code to "bounce off the canvas edges rather than wrap around if the mouse is pressed. You should refer to the mouseIsPressed from P5JS reference. If the mouse is not pressed continue wrapping around. When the pacman bounces you should turn it to face the other way! Start with the pacman code extract 2 in [Slack #stdteamch](https://app.slack.com/client/TTS9Y46VC/GUMN732S0/details/info)
-
-1. After completing the 2 examples above, try 8.7 and 8.9 examples from [online P5JS textbook](https://drive.google.com/drive/u/2/folders/15GK0VESxqTvYGst9EtvILshb0MGlO4c5)
-
-[pacmanhint]: https://chandrunarayan.github.io/idmd/lessons/week8/code/wrap_around.png "pacmanhint"
+1. Modularize your Robot Project code using a drawRobot() user defined function refer to Chapter 9 “Robot 7 Functions” section in online textbook. Submit to Github.
+1. Create an Array of Robots and move them individually - Tween (Chapter 8-6), Shaking (Chapter 8-8), Random (Chapter 8-9), Circular Sin Wave (Chapter 8-12), Spiral (Chapter 8-15)
