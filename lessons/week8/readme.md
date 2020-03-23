@@ -49,5 +49,7 @@
 * ADV Team: [Moving Robot Project Part 3](code/moving_robot.md). Add Part 3 to Github and Student Portfolio
 
 ## Code Examples
-* [Moving Pacman](code/movingPacman)
+* [Scalar Squares](code/scalarSquares)
+* [Scalar Differentiated Squares](code/scalarSquaresPP)
 * [Articulated Hand](code/articulateHand)
+* [Moving Pacman](code/movingPacman)
