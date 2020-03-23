@@ -104,11 +104,11 @@ _Topics: Exercise and Project submissions ahead of comments_
 
 _Topics: Motion, Functions_
 
-* STD Team: Study and practice techniques for Motion Chapter 8 in Online textbook: [Getting Started with P5JS](https://drive.google.com/drive/u/2/folders/15GK0VESxqTvYGst9EtvILshb0MGlO4c5)
-* STD Team: [Complete Moving Pacman Exercise](lessons/week8/code/moving_pacman.md). Add to Github and Student Portfolio
-* ADV Team: [Submit Data Viz Project](lessons/week5/homework/data-visualization.md). Add to Github and Student Portfolio
-* ADV Team: [Submit Exploding Bubbles Exercise](lessons/week7/code/exploding_bubbles.md). Add to Github and Student Portfolio
-* ADV Team: [Complete Moving Robot Project](lessons/week8/code/moving_robot.md). Add to Github and Student Portfolio]
+* [Overview](lessons/week8)
+* STD Team: [Exercise: Moving Pacman](lessons/week8/code/moving_pacman.md) *NEW*
+* ADV Team: [Project: Submit Data Viz](lessons/week5/homework/data-visualization.md) *DUE*
+* ADV Team: [Exercise: Exploding Bubbles](lessons/week7/code/exploding_bubbles.md) *DUE*
+* ADV Team: [Project: Moving Robot](lessons/week8/code/moving_robot.md) *NEW*
 
 ### Week 9 - 3/30
 
