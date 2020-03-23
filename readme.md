@@ -15,6 +15,7 @@ In our IDMD classroom we are already using tools and techniques that are natural
 7. [Online textbook](https://drive.google.com/drive/u/2/folders/15GK0VESxqTvYGst9EtvILshb0MGlO4c5) - Getting Started with P5JS 
 8. [Bush PORTAL](https://bush.myschoolapp.com/app/faculty#academicclass/109608285/0/bulletinboard) - links for all tools, official assignments, schedules, syllabus, grade rubric, conference appointments
 9. EMAIL - check your Bush email multiple times a day. Default communication method when all else fails! 
+## [Remote Schooling Daily Schedule Click Here](https://bush.myschoolapp.com/ftpimages/409/download/download_4431973.pdf)
 
 #### A Reminder
 We are all going through some extraordinary times due to the coronavirus.  I would like to ask you to think about those among us who are suffering due to this affliction. Let us take time to be vigilant about washing hands frequently, not touching our face and avoiding being in large groups. Most of all, be calm about things beyond our control.
