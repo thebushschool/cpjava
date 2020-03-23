@@ -2,7 +2,7 @@
 
 # IDMD Main Page
 
-## Remote Classroom Tools _*new_
+## Remote Classroom Tools
 
 In our IDMD classroom we are already using tools and techniques that are naturally adapted to a remote learning format. We will continue using our already established tools and techniques for learning IDMD.  We will add to that, a video conferencing solution  to complete our toolset needed for remote learning! All applications (except email) are to be run using your Chrome Browser on your laptop. 
 
@@ -11,13 +11,13 @@ In our IDMD classroom we are already using tools and techniques that are natural
 3. [SLACK Instant Messaging](https://app.slack.com/client/TTS9Y46VC) - differentiated classroom, code extract, bug fixes, instant help, quick challenges
 4. [GITHUB repository](https://github.com/) - code submissions for exercises and projects, published student portfilios
 5. [P5JS Web Editor](https://editor.p5js.org) - web code editor for p5js
-6. [Bush PORTAL](https://bush.myschoolapp.com/app/faculty#academicclass/109608285/0/bulletinboard) - links for all tools, official assignments, schedules, syllabus, grade rubric, conference appointments
-7. EMAIL - check your Bush email multiple times a day. Default communication method when all else fails! 
+6. [Student Portfolios](student-work.md) - Links to Student Porfolios
+7. [Online textbook](https://drive.google.com/drive/u/2/folders/15GK0VESxqTvYGst9EtvILshb0MGlO4c5) - Getting Started with P5JS 
+8. [Bush PORTAL](https://bush.myschoolapp.com/app/faculty#academicclass/109608285/0/bulletinboard) - links for all tools, official assignments, schedules, syllabus, grade rubric, conference appointments
+9. EMAIL - check your Bush email multiple times a day. Default communication method when all else fails! 
 
 #### A Reminder
-We are all going through some extraordinary times due to the coronavirus.  I would like to ask you to think about those among us who are suffering due to this affliction. Let us take time to be vigilant about washing hands frequently, not touching our face and avoiding being in large groups. Most of all, be calm about things beyond our control. As an exercise today, please type +1 in the [#touchingface channel on Slack](https://app.slack.com/client/TTS9Y46VC/CUWD22ZCK/user_groups/SUABCEQSV) if you see me touch my face at anytime during our class, I will report results at the end of class!
-
-![alt text][washhands]
+We are all going through some extraordinary times due to the coronavirus.  I would like to ask you to think about those among us who are suffering due to this affliction. Let us take time to be vigilant about washing hands frequently, not touching our face and avoiding being in large groups. Most of all, be calm about things beyond our control.
 
 ## Course Description
 
@@ -93,14 +93,14 @@ _Topics: complete creativity expl, data vis, HTML/CSS_
 * [Project: Data Visualization](lessons/week5/homework/data-visualization.md) (For Advanced Pathway Students Only)
 * [Exercises: Student Portfolio HTML/CSS](lessons/week6/homework/portfolio-html-css.md) (For Advanced Pathway Students Only)
 
-### [Week 7 - 3/16 - Second Week of Remote Schooling](lessons/week7)
+### [Week 7 - 3/16](lessons/week7)
 
 _Topics: Exercise and Project submissions ahead of comments_
 
 * Discuss Submissions Status and catch-up for Standard Pathway Students
 * Timer based trigger exercise for Advanced Pathway Students 
 
-### [Week 8 - 3/23 - Third Week of Remote Schooling](lessons/week8)
+### [Week 8 - 3/23](lessons/week8)
 
 _Topics: Motion, Functions_
 
