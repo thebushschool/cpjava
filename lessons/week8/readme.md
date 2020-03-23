@@ -11,24 +11,30 @@
 * Extension of School Calendar to cover Cascade Weeks
 
 ## Week 8 Lessons
-* STD Team: Motion
-* ADV Team: Functions, Arrays
+* ALL Teams: Motion
+* ADV Team:  Functions, Arrays
+* Split into STDTEAM/ADVTEAM Zoom Meeting Rooms or Individual Rooms for Async time 
+
+### ALL Team Tasks
+1. Review HW due after Comments Break 
+1. Review Upcoming Topics on Motion
+   *  Translate, Rotate, Push, Pop, Scale (Chapter 6)
+   *  Wrap, Bounce, Tween, Shake, Circle, Wave, Spiral (Chapter 8)
 
 ### STD Team Tasks
+
 1. Study and practice techniques for Motion Chapter 8 in Online textbook: [Getting Started with P5JS](https://drive.google.com/drive/u/2/folders/15GK0VESxqTvYGst9EtvILshb0MGlO4c5)
-1. Split into STDTEAM Zoom Meeting Room or Individual Rooms for Async time
 1. [Complete Moving Pacman Exercise](code/moving_pacman.md)
 
-
 ### ADV Team Tasks
-1. Split into ADVTEAM Zoom Meeting Room or Individual Rooms for Async time
-1. Modularize your Robot project from Week 1 with a custom drawRobot() user defined Function. 
-1. Create an Array of Robots by repeatedly calling your custom function. [Refer to Chapter 9.8 and Chapters 10-11 in your online textbook](https://drive.google.com/drive/u/2/folders/15GK0VESxqTvYGst9EtvILshb0MGlO4c5)
+1. Modularize your Robot project from Week 1 with a custom drawRobot() user defined Function.
+1. Animate your Robot using techniques from Chapters 6 and 8
+1. Create an Array of Robots by repeatedly calling your custom function. Refer to Chapter 9.8 and Chapters 10-11 in your Online textbook: [Getting Started with P5JS](https://drive.google.com/drive/u/2/folders/15GK0VESxqTvYGst9EtvILshb0MGlO4c5)
 
 ## Homework
 
 ### Due (Today) Monday 3/23
-* STD Team: [Submit Creative Exploration Project](../week4/homework/creativity-exploration.md). Add to Github and Student Portfolio
+* STD and ADV Teams: [Submit Creative Exploration Project](../week4/homework/creativity-exploration.md). Add to Github and Student Portfolio
 * ADV Team: [Submit Data Viz Project](../week5/homework/data-visualization.md). Add to Github and Student Portfolio
 * ADV Team: [Submit Bubbles Exercise](../week7/code/exploding_bubbles.md). Add to Github and Student Portfolio
 
