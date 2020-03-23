@@ -100,16 +100,45 @@ _Topics: Exercise and Project submissions ahead of comments_
 * Discuss Submissions Status and catch-up for Standard Pathway Students
 * Timer based trigger exercise for Advanced Pathway Students 
 
-### Week 8
+### [Week 8 - 3/23 - Third Week of Remote Schooling](lessons/week8)
 
-_Topics: catch-up exercises, final project_
+_Topics: Motion, Functions_
+
+* STD Team: Study and practice techniques for Motion Chapter 8 in Online textbook: [Getting Started with P5JS](https://drive.google.com/drive/u/2/folders/15GK0VESxqTvYGst9EtvILshb0MGlO4c5)
+* STD Team: [Complete Moving Pacman Exercise](lessons/week8/code/moving_pacman.md). Add to Github and Student Portfolio
+* ADV Team: [Complete Bubbles Exercise](lessons/week7/code/exploding_bubbles.md). Add to Github and Student Portfolio
+* ADV Team: Modularize your Robot project from Week 1 with a custom drawRobot() user defined Function. Create an Array of Robots by repeatedly calling your custome function
+
+### Week 9 - 3/30
+
+_Topics: Arrays, Objects_
 
 * Details to be added
 
-### Week 9
+### Week 10 - 4/6
 
-_Topics: Moving beyond the p5.js editor, objects, final project presentation_
+_Topics: TBD_
 
 * Details to be added
 
+### Week 11 - 4/13 NO CLASSES - SPRING BREAK -
+
+_No Classes_
+
+
+### Week 12 - 4/20
+
+_Topics: TBD_
+
+### Week 12 - 4/27
+
+_Topics: TBD_
+
+* Details to be added
+
+### Week 12 - 5/4
+
+_Topics: FINAL PROJECT WEEK_
+
+* Details to be added
 [washhands]: https://chandrunarayan.github.io/idmd/KCWH.png "Wash Hands"

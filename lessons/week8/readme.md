@@ -7,36 +7,27 @@
 * Understand and be able to use Object syntax
 
 ## Announcements
-* Review final project expectations
-* You will be presenting from your own machines, so please bring anything necessary to make that happen
-* Redoing a past assignment
-	* All past regular programming assignments will open up at 9am on Tuesday, March 14th and close Friday, March 17th at 9pm
-	* You may re-submit *only one assignment*
-* Class survey
-	* You will receive it tomorrow, and it will close Sunday 03/12
-	* Please complete it as soon as you can, it will help inform my future teaching and how the department structures the course in the future
-* Class next week will be in the HCDE Design Lab
-	* Dinner will be provided, please bring your own non-alcoholic drinks
+* [New Remote Schooling Daily Schedule](https://bush.myschoolapp.com/ftpimages/409/download/download_4431973.pdf)
+* Extension of School Calendar to cover Cascade Weeks
 
-### Final assignments
+## Week 8 Lessons
+* STD Team: Motion
+* ADV Team: Functions, Arrays
 
-| Assignment | Due Date |
-| :--- | :--- |
-| Final Project Code | Sunday, 03/12 9pm |
-| Final Project Presentation | Monday, 03/13 6pm |
-| Add Final Project to Personal Portfolio | Tuesday, 03/14 9pm |
-| Class Reflection | Saturday, 03/18 9pm |
+### STD Team Tasks
+1. Study and practice techniques for Motion Chapter 8 in Online textbook: [Getting Started with P5JS](https://drive.google.com/drive/u/2/folders/15GK0VESxqTvYGst9EtvILshb0MGlO4c5)
+1. [Complete Moving Pacman Exercise](code/moving_pacman.md). Add to Github and Student Portfolio
 
-## Lessons
-* Moving beyond the p5.js editor
-* Introduction to Objects
 
-## Final Project Work-Time
-* Sign-up for 5 minute demo/question slots
-	* Additional time slots will be provided after each time is able to meet with me
-* Start by reviewing your Trello board, and scoping down your project if needed
-* As you write code in class, push to Github after every new piece of functionality is written
+### ADV Team Tasks
+* [Complete Bubbles Exercise](lessons/week7/code/exploding_bubbles.md). Add to Github and Student Portfolio
+* Modularize your Robot project from Week 1 with a custom drawRobot() user defined Function. Create an Array of Robots by repeatedly calling your custom function
 
-## Homework
-* [Final Project Code](../../final-project.md) Due Saturday, 03/12, at 9pm
-* [Final Project Presentation](../../final-project.md) Due Monday, 03/13, at 6pm
+## Homework due (Today) Monday 3/23
+* [STD Team: Submit Creative Exploration Project](lessons/week4/homework/creativity-exploration.md)
+* [ADV Team: Submit Data Viz Project](lessons/week5/homework/data-visualization.md)
+* [ADV Team: Complete Bubbles Exercise](lessons/week7/code/exploding_bubbles.md)
+
+## Homework due Thursday 3/26
+* [STD Team: Moving Pacman Exercise](code/moving_pacman.md)
+* ADV Team: Modularize Robot project code
