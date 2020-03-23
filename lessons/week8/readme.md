@@ -49,6 +49,28 @@
 * ADV Team: [Moving Robot Project Part 3](code/moving_robot.md). Add Part 3 to Github and Student Portfolio
 
 ## Code Examples
+* [Moving Pacman](code/movingPacman)
+````
+  background('#f5bf42');
+  fill('#42c5f5')
+  if (!mouseIsPressed) { // mouse is NOT Pressed
+    x += speed; // Increase the value of x
+    if (x > ????) { // If the shape is off screen
+      x = ????; // move to the left edge
+    }
+    arc(x, 60, radius, radius, 0.52, 5.76);
+  } else {  // mouse IS Pressed
+    x += speed * direction; // Increase the value of x in the proper direction
+    if ((x > ????) || (x < ????)) { //if shape is on edges of canvas
+      direction = -direction; // Flip direction
+    }
+    if (direction == 1) {
+      arc(x, 60, radius, radius, 0.52, 5.76); // Face right
+    } else {
+      arc(x, 60, radius, radius, 3.67, 8.9); // Face left
+    }
+  }
+````
 * [Scalar Squares](code/scalarSquares)
 ````
   translate(mouseX, mouseY);
@@ -91,25 +113,4 @@
     angleDirection *= -1;
   }
 ````
-* [Moving Pacman](code/movingPacman)
-````
-  background('#f5bf42');
-  fill('#42c5f5')
-  if (!mouseIsPressed) { // mouse is NOT Pressed
-    x += speed; // Increase the value of x
-    if (x > width + radius) { // If the shape is off screen
-      x = -radius; // move to the left edge
-    }
-    arc(x, 60, radius, radius, 0.52, 5.76);
-  } else {  // mouse IS Pressed
-    x += speed * direction; // Increase the value of x in the proper direction
-    if ((x > width - radius) || (x < radius)) { //if shape is on edges of canvas
-      direction = -direction; // Flip direction
-    }
-    if (direction == 1) {
-      arc(x, 60, radius, radius, 0.52, 5.76); // Face right
-    } else {
-      arc(x, 60, radius, radius, 3.67, 8.9); // Face left
-    }
-  }
-````
+
