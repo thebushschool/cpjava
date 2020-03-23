@@ -50,6 +50,66 @@
 
 ## Code Examples
 * [Scalar Squares](code/scalarSquares)
+````
+  translate(mouseX, mouseY);
+  var scalar = mouseX / 60.0;
+  scale(scalar);
+  strokeWeight(1 / scalar);
+  rect(-15, -15, 30, 30);
+  translate(35, 10);
+  rect(-15, -15, 15, 15);
+````  
 * [Scalar Differentiated Squares](code/scalarSquaresPP)
+````
+  push();
+  translate(mouseX, mouseY);
+  var scalar = mouseX / 60.0;
+  scale(scalar);
+  strokeWeight(1 / scalar);
+  rect(-15, -15, 30, 30);
+  pop();
+  translate(35, 10);
+  rect(-15, -15, 15, 15);
+````
 * [Articulated Hand](code/articulateHand)
+````
+  background(204);
+  translate(100, 25); // Move to start position
+  rotate(angle);
+  strokeWeight(12);
+  line(0, 0, 100, 0);
+  translate(100, 0); // Move to next joint
+  rotate(angle * 2.0);
+  strokeWeight(6);
+  line(0, 0, 60, 0);
+  translate(60, 0); // Move to next joint
+  rotate(angle * 2.5);
+  strokeWeight(3);
+  line(0, 0, 40, 0);
+  angle += speed * angleDirection;
+  if ((angle > HALF_PI) || (angle < 0)) {
+    angleDirection *= -1;
+  }
+````
 * [Moving Pacman](code/movingPacman)
+````
+  background('#f5bf42');
+  fill('#42c5f5')
+  if (!mouseIsPressed) { // mouse is NOT Pressed
+    x += speed; // Increase the value of x
+    if (x > width + radius) { // If the shape is off screen
+      x = -radius; // move to the left edge
+    }
+    arc(x, 60, radius, radius, 0.52, 5.76);
+  } else {  // mouse IS Pressed
+    x += speed * direction; // Increase the value of x in the proper direction
+    if ((x > width - radius) || (x < radius)) { //if shape is on edges of canvas
+      direction = -direction; // Flip direction
+    }
+    if (direction == 1) {
+      arc(x, 60, radius, radius, 0.52, 5.76); // Face right
+    } else {
+      arc(x, 60, radius, radius, 3.67, 8.9); // Face left
+    }
+  }
+````
