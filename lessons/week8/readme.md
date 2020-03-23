@@ -39,5 +39,6 @@
 ### Due Thursday 4/9
 * ADV Team: [Moving Robot Project Part 3](code/moving_robot.md). Add Part 3 to Github and Student Portfolio
 
-## Resources
-* [Code Examples](code)
+## Code Examples
+* [Moving Pacman](code/movingPacman)
+* [Articulated Hand](code/articulateHand)
