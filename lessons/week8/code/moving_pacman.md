@@ -1,7 +1,7 @@
 
 [_Bush School IDMD Spring Semester 2020_](https://chandrunarayan.github.io/idmd/)
 
-## Exercise: Exploding bubbles
+## Exercise: Moving Pacman
 
 1. Every 2 seconds, create a new bubble at a random location and fill color on the canvas with the create time shown inside it.
 1. After 30 seconds have elapsed make all of them start randomly shaking for 20 seconds.
