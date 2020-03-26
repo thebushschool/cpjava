@@ -20,6 +20,8 @@ In our IDMD classroom we are already using tools and techniques that are natural
 #### A Reminder
 We are all going through some extraordinary times due to the coronavirus.  I would like to ask you to think about those among us who are suffering due to this affliction. Let us take time to be vigilant about washing hands frequently, not touching our face and avoiding being in large groups. Most of all, be calm about things beyond our control.
 
+![alt text][washhands]
+
 ## Course Description
 
 Software influences all aspects of contemporary visual culture. Students will explore the essentials of Computer Programming including: cconditional control structures, iteration, data structures, functions, classes, objects, and event-driven design. We will create projects based on student interest including, but not limited to video games, installation art, and simulations of biological and social phenomena. We will learn and create using the programming language Javascript and the library p5.js, a full featured library that allows one to create interactive digital art for the web. To see examples of the interactive digital media you can create with code, [watch this video](https://www.youtube.com/watch?v=HerCR8bw_GE) by the creators of p5.js.
@@ -133,15 +135,16 @@ _No Classes_
 
 _Topics: TBD_
 
-### Week 12 - 4/27
+### Week 13 - 4/27
 
 _Topics: TBD_
 
 * Details to be added
 
-### Week 12 - 5/4
+### Week 14 - 5/4
 
 _Topics: FINAL PROJECT WEEK_
 
 * Details to be added
+
 [washhands]: https://chandrunarayan.github.io/idmd/KCWH.png "Wash Hands"
