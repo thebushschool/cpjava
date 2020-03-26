@@ -148,3 +148,4 @@ _Topics: FINAL PROJECT WEEK_
 * Details to be added
 
 [washhands]: https://chandrunarayan.github.io/idmd/KCWH.png "Wash Hands"
+[dailyschedule]: https://chandrunarayan.github.io/idmd/BSDS.png
