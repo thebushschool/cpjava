@@ -109,10 +109,10 @@ _Topics: Exercise and Project submissions ahead of comments_
 _Topics: Motion, Functions_
 
 * [Overview](lessons/week8)
-* STD Team: [Exercise: Moving Pacman](lessons/week8/code/moving_pacman.md) *DUE*
-* ADV Team: [Project: Submit Data Viz](lessons/week5/homework/data-visualization.md) *DUE*
-* ADV Team: [Exercise: Exploding Bubbles](lessons/week7/code/exploding_bubbles.md) *DUE*
-* ADV Team: [Project: Moving Robot](lessons/week8/code/moving_robot.md) *PART 1 DUE*
+* STD Team: [Exercise: Moving Pacman](lessons/week8/code/moving_pacman.md) *DUE 3/26*
+* ADV Team: [Project: Submit Data Viz](lessons/week5/homework/data-visualization.md) *DUE 3/23*
+* ADV Team: [Exercise: Exploding Bubbles](lessons/week7/code/exploding_bubbles.md) *DUE 3/23*
+* ADV Team: [Project: Moving Robot](lessons/week8/code/moving_robot.md) *PART 1 DUE 3/26*
 
 ### Week 9 - 3/30
 
