@@ -13,6 +13,7 @@
 * Declare core container objects
 * Define (Add content) to container
 * Test and Iterate in each stage
+* Validate and Publish to Github
 
 ### Declare and define Arrays
 * pins[]:
