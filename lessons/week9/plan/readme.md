@@ -28,7 +28,7 @@
 
 
 ## Code Examples
-* [Pins and Threads](code/pinsPoint2)
+* [Pins and Threads](../code/pinsPoint2)
 
 ![alt text][savecanvas]
 
