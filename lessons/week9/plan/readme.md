@@ -33,6 +33,11 @@
     colors[i] = color(random(0, 255), random(0, 255), random(0, 255), random(0, 255));
 ````
 
+### Save Canvas to local file
+* Hint:
+````
+    if (key == 's' || key == 'S') saveCanvas('mycanvas_' + str(millis()), 'png');
+````
 ## Code Examples
 * [Pins and Threads](https://chandrunarayan.github.io/idmd/lessons/week9/code/pinsPoint2/)
 
