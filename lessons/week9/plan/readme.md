@@ -15,6 +15,21 @@
 * Test and Iterate in each stage
 * Validate and Publish to Github
 
+### Outline of Functions and Containers
+````
+let pins = [];
+let colors = [];
+let maxnum = 50;
+function setup() {
+  createCanvas(600, 600);
+  createPins();
+  createColors();
+}
+function draw() {
+  background(255);
+  show_display();
+}
+````
 ### Declare and define Arrays
 * pins[]:
 
