@@ -114,7 +114,7 @@ _Topics: Motion, Functions_
 * ADV Team: [Exercise: Exploding Bubbles](lessons/week7/code/exploding_bubbles.md) *DUE 3/23*
 * ADV Team: [Project: Moving Robot](lessons/week8/code/moving_robot.md) *PART 1 DUE 3/26*
 
-### Week 9 - 3/30(lessons/week9)
+### [Week 9 - 3/30](lessons/week9)
 
 _Topics: Arrays, Functions_
 
