@@ -25,3 +25,6 @@
 
 ## Code Examples
 * [Pins and Threads](code/pinsPoint2)
+![alt text][washhands]
+
+[savecanvas]: https://chandrunarayan.github.io/idmd/lessons/week9/code/savecanvas.png "save canvas"
