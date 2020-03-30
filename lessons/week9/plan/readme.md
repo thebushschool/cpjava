@@ -34,7 +34,7 @@
 ````
 
 ## Code Examples
-* [Pins and Threads](../code/pinsPoint2)
+* [Pins and Threads](https://chandrunarayan.github.io/idmd/lessons/week9/code/pinsPoint2/)
 
 ![alt text][savecanvas]
 
