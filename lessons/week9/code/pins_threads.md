@@ -11,4 +11,3 @@
 
 * STD Team Look in [Slack #stdteamch for code extract and hit for saving canvas]().]
 * ADV Team Complete the exercise in class and then proceed to working Robot Project 
-
