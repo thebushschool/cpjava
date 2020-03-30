@@ -43,3 +43,7 @@ function randomColor() {
   c = color(random(0, 255), random(0, 255), random(0, 255), random(0, 255));
   return c;
 }
+
+function keyReleased() {
+  if (key == 's' || key == 'S') saveCanvas('mycanvas_' + str(millis()), 'png');
+}

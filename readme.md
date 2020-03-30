@@ -119,6 +119,7 @@ _Topics: Motion, Functions_
 _Topics: Arrays, Functions_
 
 * [Overview](lessons/week9)
+* STD Team: [Exercise: Moving Pacman](lessons/week8/code/moving_pacman.md) *DUE 3/26*
 * ALL Teams: Learn to use Arrays, Functions [Exercise: Pins and Threads](lessons/week9/code/pins_threads.md)
 * STD Team: [Slack Code Extract in #stdteamch](https://app.slack.com/client/TTS9Y46VC/GUMN732S0)
 * ADV Team: Work on Part 2 & 3 of [Project: Moving Robot](lessons/week8/code/moving_robot.md)

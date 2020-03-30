@@ -12,10 +12,9 @@
 
 ## Homework
 
-### Due (Today) Monday 3/30
+### OverDue (Last Week) 3/30
 
 * STD Team: [Moving Pacman Exercise](code/moving_pacman.md). Add to Github and Student Portfolio
-* ADV Team: [Moving Robot Project Part 1](code/moving_robot.md). Add Part 1 to Github and Student Portfolio
 
 ### Due Thursday 4/2
 * STD Team: [Exercise: Pins and Threads](code/pins_threads.md)
