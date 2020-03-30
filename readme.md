@@ -114,12 +114,12 @@ _Topics: Motion, Functions_
 * ADV Team: [Exercise: Exploding Bubbles](lessons/week7/code/exploding_bubbles.md) *DUE 3/23*
 * ADV Team: [Project: Moving Robot](lessons/week8/code/moving_robot.md) *PART 1 DUE 3/26*
 
-### Week 9 - 3/30
+### Week 9 - 3/30(lessons/week9)
 
 _Topics: Arrays, Functions_
 
 * [Overview](lessons/week9)
-* ALL Teams: Learn to use Arrays, Functions [Exercise: Pins and Threads](pins_threads.md)
+* ALL Teams: Learn to use Arrays, Functions [Exercise: Pins and Threads](lessons/week9/code/pins_threads.md)
 * STD Team: [Slack Code Extract in #stdteamch](https://app.slack.com/client/TTS9Y46VC/GUMN732S0)
 * ADV Team: Work on Part 2 & 3 of [Project: Moving Robot](lessons/week8/code/moving_robot.md)
 

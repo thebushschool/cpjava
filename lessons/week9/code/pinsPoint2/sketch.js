@@ -9,7 +9,7 @@ function setup() {
 }
 
 function draw() {
-  //background(255);
+  background(255);
   display();
 }
 
