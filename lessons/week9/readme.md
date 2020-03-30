@@ -6,7 +6,7 @@
 * Functions, Arrays
 
 ## Week 9 Lessons
-* ALL Teams: Learn to use Arrays, Functions [Project: Pins and Threads](code/pins_threads.md)
+* ALL Teams: [Learn to use Arrays, Functions](lessons/week9/plan/readme.md) 
 * STD Team: [Slack Code Extract in #stdteamch](https://app.slack.com/client/TTS9Y46VC/GUMN732S0)
 * ADV Team: Work on Part 2 & 3 of [Project: Moving Robot](lessons/week8/code/moving_robot.md)
 
