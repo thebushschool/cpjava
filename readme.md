@@ -116,13 +116,16 @@ _Topics: Motion, Functions_
 
 ### Week 9 - 3/30
 
-_Topics: Arrays, Objects_
+_Topics: Arrays, Functions_
 
-* Details to be added
+* [Overview](lessons/week9)
+* ALL Teams: Learn to use Arrays, Functions [Exercise: Pins and Threads](pins_threads.md)
+* STD Team: [Slack Code Extract in #stdteamch](https://app.slack.com/client/TTS9Y46VC/GUMN732S0)
+* ADV Team: Work on Part 2 & 3 of [Project: Moving Robot](lessons/week8/code/moving_robot.md)
 
 ### Week 10 - 4/6
 
-_Topics: Arrays, Objects_
+_Topics: Functions, Objects_
 
 * Details to be added
 
