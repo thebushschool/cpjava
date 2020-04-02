@@ -37,6 +37,7 @@ Software influences all aspects of contemporary visual culture. Students will ex
 
 * Course Website: [IDMD 2020 Website](https://chandrunarayan.github.io/idmd/)
 * Online textbook: [Getting Started with P5JS](https://drive.google.com/drive/u/2/folders/15GK0VESxqTvYGst9EtvILshb0MGlO4c5)
+* P5JS Basics: [Wiki Page for Help Examples and Reference](https://github.com/processing/p5.js/wiki/JavaScript-basics)
 * Other Course materials: [Google Drive IDMD](https://drive.google.com/drive/folders/1iRMwhQ_s2qayCJFFZz6Z3hnwFvgMTEI4?usp=sharing)
 * Assignment Submissions via [Your Github Site](https://github.com/)
 * Slack Instant Messaging - [IDMD 2020 Slack](https://idmd2020.slack.com/)

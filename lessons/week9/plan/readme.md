@@ -54,7 +54,7 @@ function draw() {
     if (key == 's' || key == 'S') saveCanvas('mycanvas_' + str(millis()), 'png');
 ````
 ## Code Examples
-* [Pins and Threads](https://chandrunarayan.github.io/idmd/lessons/week9/code/pinsPoint2/)
+* [Pins and Threads](https://chandrunarayan.github.io/idmd/lessons/week9/code/pinsThreads3/)
 
 ![alt text][savecanvas]
 
