@@ -18,13 +18,13 @@
 
 ### Due Thursday 4/9
 * STD Team: [Project: Pins and Threads](code/pins_threads.md)
-* ADV Team: [Moving Robot Project Part 2](code/moving_robot.md). Add Part 2 to Github and Student Portfolio
+* ADV Team: [Moving Robot Project Part 2](lessons/week8/code/moving_robot.md). Add Part 2 to Github and Student Portfolio
 
 ### Due Thursday 4/9
-* ADV Team: [Moving Robot Project Part 3](code/moving_robot.md). Add Part 3 to Github and Student Portfolio
+* ADV Team: [Moving Robot Project Part 3](lessons/week8/code/moving_robot.md. Add Part 3 to Github and Student Portfolio
 
 ## Code Examples
-* [Pins and Threads](code/pinsPoint2)
+* [Pins and Threads](code/pinsThreads3)
 
 ![alt text][savecanvas]
 
