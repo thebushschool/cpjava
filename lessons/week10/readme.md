@@ -1,6 +1,6 @@
 [_Bush School IDMD Spring Semester 2020_](https://chandrunarayan.github.io/idmd/)
 
-# Week 10 - 4/6 to 4/8 - SHORT WEEK
+## Week 10 - 4/6 to 4/8 - SHORT WEEK
 
 ## Learning Objectives
 * 1-1 Conferences
@@ -21,4 +21,4 @@
 
 ## Code Examples
 * [Moving Pacman](../week8/code/movingPacman)
-* [Pins and Threads](../week8/code/pinsThreads3)
+* [Pins and Threads](../week9/code/pinsThreads3)
