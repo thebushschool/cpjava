@@ -19,8 +19,8 @@
 ### Due Thursday 4/23
 * ADV Team: [Moving Robot Project Part 3](../week8/code/moving_robot.md). Add Part 3 to Github and Student Portfolio
 
-## Code Examples
+## [Code Examples](../week9)
 * [Moving Pacman](../week8/code/movingPacman)
 * [Pins and Threads](../week9/code/pinsThreads3)
-* Advanced [Input Slider](../week9/code/inputSlider) example using 'Constrain' method and an user Input Slider]
+* [Input Slider](../week9/code/inputSlider) example using 'Constrain' method and an user Input Slider]
 
