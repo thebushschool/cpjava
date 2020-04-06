@@ -13,8 +13,12 @@ In our IDMD classroom we are already using tools and techniques that are natural
 5. [P5JS Web Editor](https://editor.p5js.org) - web code editor for p5js
 6. [Student Portfolios](student-work.md) - Links to Student Porfolios
 7. [Online textbook](https://drive.google.com/drive/u/2/folders/15GK0VESxqTvYGst9EtvILshb0MGlO4c5) - Getting Started with P5JS 
-8. [Bush PORTAL](https://bush.myschoolapp.com/app/faculty#academicclass/109608285/0/bulletinboard) - links for all tools, official assignments, schedules, syllabus, grade rubric, conference appointments
-9. EMAIL - check your Bush email multiple times a day. Default communication method when all else fails! 
+8. [Bush PORTAL](https://bush.myschoolapp.com/app/faculty#academicclass/109608285/0/bulletinboard) - links for all tools, official assignments, schedules, syllabus, grade rubric
+9. Conference Appointments
+    *    [Please schedule 1-1 Wed Conferences here](https://calendly.com/chandru-narayan/conf_wed_idmd_a_block)
+    *    [Please schedule 1-1 Mon-Tue-Thu-Fri Conferences here](https://calendly.com/chandru-narayan/conf_wed_idmd_a_block)
+
+10. EMAIL - check your Bush email multiple times a day. Default communication method when all else fails! 
 #### [Remote Schooling Daily Schedule Click Here](https://bush.myschoolapp.com/ftpimages/409/download/download_4431973.pdf)
 ![alt text][dailyschedule]
 #### A Reminder
