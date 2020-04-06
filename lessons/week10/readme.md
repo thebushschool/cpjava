@@ -22,3 +22,5 @@
 ## Code Examples
 * [Moving Pacman](../week8/code/movingPacman)
 * [Pins and Threads](../week9/code/pinsThreads3)
+* Advanced [Input Slider](../week9/code/inputSlider) example using 'Constrain' method and an user Input Slider]
+
