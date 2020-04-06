@@ -125,18 +125,22 @@ _Topics: Arrays, Functions_
 * STD Team: [Slack Code Extract in #stdteamch](https://app.slack.com/client/TTS9Y46VC/GUMN732S0)
 * ADV Team: Work on Part 2 & 3 of [Project: Moving Robot](lessons/week8/code/moving_robot.md)
 
-### Week 10 - 4/6
+### [Week 10 - 4/6 to 4/8 - SHORT WEEK](lessons/week10)
 
-_Topics: Functions, Objects_
+_Topics: Conferences and Catch Up on Assignments_
 
-* Details to be added
+* Conferences 1-1
+    *    [Please schedule 1-1 Wed Conferences here](https://calendly.com/chandru-narayan/conf_wed_idmd_a_block)
+    *    [Please schedule 1-1 Mon-Tue-Thu-Fri Conferences here](https://calendly.com/chandru-narayan/conf_wed_idmd_a_block)
+* Help with Assignments
+* SPRING BREAK STARTS 4/9
 
 ### Week 11 - 4/13 NO CLASSES - SPRING BREAK -
 
 _No Classes_
 
 
-### Week 12 - 4/20
+### Week 12 - 4/22 LATE START
 
 _Topics: TBD_
 
