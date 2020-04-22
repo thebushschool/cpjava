@@ -21,7 +21,7 @@
 * Recursive Functions and Fractals
 
 
-## [Code Examples](code)
+## Code Examples
 * [recursiveCircles](code/recursiveCircles)
 * [factorialNums](code/factorialNums)
 * [Input Slider](../week9/code/inputSlider) example using 'Constrain' method and an user Input Slider
