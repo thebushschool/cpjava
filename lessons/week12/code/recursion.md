@@ -5,13 +5,10 @@
 
 
 1. Write custom function and invoke it to produce repeating shapes with these qualities:
-    * ALL TEAMS: Function should be recursive with aproperly defined exit condition
-    * ALL TEAMS: Shapes are self-similar - they should not be exact but similar with small variations in solor and scale for each recursive iteration
-    * ADV TEAM: (extra credit for STD team): Shapes should have dynamic fine structure controllable by the user with an input slider.
+    * Function should be recursive with aproperly defined exit condition
+    * Shapes are self-similar - they should not be exact but similar with small variations in scale or color for each recursive iteration
+    * [Recursive Squares Example](../code/recusrsiveSquares)
 
 1. Test your code and make sure it has no infinite loops or other errors
 1. Submit to Github 
 
-
-![alt text][pacmanhint]
-[pacmanhint]: https://chandrunarayan.github.io/idmd/lessons/week8/code/wrap_around.png "pacmanhint"
