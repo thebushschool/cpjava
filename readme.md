@@ -144,9 +144,9 @@ _Topics: Conferences and Catch Up on Assignments_
 _No Classes_
 
 
-### Week 12 - 4/22 LATE START
+### [Week 12 - 4/22 and 4/23 - Sync Sessions](lessons/week12)
 
-_Topics: TBD_
+_Topics: Recursion, Fractals_
 
 ### Week 13 - 4/27
 
