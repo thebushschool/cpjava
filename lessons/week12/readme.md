@@ -18,7 +18,7 @@
 
 ## Learning Objectives
 * Review where we left off (Functions and Arrays)
-* Using Recursive Functions
+* Recursive Functions and Fractals
 
 
 ## [Code Examples](code)
