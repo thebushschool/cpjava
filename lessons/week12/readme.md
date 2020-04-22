@@ -22,8 +22,9 @@
 
 
 ## Code Examples
-* [recursiveCircles](code/recursiveCircles_v2)
-* [recursiveSquares](code/recursivesquare)
-* [factorialNums](code/factorialNums)
+* [Recursive Circles](code/recursiveCircles_v2)
+* [Recursive Squares](code/recursiveSquares)
+* [Factorials](code/factorialNums)
+
 
 
