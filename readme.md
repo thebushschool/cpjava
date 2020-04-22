@@ -147,6 +147,8 @@ _No Classes_
 ### [Week 12 - 4/22 and 4/23 - Sync Sessions](lessons/week12)
 
 _Topics: Recursion, Fractals_
+* [Overview](lessons/week12)
+* [Exercises](lessons/week12/code/recursion)
 
 ### Week 13 - 4/27
 
