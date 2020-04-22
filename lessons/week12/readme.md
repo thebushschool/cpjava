@@ -2,26 +2,27 @@
 
 ## Week 12 - 4/22 and 4/23 
 
-## Learning Objectives
-* Welcome back!
+## Welcome Back!!
+
+## Reminders
 * 1-1 Conferences
     *    [Please schedule 1-1 Wed Conferences here](https://calendly.com/chandru-narayan/conf_wed_idmd_a_block)
     *    [Please schedule 1-1 Mon-Tue-Thu-Fri Conferences here](https://calendly.com/chandru-narayan/conf_wed_idmd_a_block)
-* Catch up and help with Assignments
+* Assignments Due before Spring Break 
+    * STD Team: [Moving Pacman Exercise](../week8/code/moving_pacman.md). Add to Github and Student Portfolio
+        * STD Team: [Project: Pins and Threads](../week9/code/pins_threads.md). Add to Github and Student Portfolio
+    * ADV Team: Complete Part 2 [Moving Robot Project Part 2](../week8/code/moving_robot.md). Add Part 2 to Github and Student Portfolio
 
-## Assignments Due before Spring Break 
-* STD Team: [Moving Pacman Exercise](../week8/code/moving_pacman.md). Add to Github and Student Portfolio
-* STD Team: [Project: Pins and Threads](../week9/code/pins_threads.md). Add to Github and Student Portfolio
-* ADV Team: Complete Part 2 [Moving Robot Project Part 2](../week8/code/moving_robot.md). Add Part 2 to Github and Student Portfolio
+* Due Thursday 4/23 ADV Team
+    * [Moving Robot Project Part 3](../week8/code/moving_robot.md). Add Part 3 to Github and Student Portfolio
 
-## Code Extracts for STD Team
-* [Slack Code Extract in #stdteamch](https://app.slack.com/client/TTS9Y46VC/GUMN732S0)
+## Learning Objectives
+* Review where we left off (Functions and Arrays)
+* Using Recursive Functions
 
-### Due Thursday 4/23
-* ADV Team: [Moving Robot Project Part 3](../week8/code/moving_robot.md). Add Part 3 to Github and Student Portfolio
 
-## [Code Examples](../week9/code)
-* [Moving Pacman](../week8/code/movingPacman)
-* [Pins and Threads](../week9/code/pinsThreads3)
+## [Code Examples](code)
+* [recursiveCircles](code/recursiveCircles)
+* [factorialNums](code/factorialNums)
 * [Input Slider](../week9/code/inputSlider) example using 'Constrain' method and an user Input Slider
 
