@@ -1,12 +1,17 @@
 
 [_Bush School IDMD Spring Semester 2020_](https://chandrunarayan.github.io/idmd/)
 
-## Exercise: Moving Pacman
+## Exercise: Recursion with Shapes and Colors
 
-1. Setup the Pacman to enter the left part of the canvas when it disappears from the right edge of the canvas. Start with the pacman code extract in [Slack #stdteamch](https://app.slack.com/client/TTS9Y46VC/GUMN732S0/details/info). Make this change and verify that it work correctly.
+
+1. Write custom function and invoke it to produce repeating shapes with these qualities:
+    * ALL TEAMS: Function should be recursive with aproperly defined exit condition
+    * ALL TEAMS: Shapes are self-similar - they should not be exact but similar with small variations in solor and scale for each recursive iteration
+    * ADV TEAM: (extra credit for STD team): Shapes should have dynamic fine structure controllable by the user with an input slider.
+
+1. Test your code and make sure it has no infinite loops or other errors
+1. Submit to Github 
+
+
 ![alt text][pacmanhint]
-1. Then update the pacman code to "bounce off the canvas edges rather than wrap around if the mouse is pressed. You should refer to the mouseIsPressed from P5JS reference. If the mouse is not pressed continue wrapping around. When the pacman bounces you should turn it to face the other way! Start with the pacman code extract 2 in [Slack #stdteamch](https://app.slack.com/client/TTS9Y46VC/GUMN732S0/details/info)
-
-1. After completing the 2 examples above, try 8.7 and 8.9 examples from [online P5JS textbook](https://drive.google.com/drive/u/2/folders/15GK0VESxqTvYGst9EtvILshb0MGlO4c5)
-
 [pacmanhint]: https://chandrunarayan.github.io/idmd/lessons/week8/code/wrap_around.png "pacmanhint"
