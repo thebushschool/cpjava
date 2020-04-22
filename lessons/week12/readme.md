@@ -22,7 +22,7 @@
 
 
 ## Code Examples
-* [recursiveCircles](code/recursiveCircles)
+* [recursiveCircles](code/recursiveCircles_v2)
 * [factorialNums](code/factorialNums)
 * [Input Slider](../week9/code/inputSlider) example using 'Constrain' method and an user Input Slider
 
