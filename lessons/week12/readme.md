@@ -20,11 +20,17 @@
 * Review where we left off (Functions and Arrays)
 * Recursive Functions and Fractals
 
+## [Week 12 Assignment](code/recursion)
+* Recursion Sketch
+* Extra Credit Sketch with Input Sliders
+* [Assignment Specification](code/recursion)
 
 ## Code Examples
 * [Recursive Circles](code/recursiveCircles_v2)
 * [Recursive Squares](code/recursiveSquares)
 * [Factorials](code/factorialNums)
+* [Numerical Input Slider](code/inputSlider)
+* [Color Input Slider](code/colorSlider)
 
 
 
