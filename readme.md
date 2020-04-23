@@ -152,13 +152,37 @@ _Topics: Recursion, Fractals_
 
 ### Week 13 - 4/27
 
-_Topics: TBD_
+_Topics: Mandelbrot Set, Array Lists_
 
 * Details to be added
 
 ### Week 14 - 5/4
 
-_Topics: FINAL PROJECT WEEK_
+_Topics: Perlin Noise, Objects, Vectors_
+
+* Details to be added
+
+### Week 15 - 5/11
+
+_Topics: Building Student Porfolio_
+
+* Details to be added
+
+### Week 16 - 5/18
+
+_Topics: FINAL PROJECT WEEK 1_
+
+* Details to be added
+
+### Week 17 - 5/25
+
+_Topics: FINAL PROJECT WEEK 2_
+
+* Details to be added
+
+### Week 18 - 6/1
+
+_Topics: FINAL PRESENTATION_
 
 * Details to be added
 
