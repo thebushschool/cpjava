@@ -8,20 +8,42 @@
 
 1. Write custom function and invoke it to produce repeating shapes with these qualities:
     * Function should be recursive with aproperly defined exit condition
-    * Shapes are self-similar - they should not be exact but similar with small variations in scale or color for each recursive iteration
-    * [Recursive Circles Example](../code/recursiveCircles)
+    * Shapes are self-similar - they should not be exact but similar with small variations in scale or color for each shape
     * [Recursive Squares Example](../code/recursiveSquares)
 
 1. EXTRA CREDIT: Do the above PLUS code a numerical Sketch like one from below. It should include user input via a Input Slider (See reference section below):
     * Calculate the [Factorials of numbers n! = n x (n-1)!](https://www.mathsisfun.com/numbers/factorial.html) with user input via a slider.  
-    * Calculate the [Fibonacci sequence Xn = Xn-1 + Xn-2](https://www.mathsisfun.com/numbers/fibonacci-sequence.html)
+    * Calculate the [Fibonacci sequence Xn = Xn-1 + Xn-2](https://www.mathsisfun.com/numbers/fibonacci-sequence.html) with user input via a slider.  
     * Recursive [Factorial Sequence Example](../code/factorialNums/)
 
 1. Test your Sketch and make sure it has no infinite loops or other errors
 1. Submit at least one Sketch tp Github.  Additional Sketches will be assigned extra credit! 
 
 ## Reference
+### Recursive Circles Example and Code]
+[Recursive Circles Example](../code/recursiveCircles)
+````
+function recursiveCircle(x, y, dia) {
+  stroke(0);
+  noFill();
+  ellipse(x, y, dia, dia);
+  if (dia >= 2) {
+    recursiveCircle(x+dia/2, y, dia / 2);
+    recursiveCircle(x-dia/2, y, dia / 2);
+    recursiveCircle(x, y+dia/2, dia / 2);  //Sierpinski triangle
+    //recursiveCircle(x, y-dia/2, dia / 2);
+  }
+}
 
+function setup() {
+  createCanvas(600, 600);
+  recursiveCircle(width / 2, height / 2, 300);
+}
+
+function draw() {
+  //background(230);
+}
+````
 ### Input Slider Exampe and Code
 [Input Slider Example](../../week9/code/inputSlider/)
 ````

@@ -4,8 +4,8 @@ function recursiveCircle(x, y, dia) {
   ellipse(x, y, dia, dia);
   if (dia >= 2) {
     recursiveCircle(x+dia/2, y, dia / 2);
-    //recursiveCircle(x-dia/2, y, dia / 2);
-    //recursiveCircle(x, y+dia/2, dia / 2);  //Sierpinski triangle
+    recursiveCircle(x-dia/2, y, dia / 2);
+    recursiveCircle(x, y+dia/2, dia / 2);  //Sierpinski triangle
     //recursiveCircle(x, y-dia/2, dia / 2);
   }
 }
