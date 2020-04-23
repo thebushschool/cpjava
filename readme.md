@@ -19,7 +19,7 @@ In our IDMD classroom we are already using tools and techniques that are natural
     *    [Please schedule 1-1 Mon-Tue-Thu-Fri Conferences here](https://calendly.com/chandru-narayan/conf_wed_idmd_a_block)
 
 10. EMAIL - check your Bush email multiple times a day. Default communication method when all else fails! 
-#### [Remote Schooling Daily Schedule Click Here](https://bush.myschoolapp.com/ftpimages/409/download/download_4431973.pdf)
+#### [Remote Schooling Daily Schedule](./BSDS.png)
 ![alt text][dailyschedule]
 #### A Reminder
 We are all going through some extraordinary times due to the coronavirus.  I would like to ask you to think about those among us who are suffering due to this affliction. Let us take time to be vigilant about washing hands frequently, not touching our face and avoiding being in large groups. Most of all, be calm about things beyond our control.
