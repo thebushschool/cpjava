@@ -6,9 +6,9 @@
 
 ## ALL TEAMS
 
-1. Write custom function and invoke it to produce repeating shapes with these qualities:
+1. Write custom function and invoke it to produce repeating shapes with these qualities. (See reference section below):
     * Function should be recursive with aproperly defined exit condition
-    * Shapes are self-similar - they should not be exact but similar with small variations in scale or color for each shape
+    * Shapes are self-similar - they should not be exact but similar with small variations in scale or color for each shape.
     * [Recursive Squares Example](../code/recursiveSquares)
 
 1. EXTRA CREDIT: Do the above PLUS code a numerical Sketch like one from below. It should include user input via a Input Slider (See reference section below):
@@ -20,7 +20,7 @@
 1. Submit at least one Sketch tp Github.  Additional Sketches will be assigned extra credit! 
 
 ## Reference
-### Recursive Circles Example and Code]
+### Recursive Circles Example and Code
 [Recursive Circles Example](../code/recursiveCircles)
 ````
 function recursiveCircle(x, y, dia) {
@@ -44,8 +44,8 @@ function draw() {
   //background(230);
 }
 ````
-### Input Slider Exampe and Code
-[Input Slider Example](../../week9/code/inputSlider/)
+### Input Slider Examples and Code
+[Input Number Slider Example](../../week9/code/inputSlider/)
 ````
 function setup() {
   createCanvas(650, 200);
@@ -81,5 +81,32 @@ function draw() {
       inputValB), 20, 180);
 }
 ````
+[Input Color Slider Example](../code/colorSlider/)
+````
+let rSlider, gSlider, bSlider;
 
+function setup() {
+  // create canvas
+  createCanvas(710, 400);
+  textSize(15);
+  noStroke();
 
+  // create sliders
+  rSlider = createSlider(0, 255, 100);
+  rSlider.position(20, 20);
+  gSlider = createSlider(0, 255, 0);
+  gSlider.position(20, 50);
+  bSlider = createSlider(0, 255, 255);
+  bSlider.position(20, 80);
+}
+
+function draw() {
+  const r = rSlider.value();
+  const g = gSlider.value();
+  const b = bSlider.value();
+  background(r, g, b);
+  text('red', rSlider.x * 2 + rSlider.width, 35);
+  text('green', gSlider.x * 2 + gSlider.width, 65);
+  text('blue', bSlider.x * 2 + bSlider.width, 95);
+}
+````
