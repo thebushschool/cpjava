@@ -21,7 +21,7 @@
 
 ## Reference
 ### Recursive Circles Example and Code
-[Recursive Circles Example](../code/recursiveCircles)
+[Recursive Circles Example](../code/recursiveCircles_v2)
 ````
 function recursiveCircle(x, y, dia) {
   stroke(0);
