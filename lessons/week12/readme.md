@@ -29,7 +29,7 @@
 * [Recursive Circles](code/recursiveCircles_v2)
 * [Recursive Squares](code/recursiveSquares)
 * [Factorials](code/factorialNums)
-* [Numerical Input Slider](code/inputSlider)
+* [Numerical Input Slider](../week9/code/inputSlider)
 * [Color Input Slider](code/colorSlider)
 
 
