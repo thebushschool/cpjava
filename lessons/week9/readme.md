@@ -23,7 +23,8 @@
 ### Due Thursday 4/9
 * ADV Team: [Moving Robot Project Part 3](lessons/week8/code/moving_robot.md. Add Part 3 to Github and Student Portfolio
 
-## [Code Examples](plan)
+## [Code Examples](plan/readme.md)
+
 * [Pins and Threads](code/pinsThreads3)
 *   ![alt text](plan/savecanvas.png)
 
