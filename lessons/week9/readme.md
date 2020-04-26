@@ -23,9 +23,10 @@
 ### Due Thursday 4/9
 * ADV Team: [Moving Robot Project Part 3](lessons/week8/code/moving_robot.md. Add Part 3 to Github and Student Portfolio
 
-## Code Examples
+## [Code Examples](plan)
 * [Pins and Threads](code/pinsThreads3)
+*   ![alt text](plan/savecanvas.png)
 
-![alt text][savecanvas]
+* [User Input Slider](code/userInput)
+*   ![alt text](plan/inputSlider.png)
 
-[savecanvas]: https://chandrunarayan.github.io/idmd/savecanvas.png "save canvas"
