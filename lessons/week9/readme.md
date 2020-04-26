@@ -3,10 +3,10 @@
 # Week 9
 
 ## Learning Objectives
-* Functions, Arrays
+* Functions, Arrays, User Input
 
 ## Week 9 Lessons
-* ALL Teams: [Learn to use Arrays, Functions](plan/readme.md) 
+* ALL Teams: [Learn to use Arrays, Functions, User Input](plan/readme.md) 
 * STD Team: [Slack Code Extract in #stdteamch](https://app.slack.com/client/TTS9Y46VC/GUMN732S0)
 * ADV Team: Work on Part 2 & 3 of [Project: Moving Robot](lessons/week8/code/moving_robot.md)
 

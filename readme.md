@@ -19,10 +19,12 @@ In our IDMD classroom we are already using tools and techniques that are natural
     *    [Please schedule 1-1 Mon-Tue-Thu-Fri Conferences here](https://calendly.com/chandru-narayan/conf_wed_idmd_a_block)
 
 10. EMAIL - check your Bush email multiple times a day. Default communication method when all else fails! 
+
 #### [Remote Schooling Daily Schedule](./BSDS.png)
-![alt text][dailyschedule]
+![alt text](BSDS.png)
+
 #### A Reminder
-We are all going through some extraordinary times due to the coronavirus.  I would like to ask you to think about those among us who are suffering due to this affliction. Let us take time to be vigilant about washing hands frequently, not touching our face and avoiding being in large groups. Most of all, be calm about things beyond our control.
+We are all going through some extraordinary times due to the coronavirus.  I would like to ask you to think about those among us who are suffering due to this affliction. Let us take time to be vigilant about [washing hands frequently](https://www.cdc.gov/handwashing/when-how-handwashing.html), not touching our face and avoiding being in large groups. Most of all, be calm about things beyond our control.
 
 ![alt text][washhands]
 
@@ -114,6 +116,7 @@ _Topics: Exercise and Project submissions ahead of comments_
 _Topics: Motion, Functions_
 
 * [Overview](lessons/week8)
+* Explore Motion, Functions
 * STD Team: [Exercise: Moving Pacman](lessons/week8/code/moving_pacman.md) *DUE 3/26*
 * ADV Team: [Project: Submit Data Viz](lessons/week5/homework/data-visualization.md) *DUE 3/23*
 * ADV Team: [Exercise: Exploding Bubbles](lessons/week7/code/exploding_bubbles.md) *DUE 3/23*
@@ -121,7 +124,7 @@ _Topics: Motion, Functions_
 
 ### [Week 9 - 3/30](lessons/week9)
 
-_Topics: Arrays, Functions_
+_Topics: Arrays, Functions, User Input_
 
 * [Overview](lessons/week9)
 * STD Team: [Exercise: Moving Pacman](lessons/week8/code/moving_pacman.md) *DUE 3/26*
@@ -186,5 +189,5 @@ _Topics: FINAL PRESENTATION_
 
 * Details to be added
 
-[washhands]: https://chandrunarayan.github.io/idmd/KCWH.png "Wash Hands"
-[dailyschedule]: https://chandrunarayan.github.io/idmd/BSDS.png
+[washhands]: https://www.cdc.gov/handwashing/images/GettyImages-514363103-medium.jpg "Wash Hands"
+
