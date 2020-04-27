@@ -155,13 +155,13 @@ _Topics: Recursion, Fractals_
 
 ### Week 13 - 4/27
 
-_Topics: Mandelbrot Set, Array Lists_
-
-* Details to be added
+_Topics: Recursion, Complex Numbers, Mandelbrot Set, Array Lists_
+* [Overview](lessons/week13)
+* Exercises - No Coding assignment this week. Setup Calendly meeting with me for discussing your final project
 
 ### Week 14 - 5/4
 
-_Topics: Perlin Noise, Objects, Vectors_
+_Topics: Objects, Vectors, Perlin Noise_
 
 * Details to be added
 
