@@ -12,11 +12,11 @@
 
 ## Learning Objectives
 * STD Team: Complete the [Recursion Exercise](../week12/code/recursion) in the STD Team breakout room during class today
-* ADV Team: Discuss Complex Numbers and Mandelbrot Set in the ADV Team breakout room
+* ADV Team: [Discuss Complex Numbers and Mandelbrot Set](plan/complexnum) in the ADV Team breakout room
 
 ## Code Extracts
-* [Recursion Exercise](../week12/code/recursion)
-* [Complex Numbers Discussion](plan/complexnum)
+* STD Team [Recursion Exercise](../week12/code/recursion)
+* ADV Team [Complex Numbers Mandelbrot Set](plan/complexnum)
 
 
 
