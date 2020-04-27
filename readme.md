@@ -153,7 +153,7 @@ _Topics: Recursion, Fractals_
 * [Overview](lessons/week12)
 * [Exercises](lessons/week12/code/recursion)
 
-### Week 13 - 4/27
+### [Week 13 - 4/27](lessons/week13)
 
 _Topics: Recursion, Complex Numbers, Mandelbrot Set, Array Lists_
 * [Overview](lessons/week13)
