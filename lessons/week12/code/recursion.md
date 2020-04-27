@@ -9,7 +9,7 @@
 1. Write custom function and invoke it to produce repeating shapes with these qualities. (See reference section below):
     * Function should be recursive with aproperly defined exit condition
     * Shapes are self-similar - they should not be exact but similar with small variations in scale or color for each shape.
-    * [Recursive Squares Example](../code/recursiveSquares)
+    * [Create a Sketch that produces [Recursive Squares](../code/recursiveSquares) or another shape Use the Recursive Circles Example below to start with
 
 1. EXTRA CREDIT: Do the above PLUS code a numerical Sketch like one from below. It should include user input via a Input Slider (See reference section below):
     * Calculate the [Factorials of numbers n! = n x (n-1)!](https://www.mathsisfun.com/numbers/factorial.html) with user input via a slider.  
@@ -19,7 +19,7 @@
 1. Test your Sketch and make sure it has no infinite loops or other errors
 1. Submit at least one Sketch tp Github.  Additional Sketches will be assigned extra credit! 
 
-## Reference
+## Code Example
 ### Recursive Circles Example and Code
 [Recursive Circles Example](../code/recursiveCircles_v2)
 ````
@@ -44,8 +44,10 @@ function draw() {
   //background(230);
 }
 ````
-### Input Slider Examples and Code
-[Input Number Slider Example](../../week9/code/inputSlider/)
+
+## Reference
+
+[Input Text Slider Example](../../week9/code/inputSlider/)
 ````
 function setup() {
   createCanvas(650, 200);
