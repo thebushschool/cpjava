@@ -157,7 +157,7 @@ _Topics: Recursion, Fractals_
 
 _Topics: Recursion, Complex Numbers, Mandelbrot Set, Array Lists_
 * [Overview](lessons/week13)
-* Exercises - No Coding assignment this week. Setup Calendly meeting with me for discussing your final project
+* Exercises - No Coding assignment this week. [Setup Calendly meeting](https://calendly.com/chandru-narayan/conf_wed_idmd_a_block) with me for discussing your final project
 
 ### Week 14 - 5/4
 
