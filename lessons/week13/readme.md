@@ -16,7 +16,7 @@
 
 ## Code Extracts
 * [Recursion Exercise](../week12/code/recursion)
-* [Complex Numbers Discussion](code/complexnum)
+* [Complex Numbers Discussion](plan/complexnum)
 
 
 
