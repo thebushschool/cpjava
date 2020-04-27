@@ -8,15 +8,15 @@
     *    [Please schedule 1-1 Mon-Tue-Thu-Fri Conferences here](https://calendly.com/chandru-narayan/conf_wed_idmd_a_block)
 
 * Due Thursday 4/29 All Teams
-    * [Recursion Exercise](../week12/code/recursion). Complete in class today if not already submitted to Github. 
+    * [Recursion Exercise](../week12/code/recursion). 
 
 ## Learning Objectives
-* STD Team: Complete the [Recursion Exercise](../week12/code/recursion) in the Team breakout room
-* ADV Team: Review Complex Numbers and Mandelbrot Set in the ADV Team breakout room
+* STD Team: Complete the [Recursion Exercise](../week12/code/recursion) in the STD Team breakout room during class today
+* ADV Team: Discuss Complex Numbers and Mandelbrot Set in the ADV Team breakout room
 
 ## Code Extracts
 * [Recursion Exercise](../week12/code/recursion)
-* [Complex Numbers](code/complexnum)
+* [Complex Numbers Discussion](code/complexnum)
 
 
 
