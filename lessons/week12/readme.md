@@ -7,7 +7,7 @@
 ## Reminders
 * 1-1 Conferences
     *    [Please schedule 1-1 Wed Conferences here](https://calendly.com/chandru-narayan/conf_wed_idmd_a_block)
-    *    [Please schedule 1-1 Mon-Tue-Thu-Fri Conferences here](https://calendly.com/chandru-narayan/conf_wed_idmd_a_block)
+    *    [Please schedule 1-1 Mon-Tue-Thu-Fri Conferences here](https://calendly.com/chandru-narayan/conf_montuethufri)
 * Assignments Due before Spring Break 
     * STD Team: [Moving Pacman Exercise](../week8/code/moving_pacman.md). Add to Github and Student Portfolio
         * STD Team: [Project: Pins and Threads](../week9/code/pins_threads.md). Add to Github and Student Portfolio

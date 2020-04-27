@@ -5,7 +5,7 @@
 ## Reminders
 * 1-1 Conferences
     *    [Please schedule 1-1 Wed Conferences here](https://calendly.com/chandru-narayan/conf_wed_idmd_a_block)
-    *    [Please schedule 1-1 Mon-Tue-Thu-Fri Conferences here](https://calendly.com/chandru-narayan/conf_wed_idmd_a_block)
+    *    [Please schedule 1-1 Mon-Tue-Thu-Fri Conferences here](https://calendly.com/chandru-narayan/conf_montuethufri)
 
 * Due Thursday 4/29 All Teams
     * [Recursion Exercise](../week12/code/recursion). 
