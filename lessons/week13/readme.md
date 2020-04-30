@@ -13,7 +13,7 @@
 ## Learning Objectives
 * STD Team: Complete the [Recursion Exercise](../week12/code/recursion) in the STD Team breakout room during class today
 * ADV Team: [Discuss Complex Numbers and Mandelbrot Set](plan/complexnum) in the ADV Team breakout room
-* ALL Teams: [Recursion with Translate and Rotate](code/tree_v1)
+* ALL Teams: [Recursion with Translate and Rotate](code/tree_v2)
 
 ## Code Extracts
 * STD Team [Recursion Exercise](../week12/code/recursion)
