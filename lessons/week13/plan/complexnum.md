@@ -98,5 +98,5 @@ function draw() {
 }
 ```` 
 
-A [final working example with sliders](../code/mbset_v5) for minimum and maximum values for complex plane
+A [final working example with sliders](../code/mbset_v5) for minimum and maximum values for complex plane. Code can be seen on [Slack #stdteam and #advtean channels](https://app.slack.com/client/TTS9Y46VC).
 ![alt text](mbset_v5.png)
