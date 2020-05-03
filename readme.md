@@ -163,7 +163,8 @@ _Topics: Recursion, Complex Numbers, Mandelbrot Set, Array Lists_
 
 _Topics: Objects, Vectors, Perlin Noise_
 
-* Details to be added
+*  [Overview](lessons/week14)
+*  [Exercises](lessons/week14/plan/readme.md)
 
 ### Week 15 - 5/11
 
