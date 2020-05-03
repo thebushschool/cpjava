@@ -1,4 +1,4 @@
-let bug = []; // A pointer to the Object
+let bug = []; // A pointer to the array of Bug Objects
 let maxBugs = 10;
 let dia = 20; // size of bug
 

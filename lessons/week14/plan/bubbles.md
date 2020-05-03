@@ -57,6 +57,44 @@ function JitterBug(xpos, ypos, dia) {
   }
 }
 ````
+### Let's update to multiple bugs using an array
+````
+let bug = []; // A pointer to the array of Bug Objects
+let maxBugs = 10;
+let dia = 20; // size of bug
 
+function setup() {
+  createCanvas(480, 120);
+  for (i = 0; i < maxBugs; i++) {
+    // Create object and pass in parameters
+    bug[i] = new JitterBug(random(width), random(height), dia); // Call to Construct the JitterBug object
+  }
+}
 
+//
+//  Can you update the rest of the code from before for an array of bugs?
+//
+````
+### Let's add the kill() method to the JitterBug Constructor stop the bug from jittering
+````
+function JitterBug(posx, posy, dia) { // Define the Constructor for JitterBug
+  this.posx = posx; // Four properties are defined here
+  this.posy = posy;
+  this.dia = dia;
+  this.speed = 2.5;
+
+  this.jitter = function() {
+    this.posx += random(-this.speed, this.speed);
+    this.posy += random(-this.speed, this.speed);
+  }
+
+  this.kill = function() {
+    this.speed = 0;
+  }
+// .....  
+
+//
+//  Can you update the rest of the code for changing the color of the Bug?
+//
+````
 
