@@ -16,5 +16,5 @@
     *    (Optional Extra Credit): [Recursion with Translate and Rotate](../week13/code/tree_v3) Code Extracts in [Slack general channel](https://app.slack.com/client/TTS9Y46VC/CTCKE2LDR)
 
 ## This Week's Exercises
-* [Jitter Bug Exercise Example 1](code/jitterBug_v1)
-* [Bubbles Exercise Example 2](code/jitterBug_v2)
+* [Jitter Bug Exercise Example 1](code/jitterBug_v2)
+* [Bubbles Exercise Example 2](code/arrayBubbles_v3)
