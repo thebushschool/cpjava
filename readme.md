@@ -159,7 +159,7 @@ _Topics: Recursion, Complex Numbers, Mandelbrot Set, Array Lists_
 * [Overview](lessons/week13)
 * Exercises - No Coding assignment this week. [Setup Calendly meeting](https://calendly.com/chandru-narayan/conf_wed_idmd_a_block) with me for discussing your final project
 
-### Week 14 - 5/4
+### Week 14 - 5/4(lessons/week14)
 
 _Topics: Objects, Vectors, Perlin Noise_
 
