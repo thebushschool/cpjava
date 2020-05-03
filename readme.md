@@ -168,7 +168,7 @@ _Topics: Objects, Vectors, Perlin Noise_
 
 ### Week 15 - 5/11
 
-_Topics: Building Student Porfolio_
+_Topics: Building Student Porfolio, Catching-up .._
 
 * Details to be added
 
