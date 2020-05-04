@@ -98,6 +98,6 @@ function JitterBug(posx, posy, dia) { // Define the Constructor for JitterBug
 //
 ````
 
-### Example Sketches
+### Objects Example Sketches
 * [Jitter Bug Exercise Example 1](../code/jitterBug_v2)
-* [Bubbles Exercise Example 2](../code/arrayBubbles_v4)
+* [Bubbles Exercise Example 2](../code/arrayBubbles_v6)
