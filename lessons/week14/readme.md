@@ -15,6 +15,8 @@
     *    (Optional Extra Credit): [Complex Numbers and Mandelbrot Set](../week13/plan/complexnum) Code Extracts in Slack in [#advteamch](https://app.slack.com/client/TTS9Y46VC/GUQC6EUDC) or [#stdteamch](https://app.slack.com/client/TTS9Y46VC/GUQC6EUDC) channels
     *    (Optional Extra Credit): [Recursion with Translate and Rotate](../week13/code/tree_v3) Code Extracts in [Slack general channel](https://app.slack.com/client/TTS9Y46VC/CTCKE2LDR)
 
-## This Week's Exercises
+### This Week's Exercises
+#### [Code Specifications](plan/bubbles)
+#### Example Sketches
 * [Jitter Bug Exercise Example 1](code/jitterBug_v2)
 * [Bubbles Exercise Example 2](code/arrayBubbles_v3)
