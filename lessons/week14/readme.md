@@ -19,4 +19,4 @@
 #### [Code Specifications](plan/bubbles)
 #### Example Sketches
 * [Jitter Bug Exercise Example 1](code/jitterBug_v2)
-* [Bubbles Exercise Example 2](code/arrayBubbles_v3)
+* [Bubbles Exercise Example 2](code/arrayBubbles_v4)
