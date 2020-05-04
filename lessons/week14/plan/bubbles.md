@@ -1,5 +1,5 @@
 [_Bush School IDMD Spring Semester 2020_](https://chandrunarayan.github.io/idmd/)
-## Create P5JS objects and manipulate them individually
+## Create P5JS objects and manipulate them individually and in groups
 
 ### What is a P5JS Object?
 * It is data structure that simulates a real life object 
