@@ -8,35 +8,41 @@
 let bubbles = []; // A Bubble Array
 let maxBubb = 200;
 let maxRad = 30;
-let maxSpd = 3;
+let maxSpd = 2;
+let numColor = 4;
 
 function randomColor() {
   return color(random(255), random(255), random(255), random(255));
 }
 
 function redColor() {
-  return color(random(255), 0, 0, random(255));
+  return color(random(255), 0, 0, random(100));
 }
 
 function greenColor() {
-  return color(0, random(255), 0, random(255));
+  return color(0, random(255), 0, random(100));
 }
 
 function blueColor() {
-  return color(0, 0, random(255), random(255));
+  return color(0, 0, random(255), random(100));
 }
 
-function noColor() {
-  return color(0, 0, 0, random(255));
+function blackColor() {
+  return color(0, 0, 0, random(50));
 }
 
 function setup() {
   createCanvas(800, 500);
   for (let i = 0, theColor; i < maxBubb; i++) {
-    if (i % 4 === 0) theColor = redColor();
-    else if (i % 4 === 1) theColor = greenColor();
-    else if (i % 4 === 2) theColor = blueColor();
-    else theColor = noColor();
+    if (i > maxBubb * (numColor - 1) / numColor) {
+      theColor = blackColor();
+    } else if (i > maxBubb * (numColor - 2) / numColor) {
+      theColor = blueColor();
+    } else if (i > maxBubb * (numColor - 3) / numColor) {
+      theColor = greenColor();
+    } else {
+      theColor = redColor();
+    }
     bubbles[i] = new Bubble(theColor, random(5, maxRad), maxRad, maxRad, random(maxSpd), random(maxSpd));
   }
 }
@@ -64,7 +70,6 @@ function Bubble(tempC, tempRad, tempXpos, tempYpos, tempXspd, tempYspd) { // The
   this.display = function() {
     stroke(0);
     fill(this.c);
-    rectMode(CENTER);
     ellipseMode(RADIUS);
     ellipse(this.xpos, this.ypos, this.rad);
   }
@@ -100,8 +105,8 @@ function Bubble(tempC, tempRad, tempXpos, tempYpos, tempXspd, tempYspd) { // The
       theCol = "green";
     } else if (bCol[3] > 0) { //blue color
       theCol = "blue";
-    } else { //no color
-      theCol = "nocol";
+    } else { //black color
+      theCol = "black";
     }
     return theCol;
   }
@@ -110,7 +115,6 @@ function Bubble(tempC, tempRad, tempXpos, tempYpos, tempXspd, tempYspd) { // The
     if (this.xspd > 0 || this.yspd > 0) {
       this.xpos = xpos;
       this.ypos = ypos;
-
     }
   }
 
@@ -122,8 +126,8 @@ function Bubble(tempC, tempRad, tempXpos, tempYpos, tempXspd, tempYspd) { // The
   }
 
   this.revive = function() {
-    this.xspd = random(3);
-    this.yspd = random(3);
+    this.xspd = maxSpd;
+    this.yspd = maxSpd;
     this.live = true;
   }
 
@@ -140,7 +144,7 @@ function mouseReleased() {
         theBubb.goHome(width - maxRad, maxRad);
       } else if (theCol === "blue") { //red color
         theBubb.goHome(width - maxRad, height - maxRad);
-      } else { //no color
+      } else { //black color
         theBubb.goHome(maxRad, height - maxRad);
       }
     }
