@@ -5,7 +5,6 @@
 ## Learning Objectives
 * Modeling real-world through objects, properties, and methods
 * Manipulate Objects on the canvas individually or in groups using Array Lists
-* Flocking Objects
 * Wave generation and Perlin Noise
 
 ## Reminders
