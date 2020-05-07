@@ -22,6 +22,7 @@
 #### Objects and Array Lists Example Sketches
 * [Jitter Bug Exercise Example 1](code/jitterBug_v2)
 * [Bubbles Exercise Example 2](code/arrayBubbles_v6)
+* [Perlin Noise](code/p5)
 
 #### Github Submissions Status
 ![alt text](substatus.png)
