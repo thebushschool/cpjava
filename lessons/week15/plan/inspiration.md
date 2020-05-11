@@ -10,7 +10,7 @@
 
 
 #### Recursion and L-Systems
-* [Fractal Weed](../code/fractalWeed_v2)
+* [Fractal Weed](../code/fractalWeed_v3)
 * [Fractal Tree](../code/fractalTree_v3)
 
 #### Forces and Systems
