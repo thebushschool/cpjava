@@ -166,29 +166,31 @@ _Topics: Objects, Array Lists, Perlin Noise_
 *  [Overview](lessons/week14)
 *  [Exercises](lessons/week14/plan/bubbles.md)
 
-### Week 15 - 5/11
+### [Week 15 - 5/11](lessons/week15)
 
-_Topics: Building Student Porfolio, Catching-up .._
+_Topics: Catching-up on assignments and 1-1 Conferences_
 
-* Details to be added
+* [Overview](lessons/week15)
+* Exercises: All pending assignments due in Student Portfolio by May 14th 
+* Class Work: 1-1 Conferences and [Final Project Ideas](lessons/week15/plan/inspiration.md)
 
 ### Week 16 - 5/18
 
 _Topics: FINAL PROJECT WEEK 1_
 
-* Details to be added
+* Class Work: Work on Final Project and 1-1 Conferences, Due May 28th
 
 ### Week 17 - 5/25
 
-_Topics: FINAL PROJECT WEEK 2_
+_Topics: FINAL PROJECT WEEK 2 AND FINAL PRESENTATIONS_
 
-* Details to be added
+* Class Work: Final Project Completion by May 28th and Peer Sharing Presentations
 
 ### Week 18 - 6/1
 
-_Topics: FINAL PRESENTATION_
+_Topics: PEER SHARING - FINAL PROJECT PRESENTATION_
 
-* Details to be added
+* Class Work: Peer Sharing Final Project Presentations
 
 [washhands]: https://www.cdc.gov/handwashing/images/GettyImages-514363103-medium.jpg "Wash Hands"
 
