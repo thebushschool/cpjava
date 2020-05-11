@@ -20,5 +20,5 @@
 
 #### Perlin Noise
 * [Perlin Noise to model Liquid Surface](../code/pn5)
-* [Falling objects on Perlin Liquid](../code/liquidDrag_v1)
+* [Falling objects on Perlin Liquid](../code/pn5)
 
