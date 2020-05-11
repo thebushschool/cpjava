@@ -11,6 +11,7 @@
 
 #### Recursion and L-Systems
 * [Fractal Weed](../code/fractalWeed_v2)
+* [Fractal Weed](../code/fractalTree_v3)
 
 #### Forces and Systems
 * [Liquid Drag on falling objects](../code/dragForce_v2)
@@ -18,6 +19,6 @@
 * [Planets and the Sun](../code/planets_v1)
 
 #### Perlin Noise
-* [Perlin Noise to model Liquid Surface](../code/liquidDrag_v1)
-* [Falling objects on Perlin Liquid](../code/dragForce_v3)
+* [Perlin Noise to model Liquid Surface](../code/pn5)
+* [Falling objects on Perlin Liquid](../code/liquidDrag_v1)
 
