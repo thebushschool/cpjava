@@ -1,6 +1,8 @@
 // The Nature of Code
 // Daniel Shiffman
 // http://natureofcode.com
+// Adapted for Bush School IDMD Class
+// Chandru Narayan
 
 class Liquid {
   constructor(x, y, w, h, c) {

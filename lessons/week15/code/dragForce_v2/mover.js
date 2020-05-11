@@ -1,6 +1,8 @@
 // The Nature of Code
 // Daniel Shiffman
 // http://natureofcode.com
+// Adapted for Bush School IDMD Class
+// Chandru Narayan
 
 class Mover {
   constructor(x, y, mass) {
