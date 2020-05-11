@@ -11,7 +11,7 @@
 
 #### Recursion and L-Systems
 * [Fractal Weed](../code/fractalWeed_v2)
-* [Fractal Weed](../code/fractalTree_v3)
+* [Fractal Tree](../code/fractalTree_v3)
 
 #### Forces and Systems
 * [Liquid Drag on falling objects](../code/dragForce_v2)
