@@ -18,6 +18,6 @@
 * [Planets and the Sun](../code/planets_v1)
 
 #### Perlin Noise
-* [Perlin Noise to model Liquid Surface](../code/pn5)
+* [Perlin Noise to model Liquid Surface](../code/liquidDrag_v1)
 * [Falling objects on Perlin Liquid](../code/dragForce_v3)
 
