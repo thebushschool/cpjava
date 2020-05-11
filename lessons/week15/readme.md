@@ -2,6 +2,10 @@
 
 ## Week 15 - 5/11
 
+## Apology for missing class today (May 11th)!
+* I am so sorry to have missed class today. Please our planned activity below. I am making amends by posting some interesting sketches [to this site](plan/inspitation.md) for you to ponder in inspiration for your final project.  Please schedule 1-1 time with me on Calendly below to discuss your ideas!
+* 
+
 ## Learning Objectives
 * All pending assignments are due in Student Portfolio by May 14th
 * Class time for working on Assignments and answer questions about them
