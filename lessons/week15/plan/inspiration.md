@@ -5,12 +5,19 @@
 ### Inspiration for Final Project IDEAS
 
 #### Objects and Array Lists
-* [Jitter Bug Exercise Example 1](../code/jitterBug_v2)
-* [Bubbles Exercise Example 2](../code/arrayBubbles_v6)
-* [Planets Exercise Example 3](../code/planets_v1)
+* [Jitter Bug](../code/jitterBug_v2)
+* [Lots of Bubbles](../code/arrayBubbles_v6)
 
-#### Perlin Noise
-* [Perlin Noise](../code/pn5)
 
 #### Recursion and L-Systems
 * [Fractal Weed](../code/fractalWeed_v2)
+
+#### Forces and Systems
+* [Liquid Drag on falling objects](../code/dragForce_v2)
+* [Simulating Mass and Wind Force](../code/windForce_v2)
+* [Planets and the Sun](../code/planets_v1)
+
+#### Perlin Noise
+* [Perlin Noise to model Liquid Surface](../code/pn5)
+* [Falling objects on Perlin Liquid](../code/dragForce_v3)
+

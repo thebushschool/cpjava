@@ -4,7 +4,7 @@
 
 ## Learning Objectives
 * All pending assignments are due in Student Portfolio by May 14th
-* Class time for working on Assignments and answe questions about them
+* Class time for working on Assignments and answer questions about them
 
 ## Reminders
 * 1-1 Conferences
