@@ -31,7 +31,6 @@ function draw() {
 
   // Draw water
   liquid.display();
-  //liquid.updateSurface();
 
   for (let i = 0; i < movers.length; i++) {
 
@@ -44,7 +43,7 @@ function draw() {
     }
 
     // Gravity is scaled by mass here!
-    let gravity = createVector(0, 0.1 * movers[i].mass);
+    let gravity = createVector(0, 0.05 * movers[i].mass);
     // Apply gravity
     movers[i].applyForce(gravity);
 
