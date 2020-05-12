@@ -65,6 +65,6 @@ function mousePressed() {
 // Restart all the Mover objects randomly
 function reset() {
   for (let i = 0; i < maxMovers; i++) {
-    movers[i] = new Mover(40 + i * width/maxMovers, 0, random(0.5, 3));
+    movers[i] = new Mover(40 + i * width/maxMovers, 0, random(0.3, 3));
   }
 }
