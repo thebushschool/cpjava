@@ -12,13 +12,13 @@
 
 // Five moving bodies
 let movers = [];
-let maxMovers = 10;
+let maxMovers = 20;
 
 // Liquid
 let liquid;
 
 function setup() {
-  createCanvas(600, 800);
+  createCanvas(1200, 800);
   reset();
   // Create liquid object
   liquid = new Liquid(0, height / 2, width, height / 2, 0.1);
