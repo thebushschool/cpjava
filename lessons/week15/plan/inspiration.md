@@ -14,7 +14,6 @@
 * [Fractal Tree](../code/fractalTree_v3)
 
 #### Forces and Systems
-* [Liquid Drag on falling objects](../code/dragForce_v2)
 * [Simulating Mass and Wind Force](../code/windForce_v2)
 * [Planets and the Sun](../code/planets_v1)
 
