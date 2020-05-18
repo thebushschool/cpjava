@@ -174,7 +174,7 @@ _Topics: Catching-up on assignments and 1-1 Conferences_
 * Exercises: All pending assignments due in Student Portfolio by May 14th 
 * Class Work: 1-1 Conferences and [Final Project Ideas](lessons/week15/plan/inspiration.md)
 
-### Week 16 - 5/18
+### [Week 16 - 5/18](lessons/week15/plan/inspiration.md)
 
 _Topics: FINAL PROJECT WEEK 1_
 
