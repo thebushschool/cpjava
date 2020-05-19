@@ -1,7 +1,5 @@
 [_Bush School IDMD Spring Semester 2020_](https://chandrunarayan.github.io/idmd/)
 
-## Week 15 - 5/11
-
 ### Inspiration for Final Project IDEAS
 
 #### Objects, Array Lists, Systems of Objects
