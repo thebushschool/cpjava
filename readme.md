@@ -180,7 +180,7 @@ _Topics: FINAL PROJECT WEEK 1_
 
 * Class Work: Work on Final Project and 1-1 Conferences, Due May 28th
 
-### Week 17 - 5/25
+### [Week 17 - 5/25](lessons/week15/plan/inspiration.md)
 
 _Topics: FINAL PROJECT WEEK 2 AND FINAL PRESENTATIONS_
 
