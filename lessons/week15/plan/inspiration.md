@@ -1,11 +1,13 @@
 [_Bush School IDMD Spring Semester 2020_](https://chandrunarayan.github.io/idmd/)
 
-### Inspiration for Final Project IDEAS
+### Inspiration for Final Project Ideas
 
 #### Objects, Array Lists, Systems of Objects
 * [Jitter Bug](../code/jitterBug_v2)
 * [Lots of Bubbles](../code/arrayBubbles_v6)
 * [Bubble Systems](../code/groupsOfBubbles_v2)
+* [Running Stickpersons](../code/runningStickpersons)
+* [Talking Face](../code/talkingFace)
 
 #### Recursion and L-Systems
 * [Fractal Weed](../code/fractalWeed_v3)

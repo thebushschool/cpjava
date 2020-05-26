@@ -6,6 +6,7 @@
 * Complete Final Project and Pending Assignments
 * Provide 1-1 assistance as needed
 * [Ideas for Final Project](../week15/plan/inspiration.md)
+* [Look in Slack for code extracts](https://idmd2020.slack.com)
 
 ## Reminders
 * 1-1 Conferences
