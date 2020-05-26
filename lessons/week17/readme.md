@@ -9,6 +9,7 @@
 * [Look in Slack for code extracts](https://idmd2020.slack.com)
 
 ## Reminders
+* [Final Project Assignment](https://bush.myschoolapp.com/app/faculty#academicclass/109608285/0/assignments)
 * 1-1 Conferences
     *    [Please schedule 1-1 Wed Conferences here](https://calendly.com/chandru-narayan/conf_wed_idmd_a_block)
     *    [Please schedule 1-1 Mon-Tue-Thu-Fri Conferences here](https://calendly.com/chandru-narayan/conf_montuethufri)
