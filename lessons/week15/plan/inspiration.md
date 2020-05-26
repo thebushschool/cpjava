@@ -7,6 +7,7 @@
 * [Lots of Bubbles](../code/arrayBubbles_v6)
 * [Bubble Systems](../code/groupsOfBubbles_v2)
 * [Running Stickpersons](../code/runningStickpersons)
+* [Crawlers](../code/crawlers)
 * [Talking Face](../code/talkingFace)
 
 #### Recursion and L-Systems
