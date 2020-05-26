@@ -5,6 +5,7 @@
 ## Learning Objectives
 * Complete Final Project and Pending Assignments
 * Provide 1-1 assistance as needed
+* [Ideas for Final Project](../week15/plan/inspiration.md)
 
 ## Reminders
 * 1-1 Conferences
