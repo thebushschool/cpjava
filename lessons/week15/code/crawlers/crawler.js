@@ -1,6 +1,8 @@
 // The Nature of Code
 // Daniel Shiffman
 // http://natureofcode.com
+// Adapted for IDMD class
+//  Chandru Narayan
 
 // Attraction
 
