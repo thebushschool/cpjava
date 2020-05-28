@@ -185,8 +185,9 @@ _Topics: FINAL PROJECT WEEK 1_
 _Topics: FINAL PROJECT WEEK 2 AND FINAL PRESENTATIONS_
 
 * Class Work: Final Project Completion by May 28th and Peer Sharing Presentations
-* Please join synchronous session May 26th @10:15 AM for discussions/questions on final project.
+* [Student Portfolios](student-work.md)
 
+![alt text][congrats]
 ### Week 18 - 6/1
 
 _Topics: PEER SHARING - FINAL PROJECT PRESENTATION_
@@ -194,4 +195,6 @@ _Topics: PEER SHARING - FINAL PROJECT PRESENTATION_
 * Class Work: Peer Sharing Final Project Presentations
 
 [washhands]: https://www.cdc.gov/handwashing/images/GettyImages-514363103-medium.jpg "Wash Hands"
+
+[congrats]: congrats.png "Congrats"
 
