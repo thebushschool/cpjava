@@ -25,6 +25,6 @@
 | Leah | [Ghost Race](https://editor.p5js.org/cnarayan/present/bkyZHQgrj) | Standard
 | Ghislaine | [https://ghislaineederer.github.com/idmd-portfolio](https://ghislaineederer.github.io/idmd-portfolio/) | Standard
 | Philipp | [https://philippknmergener.github.io/idmd-portfolio](https://philippknmergener.github.io/idmd-portfolio) | Advanced
-| Erik | [https://erikonsager.github.io/idmd-portfolio](https://erikonsager.github.io/idmd-portfolio) | Advanced
+| Erik | [Ball in Wind](https://erikonsager.github.io/idmd-portfolio/WindBall/index.html) | Advanced
 | Carter | [https://carterschafer.github.io/idmd-portfolio](https://carterschafer.github.io/idmd-portfolio) | Advanced
 | Aidan | [Kaleidoscope](https://aidan-lynch.github.io/idmd-portfolio/kaleidoscope/) | Advanced
