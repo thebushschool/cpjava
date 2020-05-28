@@ -187,6 +187,7 @@ _Topics: FINAL PROJECT WEEK 2 AND FINAL PRESENTATIONS_
 * Class Work: Final Project Completion by May 28th and Peer Sharing Presentations
 * [Student Portfolios](student-work.md)
 
+* [IDMD Students Congratulations!](https://editor.p5js.org/cnarayan/present/yIYhIOSom)
 ![alt text][congrats]
 ### Week 18 - 6/1
 
