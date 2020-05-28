@@ -19,7 +19,7 @@
 
 | People | Project | Pathway |
 | :--- | :--- | :--- |
-| Pamela | [https://pamelabiniam.github.io/idmd-portfolio](https://pamelabiniam.github.io/idmd-portfolio) | Standard
+| Pamela | [Jittering Robots](https://editor.p5js.org/cnarayan/present/3X6DZIY7i) | Standard
 | Jeffrey | [https://jpbatzz.github.io/idmd-portfolio](https://jpbatzz.github.io/idmd-portfolio) | Standard
 | Maya | [https://mayaschrum.github.io/idmd-portfolio](https://mayaschrum.github.io/idmd-portfolio) | Standard
 | Leah | [https://leahtruman.github.io/idmd-portfolio](https://leahtruman.github.io/idmd-portfolio) | Standard
