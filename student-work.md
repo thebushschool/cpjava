@@ -19,7 +19,7 @@
 
 | People | Project | Pathway |
 | :--- | :--- | :--- |
-| Pamela | [Jittering Robots](https://editor.p5js.org/cnarayan/present/3X6DZIY7i) | Standard
+| Pamela | [Jittering Robots](https://pamelabiniam.github.io/idmd-portfolio/Final%20Project/) | Standard
 | Jeffrey | [Minions](https://jpbatzz.github.io/idmd-portfolio/FINAL_PROJECT/) | Standard
 | Maya | [https://mayaschrum.github.io/idmd-portfolio](https://mayaschrum.github.io/idmd-portfolio) | Standard
 | Leah | [Ghost Race](https://editor.p5js.org/cnarayan/present/bkyZHQgrj) | Standard
