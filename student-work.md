@@ -27,4 +27,4 @@
 | Philipp | [https://philippknmergener.github.io/idmd-portfolio](https://philippknmergener.github.io/idmd-portfolio) | Advanced
 | Erik | [https://erikonsager.github.io/idmd-portfolio](https://erikonsager.github.io/idmd-portfolio) | Advanced
 | Carter | [https://carterschafer.github.io/idmd-portfolio](https://carterschafer.github.io/idmd-portfolio) | Advanced
-| Aidan | [https://aidan-lynch.github.io/idmd-portfolio](https://aidan-lynch.github.io/idmd-portfolio) | Advanced
+| Aidan | [Kaleidoscope](https://aidan-lynch.github.io/idmd-portfolio/kaleidoscope/) | Advanced
