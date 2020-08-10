@@ -1,13 +1,13 @@
-[_Bush School CPJAVA Spring Semester 2020_](https://chandrunarayan.github.io/cpjava/)
+[_Bush School CPJava Spring Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
 # CPJava Main Page
 
 ## Remote Classroom Tools
 
-In our CPJAVA classroom we are already using tools and techniques that are naturally adapted to a remote learning format. We will continue using our already established tools and techniques for learning IDMD.  We will add to that, a video conferencing solution  to complete our toolset needed for remote learning! All applications (except email) are to be run using your Chrome Browser on your laptop. 
+In our CPJava classroom we are already using tools and techniques that are naturally adapted to a remote learning format. We will continue using our already established tools and techniques for learning IDMD.  We will add to that, a video conferencing solution  to complete our toolset needed for remote learning! All applications (except email) are to be run using your Chrome Browser on your laptop. 
 
-1. [ZOOM for CPJAVA](https://zoom.us/j/5176316708) - video conferencing application - join here each day and time IDMD classes are held
-2. [CPJAVA WEBSITE](https://chandrunarayan.github.io/idmd/) - lessons, exercises, projects, student-portfolios, references
+1. [ZOOM for CPJava](https://zoom.us/j/5176316708) - video conferencing application - join here each day and time IDMD classes are held
+2. [CPJava WEBSITE](https://chandrunarayan.github.io/idmd/) - lessons, exercises, projects, student-portfolios, references
 3. [SLACK Instant Messaging](https://app.slack.com/client/TTS9Y46VC) - differentiated classroom, code extract, bug fixes, instant help, quick challenges
 4. [GITHUB repository](https://github.com/) - code submissions for exercises and projects, published student portfilios
 5. [P5JS Web Editor](https://editor.p5js.org) - web code editor for p5js
