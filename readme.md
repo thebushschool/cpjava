@@ -1,6 +1,6 @@
 [_Bush School IDMD Spring Semester 2020_](https://chandrunarayan.github.io/idmd/)
 
-# IDMD Main Page
+# CPJava Main Page
 
 ## Remote Classroom Tools
 
