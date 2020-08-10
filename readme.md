@@ -1,12 +1,12 @@
-[_Bush School CPJava Spring Semester 2020_](https://chandrunarayan.github.io/cpjava/)
+[_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
-# CPJava Main Page
+# Computer Progranning in Java Course Main Page
 
 ## Remote Classroom Tools
 
-In our CPJava classroom we are already using tools and techniques that are naturally adapted to a remote learning format. We will continue using our already established tools and techniques for learning IDMD.  We will add to that, a video conferencing solution  to complete our toolset needed for remote learning! All applications (except email) are to be run using your Chrome Browser on your laptop. 
+In our CPJava classroom we are already using tools and techniques that are naturally adapted to a remote learning format. We will continue using our already established tools and techniques for learning CPJava.  We will add to that, a video conferencing solution  to complete our toolset needed for remote learning! All applications (except email) are to be run using your Chrome Browser on your laptop. 
 
-1. [ZOOM for CPJava](https://zoom.us/j/5176316708) - video conferencing application - join here each day and time IDMD classes are held
+1. [ZOOM for CPJava](https://zoom.us/j/5176316708) - video conferencing application - join here each day and time CPJava classes are held
 2. [CPJava WEBSITE](https://chandrunarayan.github.io/cpjava/) - lessons, exercises, projects, student-portfolios, references
 3. [SLACK Instant Messaging](https://app.slack.com/client/TTS9Y46VC) - differentiated classroom, code extract, bug fixes, instant help, quick challenges
 4. [GITHUB repository](https://github.com/) - code submissions for exercises and projects, published student portfilios
@@ -15,7 +15,7 @@ In our CPJava classroom we are already using tools and techniques that are natur
 7. [Online textbook](https://drive.google.com/drive/u/2/folders/15GK0VESxqTvYGst9EtvILshb0MGlO4c5) - Getting Started with P5JS 
 8. [Bush PORTAL](https://bush.myschoolapp.com/app/faculty#academicclass/109608285/0/bulletinboard) - links for all tools, official assignments, schedules, syllabus, grade rubric
 9. Conference Appointments
-    *    [Please schedule 1-1 Wed Conferences here](https://calendly.com/chandru-narayan/conf_wed_idmd_a_block)
+    *    [Please schedule 1-1 Wed Conferences here](https://calendly.com/chandru-narayan/conf_wed_cpjava_a_block)
     *    [Please schedule 1-1 Mon-Tue-Thu-Fri Conferences here](https://calendly.com/chandru-narayan/conf_montuethufri)
 
 10. EMAIL - check your Bush email multiple times a day. Default communication method when all else fails! 
@@ -44,12 +44,12 @@ Software influences all aspects of contemporary visual culture. Students will ex
 
 ## Course Links
 
-* Course Website: [IDMD 2020 Website](https://chandrunarayan.github.io/idmd/)
+* Course Website: [CPJava 2020 Website](https://chandrunarayan.github.io/cpjava/)
 * Online textbook: [Getting Started with P5JS](https://drive.google.com/drive/u/2/folders/15GK0VESxqTvYGst9EtvILshb0MGlO4c5)
 * P5JS Basics: [Wiki Page for Help Examples and Reference](https://github.com/processing/p5.js/wiki/JavaScript-basics)
-* Other Course materials: [Google Drive IDMD](https://drive.google.com/drive/folders/1iRMwhQ_s2qayCJFFZz6Z3hnwFvgMTEI4?usp=sharing)
+* Other Course materials: [Google Drive CPJava](https://drive.google.com/drive/folders/1iRMwhQ_s2qayCJFFZz6Z3hnwFvgMTEI4?usp=sharing)
 * Assignment Submissions via [Your Github Site](https://github.com/)
-* Slack Instant Messaging - [IDMD 2020 Slack](https://idmd2020.slack.com/)
+* Slack Instant Messaging - [CPJava 2020 Slack](https://cpjava2020.slack.com/)
 
 ## Course Credit
 
@@ -140,8 +140,8 @@ _Topics: Arrays, Functions, User Input_
 _Topics: Conferences and Catch Up on Assignments_
 
 * Conferences 1-1
-    *    [Please schedule 1-1 Wed Conferences here](https://calendly.com/chandru-narayan/conf_wed_idmd_a_block)
-    *    [Please schedule 1-1 Mon-Tue-Thu-Fri Conferences here](https://calendly.com/chandru-narayan/conf_wed_idmd_a_block)
+    *    [Please schedule 1-1 Wed Conferences here](https://calendly.com/chandru-narayan/conf_wed_cpjava_a_block)
+    *    [Please schedule 1-1 Mon-Tue-Thu-Fri Conferences here](https://calendly.com/chandru-narayan/conf_wed_cpjava_a_block)
 * Help with Assignments
 * SPRING BREAK STARTS 4/9
 
@@ -160,7 +160,7 @@ _Topics: Recursion, Fractals_
 
 _Topics: Recursion, Complex Numbers, Mandelbrot Set, Array Lists_
 * [Overview](lessons/week13)
-* Exercises - No Coding assignment this week. [Setup Calendly meeting](https://calendly.com/chandru-narayan/conf_wed_idmd_a_block) with me for discussing your final project
+* Exercises - No Coding assignment this week. [Setup Calendly meeting](https://calendly.com/chandru-narayan/conf_wed_cpjava_a_block) with me for discussing your final project
 
 ### [Week 14 - 5/4](lessons/week14)
 
@@ -190,7 +190,7 @@ _Topics: FINAL PROJECT WEEK 2 AND FINAL PRESENTATIONS_
 * Class Work: Final Project Completion by May 28th and Peer Sharing Presentations
 * [Student Portfolios](student-work.md)
 
-* [IDMD Students Congratulations!](https://editor.p5js.org/cnarayan/present/yIYhIOSom)
+* [CPJava Students Congratulations!](https://editor.p5js.org/cnarayan/present/yIYhIOSom)
 ![alt text][congrats]
 ### Week 18 - 6/1
 

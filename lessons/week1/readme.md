@@ -1,4 +1,4 @@
-[_Bush School IDMD Spring Semester 2020_](https://chandrunarayan.github.io/idmd/)
+[_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
 # Week 1
 
@@ -47,7 +47,7 @@
 
 ## Resources
 * [How to add projects to your Github portfolio video](https://youtu.be/M-bNnVwBHUY)
-  * The video references UW "hcde-portfolio" - Instead use Bush School "idmd-portfolio"
+  * The video references UW "hcde-portfolio" - Instead use Bush School "cpjava-portfolio"
 
 ## Homework
 * Continue classwork Exercises to finish at home

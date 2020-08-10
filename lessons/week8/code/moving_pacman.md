@@ -1,5 +1,5 @@
 
-[_Bush School IDMD Spring Semester 2020_](https://chandrunarayan.github.io/idmd/)
+[_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
 ## Exercise: Moving Pacman
 
@@ -9,4 +9,4 @@
 
 1. After completing the 2 examples above, try 8.7 and 8.9 examples from [online P5JS textbook](https://drive.google.com/drive/u/2/folders/15GK0VESxqTvYGst9EtvILshb0MGlO4c5)
 
-[pacmanhint]: https://chandrunarayan.github.io/idmd/lessons/week8/code/wrap_around.png "pacmanhint"
+[pacmanhint]: https://chandrunarayan.github.io/cpjava/lessons/week8/code/wrap_around.png "pacmanhint"

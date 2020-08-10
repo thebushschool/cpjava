@@ -1,4 +1,4 @@
-[_Bush School IDMD Spring Semester 2020_](https://chandrunarayan.github.io/idmd/)
+[_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
 ## Week 12 - 4/22 and 4/23 
 
@@ -6,7 +6,7 @@
 
 ## Reminders
 * 1-1 Conferences
-    *    [Please schedule 1-1 Wed Conferences here](https://calendly.com/chandru-narayan/conf_wed_idmd_a_block)
+    *    [Please schedule 1-1 Wed Conferences here](https://calendly.com/chandru-narayan/conf_wed_cpjava_a_block)
     *    [Please schedule 1-1 Mon-Tue-Thu-Fri Conferences here](https://calendly.com/chandru-narayan/conf_montuethufri)
 * Assignments Due before Spring Break 
     * STD Team: [Moving Pacman Exercise](../week8/code/moving_pacman.md). Add to Github and Student Portfolio

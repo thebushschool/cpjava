@@ -1,7 +1,7 @@
 // The Nature of Code
 // Daniel Shiffman
 // http://natureofcode.com
-// Adapted for Bush School IDMD Class
+// Adapted for Bush School CPJava Class
 // Chandru Narayan
 
 class Liquid {

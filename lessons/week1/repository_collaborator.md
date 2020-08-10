@@ -1,8 +1,8 @@
 ---
 marp: true
-header: '[_Bush School IDMD Spring Semester 2020_](https://chandrunarayan.github.io/idmd/)'
+header: '[_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)'
 ---
-# Adding Collaborators to your Github IDMD-Portfolio
+# Adding Collaborators to your Github CPJava-Portfolio
 ---
 .
 .
@@ -14,7 +14,7 @@ header: '[_Bush School IDMD Spring Semester 2020_](https://chandrunarayan.github
 .
 .
 .
-. Click on the IDMD-Portfolio link
+. Click on the CPJava-Portfolio link
 ![image](collaborators/step2.png)
 
 ---

@@ -1,5 +1,5 @@
 
-[_Bush School IDMD Spring Semester 2020_](https://chandrunarayan.github.io/idmd/)
+[_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
 ## Exercise: Recursion with Shapes and Colors
 

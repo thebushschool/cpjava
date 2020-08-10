@@ -1,4 +1,4 @@
-[_Bush School IDMD Spring Semester 2020_](https://chandrunarayan.github.io/idmd/)
+[_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
 ## Week 14 - 5/3
 
@@ -9,7 +9,7 @@
 
 ## Reminders
 * 1-1 Conferences
-    *    [Please schedule 1-1 Wed Conferences here](https://calendly.com/chandru-narayan/conf_wed_idmd_a_block)
+    *    [Please schedule 1-1 Wed Conferences here](https://calendly.com/chandru-narayan/conf_wed_cpjava_a_block)
     *    [Please schedule 1-1 Mon-Tue-Thu-Fri Conferences here](https://calendly.com/chandru-narayan/conf_montuethufri)
     *    ALL Teams (Required): Complete the [Recursion Exercise](../week12/code/recursion)
     *    (Optional Extra Credit): [Complex Numbers and Mandelbrot Set](../week13/plan/complexnum) Code Extracts in Slack in [#advteamch](https://app.slack.com/client/TTS9Y46VC/GUQC6EUDC) or [#stdteamch](https://app.slack.com/client/TTS9Y46VC/GUQC6EUDC) channels

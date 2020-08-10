@@ -1,7 +1,7 @@
 // The Nature of Code
 // Daniel Shiffman
 // http://natureofcode.com
-// Adapted for IDMD class
+// Adapted for CPJava class
 //  Chandru Narayan
 
 // Attraction

@@ -1,4 +1,4 @@
-[_Bush School IDMD Spring Semester 2020_](https://chandrunarayan.github.io/idmd/)
+[_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
 # Creating Your Portfolio
 These steps will guide you through setting up your portfolio on [Github](https://github.com/). These instructions are more complicated than we would like, if you have any trouble at all please reach out to your instructor.
@@ -9,7 +9,7 @@ You can either complete the steps by following the text described here, or watch
 
 1. Login to [Github](https://github.com/)
 1. Click the `+` in the upper-right corner and choose _New repository_
-1. Fill in a repository name (e.g., portfolio, idmd-portfolio, etc)
+1. Fill in a repository name (e.g., portfolio, cpjava-portfolio, etc)
 1. Check _Initialize this repository with a README_
 1. Click _Create repository_
 
@@ -36,9 +36,9 @@ You can either complete the steps by following the text described here, or watch
 
 ## Add P5JS project to your Github using Drag and Drop
 
-1. [Add P5JS project to your Github using Drag and Drop Video](https://github.com/chandrunarayan/idmd/blob/master/add_p5js_to_index.mov) 
+1. [Add P5JS project to your Github using Drag and Drop Video](https://github.com/chandrunarayan/cpjava/blob/master/add_p5js_to_index.mov) 
 
-## Add Chandru as a Collaborator on your idmd-portfolio repository
+## Add Chandru as a Collaborator on your cpjava-portfolio repository
 
 1. [Add Collaborator to your Github Repository](repository_collaborator.md)
 

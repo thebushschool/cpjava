@@ -1,4 +1,4 @@
-[_Bush School IDMD Spring Semester 2020_](https://chandrunarayan.github.io/idmd/)
+[_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
 # Week 6
 _Note: Remote schooling this week due to the coronavirus, continue to work on your Creativity Exploration and Data Visualization and add some CSS to your portfolio._

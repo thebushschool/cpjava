@@ -1,4 +1,4 @@
-[_Bush School IDMD Spring Semester 2020_](https://chandrunarayan.github.io/idmd/)
+[_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 # Week 4 Homework
 
 ## Creativity Exploration and In-Class Exercises
@@ -38,13 +38,13 @@ In this program a stick figure is animated to walk forward over an abyss. Notice
 * Your code should have a top comment block with your name, last edited date, and a brief description of the entire program
 * Each line in setup and draw should have a comment
 * Each function that you created should have a top comment briefly explaining what that function does (note that setup and draw do not need top comments)
-* Add your creative exploration project to your Github idmd-portfolio. If working in pairs both persons should add it to their individual portfolios.
+* Add your creative exploration project to your Github cpjava-portfolio. If working in pairs both persons should add it to their individual portfolios.
 
 ### Resources
 * Daniel Shiffman's [p5.js Videos](https://www.youtube.com/user/shiffman/playlists?sort=dd&view=50&shelf_id=14)
 
-[rain]: https://chandrunarayan.github.io/idmd/lessons/week4/homework/images/seattle_rain.png "Seattle Rain Project"
+[rain]: https://chandrunarayan.github.io/cpjava/lessons/week4/homework/images/seattle_rain.png "Seattle Rain Project"
 
-[heart]: https://chandrunarayan.github.io/idmd/lessons/week4/homework/images/heart.png "Beating Heart Project"
+[heart]: https://chandrunarayan.github.io/cpjava/lessons/week4/homework/images/heart.png "Beating Heart Project"
 
-[walking-person]: https://chandrunarayan.github.io/idmd/lessons/week4/homework/images/walking_person.png "Walking Person Project"
+[walking-person]: https://chandrunarayan.github.io/cpjava/lessons/week4/homework/images/walking_person.png "Walking Person Project"

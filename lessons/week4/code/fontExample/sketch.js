@@ -6,5 +6,5 @@ function setup() {
 
 function draw() {
   background(255);
-  text("Hello IDMD Visual Artists!!", 30, 100);
+  text("Hello CPJava Visual Artists!!", 30, 100);
 }

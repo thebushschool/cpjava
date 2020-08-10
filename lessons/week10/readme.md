@@ -1,10 +1,10 @@
-[_Bush School IDMD Spring Semester 2020_](https://chandrunarayan.github.io/idmd/)
+[_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
 ## Week 10 - 4/6 to 4/8 - SHORT WEEK
 
 ## Learning Objectives
 * 1-1 Conferences
-    *    [Please schedule 1-1 Wed Conferences here](https://calendly.com/chandru-narayan/conf_wed_idmd_a_block)
+    *    [Please schedule 1-1 Wed Conferences here](https://calendly.com/chandru-narayan/conf_wed_cpjava_a_block)
     *    [Please schedule 1-1 Mon-Tue-Thu-Fri Conferences here](https://calendly.com/chandru-narayan/conf_montuethufri)
 * Catch up and help with Assignments
 
