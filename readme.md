@@ -21,7 +21,7 @@ In our CPJava classroom we are already using tools and techniques that are natur
 10. EMAIL - check your Bush email multiple times a day. Default communication method when all else fails! 
 
 #### [Computer Programming in Java Course Schedule](./CPJava_course_schedule.pdf)
-![alt text](CPJava_course_schedule.pdf)
+![alt text](CPJava_course_schedule.png)
 
 #### [Remote Schooling Daily Schedule](./BSDS.png)
 ![alt text](BSDS.png)
