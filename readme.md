@@ -1,6 +1,6 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
-# Computer Progranning in Java Course Main Page
+# Computer Programming in Java Course Main Page
 
 ## Remote Classroom Tools
 
