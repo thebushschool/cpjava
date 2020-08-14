@@ -1,9 +1,13 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
-# Computer Programming in Java Course Main Page
-In this year-long computer science course, you will learn the basics of programming in the Java language. This course includes a broad view of computer operation, the global impact of computing, and then introduces Java programming concepts, including variables, selection and object-oriented design. This course is for anyone interested in taking a first-level computer-programming course. No previous programming knowledge is required to take this course. We are looking forward to helping you explore this exciting new world!  
+# Computer Programming in Java
 
-While the topics covered in this course are inclusive of the curriculum specified by the Advanced Placement Computer Science A (APCSA) exam, some students without prior exposure to programming might find that they require additional preparation.
+This course is designed to introduce computer programming in the Java language. Learning to use a computer language is a necessary skill for all students regardless of discipline. In this course we will teach the fundamentals of computer programming from the stand point of simulation, automation, and problem solving of real-world systems and natural processes. At the same time, the design and implementation of computer programs is taught from the context of fundamental aspects of computer science, including the development and analysis of algorithms, the development and use of fundamental data structures, the study of standard
+algorithms and typical applications, and the use of logic and formal methods. 
+
+In addition, the year-long course will cover many of the topics necessary for preparation to the AP Computer Science A (APCSA) examination in Spring of the following year. This is an introductory course in computer programming using Java. As such, no specific programming prerequisites are needed to take this course. However, additional preparation may be needed to fully prepare a student for the AP CSA exam with no prior knowledge of computer programming.
+
+[Click here for a Complete Course Description](Computer_Programming_in_Java_-_Syllabus_-_Fall_2020_v1.pdf)
 ## Remote Classroom Tools
 
 In our CPJava classroom we are already using tools and techniques that are naturally adapted to a remote learning format. We will continue using our already established tools and techniques for learning CPJava.  We will add to that, a video conferencing solution  to complete our toolset needed for remote learning! All applications (except email) are to be run using your Chrome Browser on your laptop. 
@@ -12,50 +16,45 @@ In our CPJava classroom we are already using tools and techniques that are natur
 2. [CPJava WEBSITE](https://chandrunarayan.github.io/cpjava/) - lessons, exercises, projects, student-portfolios, references
 3. [SLACK Instant Messaging](https://app.slack.com/client/TTS9Y46VC) - differentiated classroom, code extract, bug fixes, instant help, quick challenges
 4. [GITHUB repository](https://github.com/) - code submissions for exercises and projects, published student portfilios
-5. [P5JS Web Editor](https://editor.p5js.org) - web code editor for p5js
+5. [Processing Editor (IDE)](https://processing.org) - Code editor for Java and Processing/P5JS languages
 6. [Student Portfolios](student-work.md) - Links to Student Porfolios
-7. [Online textbook](https://drive.google.com/drive/u/2/folders/15GK0VESxqTvYGst9EtvILshb0MGlO4c5) - Getting Started with P5JS 
+7. [Online Text/Courseware](https://runestone.academy/runestone/books/published/csawesome/index.html) - eBook for Java and Runestone CSAwesome Courseware - Login/Register with Bush ID
 8. [Bush PORTAL](https://bush.myschoolapp.com/app/faculty#academicclass/109608285/0/bulletinboard) - links for all tools, official assignments, schedules, syllabus, grade rubric
 9. Conference Appointments
-    *    [Please schedule 1-1 Wed Conferences here](https://calendly.com/chandru-narayan/conf_wed_cpjava_a_block)
-    *    [Please schedule 1-1 Mon-Tue-Thu-Fri Conferences here](https://calendly.com/chandru-narayan/conf_montuethufri)
+    *    TBD
 
 10. EMAIL - check your Bush email multiple times a day. Default communication method when all else fails! 
 
-#### [Computer Programming in Java Course Schedule](./CPJava_course_schedule.pdf)
+#### [DRAFT Computer Programming in Java Course Schedule](./CPJava_course_schedule.pdf)
 ![alt text](CPJava_course_schedule.png)
 
-#### [Remote Schooling Daily Schedule](./BSDS.png)
-![alt text](BSDS.png)
+#### [TBD Remote Schooling Daily Schedule]()
+![alt text]()
 
 #### A Reminder
-We are all going through some extraordinary times due to the coronavirus.  I would like to ask you to think about those among us who are suffering due to this affliction. Let us take time to be vigilant about [washing hands frequently](https://www.cdc.gov/handwashing/when-how-handwashing.html), not touching our face and avoiding being in large groups. Most of all, be calm about things beyond our control.
+We are all going through some extraordinary times due to the coronavirus.  I would like to ask you to think about those among us who are suffering due to this affliction. Let us take time to be vigilant about [wearing masks and washing hands frequently](https://www.cdc.gov/handwashing/when-how-handwashing.html), not touching our face and avoiding being in large groups. Most of all, be calm about things beyond our control.
 
 ![alt text][washhands]
 
-## Course Description
-
-Software influences all aspects of contemporary visual culture. Students will explore the essentials of Computer Programming including: cconditional control structures, iteration, data structures, functions, classes, objects, and event-driven design. We will create projects based on student interest including, but not limited to video games, installation art, and simulations of biological and social phenomena. We will learn and create using the programming language Javascript and the library p5.js, a full featured library that allows one to create interactive digital art for the web. To see examples of the interactive digital media you can create with code, [watch this video](https://www.youtube.com/watch?v=HerCR8bw_GE) by the creators of p5.js.
-
 ## Course Documents
 
-* [Syllabus](syllabus.md)
-* [Topic List](topic-list.md)
-* [Student Portfolios](student-work.md)
-* [Exercise/Project Requirements](final-project.md)
+* [Syllabus](_syllabus.md)
+* [Topic List](_topic-list.md)
+* [Student Portfolios](_student-work.md)
+* [Exercise/Project Requirements](_final-project.md)
 
 ## Course Links
 
 * Course Website: [CPJava 2020 Website](https://chandrunarayan.github.io/cpjava/)
-* Online textbook: [Getting Started with P5JS](https://drive.google.com/drive/u/2/folders/15GK0VESxqTvYGst9EtvILshb0MGlO4c5)
-* P5JS Basics: [Wiki Page for Help Examples and Reference](https://github.com/processing/p5.js/wiki/JavaScript-basics)
-* Other Course materials: [Google Drive CPJava](https://drive.google.com/drive/folders/1iRMwhQ_s2qayCJFFZz6Z3hnwFvgMTEI4?usp=sharing)
+* Online Text/Courseware: [CSAwesome Website](https://runestone.academy/runestone/books/published/
+* Java Processing Basics: [Wiki Page for Help Examples and Reference]()
+* Other Course materials: [Google Drive CPJava]()
 * Assignment Submissions via [Your Github Site](https://github.com/)
-* Slack Instant Messaging - [CPJava 2020 Slack](https://cpjava2020.slack.com/)
+* Slack Instant Messaging - [CPJava 2020 Slack](https://idmd.slack.com/)
 
 ## Course Credit
 
-This course draws from the materials used in the UW Human Center for Design Engineering Master of Science curriculum. Significant credit is also due to the many member founders of the Processing Foundation whose tireless efforts have advanced the cause for open, accessible, and free CS education across the world.
+This course draws from the materials used in the the TEALS curriculum as well as CS programs at Lowell High School in San Francisco and Boston Latin School. Significant credit is also due to the many member founders of the Processing Foundation whose tireless efforts have advanced the cause for open, accessible, and free CS education across the world.
 
 ## Lessons
 
