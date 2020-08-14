@@ -1,7 +1,9 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
 # Computer Programming in Java Course Main Page
+In this year-long computer science course, you will learn the basics of programming in the Java language. This course includes a broad view of computer operation, the global impact of computing, and then introduces Java programming concepts, including variables, selection and object-oriented design. This course is for anyone interested in taking a first-level computer-programming course. No previous programming knowledge is required to take this course. We are looking forward to helping you explore this exciting new world!  
 
+While the topics covered in this course are inclusive of the curriculum specified by the Advanced Placement Computer Science A (APCSA) exam, some students without prior exposure to programming might find that they require additional preparation.
 ## Remote Classroom Tools
 
 In our CPJava classroom we are already using tools and techniques that are naturally adapted to a remote learning format. We will continue using our already established tools and techniques for learning CPJava.  We will add to that, a video conferencing solution  to complete our toolset needed for remote learning! All applications (except email) are to be run using your Chrome Browser on your laptop. 
