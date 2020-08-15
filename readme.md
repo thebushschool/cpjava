@@ -47,7 +47,7 @@ We are all going through some extraordinary times due to the coronavirus.  I wou
 ## Course Links
 
 * Course Website: [CPJava 2020 Website](https://chandrunarayan.github.io/cpjava/)
-* Online Text/Courseware: [CSAwesome Website](https://runestone.academy/runestone/books/published/
+* Online Text/Courseware: [CSAwesome Website](https://runestone.academy/runestone/books/published/csawesome/index.html)
 * Java Processing Basics: [Wiki Page for Help Examples and Reference]()
 * Other Course materials: [Google Drive CPJava]()
 * Assignment Submissions via [Your Github Site](https://github.com/)
