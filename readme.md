@@ -203,4 +203,4 @@ _Topics: PEER SHARING - FINAL PROJECT PRESENTATION_
 [washhands]: https://www.cdc.gov/handwashing/images/GettyImages-514363103-medium.jpg "Wash Hands"
 
 [congrats]: congrats.png "Congrats"
-[juliaset]: julia1.gif "Congrats"
+[juliaset]: julia1_small.gif "Congrats"
