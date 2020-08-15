@@ -1,6 +1,6 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
-![alt text][juliaset]
+![alt text][bouncyballs]
 # Computer Programming in Java
 
 This course is designed to introduce computer programming in the Java language. Learning to use a computer language is a necessary skill for all students regardless of discipline. In this course we will teach the fundamentals of computer programming from the stand point of simulation, automation, and problem solving of real-world systems and natural processes. At the same time, the design and implementation of computer programs is taught from the context of fundamental aspects of computer science, including the development and analysis of algorithms, the development and use of fundamental data structures, the study of standard
@@ -156,4 +156,5 @@ _Topics: PEER SHARING - FINAL PROJECT PRESENTATION_
 
 [washhands]: https://www.cdc.gov/handwashing/images/GettyImages-514363103-medium.jpg "Wash Hands"
 [congrats]: congrats.png "Congrats"
-[juliaset]: julia1.gif "Congrats"
+[juliaset]: julia1.gif "juliaset"
+[bouncyballs]: bouncy_balls2.gif "bouncyballs"
