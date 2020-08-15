@@ -47,7 +47,7 @@ function draw() {
 
 ## Reference
 
-[Input Text Slider Example](../../week9/code/inputSlider/)
+[Input Text Slider Example](../../unit9/code/inputSlider/)
 ````
 function setup() {
   createCanvas(650, 200);

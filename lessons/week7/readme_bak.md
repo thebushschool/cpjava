@@ -1,10 +1,10 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
-# Week 7
+# Unit 7
 
 ## Prep Work
-* Review the comments you received on your [Data Visualization](../week5/homework/data-visualization.md) assignment and update your code to address the comments if time allows
-* Review and be prepared to talk with others about your [Data Visualization](../week5/homework/data-visualization.md) assignment
+* Review the comments you received on your [Data Visualization](../unit5/homework/data-visualization.md) assignment and update your code to address the comments if time allows
+* Review and be prepared to talk with others about your [Data Visualization](../unit5/homework/data-visualization.md) assignment
 
 ## Learning Objectives
 * Review importance of git
@@ -30,7 +30,7 @@
 	| Monday, 03/13, 6pm | Final project in-class presentation |
 	| Saturday, 03/18, 9pm | Class reflection |
 
-* Share your [Data Visualization](../week5/homework/data-visualization.md) assignment
+* Share your [Data Visualization](../unit5/homework/data-visualization.md) assignment
 
 ## Lessons
 * Review arrays

@@ -1,7 +1,7 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
 # Plan
-## Week 3
+## Unit 3
 
 ### Re-Introduction
 * Did you write a statement about yourself and modify your TOC ?
@@ -11,7 +11,7 @@
 * You may benefit by using an actual mouse in this class - Please ask me for one
 * What's working and not working - [post a message in Slack](https://cpjava2020.slack.com/) !
 
-### Pair Programming for Week 3
+### Pair Programming for Unit 3
 * [Carter](https://carterschafer.github.io/cpjava-portfolio) - [Maya](https://mayaschrum.github.io/cpjava-portfolio)
 * [Aidan](https://aidan-lynch.github.io/cpjava-portfolio) - [Ghislaine](https://ghislaineederer.github.io/idmb-portfolio)
 * [Philipp](https://philippknmergener.github.io/cpjava-portfolio) - [Pamela](https://pamelabiniam.github.io/cpjava-portfolio)
@@ -201,6 +201,6 @@
 
 	```
 
-### Introduce Week 3 Homework
+### Introduce Unit 3 Homework
 
 ### Debrief

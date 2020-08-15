@@ -1,6 +1,6 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
-# Week 2 Code
+# Unit 2 Code
 
 * [Basic Face](basic_face_plus)
 * [Moving Ball](moving_ball)

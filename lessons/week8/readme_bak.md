@@ -1,6 +1,6 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
-# Week 8
+# Unit 8
 
 ## Learning Objectives
 * Understand why and when to use Objects in your code

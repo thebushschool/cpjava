@@ -1,6 +1,6 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
-# Week 9
+# Unit 9
 
 ## Learning Objectives
 * Showcase your final project with your peers and HCDE department faculty

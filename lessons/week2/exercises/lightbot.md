@@ -1,5 +1,5 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
-# Week 1 Exercise
+# Unit 1 Exercise
 ## Exploring Lightbot 
 
 ### Goal
@@ -19,4 +19,4 @@ The point of this exercise is to have fun and to set the context for the second 
 * What was your approach to solving these problems?
 * What did you learn?
 
-[lightbot]: https://github.com/susanev/2016_Winter_UWHCDE_p5/blob/master/lessons/week1/exercises/images/lightbot.png "Lightbot screen for Part A"
+[lightbot]: https://github.com/susanev/2016_Winter_UWHCDE_p5/blob/master/lessons/unit1/exercises/images/lightbot.png "Lightbot screen for Part A"

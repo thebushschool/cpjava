@@ -10,7 +10,7 @@
 
 ## Code Extracts
 Set each pixel to a uniform gray scale or some color in your canvas
-using  your [color slider example](../../week12/code/colorSlider)
+using  your [color slider example](../../unit12/code/colorSlider)
 ````
 function setup() {
   createCanvas(600, 600);

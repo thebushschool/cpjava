@@ -4,8 +4,8 @@
 
 * Review the pending [Homework and Classwork completions](https://bush.myschoolapp.com/app/faculty#academicclass/109608285/0/assignments)
 * Review [Student Portfolios](../../student-work.md) and modifications to the Table of Contents (index.html)
-* Review [Add Collaborator to Github Process](../week1/repository_collaborator.md)
-* Review [Add a P5JS Project to Github Process](../week1/add_p5js_project_to_index.md)
+* Review [Add Collaborator to Github Process](../unit1/repository_collaborator.md)
+* Review [Add a P5JS Project to Github Process](../unit1/add_p5js_project_to_index.md)
 
 ## Learning Objectives
 
@@ -25,7 +25,7 @@
 
 ## Exercises
 
-* [Complete Week 2 Exercises: Moving Ball and Responsive Face](../week2/readme.md)
+* [Complete Unit 2 Exercises: Moving Ball and Responsive Face](../unit2/readme.md)
 * [Dot Drawing](code/drawing_with_ellipses_0) - Look in Slack for initial code
 	* Update to change to random color when mouse is clicked
 * [Line Drawing](code/line_drawing) - Look in Slack for initial code
@@ -53,7 +53,7 @@
 	* [More Conditionals Video](https://vimeo.com/138935678)
 
 ## Homework
-* Standard Pathway Students Complete Week 1 and Week 2 Homework and Week 3 Exercises
-* Advanced Pathway Students Complete Week 1 and Week 2 Homework and Week 3 Exercises PLUS ADVANCED options to exercises 
+* Standard Pathway Students Complete Unit 1 and Unit 2 Homework and Unit 3 Exercises
+* Advanced Pathway Students Complete Unit 1 and Unit 2 Homework and Unit 3 Exercises PLUS ADVANCED options to exercises 
 * All Sudents - Upload project code to Github and modify index.html
 * All Sudents - [Read Code Submission Expectations for Assessments](../../final-project.md)

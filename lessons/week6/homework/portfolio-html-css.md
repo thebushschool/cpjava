@@ -1,5 +1,5 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
-# Week 6 Homework
+# Unit 6 Homework
 
 ## Portfolio HTML/CSS
 _This assignment is Due Monday, 03/16_

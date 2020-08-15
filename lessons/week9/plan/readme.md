@@ -1,8 +1,8 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
-# Week 9
+# Unit 9
 
-## Week 9 Lessons
+## Unit 9 Lessons
 * How to code in Modular Fashion
 * Create High-level and Low-level Functions
 * Use any available P5JS Library Functions
@@ -97,7 +97,7 @@ if (key == 's' || key == 'S') saveCanvas('mycanvas_' + str(millis()), 'png');
 ````
 
 ## Code Examples
-* [User Input Slider]((../../week9/code/pinsThreads3/))
+* [User Input Slider]((../../unit9/code/pinsThreads3/))
 ![alt text](inputSlider.png)
-* [Pins and Threads](../../week9/code/pinsThreads3/)
+* [Pins and Threads](../../unit9/code/pinsThreads3/)
 ![alt text](savecanvas.png)

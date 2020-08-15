@@ -1,5 +1,5 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
-# Week 1 Homework
+# Unit 1 Homework
 
 ## Digitzie an analog piece of art
 ### Goal 

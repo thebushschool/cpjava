@@ -1,6 +1,6 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
-# Week 3 Homework
+# Unit 3 Homework
 
 ## Interactive Monster
 
@@ -82,8 +82,8 @@ Example monsters:
 * Daniel Shiffman [conditionals video 1](https://vimeo.com/138935676)
 * Daniel Shiffman [conditionals video 2](https://vimeo.com/138935678)
 
-[monster-1]: https://github.com/chandrunarayan/cpjava/blob/master/lessons/week3/homework/images/robot.png "Monster Example 1"
+[monster-1]: https://github.com/chandrunarayan/cpjava/blob/master/lessons/unit3/homework/images/robot.png "Monster Example 1"
 
-[monster-2]: https://github.com/chandrunarayan/cpjava/blob/master/lessons/week3/homework/images/monster_2.png "Monster Example 2"
+[monster-2]: https://github.com/chandrunarayan/cpjava/blob/master/lessons/unit3/homework/images/monster_2.png "Monster Example 2"
 
-[monster-3]: https://github.com/chandrunarayan/cpjava/blob/master/lessons/week3/homework/images/monster_2.png "Monster Example 3"
+[monster-3]: https://github.com/chandrunarayan/cpjava/blob/master/lessons/unit3/homework/images/monster_2.png "Monster Example 3"

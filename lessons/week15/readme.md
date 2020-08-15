@@ -1,6 +1,6 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
-## Week 15 - 5/11
+## Unit 15 - 5/11
 
 ## Apology for missing class today (May 11th)!
 * I am so sorry to have missed class today. Please see our planned activity below. I am making amends by posting some [interesting sketches to this site](plan/inspiration.md) for you to ponder in inspiration for your final project.  Please schedule 1-1 time with me on Calendly below to discuss your ideas!

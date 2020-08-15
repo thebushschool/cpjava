@@ -1,6 +1,6 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
-# Week 5
+# Unit 5
 ## Programming is hard, but you're doing great!
 
 ![alt text][two-stages]
@@ -22,8 +22,8 @@
 ### References
 _Thanks to [Crystal Hess](https://www.linkedin.com/in/crystaljhess/) for gathering most of this content_
 
-[two-stages]: https://chandrunarayan.github.io/cpjava/lessons/week5/imgs/two_stages.png "Two Stages of Every Programmer"
+[two-stages]: https://chandrunarayan.github.io/cpjava/lessons/unit5/imgs/two_stages.png "Two Stages of Every Programmer"
 
-[your-plan]: https://chandrunarayan.github.io/cpjava/lessons/week5/imgs/your_plan.jpg "Your Plan vs Reality"
+[your-plan]: https://chandrunarayan.github.io/cpjava/lessons/unit5/imgs/your_plan.jpg "Your Plan vs Reality"
 
-[i-can]: https://chandrunarayan.github.io/cpjava/lessons/week5/imgs/i_can_do_this.png "I may not be ready, but I can do this"
+[i-can]: https://chandrunarayan.github.io/cpjava/lessons/unit5/imgs/i_can_do_this.png "I may not be ready, but I can do this"

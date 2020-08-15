@@ -1,7 +1,7 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
 # Plan
-## Week 2
+## Unit 2
 
 ### [Face Exercise](exercises/face.md) (50 minutes)
 

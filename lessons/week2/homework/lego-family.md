@@ -1,5 +1,5 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
-# Week 2 Homework
+# Unit 2 Homework
 
 ## Lego Family
 _[Due Saturday, 01/28, at 9pm](https://canvas.uw.edu/courses/1099807/assignments/3586665)_
@@ -71,8 +71,8 @@ You will program your very own Lego family. You can base it off a TV show (Simps
 ### Reference
 * [Imagine by Lego](https://www.prote.in/journal/articles/imagine-by-lego)
 
-[simpsons]: https://github.com/susanev/uw-hcde-creative-computing/blob/master/lessons/week2/exercises/images/simpsons.png "Simpsons Lego Family"
+[simpsons]: https://github.com/susanev/uw-hcde-creative-computing/blob/master/lessons/unit2/exercises/images/simpsons.png "Simpsons Lego Family"
 
-[simpsons-middle]: https://github.com/susanev/uw-hcde-creative-computing/blob/master/lessons/week2/exercises/images/simpsons_middle.png "Simpsons Lego Family in the middle of the screen"
+[simpsons-middle]: https://github.com/susanev/uw-hcde-creative-computing/blob/master/lessons/unit2/exercises/images/simpsons_middle.png "Simpsons Lego Family in the middle of the screen"
 
-[simpsons-corners]: https://github.com/susanev/uw-hcde-creative-computing/blob/master/lessons/week2/exercises/images/simpsons_corners.png "Simpsons Lego Family in the corners of the screen"
+[simpsons-corners]: https://github.com/susanev/uw-hcde-creative-computing/blob/master/lessons/unit2/exercises/images/simpsons_corners.png "Simpsons Lego Family in the corners of the screen"

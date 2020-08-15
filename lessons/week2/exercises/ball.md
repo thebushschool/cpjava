@@ -1,5 +1,5 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
-# Week 2 Exercise
+# Unit 2 Exercise
 
 ## Moving Ball
 

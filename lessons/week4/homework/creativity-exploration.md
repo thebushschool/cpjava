@@ -1,5 +1,5 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
-# Week 4 Homework
+# Unit 4 Homework
 
 ## Creativity Exploration and In-Class Exercises
 _[Due Monday, 03/02]_
@@ -43,8 +43,8 @@ In this program a stick figure is animated to walk forward over an abyss. Notice
 ### Resources
 * Daniel Shiffman's [p5.js Videos](https://www.youtube.com/user/shiffman/playlists?sort=dd&view=50&shelf_id=14)
 
-[rain]: https://chandrunarayan.github.io/cpjava/lessons/week4/homework/images/seattle_rain.png "Seattle Rain Project"
+[rain]: https://chandrunarayan.github.io/cpjava/lessons/unit4/homework/images/seattle_rain.png "Seattle Rain Project"
 
-[heart]: https://chandrunarayan.github.io/cpjava/lessons/week4/homework/images/heart.png "Beating Heart Project"
+[heart]: https://chandrunarayan.github.io/cpjava/lessons/unit4/homework/images/heart.png "Beating Heart Project"
 
-[walking-person]: https://chandrunarayan.github.io/cpjava/lessons/week4/homework/images/walking_person.png "Walking Person Project"
+[walking-person]: https://chandrunarayan.github.io/cpjava/lessons/unit4/homework/images/walking_person.png "Walking Person Project"

@@ -1,11 +1,11 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
-# Week 5
+# Unit 5
 
 ## Reminders and Prep Work
-* Week 1-4 Exercises/Projects were due last Friday (assigned a grade - see Slack for your individual grade so far)
+* Unit 1-4 Exercises/Projects were due last Friday (assigned a grade - see Slack for your individual grade so far)
 * Creativity Exploration Project is due now (will grade this week)
-* Review the comments you received on your Week 1-4 Exercises/Projects) and update your code for make-up credit
+* Review the comments you received on your Unit 1-4 Exercises/Projects) and update your code for make-up credit
 
 
 ## Learning Objectives
@@ -61,7 +61,7 @@
 
 * [Programming is hard, but you're doing great!](programming-is-hard-youre-doing-great.md)
 * Meet your new partner
-* Share your [Creativity Exploration](../week4/homework/creativity-exploration.md) assignment
+* Share your [Creativity Exploration](../unit4/homework/creativity-exploration.md) assignment
 
 ## Lessons
 * for loops

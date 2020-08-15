@@ -1,5 +1,5 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
-# Week 4 Code Specifications
+# Unit 4 Code Specifications
 
 The In-Class Exercises and Creativity Exploration Project for week 4 is intended to demonstrate your coding skill to produce the visual elements you see linked below. 
 

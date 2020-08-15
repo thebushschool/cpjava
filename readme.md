@@ -57,87 +57,89 @@ We are all going through some extraordinary times due to the coronavirus.  I wou
 
 This course draws from the materials used in the the TEALS curriculum as well as CS programs at Lowell High School in San Francisco and Boston Latin School. Significant credit is also due to the many member founders of the Processing Foundation whose tireless efforts have advanced the cause for open, accessible, and free CS education across the world.
 
-## Lessons
+## Lessons FALL 2020
 
-### [Week 1](lessons/week1)
+### [Unit 1](lessons/unit1)
 
 _Topics: Installfest, git, github, why p5.js, environment setup, using the reference, digital color, coordinate system_
 
-* [Overview](lessons/week1)
-* [Installfest](lessons/week1/installfest.md)
-* [Portfolio Setup](lessons/week1/portfolio.md)
-* [Exercises](lessons/week1/readme.md)
-* [Project: Robot](lessons/week1/exercises/robot.md)
+* [Overview](lessons/unit1)
+* [Installfest](lessons/unit1/installfest.md)
+* [Portfolio Setup](lessons/unit1/portfolio.md)
+* [Exercises](lessons/unit1/readme.md)
+* [Project: Robot](lessons/unit1/exercises/robot.md)
 
-### [Week 2](lessons/week2)
+### [Unit 2](lessons/unit2)
 
 _Topics: Programming flow, animation loops, functions, parameters, variables, max, min, sound_
 
-* [Overview](lessons/week2)
-* [Exercises](lessons/week2/readme.md)
+* [Overview](lessons/unit2)
+* [Exercises](lessons/unit2/readme.md)
 
-### [Week 3](lessons/week3)
+### [Unit 3](lessons/unit3)
 
 _Topics: Conditional statements, logical operators, events, mouseX, mouseY, mouesIsPressed, frameCount, random, dist, mousePressed, mouseReleased_
 
-* [Overview](lessons/week3)
-* [Exercises](lessons/week3/readme.md)
+* [Overview](lessons/unit3)
+* [Exercises](lessons/unit3/readme.md)
 
-### [Week 4 After Winter Break](lessons/week4)
+### [Unit 4](lessons/unit4)
 
 _Topics: keyPressed events, while and for loops, using text and fonts, using images_
 
-* [Overview](lessons/week4)
-* [Exercises](lessons/week4/code)
-* [Project: Creativity Exploration](lessons/week4/homework/creativity-exploration.md)
+* [Overview](lessons/unit4)
+* [Exercises](lessons/unit4/code)
+* [Project: Creativity Exploration](lessons/unit4/homework/creativity-exploration.md)
 
-### [Week 5](lessons/week5)
+### [Unit 5](lessons/unit5)
 
 _Topics: Review for loops, while loops, arrays, return statements, data vis_
 
-* [Overview](lessons/week5)
-* [Exercises](lessons/week5/code)
-* [Project: Data Visualization](lessons/week5/homework/data-visualization.md)  (For Advanced Pathway Students Only)
+* [Overview](lessons/unit5)
+* [Exercises](lessons/unit5/code)
+* [Project: Data Visualization](lessons/unit5/homework/data-visualization.md)  (For Advanced Pathway Students Only)
 
-### [Week 6 - First week of Remote Schooling!](lessons/week6)
+## Lessons SPRING 2021
+
+### [Unit 6](lessons/unit6)
 
 _Topics: complete creativity expl, data vis, HTML/CSS_
 
-* [Overview](lessons/week6)
-* [Project: Creativity Exploration](lessons/week4/homework/creativity-exploration.md)
-* [Project: Data Visualization](lessons/week5/homework/data-visualization.md) (For Advanced Pathway Students Only)
-* [Exercises: Student Portfolio HTML/CSS](lessons/week6/homework/portfolio-html-css.md) (For Advanced Pathway Students Only)
+* [Overview](lessons/unit6)
+* [Project: Creativity Exploration](lessons/unit4/homework/creativity-exploration.md)
+* [Project: Data Visualization](lessons/unit5/homework/data-visualization.md) (For Advanced Pathway Students Only)
+* [Exercises: Student Portfolio HTML/CSS](lessons/unit6/homework/portfolio-html-css.md) (For Advanced Pathway Students Only)
 
-### [Week 7 - 3/16](lessons/week7)
+### [Unit 7](lessons/unit7)
 
 _Topics: Exercise and Project submissions ahead of comments_
 
-* [Overview](lessons/week8)
+* [Overview](lessons/unit8)
 * Discuss Submissions Status and catch-up for Standard Pathway Students
 * Timer based trigger exercise for Advanced Pathway Students 
 
-### [Week 8 - 3/23](lessons/week8)
+### [Unit 8](lessons/unit8)
 
 _Topics: Motion, Functions_
 
-* [Overview](lessons/week8)
+* [Overview](lessons/unit8)
 * Explore Motion, Functions
-* STD Team: [Exercise: Moving Pacman](lessons/week8/code/moving_pacman.md) *DUE 3/26*
-* ADV Team: [Project: Submit Data Viz](lessons/week5/homework/data-visualization.md) *DUE 3/23*
-* ADV Team: [Exercise: Exploding Bubbles](lessons/week7/code/exploding_bubbles.md) *DUE 3/23*
-* ADV Team: [Project: Moving Robot](lessons/week8/code/moving_robot.md) *PART 1 DUE 3/26*
+* STD Team: [Exercise: Moving Pacman](lessons/unit8/code/moving_pacman.md)
+* ADV Team: [Project: Submit Data Viz](lessons/unit5/homework/data-visualization.md)
+* ADV Team: [Exercise: Exploding Bubbles](lessons/unit7/code/exploding_bubbles.md)
+* ADV Team: [Project: Moving Robot](lessons/unit8/code/moving_robot.md)
 
-### [Week 9 - 3/30](lessons/week9)
+### [Unit 9](lessons/unit9)
 
 _Topics: Arrays, Functions, User Input_
 
-* [Overview](lessons/week9)
-* STD Team: [Exercise: Moving Pacman](lessons/week8/code/moving_pacman.md) *DUE 3/26*
-* ALL Teams: Learn to use Arrays, Functions [Project: Pins and Threads](lessons/week9/code/pins_threads.md)
+* [Overview](lessons/unit9)
+* STD Team: [Exercise: Moving Pacman](lessons/unit8/code/moving_pacman.md)
+* ALL Teams: Learn to use Arrays, Functions [Project: Pins and Threads](lessons/unit9/code/pins_threads.md)
 * STD Team: [Slack Code Extract in #stdteamch](https://app.slack.com/client/TTS9Y46VC/GUMN732S0)
-* ADV Team: Work on Part 2 & 3 of [Project: Moving Robot](lessons/week8/code/moving_robot.md)
+* ADV Team: Work on Part 2 & 3 of [Project: Moving Robot](lessons/unit8/code/moving_robot.md)
 
-### [Week 10 - 4/6 to 4/8 - SHORT WEEK](lessons/week10)
+### [Unit 10](lessons/unit10)
 
 _Topics: Conferences and Catch Up on Assignments_
 
@@ -145,62 +147,13 @@ _Topics: Conferences and Catch Up on Assignments_
     *    [Please schedule 1-1 Wed Conferences here](https://calendly.com/chandru-narayan/conf_wed_cpjava_a_block)
     *    [Please schedule 1-1 Mon-Tue-Thu-Fri Conferences here](https://calendly.com/chandru-narayan/conf_wed_cpjava_a_block)
 * Help with Assignments
-* SPRING BREAK STARTS 4/9
 
-### Week 11 - 4/13 NO CLASSES - SPRING BREAK -
-
-_No Classes_
-
-
-### [Week 12 - 4/22 and 4/23 - Sync Sessions](lessons/week12)
-
-_Topics: Recursion, Fractals_
-* [Overview](lessons/week12)
-* [Exercises](lessons/week12/code/recursion)
-
-### [Week 13 - 4/27](lessons/week13)
-
-_Topics: Recursion, Complex Numbers, Mandelbrot Set, Array Lists_
-* [Overview](lessons/week13)
-* Exercises - No Coding assignment this week. [Setup Calendly meeting](https://calendly.com/chandru-narayan/conf_wed_cpjava_a_block) with me for discussing your final project
-
-### [Week 14 - 5/4](lessons/week14)
-
-_Topics: Objects, Array Lists, Perlin Noise_
-
-*  [Overview](lessons/week14)
-*  [Exercises](lessons/week14/plan/bubbles.md)
-
-### [Week 15 - 5/11](lessons/week15)
-
-_Topics: Catching-up on assignments and 1-1 Conferences_
-
-* [Overview](lessons/week15)
-* Exercises: All pending assignments due in Student Portfolio by May 14th 
-* Class Work: 1-1 Conferences and [Final Project Ideas](lessons/week15/plan/inspiration.md)
-
-### [Week 16 - 5/18](lessons/week15/plan/inspiration.md)
-
-_Topics: FINAL PROJECT WEEK 1_
-
-* Class Work: Work on Final Project and 1-1 Conferences, Due May 28th
-
-### [Week 17 - 5/25](lessons/week17)
-
-_Topics: FINAL PROJECT WEEK 2 AND FINAL PRESENTATIONS_
-
-* Class Work: Final Project Completion by May 28th and Peer Sharing Presentations
-* [Student Portfolios](student-work.md)
-
-* [CPJava Students Congratulations!](https://editor.p5js.org/cnarayan/present/yIYhIOSom)
-![alt text][congrats]
-### Week 18 - 6/1
+### [Unit 11](lessons/unit11)
 
 _Topics: PEER SHARING - FINAL PROJECT PRESENTATION_
 
 * Class Work: Peer Sharing Final Project Presentations
 
 [washhands]: https://www.cdc.gov/handwashing/images/GettyImages-514363103-medium.jpg "Wash Hands"
-
 [congrats]: congrats.png "Congrats"
 [juliaset]: julia1.gif "Congrats"

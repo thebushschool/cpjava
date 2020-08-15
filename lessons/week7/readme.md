@@ -1,6 +1,6 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
-# Week 7
+# Unit 7
 
 ## Prep Work
 * Review the Assignments Status comments you received by email 

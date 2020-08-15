@@ -1,6 +1,6 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
-# Week 2
+# Unit 2
 
 ## Learning Objectives
 
@@ -32,4 +32,4 @@
 
 ## Homework
 
-* Robot week2 update - think of a useful and fun way to add a function, variables, sound to your robot. Save and Upload to Github.
+* Robot unit2 update - think of a useful and fun way to add a function, variables, sound to your robot. Save and Upload to Github.
