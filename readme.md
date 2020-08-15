@@ -63,11 +63,7 @@ This course draws from the materials used in the the TEALS curriculum as well as
 
 _Topics: Installfest, git, github, why p5.js, environment setup, using the reference, digital color, coordinate system_
 
-* [Overview](lessons/unit1)
-* [Installfest](lessons/unit1/installfest.md)
-* [Portfolio Setup](lessons/unit1/portfolio.md)
-* [Exercises](lessons/unit1/readme.md)
-* [Project: Robot](lessons/unit1/exercises/robot.md)
+* [Introduction to CPJava](lessons/unit1/CPJavaIntro-2.pdf) write your first Java program!
 
 ### [Unit 2](lessons/unit2)
 
