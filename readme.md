@@ -18,9 +18,9 @@ In our CPJava classroom we are already using tools and techniques that are natur
 3. [SLACK Instant Messaging](https://app.slack.com/client/TTS9Y46VC) - differentiated classroom, code extract, bug fixes, instant help, quick challenges
 4. [GITHUB repository](https://github.com/) - code submissions for exercises and projects, published student portfilios
 5. [Processing Editor (IDE)](https://processing.org) - Code editor for Java and Processing/P5JS languages
-6. [Student Portfolios](student-work.md) - Links to Student Porfolios
+6. [Student Portfolios](_student-work.md) - Links to Student Porfolios
 7. [Online Text/Courseware](https://runestone.academy/runestone/books/published/csawesome/index.html) - eBook for Java and Runestone CSAwesome Courseware - Login/Register with Bush ID
-8. [Bush PORTAL](https://bush.myschoolapp.com/app/faculty#academicclass/109608285/0/bulletinboard) - links for all tools, official assignments, schedules, syllabus, grade rubric
+8. [Bush PORTAL](https://bush.myschoolapp.com/app/faculty#academicclass/110863870/0/bulletinboard) - links for all tools, official assignments, schedules, syllabus, grade rubric
 9. Conference Appointments
     *    TBD
 
