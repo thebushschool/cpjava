@@ -63,7 +63,7 @@ This course draws from the materials used in the the TEALS curriculum as well as
 
 ## Lessons FALL 2020  Sep - Dec
 
-### [Unit 1](lessons/unit1)  2-Weeks
+### [Unit 1](lessons/unit1)  - 2-Weeks
 
 _Topics: Introduction to Java, Tools walkthrough, Classroom processes, Environment setup, Java Primitive types and Operators_
 
@@ -71,7 +71,7 @@ _Topics: Introduction to Java, Tools walkthrough, Classroom processes, Environme
 * [Exercises](lessons/unit1/exercises/readme.md)
 * [Projects]()
 
-### [Unit 2](lessons/unit2)  2-Weeks
+### [Unit 2](lessons/unit2)  - 2-Weeks
 
 _Topics: Objects, Methods, String, Integer, Double, Math_
 
@@ -79,7 +79,7 @@ _Topics: Objects, Methods, String, Integer, Double, Math_
 * [Exercises](lessons/unit2/readme.md)
 * [Projects]()
 
-### [Unit 3](lessons/unit3)  2-Weeks
+### [Unit 3](lessons/unit3)  - 2-Weeks
 
 _Topics: Control flow, Booleans, If statements, Object traversals_
 
@@ -87,7 +87,7 @@ _Topics: Control flow, Booleans, If statements, Object traversals_
 * [Exercises](lessons/unit3/readme.md)
 * [Projects]()
 
-### [Unit 4](lessons/unit4)  3-Weeks
+### [Unit 4](lessons/unit4)  - 3-Weeks
 
 _Topics: Iteration, While loops, For loops, Nested Loops, Loop Analysis_
 
@@ -95,7 +95,7 @@ _Topics: Iteration, While loops, For loops, Nested Loops, Loop Analysis_
 * [Exercises](lessons/unit4/code)
 * [Projects]()
 
-### [Unit 5](lessons/unit5)  3-Weeks
+### [Unit 5](lessons/unit5)  - 3-Weeks
 
 _Topics: Anatomy of a class, Constructor, Accessor, Mutator Methods, this keyword, Social Impact of CS_
 
@@ -103,7 +103,7 @@ _Topics: Anatomy of a class, Constructor, Accessor, Mutator Methods, this keywor
 * [Exercises](lessons/unit5/code)
 * [Projects]()
 
-### [Unit 6](lessons/unit6)  3-Weeks
+### [Unit 6](lessons/unit6)  - 3-Weeks
 
 _Topics: Arrays, Array Lists, Array Traversal_
 
@@ -113,7 +113,7 @@ _Topics: Arrays, Array Lists, Array Traversal_
 
 ## Lessons SPRING 2021 Jan - June
 
-### [Unit 7](lessons/unit7) 3-Weeks
+### [Unit 7](lessons/unit7) - 3-Weeks
 
 _Topics: Searching Sorting Algorithms, Ethics of Data Collection, Privacy_
 
@@ -121,7 +121,7 @@ _Topics: Searching Sorting Algorithms, Ethics of Data Collection, Privacy_
 * [Exercises](lessons/unit7/code)
 * [Projects]()
 
-### [Unit 8](lessons/unit8)  3-Weeks
+### [Unit 8](lessons/unit8)  - 3-Weeks
 
 _Topics: 2D Arrays, Traversal_
 
@@ -129,7 +129,7 @@ _Topics: 2D Arrays, Traversal_
 * [Exercises](lessons/unit8/code)
 * [Projects]()
 
-### [Unit 9](lessons/unit9)  3-Weeks
+### [Unit 9](lessons/unit9)  - 3-Weeks
 
 _Topics: Projects, Inheritance, Encapsulation, Hierarchy, Polymorphism_
 
@@ -137,7 +137,7 @@ _Topics: Projects, Inheritance, Encapsulation, Hierarchy, Polymorphism_
 * [Exercises](lessons/unit9/code)
 * [Projects]()
 
-### [Unit 10](lessons/unit10) 3-Weeks
+### [Unit 10](lessons/unit10) - 3-Weeks
 
 _Topics: Projects, Recursion, Recursive Search and Sort_
 
@@ -145,7 +145,7 @@ _Topics: Projects, Recursion, Recursive Search and Sort_
 * [Exercises](lessons/unit10/code)
 * [Projects]()
 
-### [Unit 11](lessons/unit10) 2-Weeks
+### [Unit 11](lessons/unit10) - 2-Weeks
 
 _Topics: PEER SHARING - FINAL PROJECT PRESENTATION_
 
