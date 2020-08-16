@@ -46,105 +46,106 @@ We are all going through some extraordinary times due to the coronavirus.  I wou
 
 ## Course Links
 
+* Zoom Conference: [CPJava Live and Recorded Class Sessions](https://zoom.us/j/5176316708)
 * Course Website: [CPJava 2020 Website](https://chandrunarayan.github.io/cpjava/)
+* Bush Portal: [CPJava Bush Portal](https://bush.myschoolapp.com/app/faculty#academicclass/110863870/0/bulletinboard)
 * Online Text/Courseware: [CSAwesome Website](https://runestone.academy/runestone/books/published/csawesome/index.html)
-* Java Processing Basics: [Wiki Page for Help Examples and Reference]()
-* Other Course materials: [Google Drive CPJava]()
+* Java Processing IDE Download: [Java Editor and Compiler](https://processing.org)
+* Web-based Java IDE: [Trinket Exercises](https://trinket.io/library/folder/cpjava) [repl.it Exercises](https://repl.it)
+* Github Archive: [Projects and Portfolio Submissions](github.com)
+* Other Course materials: [Google Classroom CPJava](https://classroom.google.com/c/MTI2MDgzMTM2MDgw)
 * Assignment Submissions via [Your Github Site](https://github.com/)
-* Slack Instant Messaging - [CPJava 2020 Slack](https://idmd.slack.com/)
+* CPJava Slack Instant Messaging - [CPJava 2020 Slack](https://cpjava2020.slack.com/) email communication is discouraged
 
 ## Course Credit
 
 This course draws from the materials used in the the TEALS curriculum as well as CS programs at Lowell High School in San Francisco and Boston Latin School. Significant credit is also due to the many member founders of the Processing Foundation whose tireless efforts have advanced the cause for open, accessible, and free CS education across the world.
 
-## Lessons FALL 2020
+## Lessons FALL 2020  Sep - Dec
 
-### [Unit 1](lessons/unit1)
+### [Unit 1](lessons/unit1)  2-Weeks
 
-_Topics: Installfest, git, github, why p5.js, environment setup, using the reference, digital color, coordinate system_
+_Topics: Introduction to Java, Tools walkthrough, Classroom processes, Environment setup, Java Primitive types and Operators_
 
-* [Introduction to CPJava](lessons/unit1/CPJavaIntro-2.pdf) write your first Java program!
+* [Overview](lessons/unit1)
+* [Exercises](lessons/unit1/exercises/readme.md)
+* [Projects]()
 
-### [Unit 2](lessons/unit2)
+### [Unit 2](lessons/unit2)  2-Weeks
 
-_Topics: Programming flow, animation loops, functions, parameters, variables, max, min, sound_
+_Topics: Objects, Methods, String, Integer, Double, Math_
 
 * [Overview](lessons/unit2)
 * [Exercises](lessons/unit2/readme.md)
+* [Projects]()
 
-### [Unit 3](lessons/unit3)
+### [Unit 3](lessons/unit3)  2-Weeks
 
-_Topics: Conditional statements, logical operators, events, mouseX, mouseY, mouesIsPressed, frameCount, random, dist, mousePressed, mouseReleased_
+_Topics: Control flow, Booleans, If statements, Object traversals_
 
 * [Overview](lessons/unit3)
 * [Exercises](lessons/unit3/readme.md)
+* [Projects]()
 
-### [Unit 4](lessons/unit4)
+### [Unit 4](lessons/unit4)  3-Weeks
 
-_Topics: keyPressed events, while and for loops, using text and fonts, using images_
+_Topics: Iteration, While loops, For loops, Nested Loops, Loop Analysis_
 
 * [Overview](lessons/unit4)
 * [Exercises](lessons/unit4/code)
-* [Project: Creativity Exploration](lessons/unit4/homework/creativity-exploration.md)
+* [Projects]()
 
-### [Unit 5](lessons/unit5)
+### [Unit 5](lessons/unit5)  3-Weeks
 
-_Topics: Review for loops, while loops, arrays, return statements, data vis_
+_Topics: Anatomy of a class, Constructor, Accessor, Mutator Methods, this keyword, Social Impact of CS_
 
 * [Overview](lessons/unit5)
 * [Exercises](lessons/unit5/code)
-* [Project: Data Visualization](lessons/unit5/homework/data-visualization.md)  (For Advanced Pathway Students Only)
+* [Projects]()
 
-## Lessons SPRING 2021
+### [Unit 6](lessons/unit6)  3-Weeks
 
-### [Unit 6](lessons/unit6)
-
-_Topics: complete creativity expl, data vis, HTML/CSS_
+_Topics: Arrays, Array Lists, Array Traversal_
 
 * [Overview](lessons/unit6)
-* [Project: Creativity Exploration](lessons/unit4/homework/creativity-exploration.md)
-* [Project: Data Visualization](lessons/unit5/homework/data-visualization.md) (For Advanced Pathway Students Only)
-* [Exercises: Student Portfolio HTML/CSS](lessons/unit6/homework/portfolio-html-css.md) (For Advanced Pathway Students Only)
+* [Exercises](lessons/unit6/code)
+* [Projects]()
 
-### [Unit 7](lessons/unit7)
+## Lessons SPRING 2021 Jan - June
 
-_Topics: Exercise and Project submissions ahead of comments_
+### [Unit 7](lessons/unit7) 3-Weeks
+
+_Topics: Searching Sorting Algorithms, Ethics of Data Collection, Privacy_
+
+* [Overview](lessons/unit7)
+* [Exercises](lessons/unit7/code)
+* [Projects]()
+
+### [Unit 8](lessons/unit8)  3-Weeks
+
+_Topics: Inheritance, Encapsulation, Hierarchy, Polymorphism_
 
 * [Overview](lessons/unit8)
-* Discuss Submissions Status and catch-up for Standard Pathway Students
-* Timer based trigger exercise for Advanced Pathway Students 
+* [Exercises](lessons/unit8/code)
+* [Projects]()
 
-### [Unit 8](lessons/unit8)
+### [Unit 9](lessons/unit9)  3-Weeks
 
-_Topics: Motion, Functions_
-
-* [Overview](lessons/unit8)
-* Explore Motion, Functions
-* STD Team: [Exercise: Moving Pacman](lessons/unit8/code/moving_pacman.md)
-* ADV Team: [Project: Submit Data Viz](lessons/unit5/homework/data-visualization.md)
-* ADV Team: [Exercise: Exploding Bubbles](lessons/unit7/code/exploding_bubbles.md)
-* ADV Team: [Project: Moving Robot](lessons/unit8/code/moving_robot.md)
-
-### [Unit 9](lessons/unit9)
-
-_Topics: Arrays, Functions, User Input_
+_Topics: Projects, Recursion, Recursive Search and Sort_
 
 * [Overview](lessons/unit9)
-* STD Team: [Exercise: Moving Pacman](lessons/unit8/code/moving_pacman.md)
-* ALL Teams: Learn to use Arrays, Functions [Project: Pins and Threads](lessons/unit9/code/pins_threads.md)
-* STD Team: [Slack Code Extract in #stdteamch](https://app.slack.com/client/TTS9Y46VC/GUMN732S0)
-* ADV Team: Work on Part 2 & 3 of [Project: Moving Robot](lessons/unit8/code/moving_robot.md)
+* [Exercises](lessons/unit9/code)
+* [Projects]()
 
-### [Unit 10](lessons/unit10)
+### [Unit 10](lessons/unit10) 3-Weeks
 
-_Topics: Conferences and Catch Up on Assignments_
+_Topics: Projects, Finals__
 
-* Conferences 1-1
-    *    [Please schedule 1-1 Wed Conferences here](https://calendly.com/chandru-narayan/conf_wed_cpjava_a_block)
-    *    [Please schedule 1-1 Mon-Tue-Thu-Fri Conferences here](https://calendly.com/chandru-narayan/conf_wed_cpjava_a_block)
-* Help with Assignments
+* [Overview](lessons/unit10)
+* [Exercises](lessons/unit10/code)
+* [Projects]()
 
-### [Unit 11](lessons/unit11)
+### [Unit 11](lessons/unit10) 2-Weeks
 
 _Topics: PEER SHARING - FINAL PROJECT PRESENTATION_
 
