@@ -1,53 +1,42 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
-# Unit 1
-
+# Unit 1 - 2-weeks
 
 ## Warm up
 * Introductions
-* Try P5JS!
-  * [First right-click-here and open new Tab to open editor](https://editor.p5js.org)
-  * [Then create your first Sketch with these instructions](https://p5js.org/get-started/#sketch)
+  * Say your name, your hobbies
+  * Exposed to computer Programming before?
+  * What do you expect frm this class?
+* Laptop? (Mac or Windows - Chromebook will not be adequate)
 
 ## Goals
 * Learn about the course and your classmates
-* Start learning the fundamentals of programming
-* Practice using the reference
-* Understand and be able to write code to draw shapes, and use different colors
+* Start learning the fundamentals of programming using Java
+* Getting Started and Primiive types in Java
 
-## Lessons
-* All the languages! Why p5.js?
-* Environment setup
-* How to use the reference
-* Digital color
-* Coordinate system
+## [Topics](CPJavaIntro.pdf)
+* Getting Started
+* What is Java?
+* Variables and Data Types
+* Expressions and Assignment Statements
+* Compound Assignment Operators
+* Casting Variables
 
-## Prep Work
+## Exercises
+* [Java Intro](JavaBasics.html) 
+
+
+## Homework
 * Review the [syllabus](../../syllabus.md)
 * Create a [Github](https://github.com/) account
 * Setup your [portfolio](portfolio.md)
 * Complete the [installfest](installfest.md)
 
-## Exercises
-* [Building a robot](exercises/robot.md) 
-  * Code your own colorful robot; make it your own with requirements below.
-  * Standard requirements - Legs, Body, Head, Eyes, Eyebrows - Robot is always facing front irrespective of movement
-  * Advanced requirements - Standard + Robot is sideways facing the direction of movement
-  * Practice using the reference
-  * Practice using RGB color values - [Use this website](https://image-color.com)
-  * Understand programming flow
-* [Taijitu](exercises/taijitu.md) OPTIONAL Extra Credit  
-  * Create a Taijitu using only ellipses and a single rectangle
-  * Problem solving practice
 
 ## Debrief
-* What new things did you learn today?
+* What new things did you learn in this unit?
 * What topics are you still struggling with?
-* What did you especially enjoy about today's class?
+* What did you especially enjoy about the last few weeks?
 
 ## Resources
-* [How to add projects to your Github portfolio video](https://youtu.be/M-bNnVwBHUY)
-  * The video references UW "hcde-portfolio" - Instead use Bush School "cpjava-portfolio"
-
-## Homework
-* Continue classwork Exercises to finish at home
+* Bush School CPJava Youtube Channel
