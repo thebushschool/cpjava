@@ -123,7 +123,7 @@ _Topics: Searching Sorting Algorithms, Ethics of Data Collection, Privacy_
 
 ### [Unit 8](lessons/unit8)  3-Weeks
 
-_Topics: Inheritance, Encapsulation, Hierarchy, Polymorphism_
+_Topics: 2D Arrays, Traversal_
 
 * [Overview](lessons/unit8)
 * [Exercises](lessons/unit8/code)
@@ -131,7 +131,7 @@ _Topics: Inheritance, Encapsulation, Hierarchy, Polymorphism_
 
 ### [Unit 9](lessons/unit9)  3-Weeks
 
-_Topics: Projects, Recursion, Recursive Search and Sort_
+_Topics: Projects, Inheritance, Encapsulation, Hierarchy, Polymorphism_
 
 * [Overview](lessons/unit9)
 * [Exercises](lessons/unit9/code)
@@ -139,7 +139,7 @@ _Topics: Projects, Recursion, Recursive Search and Sort_
 
 ### [Unit 10](lessons/unit10) 3-Weeks
 
-_Topics: Projects, Finals__
+_Topics: Projects, Recursion, Recursive Search and Sort_
 
 * [Overview](lessons/unit10)
 * [Exercises](lessons/unit10/code)
