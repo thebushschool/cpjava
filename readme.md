@@ -53,8 +53,8 @@ TBD
 _Topics: Introduction to Java, Tools walkthrough, Classroom processes, Environment setup, Java Primitive types and Operators_
 
 * [Overview](lessons/unit1)
-* [Slide Presentation](CPJavaIntro.pdf)
-* [Exercises](JavaBasics.html)
+* [Slide Presentation](unit1/CPJavaIntro.pdf)
+* [Exercises](unit1/JavaBasics.html)
 * [Projects]()
 
 ### [Unit 2](lessons/unit2)  - 2-Weeks
