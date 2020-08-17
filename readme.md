@@ -1,7 +1,8 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
 ![alt text][bouncyballs]
-[Click here for live code](https://chandrunarayan.github.io/sketches/bubbles)
+<a href="https://chandrunarayan.github.io/sketches/bubbles" target="_blank">Click here for live code and click bubbles inside resulting tab or window</a>
+<p><iframe src="https://trinket.io/embed/java/0958050227" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 # Computer Programming in Java
 
