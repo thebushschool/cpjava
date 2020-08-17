@@ -1,6 +1,7 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
 ![alt text][bouncyballs]
+[Click here for live code](https://chandrunarayan.github.io/sketches/bubbles)
 
 # Computer Programming in Java
 
@@ -9,7 +10,14 @@ algorithms and typical applications, and the use of logic and formal methods.
 
 In addition, the year-long course will cover many of the topics necessary for preparation to the AP Computer Science A (APCSA) examination in Spring of the following year. This is an introductory course in computer programming using Java. As such, no specific programming prerequisites are needed to take this course. However, additional preparation may be needed to fully prepare a student for the AP CSA exam with no prior knowledge of computer programming.
 
-[Click here for a Complete Course Description](Computer_Programming_in_Java_-_Syllabus_-_Fall_2020_v1.pdf)
+## [Click here for a Complete Course Description](Computer_Programming_in_Java_-_Syllabus_-_Fall_2020_v1.pdf)
+
+## A Reminder
+We are all going through some extraordinary times due to the coronavirus.  I would like to ask you to think about those among us who are suffering due to this affliction. Let us take time to be vigilant about [wearing masks and washing hands frequently](https://www.cdc.gov/handwashing/when-how-handwashing.html), not touching our face and avoiding being in large groups. Most of all, be calm about things beyond our control.
+
+![alt text][washhands]
+
+
 ## Remote Classroom Tools
 
 In our CPJava classroom we are already using tools and techniques that are naturally adapted to a remote learning format. We will continue using our already established tools and techniques for learning CPJava.  We will add to that, a video conferencing solution  to complete our toolset needed for remote learning! All applications (except email) are to be run using your Chrome Browser on your laptop. 
@@ -35,28 +43,7 @@ In our CPJava classroom we are already using tools and techniques that are natur
 ## TBD Remote Schooling Daily Schedule
 TBD
 
-## A Reminder
-We are all going through some extraordinary times due to the coronavirus.  I would like to ask you to think about those among us who are suffering due to this affliction. Let us take time to be vigilant about [wearing masks and washing hands frequently](https://www.cdc.gov/handwashing/when-how-handwashing.html), not touching our face and avoiding being in large groups. Most of all, be calm about things beyond our control.
 
-![alt text][washhands]
-
-
-## Course Links
-
-* Zoom Conference: [CPJava Live and Recorded Class Sessions](https://zoom.us/j/5176316708)
-* Course Website: [CPJava 2020 Website](https://chandrunarayan.github.io/cpjava/)
-* Bush Portal: [CPJava Bush Portal](https://bush.myschoolapp.com/app/faculty#academicclass/110863870/0/bulletinboard)
-* Online Text/Courseware: [CSAwesome Website](https://runestone.academy/runestone/books/published/csawesome/index.html)
-* Java Processing IDE Download: [Java Editor and Compiler](https://processing.org)
-* Web-based Java IDE: [Trinket Exercises](https://trinket.io/library/folder/cpjava) and [repl.it Exercises](https://repl.it)
-* Github Archive: [Projects and Portfolio Submissions](github.com)
-* Other Course materials: [Google Classroom CPJava](https://classroom.google.com/c/MTI2MDgzMTM2MDgw)
-* Assignment Submissions via [Your Github Site](https://github.com/)
-* CPJava Slack Instant Messaging - [CPJava 2020 Slack](https://cpjava2020.slack.com/) email communication is discouraged
-
-## Course Credit
-
-This course draws from the materials used in the the TEALS curriculum as well as CS programs at Lowell High School in San Francisco and Boston Latin School. Significant credit is also due to the many member founders of the Processing Foundation whose tireless efforts have advanced the cause for open, accessible, and free CS education across the world.
 
 ## Lessons FALL 2020  Sep - Dec
 
@@ -147,6 +134,10 @@ _Topics: Projects, Recursion, Recursive Search and Sort_
 _Topics: PEER SHARING - FINAL PROJECT PRESENTATION_
 
 * Class Work: Peer Sharing Final Project Presentations
+
+## Course Credit
+
+This course draws from the materials used in the the TEALS curriculum as well as CS programs at Lowell High School in San Francisco and Boston Latin School. Significant credit is also due to the many member founders of the Processing Foundation, especially Dan Shiffman whose tireless efforts have advanced the cause for open, accessible, and free CS education across the world.
 
 [washhands]: https://www.cdc.gov/handwashing/images/GettyImages-514363103-medium.jpg "Wash Hands"
 [congrats]: congrats.png "Congrats"
