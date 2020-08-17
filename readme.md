@@ -11,15 +11,15 @@ algorithms and typical applications, and the use of logic and formal methods.
 
 In addition, the year-long course will cover many of the topics necessary for preparation to the AP Computer Science A (APCSA) examination in Spring of the following year. This is an introductory course in computer programming using Java. As such, no specific programming prerequisites are needed to take this course. However, additional preparation may be needed to fully prepare a student for the AP CSA exam with no prior knowledge of computer programming.
 
-## [Click here for a Complete Course Description](Computer_Programming_in_Java_-_Syllabus_-_Fall_2020_v1.pdf)
+### [Click here for a Complete Course Description](docs/CP_Java_Syllabus.pdf)
 
-## A Reminder
+### A Reminder
 We are all going through some extraordinary times due to the coronavirus.  I would like to ask you to think about those among us who are suffering due to this affliction. Let us take time to be vigilant about [wearing masks](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cloth-face-cover-guidance.html) and [washing hands frequently](https://www.cdc.gov/handwashing/when-how-handwashing.html), not touching our face and avoiding being in large groups. Most of all, be calm about things beyond our control.
 
 ![alt text][washhands]
 
 
-## Remote Classroom Tools
+### Remote Classroom Tools
 
 In our CPJava classroom we are already using tools and techniques that are naturally adapted to a remote learning format. We will continue using our already established tools and techniques for learning CPJava.  We will add to that, a video conferencing solution  to complete our toolset needed for remote learning! All applications (except email) are to be run using your Chrome Browser on your laptop. 
 
@@ -29,7 +29,7 @@ In our CPJava classroom we are already using tools and techniques that are natur
 4. [GITHUB repository](https://github.com/) - code submissions for exercises and projects, published student portfilios
 5. [Processing Editor (IDE)](https://processing.org) - Code editor for Java and Processing languages
 6. [CPJava Google Classroom](https://classroom.google.com/c/MTI2MDgzMTM2MDgw) - Google Classroom for course and student administrative materials
-7. Web-Based Java Exercises - [Trinket Exercises](https://trinket.io/library/folder/cpjava) and [repl.it Exercises](https://repl.it)
+7. Web-Based Java Exercises - [Trinket Exercises](https://trinket.io/library/folder/cpjava) and [REPL.IT Exercises](https://repl.it)
 7. [Online Text/Courseware](https://runestone.academy/runestone/books/published/csawesome/index.html) - eBook for Java and Runestone CSAwesome Courseware - Login/Register with Bush ID
 8. [Bush PORTAL](https://bush.myschoolapp.com/app/faculty#academicclass/110863870/0/bulletinboard) - links for all tools, official assignments, schedules, syllabus, grade rubric
 9. Conference Appointments
@@ -38,10 +38,10 @@ In our CPJava classroom we are already using tools and techniques that are natur
 10. EMAIL - Default communication method when all else fails! Use of email is discouraged for this course, use Slack above
 
 
-## DRAFT Computer Programming in Java Course Schedule
+### Computer Programming in Java Course Schedule
 ![alt text][schedule]
 
-## TBD Remote Schooling Daily Schedule
+### Remote Schooling Daily Schedule
 TBD
 
 
