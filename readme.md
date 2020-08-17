@@ -1,7 +1,6 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
 ![alt text][bouncyballs]
-![alt text][bubbles]
 
 # Computer Programming in Java
 
@@ -28,11 +27,11 @@ In our CPJava classroom we are already using tools and techniques that are natur
 
 10. EMAIL - check your Bush email multiple times a day. Default communication method when all else fails! 
 
-#### [DRAFT Computer Programming in Java Course Schedule](./CPJava_course_schedule.pdf)
-![alt text](CPJava_course_schedule.png)
+#### [DRAFT Computer Programming in Java Course Schedule](CPJava_Syllabus.pdf)
+![alt text][schedule]
 
 #### [TBD Remote Schooling Daily Schedule]()
-![alt text]()
+TBD
 
 #### A Reminder
 We are all going through some extraordinary times due to the coronavirus.  I would like to ask you to think about those among us who are suffering due to this affliction. Let us take time to be vigilant about [wearing masks and washing hands frequently](https://www.cdc.gov/handwashing/when-how-handwashing.html), not touching our face and avoiding being in large groups. Most of all, be calm about things beyond our control.
@@ -53,7 +52,7 @@ We are all going through some extraordinary times due to the coronavirus.  I wou
 * Bush Portal: [CPJava Bush Portal](https://bush.myschoolapp.com/app/faculty#academicclass/110863870/0/bulletinboard)
 * Online Text/Courseware: [CSAwesome Website](https://runestone.academy/runestone/books/published/csawesome/index.html)
 * Java Processing IDE Download: [Java Editor and Compiler](https://processing.org)
-* Web-based Java IDE: [Trinket Exercises](https://trinket.io/library/folder/cpjava) [repl.it Exercises](https://repl.it)
+* Web-based Java IDE: [Trinket Exercises](https://trinket.io/library/folder/cpjava) and [repl.it Exercises](https://repl.it)
 * Github Archive: [Projects and Portfolio Submissions](github.com)
 * Other Course materials: [Google Classroom CPJava](https://classroom.google.com/c/MTI2MDgzMTM2MDgw)
 * Assignment Submissions via [Your Github Site](https://github.com/)
@@ -158,3 +157,5 @@ _Topics: PEER SHARING - FINAL PROJECT PRESENTATION_
 [juliaset]: julia1.gif "juliaset"
 [bouncyballs]: bouncy_balls2.gif "bouncyballs"
 [bubbles]: https://chandrunarayan.github.io/sketches/bubbles/ "bubbles"
+[schedule]: CPJava_Schedule.png
+
