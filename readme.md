@@ -16,34 +16,30 @@ In our CPJava classroom we are already using tools and techniques that are natur
 
 1. [ZOOM for CPJava](https://zoom.us/j/5176316708) - video conferencing application - join here each day and time CPJava classes are held
 2. [CPJava WEBSITE](https://chandrunarayan.github.io/cpjava/) - lessons, exercises, projects, student-portfolios, references
-3. [SLACK Instant Messaging](https://app.slack.com/client/TTS9Y46VC) - differentiated classroom, code extract, bug fixes, instant help, quick challenges
+3. [SLACK Instant Messaging](https://app.slack.com/client/TTS9Y46VC) - differentiated classroom, code extract, bug fixes, instant help, quick challenges. email communication is discouraged
 4. [GITHUB repository](https://github.com/) - code submissions for exercises and projects, published student portfilios
 5. [Processing Editor (IDE)](https://processing.org) - Code editor for Java and Processing languages
-6. [CPJava Google Drive](https://drive.google.com/drive/folders/1S29hJ9i3igjh1r0it1hj3lnAwT_Z0hKD?usp=sharing) - Google Drive for course and student administrative materials
+6. [CPJava Google Classroom](https://classroom.google.com/c/MTI2MDgzMTM2MDgw) - Google Classroom for course and student administrative materials
+7. Web-Based Java Exercises - [Trinket Exercises](https://trinket.io/library/folder/cpjava) and [repl.it Exercises](https://repl.it)
 7. [Online Text/Courseware](https://runestone.academy/runestone/books/published/csawesome/index.html) - eBook for Java and Runestone CSAwesome Courseware - Login/Register with Bush ID
 8. [Bush PORTAL](https://bush.myschoolapp.com/app/faculty#academicclass/110863870/0/bulletinboard) - links for all tools, official assignments, schedules, syllabus, grade rubric
 9. Conference Appointments
     *    TBD
 
-10. EMAIL - check your Bush email multiple times a day. Default communication method when all else fails! 
+10. EMAIL - Default communication method when all else fails! Use of email is discouraged for this course, use Slack above
 
-#### [DRAFT Computer Programming in Java Course Schedule](CPJava_Syllabus.pdf)
+
+## DRAFT Computer Programming in Java Course Schedule
 ![alt text][schedule]
 
-#### [TBD Remote Schooling Daily Schedule]()
+## TBD Remote Schooling Daily Schedule
 TBD
 
-#### A Reminder
+## A Reminder
 We are all going through some extraordinary times due to the coronavirus.  I would like to ask you to think about those among us who are suffering due to this affliction. Let us take time to be vigilant about [wearing masks and washing hands frequently](https://www.cdc.gov/handwashing/when-how-handwashing.html), not touching our face and avoiding being in large groups. Most of all, be calm about things beyond our control.
 
 ![alt text][washhands]
 
-## Course Documents
-
-* [Syllabus](_syllabus.md)
-* [Topic List](_topic-list.md)
-* [Student Portfolios](_student-work.md)
-* [Exercise/Project Requirements](_final-project.md)
 
 ## Course Links
 
