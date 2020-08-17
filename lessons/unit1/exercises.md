@@ -5,13 +5,9 @@
 ## Trinket Exercises
 * [Java Intro](JavaBasics.html)
 
+Welcome to the Bush School Computer Programming in Java (CPJava) class. You might jave written programs before in some language like Scratch, Python, or Javascript. In many ways Java programming is similar, but you will notice immediately that even a basic Java "Hello, World!" program looks pretty confusing and complicated. Here's a Java program that prints "Hello, World!". Press the Run button and the program output should appear to the right of the code in what is called the console.
+<iframe src="https://trinket.io/embed/java/568a63bc9d?showInstructions=true" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
 ## Runestone Exercises
 * 
 
-## Codepen Exercises
-<p class="codepen" data-height="300" data-theme-id="light" data-default-tab="css,result" data-user="ricardoolivaalonso" data-slug-hash="rNeeJWb" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Partners in crime">
-  <span>See the Pen <a href="https://codepen.io/ricardoolivaalonso/pen/rNeeJWb">
-  Partners in crime</a> by Ricardo Oliva Alonso (<a href="https://codepen.io/ricardoolivaalonso">@ricardoolivaalonso</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
