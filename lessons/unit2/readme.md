@@ -1,35 +1,27 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
-# Unit 2
+# Unit 2 2-Weeks
 
-## Learning Objectives
+## Warm up
+* Review of previous Unit
 
-* Learn about the course and your classmates
-* Understand programming flow of static and dynamic programs in p5.js
-* Understand how programming flow changes when using functions
-* Understand and be able to use functions and parameters
-* Understand how the animation loop works in p5.js
-* Be able to create and use variables in your code
-* Be able to increment (add a value), and decrement (subtract a value) from a variable
-* Understand and be able to use the max and min functions
-* Understand how to add sound elements to your sketch
+## Goals
+* TBD
+
+## Topics
+* TBD
 
 ## Exercises
+* TBD
 
-* [Moving Ball](exercises/ball.md)
-* [Responsive face](exercises/face.md)
 
+## Projects
+* TBD
 
 ## Debrief
-
-* What new things did you learn today?
+* What new things did you learn in this unit?
 * What topics are you still struggling with?
-* What did you especially enjoy about today's class?
+* What did you especially enjoy about the last few weeks?
 
-## Resources
-
-* [Code examples](code)
-
-## Homework
-
-* Robot unit2 update - think of a useful and fun way to add a function, variables, sound to your robot. Save and Upload to Github.
+## Additional Resources
+* TBD

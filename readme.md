@@ -53,7 +53,8 @@ TBD
 _Topics: Introduction to Java, Tools walkthrough, Classroom processes, Environment setup, Java Primitive types and Operators_
 
 * [Overview](lessons/unit1)
-* [Exercises](lessons/unit1/exercises/readme.md)
+* [Slide Presentation](CPJavaIntro.pdf)
+* [Exercises](JavaBasics.html)
 * [Projects]()
 
 ### [Unit 2](lessons/unit2)  - 2-Weeks
@@ -61,7 +62,8 @@ _Topics: Introduction to Java, Tools walkthrough, Classroom processes, Environme
 _Topics: Objects, Methods, String, Integer, Double, Math_
 
 * [Overview](lessons/unit2)
-* [Exercises](lessons/unit2/readme.md)
+* [Slide Presentation]()
+* [Exercises]()
 * [Projects]()
 
 ### [Unit 3](lessons/unit3)  - 2-Weeks
@@ -69,15 +71,18 @@ _Topics: Objects, Methods, String, Integer, Double, Math_
 _Topics: Control flow, Booleans, If statements, Object traversals_
 
 * [Overview](lessons/unit3)
-* [Exercises](lessons/unit3/readme.md)
+* [Slide Presentation]()
+* [Exercises]()
 * [Projects]()
+
 
 ### [Unit 4](lessons/unit4)  - 3-Weeks
 
 _Topics: Iteration, While loops, For loops, Nested Loops, Loop Analysis_
 
 * [Overview](lessons/unit4)
-* [Exercises](lessons/unit4/code)
+* [Slide Presentation]()
+* [Exercises]()
 * [Projects]()
 
 ### [Unit 5](lessons/unit5)  - 3-Weeks
@@ -85,7 +90,8 @@ _Topics: Iteration, While loops, For loops, Nested Loops, Loop Analysis_
 _Topics: Anatomy of a class, Constructor, Accessor, Mutator Methods, this keyword, Social Impact of CS_
 
 * [Overview](lessons/unit5)
-* [Exercises](lessons/unit5/code)
+* [Slide Presentation]()
+* [Exercises]()
 * [Projects]()
 
 ### [Unit 6](lessons/unit6)  - 3-Weeks
@@ -93,8 +99,10 @@ _Topics: Anatomy of a class, Constructor, Accessor, Mutator Methods, this keywor
 _Topics: Arrays, Array Lists, Array Traversal_
 
 * [Overview](lessons/unit6)
-* [Exercises](lessons/unit6/code)
+* [Slide Presentation]()
+* [Exercises]()
 * [Projects]()
+
 
 ## Lessons SPRING 2021 Jan - June
 
@@ -103,31 +111,38 @@ _Topics: Arrays, Array Lists, Array Traversal_
 _Topics: Searching Sorting Algorithms, Ethics of Data Collection, Privacy_
 
 * [Overview](lessons/unit7)
-* [Exercises](lessons/unit7/code)
+* [Slide Presentation]()
+* [Exercises]()
 * [Projects]()
+
 
 ### [Unit 8](lessons/unit8)  - 3-Weeks
 
 _Topics: 2D Arrays, Traversal_
 
 * [Overview](lessons/unit8)
-* [Exercises](lessons/unit8/code)
+* [Slide Presentation]()
+* [Exercises]()
 * [Projects]()
+
 
 ### [Unit 9](lessons/unit9)  - 3-Weeks
 
 _Topics: Projects, Inheritance, Encapsulation, Hierarchy, Polymorphism_
 
 * [Overview](lessons/unit9)
-* [Exercises](lessons/unit9/code)
+* [Slide Presentation]()
+* [Exercises]()
 * [Projects]()
+
 
 ### [Unit 10](lessons/unit10) - 3-Weeks
 
 _Topics: Projects, Recursion, Recursive Search and Sort_
 
 * [Overview](lessons/unit10)
-* [Exercises](lessons/unit10/code)
+* [Slide Presentation]()
+* [Exercises]()
 * [Projects]()
 
 ### [Unit 11](lessons/unit10) - 2-Weeks

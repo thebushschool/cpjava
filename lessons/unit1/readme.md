@@ -14,7 +14,7 @@
 * Start learning the fundamentals of programming using Java
 * Getting Started and Primiive types in Java
 
-## [Topics](CPJavaIntro.pdf)
+## Topics
 * Getting Started
 * What is Java?
 * Variables and Data Types
@@ -23,20 +23,17 @@
 * Casting Variables
 
 ## Exercises
-* [Java Intro](JavaBasics.html) 
+* [Java Intro](JavaBasics.html)
+* Runestone topics
 
 
-## Homework
-* Review the [syllabus](../../syllabus.md)
-* Create a [Github](https://github.com/) account
-* Setup your [portfolio](portfolio.md)
-* Complete the [installfest](installfest.md)
-
+## Projects
+* TBD
 
 ## Debrief
 * What new things did you learn in this unit?
 * What topics are you still struggling with?
 * What did you especially enjoy about the last few weeks?
 
-## Resources
-* Bush School CPJava Youtube Channel
+## Additional Resources
+* TBD

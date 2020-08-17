@@ -1,33 +1,27 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
-# Unit 9
+# Unit 9 3-Weeks
 
-## Learning Objectives
-* Functions, Arrays, User Input
+## Warm up
+* Review of previous Unit
 
-## Unit 9 Lessons
-* ALL Teams: [Learn to use Arrays, Functions, User Input](plan/readme.md) 
-* STD Team: [Slack Code Extract in #stdteamch](https://app.slack.com/client/TTS9Y46VC/GUMN732S0)
-* ADV Team: Work on Part 2 & 3 of [Project: Moving Robot](lessons/unit8/code/moving_robot.md)
+## Goals
+* TBD
 
-## Homework
+## Topics
+* TBD
 
-### OverDue (Last Unit) 3/30
+## Exercises
+* TBD
 
-* STD Team: [Moving Pacman Exercise](code/moving_pacman.md). Add to Github and Student Portfolio
 
-### Due Thursday 4/9
-* STD Team: [Project: Pins and Threads](code/pins_threads.md)
-* ADV Team: [Moving Robot Project Part 2](lessons/unit8/code/moving_robot.md). Add Part 2 to Github and Student Portfolio
+## Projects
+* TBD
 
-### Due Thursday 4/9
-* ADV Team: [Moving Robot Project Part 3](lessons/unit8/code/moving_robot.md. Add Part 3 to Github and Student Portfolio
+## Debrief
+* What new things did you learn in this unit?
+* What topics are you still struggling with?
+* What did you especially enjoy about the last few weeks?
 
-## [Code Examples](plan/readme.md)
-
-* [Pins and Threads](code/pinsThreads3)
-*   ![alt text](plan/savecanvas.png)
-
-* [User Input Slider](code/userInput)
-*   ![alt text](plan/inputSlider.png)
-
+## Additional Resources
+* TBD
