@@ -104,7 +104,7 @@ _Topics: Arrays, Array Lists, Array Traversal_
 * [Projects]()
 
 
-## Lessons SPRING 2021 Jan - June
+## Lessons SPRING 2021 Jan - May
 
 ### [Unit 7](lessons/unit7) - 3-Weeks
 
