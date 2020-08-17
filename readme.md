@@ -54,8 +54,8 @@ _Topics: Introduction to Java, Tools walkthrough, Classroom processes, Environme
 
 * [Overview](lessons/unit1)
 * [Slide Presentation](lessons/unit1/CPJavaIntro.pdf)
-* [Exercises](lessons/unit1/JavaBasics.html)
-* [Projects]()
+* [Exercises](lessons/unit1/exercises.md)
+* [Projects](lessons/unit1/projects.md)
 
 ### [Unit 2](lessons/unit2)  - 2-Weeks
 
