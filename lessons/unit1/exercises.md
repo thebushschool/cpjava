@@ -7,6 +7,10 @@ The exercises in this Unit are to be done concurrently with topics being covered
 ## Watch the Growth Mindset Video
 <a href="https://www.youtube.com/watch?time_continue=1&v=WtKJrB5rOKs&feature=emb_logo" target="_blank">Growth Mindset Video</a>
 
+[![](http://img.youtube.com/vi/WtKJrB5rOKs/0.jpg)](http://www.youtube.com/watch?v=WtKJrB5rOKs "")
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/E5Jg4Wm9b7o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Setup and Online Registrations  (Please seek assiatance from you TA or me via Slack if you have any issues)
 
 1. Log into your [CPJava Google Classroom](https://classroom.google.com/c/MTI2MDgzMTM2MDgw) using your Bush email address.
