@@ -4,10 +4,9 @@
 
 The exercises in this Unit are to be done concurrently with topics being covered in the [Unit 1 Presentation](CPJavaIntro.pdf). TWe will follow a similar pattern for future Units.
 
-## Watch the Growth Mindset Video
-<a href="https://www.youtube.com/watch?time_continue=1&v=WtKJrB5rOKs&feature=emb_logo" target="_blank">Growth Mindset Video</a>
+## [Watch the Growth Mindset Video](https://www.youtube.com/watch?time_continue=1&v=WtKJrB5rOKs&feature=emb_logo)
 
-<iframe src="https://www.youtube.com/watch?time_continue=1&v=WtKJrB5rOKs&feature=emb_logo" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WtKJrB5rOKs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Setup and Online Registrations  (Please seek assiatance from you TA or me via Slack if you have any issues)
 
