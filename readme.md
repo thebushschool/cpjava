@@ -11,7 +11,7 @@ algorithms and typical applications, and the use of logic and formal methods.
 
 In addition, the year-long course will cover many of the topics necessary for preparation to the AP Computer Science A (APCSA) examination in Spring of the following year. This is an introductory course in computer programming using Java. As such, no specific programming prerequisites are needed to take this course. However, additional preparation may be needed to fully prepare a student for the AP CSA exam with no prior knowledge of computer programming.
 
-### [Click here for a Complete Course Description](docs/CP_Java_Syllabus.pdf)
+### [Click here for a Complete Course Description](src/CP_Java_Syllabus.pdf)
 
 ### A Reminder
 We are all going through some extraordinary times due to the coronavirus.  I would like to ask you to think about those among us who are suffering due to this affliction. Let us take time to be vigilant about [wearing masks](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cloth-face-cover-guidance.html) and [washing hands frequently](https://www.cdc.gov/handwashing/when-how-handwashing.html), not touching our face and avoiding being in large groups. Most of all, be calm about things beyond our control.
@@ -26,18 +26,18 @@ In our CPJava classroom we are already using tools and techniques that are natur
 1. [ZOOM for CPJava](https://zoom.us/j/5176316708) - video conferencing application - join here each day and time CPJava classes are held
 1. [CPJava WEBSITE](https://chandrunarayan.github.io/cpjava/) - lessons, presentation, examples, exercises, projects, student-portfolios, references
 1. [Google Classroom](https://classroom.google.com/c/MTI2MDgzMTM2MDgw) - Google Classroom for course and student administrative materials
-1. [GITHUB repository](https://github.com/) - code submissions for exercises and projects, published student portfilios
+1. [GITHUB repository](https://github.com/) - code submissions for exercises and projects, published student portfilios - Login/Register with Bush ID
 1. [Processing Editor (IDE) Download](https://processing.org) - Code editor for Java and Processing languages
-1. [Visual Code Editor (IDE) Download](https://code.visualstudio.com/download)
-1. Web-Based Java Exercises - [Trinket Exercises](https://trinket.io/library/folder/cpjava) and [REPL.IT Exercises](https://repl.it)
+1. [Visual Code Editor (IDE) Download](https://code.visualstudio.com/download) - Login/Register with Bush ID
+1. Web-Based Java Exercises - [Trinket Exercises](https://trinket.io/library/folder/cpjava) and [REPL.IT Exercises](https://repl.it) - Login/Register with Bush ID
 1. [Online Text/Courseware](https://runestone.academy/runestone/books/published/csawesome/index.html) - eBook for Java and Runestone CSAwesome Courseware - Login/Register with Bush ID
+1. [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) - Youtube Video Examples from the Processing Foundation
 1. [Bush PORTAL](https://bush.myschoolapp.com/app/faculty#academicclass/110863870/0/bulletinboard) - links for all tools, official assignments, schedules, syllabus, grade rubric
 1. [SLACK Instant Messaging](https://app.slack.com/client/TTS9Y46VC) - communication for differentiated classroom, code extracts, bug fixes, instant help, quick challenges. You will receive an invitation. email communication is discouraged for this pupose.
 1. [Bush EMAIL](mailto:chandru.narayan@bush.edu) will be used for administrative, one-on-one communications as necessary. Please check this once a each day during the Semester. 
 1. 1-1 Calendly Conference Appointments 
     * [Impromptu Meetings](https://calendly.com/chandru-narayan/impromptu)
     * Wednesday Meetings TBD
-
 
 ### Computer Programming in Java Course Schedule
 ![alt text][schedule]
@@ -46,9 +46,9 @@ In our CPJava classroom we are already using tools and techniques that are natur
 TBD
 
 
-## Lessons FALL 2020  Sep - Dec
+## Lessons FALL 2020  Sep - Dec 13-Weeks
 
-### [Unit 1](lessons/unit1)  - 2-Weeks
+### [Unit 1](lessons/unit1)  - 3-Weeks
 
 _Topics: Introduction to Java, Tools walkthrough, Classroom processes, Environment setup, Java Primitive types and Operators_
 
@@ -94,6 +94,8 @@ _Topics: Anatomy of a class, Constructor, Accessor, Mutator Methods, this keywor
 * [Exercises]()
 * [Projects]()
 
+## Lessons SPRING 2021 Jan - May 14-Weeks
+
 ### [Unit 6](lessons/unit6)  - 3-Weeks
 
 _Topics: Arrays, Array Lists, Array Traversal_
@@ -102,9 +104,6 @@ _Topics: Arrays, Array Lists, Array Traversal_
 * [Slide Presentation]()
 * [Exercises]()
 * [Projects]()
-
-
-## Lessons SPRING 2021 Jan - May
 
 ### [Unit 7](lessons/unit7) - 3-Weeks
 
@@ -116,7 +115,7 @@ _Topics: Searching Sorting Algorithms, Ethics of Data Collection, Privacy_
 * [Projects]()
 
 
-### [Unit 8](lessons/unit8)  - 3-Weeks
+### [Unit 8](lessons/unit8)  - 2-Weeks
 
 _Topics: 2D Arrays, Traversal_
 
@@ -136,7 +135,7 @@ _Topics: Projects, Inheritance, Encapsulation, Hierarchy, Polymorphism_
 * [Projects]()
 
 
-### [Unit 10](lessons/unit10) - 3-Weeks
+### [Unit 10](lessons/unit10) - 2-Weeks
 
 _Topics: Projects, Recursion, Recursive Search and Sort_
 
@@ -145,7 +144,7 @@ _Topics: Projects, Recursion, Recursive Search and Sort_
 * [Exercises]()
 * [Projects]()
 
-### [Unit 11](lessons/unit10) - 2-Weeks
+### [Unit 11](lessons/unit10) - 1-Weeks
 
 _Topics: PEER SHARING - FINAL PROJECT PRESENTATION_
 
@@ -153,7 +152,7 @@ _Topics: PEER SHARING - FINAL PROJECT PRESENTATION_
 
 ## Course Credit
 
-This course draws from the materials used in the the TEALS curriculum as well as CS programs at Lowell High School in San Francisco and Boston Latin School. Significant credit is also due to the many member founders of the Processing Foundation, especially Dan Shiffman whose tireless efforts have advanced the cause for open, accessible, and free CS education across the world.
+This course draws from the book Building Java Programs: A Back to Basics Approach by Stuart Reges and Marty Stepp and materials used in the the CSAwesome/TEALS curriculum. Materials are also derived from CS programs at Lowell High School in San Francisco and Boston Latin School. Significant credit is also due to the many member founders of the Processing Foundation, especially Dan Shiffman whose tireless efforts have advanced the cause for open, accessible, and free CS education across the world.
 
 [washhands]: https://www.cdc.gov/handwashing/images/GettyImages-514363103-medium.jpg "Wash Hands"
 [congrats]: congrats.png "Congrats"
