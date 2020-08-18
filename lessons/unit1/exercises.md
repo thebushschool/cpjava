@@ -11,7 +11,7 @@ Welcome to the Bush School Computer Programming in Java (CPJava) class. You migh
 
 ## Runestone Exercises 
 
-<a href="https://https://runestone.academy/runestone/books/published/csawesome/Unit1-Getting-Started/topic-1-2-java-intro.html#groupwork-debugging-challenge" target="_blank">CCSAwesome 1.2.5 Debugging Challenge</a>
+<a href="https://runestone.academy/runestone/books/published/csawesome/Unit1-Getting-Started/topic-1-2-java-intro.html#groupwork-debugging-challenge" target="_blank">CCSAwesome 1.2.5 Debugging Challenge</a>
 
 <a href="https://runestone.academy/runestone/books/published/csawesome/Unit1-Getting-Started/topic-1-2-java-intro.html#summary" target="_blank">CSAwesome 1.2.6 Summary</a>
 
