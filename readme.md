@@ -30,7 +30,7 @@ In our CPJava classroom we are already using tools and techniques that are natur
 1. [Processing Editor (IDE) Download](https://processing.org) - Code editor for Java and Processing languages
 1. [Visual Code Editor (IDE) Download](https://code.visualstudio.com/download) - Login/Register with Bush ID
 1. Web-Based Java Exercises - [Trinket Exercises](https://trinket.io/library/folder/cpjava) and [REPL.IT Exercises](https://repl.it) - Login/Register with Bush ID
-1. [Online Text/Courseware](https://runestone.academy/runestone/books/published/csawesome/index.html) - eBook for Java and Runestone CSAwesome Courseware - Login/Register with Bush ID
+1. [CPJava2020 Online Text/Courseware](https://runestone.academy/runestone/default/user/login?_next=/runestone/default/index) - eBook for Java and Runestone CSAwesome Courseware - Login/Register with Bush ID
 1. [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) - Youtube Video Examples from the Processing Foundation
 1. [Bush PORTAL](https://bush.myschoolapp.com/app/faculty#academicclass/110863870/0/bulletinboard) - links for all tools, official assignments, schedules, syllabus, grade rubric
 1. [SLACK Instant Messaging](https://app.slack.com/client/TTS9Y46VC) - communication for differentiated classroom, code extracts, bug fixes, instant help, quick challenges. You will receive an invitation. email communication is discouraged for this pupose.
