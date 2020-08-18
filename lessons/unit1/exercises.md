@@ -2,7 +2,7 @@
 
 # Unit 1 - Exercises
 
-The exercises in this Unit are to be done comcurrently with topics being covered in the [Unit 1 Presentation](lessons/unit1/CPJavaIntro.pdf). This will be the same pattern we will follow for all the 10 Units.
+The exercises in this Unit are to be done comcurrently with topics being covered in the [Unit 1 Presentation](CPJavaIntro.pdf). This will be the same pattern we will follow for all the 10 Units.
 
 ## Trinket Exercises
 

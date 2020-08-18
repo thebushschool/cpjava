@@ -4,13 +4,19 @@
 
 ## Warm up
 * Introductions
-  * Say your name, your hobbies
+  * State your name, your hobbies, interests
   * Exposed to computer Programming before?
-  * What do you expect frm this class?
+  * What do you expect from this class?
+  * Are you planning to take the AP CSA exam in Spring 2021?
 * Laptop? (Mac or Windows - Chromebook will not be adequate)
 
 ## Goals
-* Learn about the course and your classmates
+* Learn about the course and about your classmates
+* Learn the course syllabus and expectations
+* Setp your computer software, register to websites
+* Setup Github archive for storage
+* Walkthrough class procedures
+* Walkthrough of Class website and other resorces
 * Start learning the fundamentals of programming using Java
 * Getting Started and Primiive types in Java
 
@@ -22,13 +28,14 @@
 * Compound Assignment Operators
 * Casting Variables
 
-## Exercises
-* [Java Intro](JavaBasics.html)
-* Runestone topics
+## Presentations
+* [Unit 1 Presentations](presentations.md)
 
+## Exercises
+* [Unit 1 Exercises Details](exercises.md)
 
 ## Projects
-* TBD
+* [Unit 1 Project Details](projects.md)
 
 ## Debrief
 * What new things did you learn in this unit?
