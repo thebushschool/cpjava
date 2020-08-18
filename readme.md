@@ -4,7 +4,7 @@
 
 <a href="https://chandrunarayan.github.io/sketches/bubbles" target="_blank">Click here for live code and click bubbles inside resulting tab or window</a>
 
-# CPJava - Bush School "Computer Programming in Java" Course
+# CPJava - Computer Programming in Java Course
 
 This course is designed to introduce computer programming in the Java language. Learning to use a computer language is a necessary skill for all students regardless of discipline. In this course we will teach the fundamentals of computer programming from the stand point of simulation, automation, and problem solving of real-world systems and natural processes. At the same time, the design and implementation of computer programs is taught from the context of fundamental aspects of computer science, including the development and analysis of algorithms, the development and use of fundamental data structures, the study of standard
 algorithms and typical applications, and the use of logic and formal methods. 
