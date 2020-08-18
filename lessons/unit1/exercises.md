@@ -19,7 +19,7 @@ Welcome to the Bush School Computer Programming in Java (CPJava) class. You migh
 
 <a href="https://runestone.academy/runestone/books/published/csawesome/Unit1-Getting-Started/topic-1-2-java-intro.html#ap-practice" target="_blank">CSAwesome 1.2.7 AP Exam Practice</a>
 
-## SAVE
+##  SAVE
 
 [CSAwesome 1.2.5 Debugging Challenge](https://runestone.academy/runestone/books/published/csawesome/Unit1-Getting-Started/topic-1-2-java-intro.html#groupwork-debugging-challenge)
 
