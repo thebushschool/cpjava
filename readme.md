@@ -24,18 +24,19 @@ We are all going through some extraordinary times due to the coronavirus.  I wou
 In our CPJava classroom we are already using tools and techniques that are naturally adapted to a remote learning format. We will continue using our already established tools and techniques for learning CPJava.  We will add to that, a video conferencing solution  to complete our toolset needed for remote learning! All applications (except email) are to be run using your Chrome Browser on your laptop. 
 
 1. [ZOOM for CPJava](https://zoom.us/j/5176316708) - video conferencing application - join here each day and time CPJava classes are held
-2. [CPJava WEBSITE](https://chandrunarayan.github.io/cpjava/) - lessons, exercises, projects, student-portfolios, references
-3. [SLACK Instant Messaging](https://app.slack.com/client/TTS9Y46VC) - differentiated classroom, code extract, bug fixes, instant help, quick challenges. email communication is discouraged
-4. [GITHUB repository](https://github.com/) - code submissions for exercises and projects, published student portfilios
-5. [Processing Editor (IDE)](https://processing.org) - Code editor for Java and Processing languages
-6. [CPJava Google Classroom](https://classroom.google.com/c/MTI2MDgzMTM2MDgw) - Google Classroom for course and student administrative materials
-7. Web-Based Java Exercises - [Trinket Exercises](https://trinket.io/library/folder/cpjava) and [REPL.IT Exercises](https://repl.it)
-7. [Online Text/Courseware](https://runestone.academy/runestone/books/published/csawesome/index.html) - eBook for Java and Runestone CSAwesome Courseware - Login/Register with Bush ID
-8. [Bush PORTAL](https://bush.myschoolapp.com/app/faculty#academicclass/110863870/0/bulletinboard) - links for all tools, official assignments, schedules, syllabus, grade rubric
-9. Conference Appointments
-    *    TBD
-
-10. EMAIL - Default communication method when all else fails! Use of email is discouraged for this course, use Slack above
+1. [CPJava WEBSITE](https://chandrunarayan.github.io/cpjava/) - lessons, presentation, examples, exercises, projects, student-portfolios, references
+1. [Google Classroom](https://classroom.google.com/c/MTI2MDgzMTM2MDgw) - Google Classroom for course and student administrative materials
+1. [GITHUB repository](https://github.com/) - code submissions for exercises and projects, published student portfilios
+1. [Processing Editor (IDE) Download](https://processing.org) - Code editor for Java and Processing languages
+1. [Visual Code Editor (IDE) Download](https://code.visualstudio.com/download)
+1. Web-Based Java Exercises - [Trinket Exercises](https://trinket.io/library/folder/cpjava) and [REPL.IT Exercises](https://repl.it)
+1. [Online Text/Courseware](https://runestone.academy/runestone/books/published/csawesome/index.html) - eBook for Java and Runestone CSAwesome Courseware - Login/Register with Bush ID
+1. [Bush PORTAL](https://bush.myschoolapp.com/app/faculty#academicclass/110863870/0/bulletinboard) - links for all tools, official assignments, schedules, syllabus, grade rubric
+1. [SLACK Instant Messaging](https://app.slack.com/client/TTS9Y46VC) - communication for differentiated classroom, code extracts, bug fixes, instant help, quick challenges. You will receive an invitation. email communication is discouraged for this pupose.
+1. [Bush EMAIL](mailto:chandru.narayan@bush.edu) will be used for administrative, one-on-one communications as necessary. Please check this once a each day during the Semester. 
+1. 1-1 Calendly Conference Appointments 
+    * [Impromptu Meetings](https://calendly.com/chandru-narayan/impromptu)
+    * Wednesday Meetings TBD
 
 
 ### Computer Programming in Java Course Schedule
@@ -43,7 +44,6 @@ In our CPJava classroom we are already using tools and techniques that are natur
 
 ### Remote Schooling Daily Schedule
 TBD
-
 
 
 ## Lessons FALL 2020  Sep - Dec
