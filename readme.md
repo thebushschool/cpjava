@@ -11,7 +11,8 @@ algorithms and typical applications, and the use of logic and formal methods.
 
 In addition, the year-long course will cover many of the topics necessary for preparation to the AP Computer Science A (APCSA) examination in Spring of the following year. This is an introductory course in computer programming using Java. As such, no specific programming prerequisites are needed to take this course. However, additional preparation may be needed to fully prepare a student for the AP CSA exam with no prior knowledge of computer programming.
 
-### [Click here for a Complete Course Description](src/CP_Java_Syllabus.pdf)
+### [Click here for a Complete Course Syllabus](src/CP_Java_Syllabus.pdf)
+### [Click here for the Bush 2020 Curriculum Guide](src/Curriculum Guide 2020-2021.pdf)
 
 ### A Reminder
 We are all going through some extraordinary times due to the coronavirus.  I would like to ask you to think about those among us who are suffering due to this affliction. Let us take time to be vigilant about [wearing masks](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cloth-face-cover-guidance.html) and [washing hands frequently](https://www.cdc.gov/handwashing/when-how-handwashing.html), not touching our face and avoiding being in large groups. Most of all, be calm about things beyond our control.
