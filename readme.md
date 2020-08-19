@@ -155,5 +155,5 @@ This course draws from the book Building Java Programs: A Back to Basics Approac
 [juliaset]: julia1.gif "juliaset"
 [bouncyballs]: bouncy_balls2.gif "bouncyballs"
 [bubbles]: https://chandrunarayan.github.io/sketches/bubbles/ "bubbles"
-[schedule]: CPJava_Schedule.png
+[schedule]: src/CPJava_Schedule.png
 
