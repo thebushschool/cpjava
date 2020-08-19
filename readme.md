@@ -25,7 +25,7 @@ In our CPJava classroom we are already using tools and techniques that are natur
 
 1. [ZOOM for CPJava](https://zoom.us/j/5176316708) - video conferencing application - join here each day and time CPJava classes are held
 1. [CPJava WEBSITE](https://chandrunarayan.github.io/cpjava/) - lessons, presentation, examples, exercises, projects, student-portfolios, references
-1. [Google Classroom](https://classroom.google.com/c/MTI2MDgzMTM2MDgw) - Google Classroom for course and student administrative materials
+1. [Google Classroom](https://classroom.google.com/c/MTI2MDgzMTM2MDgw) - Google Classroom for course Assignments and student administrative materials
 1. [GITHUB repository](https://github.com/) - code submissions for exercises and projects, published student portfilios - Login/Register with Bush ID
 1. [Processing Editor (IDE) Download](https://processing.org) - Code editor for Java and Processing languages
 1. [Visual Code Editor (IDE) Download](https://code.visualstudio.com/download) - Login/Register with Bush ID
