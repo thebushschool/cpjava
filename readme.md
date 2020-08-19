@@ -39,12 +39,8 @@ In our CPJava classroom we are already using tools and techniques that are natur
     * [Impromptu Meetings](https://calendly.com/chandru-narayan/impromptu)
     * Wednesday Meetings TBD
 
-### Computer Programming in Java Course Schedule
+### CPJava Course Schedule
 ![alt text][schedule]
-
-### Remote Schooling Daily Schedule
-TBD
-
 
 ## Lessons FALL 2020  Sep - Dec 13-Weeks
 
@@ -159,5 +155,5 @@ This course draws from the book Building Java Programs: A Back to Basics Approac
 [juliaset]: julia1.gif "juliaset"
 [bouncyballs]: bouncy_balls2.gif "bouncyballs"
 [bubbles]: https://chandrunarayan.github.io/sketches/bubbles/ "bubbles"
-[schedule]: CPJava_Schedule.png
+[schedule]: src/CPJava_Schedule.png
 
