@@ -152,7 +152,7 @@ _Topics: PEER SHARING - FINAL PROJECT PRESENTATION_
 
 ## Course Credit
 
-This course draws from the book Building Java Programs: A Back to Basics Approach by Stuart Reges and Marty Stepp and materials used in the the CSAwesome/TEALS curriculum. Materials are also derived from CS programs at Lowell High School in San Francisco and Boston Latin School. Significant credit is also due to the many member founders of the Processing Foundation, especially Dan Shiffman whose tireless efforts have advanced the cause for open, accessible, and free CS education across the world.
+This course draws from the book Building Java Programs: A Back to Basics Approach by Stuart Reges and Marty Stepp and materials used in the the CSAwesome/TEALS curriculum. Credit for significant collaboration with CS programs taught at the Lowell High School by Art Simon in San Francisco and at the Boston Latin School by Long Nguyen is duly noted with thanks. Credit is also due to the many member founders of the Processing Foundation, especially Dan Shiffman whose tireless efforts have advanced the cause for open, accessible, and free CS education across the world.
 
 [washhands]: https://www.cdc.gov/handwashing/images/GettyImages-514363103-medium.jpg "Wash Hands"
 [congrats]: congrats.png "Congrats"
