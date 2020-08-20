@@ -1,42 +1,76 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
-# Unit 1 - Exercises
+# Unit 1 - Java Basics
 
 The exercises in this Unit are to be done concurrently with topics being covered in the [Unit 1 Presentation](CPJavaIntro.pdf). We will follow a similar pattern for future Units.
 
-## Watch the Growth Mindset Video
+### 1. [Watch the Growth Mindset Video](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MTI3MDIwMDg0MDQ0/details)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WtKJrB5rOKs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Setup and Online Registrations  (Please seek assiatance from your TA or me via Slack if you have any issues)
+### 2. [Setup and Online Registrations](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MTI3MDIzMTA3OTY4/details)
 
-1. Log into your [CPJava Google Classroom](https://classroom.google.com/c/MTI2MDgzMTM2MDgw) using your Bush email address.
+### 3. Four-Fours  
+You might jave written programs before in some language like Scratch, Python, or Javascript. In many ways Java programming is similar, but you will notice immediately that even a basic Java "Hello, World!" program looks pretty confusing and complicated. Here's a Java program that prints "Hello, You!". Press the Run button and the program output should appear to the right of the code in the Result Tab. This is called the "console" where the text output and errors from the Java program appears.  Try editing the code in the left side to change the output to say Hello to your name (instead of You) and press the Run button.
+<iframe src="https://trinket.io/embed/java/568a63bc9d" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+Luckily though, one line of code in this program is much more important and interesting than all the rest. For now we are just interested in
 
-1. Accept your Slack Instant Messenger invitation in your email. We will use Slack instant messaging for 1-1 communication of administrative tasks.
+````System.out.println("Hello, World!");````
 
-1. Login to the [cpjava2020 online course](https://runestone.academy/runestone/default/user/login?_next=/runestone/default/index) from csawesome using your username and password provided to you via Slack. 
+We will ignore everything else. This line of code an example of a Java statement. If we think of Java as a language like English, a statement is like a sentence. The same way a period ends an English sentence, a semi-colon marks the end of of a Java statement.
+"Hello World!" is an example of a Java String. A String is a collection of letters, digits, punctuation and/or spaces. The beginning and end of the String are marked with double quotes (").
 
-1. [Register/Login to Github.com](https://github.com/) with your Bush email address and make sure you have access
+````print() vs println()````
 
-#### These following 2 setup tasks can be completed a bit later during Unit 1 if you run out of time
+System.out.println() prints first and then inserts a newline character so that whatever is printed next is printed on the next line. Run the following code and you'll notice top and bottom are printed on separate lines.
 
-1. Download and Install the Processing Editor we will use it later in Unit1 for visual programming
+<iframe src="https://trinket.io/java/529f1af02f" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-1. Download and Install the Visual Code IDE Editor we will use it later in Unit1 for creating and compiling ava programs
+Java has another printing function. System.out.print() which does NOT insert a newline. Change the first statement to System.out.print("Top"); Then run the program to make sure that "Bottom" is printed on the same line as "Top".
 
-## Exercise Set 1
-### Trinket Exercises 
-Welcome to the Bush School Computer Programming in Java (CPJava) class. You might jave written programs before in some language like Scratch, Python, or Javascript. In many ways Java programming is similar, but you will notice immediately that even a basic Java "Hello, World!" program looks pretty confusing and complicated. Here's a Java program that prints "Hello, You!". Press the Run button and the program output should appear to the right of the code in the Result Tab. This is called the "console" where the text output and errors from the Java program appears.  Try editing the code in the left side to change the output to say Hello to your name (instead of You) and press the Run button.
-<iframe src="https://trinket.io/embed/java/568a63bc9d?showInstructions=true" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+Now change the second statement to System.out.print("Bottom"); and notice that the output doesn’t change since nothing is printed after "Bottom". (You can also insert a newline character by typing \n)
 
-### Runestone Exercises 
-CSAwesome 1.2.5
-<a href="https://runestone.academy/runestone/books/published/csawesome/Unit1-Getting-Started/topic-1-2-java-intro.html#groupwork-debugging-challenge" target="_blank">Debugging Challenge</a>
+## Comments
 
-CSAwesome 1.2.6
-<a href="https://runestone.academy/runestone/books/published/csawesome/Unit1-Getting-Started/topic-1-2-java-intro.html#summary" target="_blank">Summary</a>
+Lines that begin with two slashes // are ignored by Java. Multiple lines are ignored if they are between /* and */. Comments have no effect on the execution of the program. They are used to create notes to yourself or other programmers. They make it easier for other programmers (and your future self) to understand what you meant to do. As your teacher, I'll sometimes give you some unfinished code with the instructions for completing it in comments.
 
-### Runestone Exercise for AP Exam Students. Optional for other students. 
-CSAwesome 1.2.7
-<a href="https://runestone.academy/runestone/books/published/csawesome/Unit1-Getting-Started/topic-1-2-java-intro.html#ap-practice" target="_blank">Exam Practice</a>
+<iframe src="https://trinket.io/java/2e8d228b76" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
+## Arithmetic operators and parentheses
+
++ - * / are called arithmetic operators and are used for addition, subtraction, multiplication and division. Parentheses work in Java just like normal arithmetic 1 + 4 * 2 evaluates to 9, (1 + 4) * 2 evaluates to 10.
+
+## Literals vs Expressions
+
+Double quotes around text tells Java it is an literal. Java will print a literal exactly as written. Here’s a literal "4/4". If I write the same thing without double quotes it's called a expression. Java evaluates expressions to find a result. Run the following program and you will see that Java prints the literals exactly as they are written (including spaces!), and evaluates the expression first and then prints the result.
+
+<iframe src="https://trinket.io/java/72f8909e4c" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+## Debugging Error Messages
+
+Errors in programs are called “bugs.” The process of fixing program errors is called “debugging.” When you try to run a Java program with a bug you will often get an error message. When you are learning a new programming language, you will make many errors. Errors are ok, just fix them and move on. For example, I wanted the following program to display my first name "Chandru."
+
+<iframe src="https://trinket.io/java/f6dcd4190d" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+Instead of printing my name, the program shows an error message when it runs. In this case I get a message SyntaxError.java: followed by a number. The number tells me what line the computer was confused about. The message is telling me I forgot to put double quotes around my name like "Chandru"
+
+## Formatting Java Code with Spaces
+
+In Java programs, some spaces are required. For example, you need at least one space between keywords like public, class, static, and void The program below is not legal. Run it and you will get an error message that says so.
+
+
+<iframe src="https://trinket.io/java/c6a9d2a94f" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+Other spaces are optional. Here is another version of the program. It runs, but it is difficult to read the code because it is written on one line with no indentation! It's cruel! We use spaces like indentation to make programs easier to read and debug for all.
+
+<iframe src="https://trinket.io/java/f263d7aa56" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+## Assignment: Four 4s challenge
+
+Use exactly four 4's to write an expression that evaluates to every integer from 1 to 10, using only the four arithmetic operators + - * / and (). No decimals, factorials, square roots, exponents, or other symbols are allowed. The first one has already been done for you. Submit the link to your finished program by choosing Share | Link. Go to the [CPJava Google Classroom](https://classroom.google.com/u/1/c/MTI2MDgzMTM2MDgw) and and then choose Add Link to submit the assignment. Don't forget to click the Turn In button. If you have extra time, see if you can get the numbers after 10; 11, 12, 13 and so on.
+
+<iframe src="https://trinket.io/java/bd6e15d01f" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+
+### 4. [Intro Java Syntax](https://classroom.google.com/u/1/c/MTI2MDgzMTM2MDgw/a/MTI3MDMxNDA3NTMw/details) 
+
+### 5. [Variables and Data Types](https://classroom.google.com/u/1/c/MTI2MDgzMTM2MDgw/a/MTI3MDMxNDY0MjA3/details)
