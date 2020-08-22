@@ -83,9 +83,10 @@ Try modifying NewLine.Java trinket code following  examples from Unit 1 Presenta
 Try modifying NewLine.Java trinket code following  examples from Unit 1 Presentation on Functions
 <iframe src="https://trinket.io/java/487716b1b7" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-Modify the code below as instructed.  Get it to run correctly. Then copy the link to your finished program by choosing Share | Link. Go to the Google classroom and add this link to the [Unit 1 PrintTime Function Assignment]()
+Modify the code below as instructed.  Get it to run correctly. Then copy the link to your finished program by choosing Share | Link. Go to the Google classroom and add this link to the [Unit 1 PrintTime Function Assignment](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MTI3ODMwODg2MDEw/details)
 <iframe src="https://trinket.io/java/b8c6e34de5" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 # Unit 1: Java Primitives
 ## [Variables Types and Expressions Exercises](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MTI3ODEzNjU2OTA1/details)
+
 ## [Operators and Type Casting Exercises](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MTI3ODEyMTQ2MzI5/details)
