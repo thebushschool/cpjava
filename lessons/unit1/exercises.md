@@ -1,8 +1,8 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
-# Unit 1 - Java Basics
-
 The exercises in this Unit are to be done concurrently with topics being covered in the [Unit 1 Presentation](CPJavaIntro.pdf). We will follow a similar pattern for future Units.
+
+# Unit 1: Java Basics and Four-4s exercise
 
 ### 1. [Watch the Growth Mindset Video](https://www.youtube.com/watch?v=WtKJrB5rOKs)
 
@@ -74,3 +74,13 @@ Use exactly four 4's to write an expression that evaluates to every integer from
 * To get the number 3 you could try: (4 + 4 + 4)/4
 * To get 4 you can try 4 + 4/44 (why does this work?)
 * etc ..
+
+# Unit 1: Functions and Parameters - Code Organization
+<iframe src="https://trinket.io/java/f62008c2b7" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+<iframe src="https://trinket.io/java/487716b1b7" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+
+# Unit 1: Java Primitives
+## [Variables Types and Expressions Exercises](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MTI3ODEzNjU2OTA1/details)
+## [Operators and Type Casting Exercises](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MTI3ODEyMTQ2MzI5/details)
