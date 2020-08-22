@@ -76,10 +76,15 @@ Use exactly four 4's to write an expression that evaluates to every integer from
 * etc ..
 
 # Unit 1: Functions and Parameters - Code Organization
+
+Try modifying NewLine.Java trinket code following  examples from Unit 1 Presentation on Functions
 <iframe src="https://trinket.io/java/f62008c2b7" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
+Try modifying NewLine.Java trinket code following  examples from Unit 1 Presentation on Functions
 <iframe src="https://trinket.io/java/487716b1b7" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
+Modify the code below as instructed.  Get it to run correctly. Then copy the link to your finished program by choosing Share | Link. Go to the Google classroom and add this link to the [Unit 1 PrintTime Function Assignment]()
+<iframe src="https://trinket.io/java/b8c6e34de5" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 # Unit 1: Java Primitives
 ## [Variables Types and Expressions Exercises](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MTI3ODEzNjU2OTA1/details)
