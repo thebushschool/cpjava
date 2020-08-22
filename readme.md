@@ -14,12 +14,6 @@ In addition, the year-long course will cover many of the topics necessary for pr
 ### [Click here for a Complete Course Syllabus](src/CP_Java_Syllabus.pdf)
 ### [Click here for the Bush 2020 Curriculum Guide](src/Curriculum Guide 2020-2021.pdf)
 
-### A Reminder
-We are all going through some extraordinary times due to the coronavirus.  I would like to ask you to think about those among us who are suffering due to this affliction. Let us take time to be vigilant about [wearing masks](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cloth-face-cover-guidance.html) and [washing hands frequently](https://www.cdc.gov/handwashing/when-how-handwashing.html), not touching our face and avoiding being in large groups. Most of all, be calm about things beyond our control.
-
-![alt text][washhands]
-
-
 ### Remote Classroom Tools
 
 In our CPJava classroom we are already using tools and techniques that are naturally adapted to a remote learning format. We will continue using our already established tools and techniques for learning CPJava.  We will add to that, a video conferencing solution  to complete our toolset needed for remote learning! All applications (except email) are to be run using your Chrome Browser on your laptop. 
@@ -31,17 +25,34 @@ In our CPJava classroom we are already using tools and techniques that are natur
 1. [Processing Editor (IDE) Download](https://processing.org) - Code editor for Java and Processing languages
 1. [Visual Code Editor (IDE) Download](https://code.visualstudio.com/download) - Login/Register with Bush ID
 1. Web-Based Java Exercises - [Trinket Exercises](https://trinket.io/library/folder/cpjava) and [REPL.IT Exercises](https://repl.it) - Login/Register with Bush ID
-1. [CPJava2020 Online Text/Courseware](https://runestone.academy/runestone/default/user/login?_next=/runestone/default/index) - eBook for Java and Runestone CSAwesome Courseware - Login/Register with Bush ID
+1. [BUSHSCHOOL_CPJAVA Online Text/Course](https://runestone.academy/runestone/default/user/login?_next=/runestone/default/index) - eBook for Java and Runestone CSAwesome Course - Logins are already created
 1. [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) - Youtube Video Examples from the Processing Foundation
 1. [Bush PORTAL](https://bush.myschoolapp.com/app/faculty#academicclass/110863870/0/bulletinboard) - links for all tools, official assignments, schedules, syllabus, grade rubric
 1. [SLACK Instant Messaging](https://app.slack.com/client/TTS9Y46VC) - communication for differentiated classroom, code extracts, bug fixes, instant help, quick challenges. You will receive an invitation. email communication is discouraged for this pupose.
 1. [Bush EMAIL](mailto:chandru.narayan@bush.edu) will be used for administrative, one-on-one communications as necessary. Please check this once a each day during the Semester. 
 1. 1-1 Calendly Conference Appointments 
-    * [Impromptu Meetings](https://calendly.com/chandru-narayan/impromptu)
-    * Wednesday Meetings TBD
+    * [Wed Conference Meetings](https://calendly.com/chandru-narayan/cpjava-wed)
+    * [Adhoc Mon/Tue/Thu/Fri Meetings](https://calendly.com/chandru-narayan/adhoc-conf)
 
+    
 ### CPJava Course Schedule
 ![alt text][schedule]
+
+## Typical Student Workflow for this course
+
+1. Student attends CPJava remotely via Zoom or in-person
+
+2. There are 11 Units in this course
+
+3. Each Unit will have a presentation that will guide the coverage of the content in each Unit
+
+4. Each Unit will also have Exercises and Projects to complete on online sources.  These are assigned via the [Google classroom](https://classroom.google.com/c/MTI2MDgzMTM2MDgw)
+
+5. Exercises are short code extracts, videos to watch etc. Projects are complete solutions (programs) that you will write to meet a given specification.
+
+6. Complete these and submit them to Github these as directed.  Projects will always have a code submission that is due. In some cases exercises may not have a code submission, but you will still practice them online.
+
+7. Once you complete the exercises and projects, mark them as complete in the [Google classroom](https://classroom.google.com/c/MTI2MDgzMTM2MDgw). If you actually submitted code to Github, paste a link in the Google classroom assignment before marking it as complete.
 
 ## Lessons FALL 2020  Sep - Dec 13-Weeks
 
