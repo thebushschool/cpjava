@@ -2,7 +2,7 @@
 
 ![alt text][bouncyballs]
 
-<a href="https://chandrunarayan.github.io/sketches/bubbles" target="_blank">Click here for live code and click bubbles inside resulting tab or window</a>
+<a href="https://chandrunarayan.github.io/sketches/bubbles" target="_blank">Click here for live code and try clicking bubbles inside resulting tab or window. You can also type the 's' key to sort the bubbles by color.</a>
 
 # CPJava - Computer Programming in Java Course
 
