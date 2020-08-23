@@ -2,7 +2,7 @@
 
 # Unit 1 - Presentations
 
-Slide presentations covered in classroom for CP Java Course Introduction and Java Basics
+Lecturess covered in classroom for CP Java Course Introduction and Java Basics
 
 ## [Unit 1 Presentation](CPJavaIntro.pdf)
 

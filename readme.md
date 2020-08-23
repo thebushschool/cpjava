@@ -62,7 +62,7 @@ In our CPJava classroom we are already using tools and techniques that are natur
 _Topics: Introduction to Java, Tools walkthrough, Classroom processes, Environment setup, Java Primitive types and Operators_
 
 * [Overview](lessons/unit1)
-* [Slide Presentation](lessons/unit1/presentations.md)
+* [Lectures](lessons/unit1/lectures.md)
 * [Exercises](lessons/unit1/exercises.md)
 * [Projects](lessons/unit1/projects.md)
 
@@ -71,7 +71,7 @@ _Topics: Introduction to Java, Tools walkthrough, Classroom processes, Environme
 _Topics: Objects, Methods, String, Integer, Double, Math_
 
 * [Overview](lessons/unit2)
-* [Slide Presentation]()
+* [Lectures]()
 * [Exercises]()
 * [Projects]()
 
@@ -80,7 +80,7 @@ _Topics: Objects, Methods, String, Integer, Double, Math_
 _Topics: Control flow, Booleans, If statements, Object traversals_
 
 * [Overview](lessons/unit3)
-* [Slide Presentation]()
+* [Lectures]()
 * [Exercises]()
 * [Projects]()
 
@@ -90,7 +90,7 @@ _Topics: Control flow, Booleans, If statements, Object traversals_
 _Topics: Iteration, While loops, For loops, Nested Loops, Loop Analysis_
 
 * [Overview](lessons/unit4)
-* [Slide Presentation]()
+* [Lectures]()
 * [Exercises]()
 * [Projects]()
 
@@ -99,7 +99,7 @@ _Topics: Iteration, While loops, For loops, Nested Loops, Loop Analysis_
 _Topics: Anatomy of a class, Constructor, Accessor, Mutator Methods, this keyword, Social Impact of CS_
 
 * [Overview](lessons/unit5)
-* [Slide Presentation]()
+* [Lectures]()
 * [Exercises]()
 * [Projects]()
 
@@ -110,7 +110,7 @@ _Topics: Anatomy of a class, Constructor, Accessor, Mutator Methods, this keywor
 _Topics: Arrays, Array Lists, Array Traversal_
 
 * [Overview](lessons/unit6)
-* [Slide Presentation]()
+* [Lectures]()
 * [Exercises]()
 * [Projects]()
 
@@ -119,7 +119,7 @@ _Topics: Arrays, Array Lists, Array Traversal_
 _Topics: Searching Sorting Algorithms, Ethics of Data Collection, Privacy_
 
 * [Overview](lessons/unit7)
-* [Slide Presentation]()
+* [Lectures]()
 * [Exercises]()
 * [Projects]()
 
@@ -129,7 +129,7 @@ _Topics: Searching Sorting Algorithms, Ethics of Data Collection, Privacy_
 _Topics: 2D Arrays, Traversal_
 
 * [Overview](lessons/unit8)
-* [Slide Presentation]()
+* [Lectures]()
 * [Exercises]()
 * [Projects]()
 
@@ -139,7 +139,7 @@ _Topics: 2D Arrays, Traversal_
 _Topics: Projects, Inheritance, Encapsulation, Hierarchy, Polymorphism_
 
 * [Overview](lessons/unit9)
-* [Slide Presentation]()
+* [Lectures]()
 * [Exercises]()
 * [Projects]()
 
@@ -149,7 +149,7 @@ _Topics: Projects, Inheritance, Encapsulation, Hierarchy, Polymorphism_
 _Topics: Projects, Recursion, Recursive Search and Sort_
 
 * [Overview](lessons/unit10)
-* [Slide Presentation]()
+* [Lectures]()
 * [Exercises]()
 * [Projects]()
 
