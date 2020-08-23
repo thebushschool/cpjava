@@ -4,6 +4,8 @@ The exercises in this Unit are to be done concurrently with topics being covered
 
 # Unit 1: Exercises
 
+## First 2-weeks
+
 ### 1. [Watch the Growth Mindset Video](https://www.youtube.com/watch?v=WtKJrB5rOKs)
 
 ### 2. [Watch the Pair Programming Video](https://www.youtube.com/watch?v=q7d_JtyCq1A)
@@ -11,3 +13,4 @@ The exercises in this Unit are to be done concurrently with topics being covered
 ### 3. [Setup and Registrations Part 1](https://classroom.google.com/u/1/w/MTI2MDgzMTM2MDgw/tc/MTI2OTQ1MTQwODU2)
 
 ### 4. [Java Basics - First Java Programs](https://classroom.google.com/u/1/w/MTI2MDgzMTM2MDgw/tc/MTI3MjkwNDYyNzc4)
+
