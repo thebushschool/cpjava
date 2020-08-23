@@ -10,4 +10,4 @@ The exercises in this Unit are to be done concurrently with topics being covered
 
 ### 3. [Setup and Registrations Part 1](https://classroom.google.com/u/1/w/MTI2MDgzMTM2MDgw/tc/MTI2OTQ1MTQwODU2)
 
-### 4. [First Java Program](https://repl.it/teacher/assignments/5753354)
+### 4. [Java Basics - First Java Programs](https://classroom.google.com/u/1/w/MTI2MDgzMTM2MDgw/tc/MTI3MjkwNDYyNzc4)
