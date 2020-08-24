@@ -29,7 +29,7 @@
 * Casting Variables
 
 ## Presentations
-* [Unit 1 Presentations](presentations.md)
+* [Unit 1 Lectures](lectures.md)
 
 ## Exercises
 * [Unit 1 Exercises Details](exercises.md)
