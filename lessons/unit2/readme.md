@@ -1,22 +1,32 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
-# Unit 2 2-Weeks
+# Unit 2: 2-Weeks
 
 ## Warm up
 * Review of previous Unit
 
 ## Goals
-* TBD
+* Learn about Object Oriented view of programming
+* Compare to a functional breakdown
+* Practice coding Classes, Objects
+* Start the Sprite project
 
 ## Topics
-* TBD
+* Class templates and Object instances
+* Attributes, Constructors, Overloading, Sprite
+* User Input, Scanner
+* Methods
+* Strings
+* Math and Wrapper Classes
+
+## Presentations
+* [Unit 2 Lectures](lectures.md)
 
 ## Exercises
-* TBD
-
+* [Unit 2 Exercises Details](exercises.md)
 
 ## Projects
-* TBD
+* [Unit 2 Project Details](projects.md)
 
 ## Debrief
 * What new things did you learn in this unit?

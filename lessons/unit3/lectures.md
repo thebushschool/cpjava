@@ -1,10 +1,10 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
-# Unit 2 Lectures
+# Unit 3 Lectures
 
-## [Classes and Objects](../../lectures/lecture4.pdf)
+## [Objects: Booleans and If Branching Logic](../../lectures/lecture8.pdf)
 
-## [User Input with Scanner](../../lectures/lecture4a.pdf)
+## [Truth Tables and Object Comparisons](../../lectures/lecture9.pdf)
 
 ## [Methods](../../lectures/lecture5.pdf)
 

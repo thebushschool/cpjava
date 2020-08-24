@@ -1,6 +1,6 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
-# Unit 1 - 2-weeks
+# Unit 1: 3-weeks
 
 ## Warm up
 * Introductions
