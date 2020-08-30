@@ -28,7 +28,7 @@ In our CPJava classroom we are already using tools and techniques that are natur
 1. [BUSHSCHOOL_CPJAVA Online Text/Course](https://runestone.academy/runestone/default/user/login?_next=/runestone/default/index) - eBook for Java and Runestone CSAwesome Course - Logins are already created
 1. [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) - Youtube Video Examples from the Processing Foundation
 1. [Bush PORTAL](https://bush.myschoolapp.com/app/faculty#academicclass/110863870/0/bulletinboard) - links for all tools, official assignments, schedules, syllabus, grade rubric
-1. [SLACK Instant Messaging](https://app.slack.com/client/TTS9Y46VC) - communication for differentiated classroom, code extracts, bug fixes, instant help, quick challenges. You will receive an invitation. email communication is discouraged for this pupose.
+1. [SLACK Instant Messaging](https://app.slack.com/client/TTS9Y46VC) - communication for differentiated classroom, code extracts, bug fixes, instant help, quick challenges. You will receive an invitation. email communication is discouraged for this purpose.
 1. [Bush EMAIL](mailto:chandru.narayan@bush.edu) will be used for administrative, one-on-one communications as necessary. Please check this once a each day during the Semester. 
 1. 1-1 Calendly Conference Appointments 
     * [Wed Conference Meetings](https://calendly.com/chandru-narayan/cpjava-wed)
