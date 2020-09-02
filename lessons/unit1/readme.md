@@ -13,6 +13,7 @@
 ## Goals
 * Learn about the course and about your classmates
 * Learn the course syllabus and expectations
+* Write your first program in Java!
 * Setp your computer software, register to websites
 * Setup Github archive for storage
 * Walkthrough class procedures
