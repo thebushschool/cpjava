@@ -1,7 +1,7 @@
 
 ### Four-Fours - First Java Coding assignment!
 You might have written programs before in some language like Scratch, Python, or Javascript. In many ways Java programming is similar, but you will notice immediately that even a basic Java "Hello, World!" program looks pretty confusing and complicated. Here's a Java program that prints "Hello, You!". Press the Run button and the program output should appear to the right of the code in the Result Tab. This is called the "console" where the text output and errors from the Java program appears.  Try editing the code in the left side to change the output to say Hello to your name (instead of You) and press the Run button.
-<div><iframe src="https://trinket.io/embed/java/568a63bc9d" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe></div>
+<iframe src="https://trinket.io/embed/java/568a63bc9d" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 Luckily though, one line of code in this program is much more important and interesting than all the rest. For now we are just interested in
 
 ````System.out.println("Hello, World!");````
@@ -13,7 +13,7 @@ We will ignore everything else. This line of code an example of a Java statement
 
 System.out.println() prints first and then inserts a newline character so that whatever is printed next is printed on the next line. Run the following code and you'll notice top and bottom are printed on separate lines.
 
-<div><iframe src="https://trinket.io/java/529f1af02f" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe></div>
+<iframe src="https://trinket.io/java/529f1af02f" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 Java has another printing function. System.out.print() which does NOT insert a newline. Change the first statement to System.out.print("Top"); Then run the program to make sure that "Bottom" is printed on the same line as "Top". The output should now look like "TopBottom".
 
