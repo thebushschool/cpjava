@@ -1,7 +1,7 @@
 
 ### Four-Fours - First Java Coding assignment!
 You might have written programs before in some language like Scratch, Python, or Javascript. In many ways Java programming is similar, but you will notice immediately that even a basic Java "Hello, World!" program looks pretty confusing and complicated. Here's a Java program that prints "Hello, You!". Press the Run button and the program output should appear to the right of the code in the Result Tab. This is called the "console" where the text output and errors from the Java program appears.  Try editing the code in the left side to change the output to say Hello to your name (instead of You) and press the Run button.
-<iframe src="https://trinket.io/embed/java/568a63bc9d" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<div><iframe src="https://trinket.io/embed/java/568a63bc9d" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe></div>
 Luckily though, one line of code in this program is much more important and interesting than all the rest. For now we are just interested in
 
 ````System.out.println("Hello, World!");````
