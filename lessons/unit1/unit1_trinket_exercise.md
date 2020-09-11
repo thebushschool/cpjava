@@ -13,7 +13,7 @@ We will ignore everything else. This line of code an example of a Java statement
 
 System.out.println() prints first and then inserts a newline character so that whatever is printed next is printed on the next line. Run the following code and you'll notice top and bottom are printed on separate lines.
 
-<iframe src="https://trinket.io/java/529f1af02f" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<div><iframe src="https://trinket.io/java/529f1af02f" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe></div>
 
 Java has another printing function. System.out.print() which does NOT insert a newline. Change the first statement to System.out.print("Top"); Then run the program to make sure that "Bottom" is printed on the same line as "Top". The output should now look like "TopBottom".
 
