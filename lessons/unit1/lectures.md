@@ -9,3 +9,5 @@
 ## [Variables and Datatypes](../../lectures/lecture2.pdf)
 
 ## [Arithmetic Operations](../../lectures/lecture3.pdf)
+
+## [Additional Java Basics Presentations](../../lectures/UpdatedJavaBasics.pdf)
