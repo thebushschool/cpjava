@@ -6,13 +6,16 @@
 * Review of previous Unit
 
 ## Goals
-* TBD
+* Learn about Arrays
 
 ## Topics
-* TBD
-
-## Exercises
-* TBD
+* Declare and Define Arrays
+* Looping through Arrays
+* Accessing Elements
+* Limitations
+* for-each
+* Array Returns
+* Comparing
 
 
 ## Projects

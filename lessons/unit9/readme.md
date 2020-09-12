@@ -6,10 +6,16 @@
 * Review of previous Unit
 
 ## Goals
-* TBD
+* Learn about Class Hierarchy
 
 ## Topics
-* TBD
+* Inheritance
+* Parent-Child
+* UML Diagrams
+* Polymorphism
+* Superclass
+* Overloading
+* Overloading with Parameters
 
 ## Exercises
 * TBD

@@ -15,8 +15,8 @@
 * TBD
 
 
-## Projects
-* TBD
+## Final Project
+* Machine Intelligence
 
 ## Debrief
 * What new things did you learn in this unit?

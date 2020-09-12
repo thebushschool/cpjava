@@ -6,14 +6,15 @@
 * Review of previous Unit
 
 ## Goals
-* TBD
+* Study the Anatomy of a Class
 
 ## Topics
-* TBD
-
-## Exercises
-* TBD
-
+* Classes
+* Objects
+* Methods
+* Properties (Variables)
+* Scope
+* Semantics
 
 ## Projects
 * TBD

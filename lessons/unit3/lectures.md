@@ -2,12 +2,9 @@
 
 # Unit 3 Lectures
 
-## [Objects: Booleans and If Branching Logic](../../lectures/lecture8.pdf)
+## [Lecture 8: Objects: Booleans and If Branching Logic](../../lectures/lecture8.pdf)
+* [Think Java Textbook Chapter 5](https://books.trinket.io/thinkjava2/chapter5.html)
 
-## [Truth Tables and Object Comparisons](../../lectures/lecture9.pdf)
+## [Lecture 9: Truth Tables and Object Comparisons](../../lectures/lecture9.pdf)
+* [Think Java Textbook Chapter 5.5](https://books.trinket.io/thinkjava2/chapter5.html#sec63)
 
-## [Methods](../../lectures/lecture5.pdf)
-
-## [Strings](../../lectures/lecture6.pdf)
-
-## [Math And Wrapper Classes](../../lectures/lecture7.pdf)

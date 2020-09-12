@@ -6,17 +6,19 @@
 * Review of previous Unit
 
 ## Goals
-* TBD
+* Learn about Recursion
 
 ## Topics
-* TBD
-
-## Exercises
-* TBD
-
+* Recursion
+* Tracing
+* Merge-Sort
+* Searching
+* Fractals
 
 ## Projects
-* TBD
+* Sieperski Triangles
+* Complex Numbers
+* Mandelbrot Set
 
 ## Debrief
 * What new things did you learn in this unit?

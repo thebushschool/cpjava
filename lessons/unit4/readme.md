@@ -6,14 +6,11 @@
 * Review of previous Unit
 
 ## Goals
-* TBD
+* Learn Iteration
 
 ## Topics
-* TBD
-
-## Exercises
-* TBD
-
+* For Loops
+* Nested For Loops
 
 ## Projects
 * TBD

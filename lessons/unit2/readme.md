@@ -20,13 +20,10 @@
 * Math and Wrapper Classes
 
 ## Presentations
-* [Unit 2 Lectures](lectures.md)
-
-## Exercises
-* [Unit 2 Exercises Details](exercises.md)
+* [Unit 3 Lectures](lectures.md)
 
 ## Projects
-* [Unit 2 Project Details](projects.md)
+* [Unit 3 Project Details](projects.md)
 
 ## Debrief
 * What new things did you learn in this unit?

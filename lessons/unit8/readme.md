@@ -6,17 +6,21 @@
 * Review of previous Unit
 
 ## Goals
-* TBD
+* Learn about 2D Arrays
 
 ## Topics
-* TBD
-
-## Exercises
-* TBD
+* Declare
+* Initialize
+* Array of Arrays
+* Row Major Order
+* Column Major Order
+* Searching
+* Array of Objects
 
 
 ## Projects
-* TBD
+* Game of Life
+* Machine Intelligence
 
 ## Debrief
 * What new things did you learn in this unit?

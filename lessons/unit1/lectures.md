@@ -4,10 +4,13 @@
 
 ## [Introduction to CPJava Course and Overview of CS](../../lectures/lecture0_Intro.pdf)
 
-## [Basic Java Syntax](../../lectures/lecture1.pdf)
+## [Lecture1: Basic Java Syntax](../../lectures/lecture1.pdf)
+* [Think Java Textbook Chapter 1](https://books.trinket.io/thinkjava2/chapter1.html)
 
-## [Variables and Datatypes](../../lectures/lecture2.pdf)
+## [Lecture 2: Variables and Datatypes](../../lectures/lecture2.pdf)
+* [Think Java Textbook Chapter 2](https://books.trinket.io/thinkjava2/chapter2.html)
 
-## [Arithmetic Operations](../../lectures/lecture3.pdf)
+## [Lecture 3: Arithmetic Operations](../../lectures/lecture3.pdf)
+* [Think Java Textbook Chapter 2.5](https://books.trinket.io/thinkjava2/chapter2.html#sec25)
 
 ## [Additional Java Basics Presentations](../../lectures/UpdatedJavaBasics.pdf)

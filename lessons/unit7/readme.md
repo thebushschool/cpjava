@@ -6,14 +6,15 @@
 * Review of previous Unit
 
 ## Goals
-* TBD
+* Learn about Array Lists
 
 ## Topics
-* TBD
-
-## Exercises
-* TBD
-
+* ArrayList
+* Inserting Elements
+* Removing Elements
+* Traversing
+* Searching
+* Sorting
 
 ## Projects
 * TBD

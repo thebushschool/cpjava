@@ -6,16 +6,17 @@
 * Review of previous Unit
 
 ## Goals
-* TBD
+* Learn Branching Logic
 
 ## Topics
-* TBD
+* Boolean Expressions
+* Compound Boolean Expressions
+* Comparing Objects
+* if Statements
+* if-else Statements
 
 ## Presentations
 * [Unit 3 Lectures](lectures.md)
-
-## Exercises
-* [Unit 3 Exercises Details](exercises.md)
 
 ## Projects
 * [Unit 3 Project Details](projects.md)
