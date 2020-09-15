@@ -55,6 +55,9 @@ In our CPJava classroom we are already using tools and techniques that are natur
 
 7. Once you complete the exercises and projects, mark them as complete in the [Google classroom](https://classroom.google.com/c/MTI2MDgzMTM2MDgw). If you actually submitted code to Github, paste a link in the Google classroom assignment before marking it as complete.
 
+### Expectations for School Work
+![alt text][schoolwork]
+
 ## Lessons FALL 2020  Sep - Dec 13-Weeks
 
 ### [Unit 1](lessons/unit1)  - 3-Weeks
@@ -169,4 +172,5 @@ This course draws from the book Building Java Programs: A Back to Basics Approac
 [bouncyballs]: bouncy_balls2.gif "bouncyballs"
 [bubbles]: https://chandrunarayan.github.io/sketches/bubbles/ "bubbles"
 [schedule]: src/CPJava_Schedule_bw.png
+[schoolwork]: schoolwork.png
 
