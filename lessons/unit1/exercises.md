@@ -14,3 +14,5 @@ The exercises in this Unit are to be done concurrently with topics being covered
 
 ### 4. [Java Basics - First Java Programs](https://classroom.google.com/u/1/w/MTI2MDgzMTM2MDgw/tc/MTI3MjkwNDYyNzc4)
 
+### 5. [All 8 Unit 1 Labs in Trinket Submit each separately](https://trinket.io/chandru-narayan-9569/courses/cpjava)
+
