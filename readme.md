@@ -60,14 +60,19 @@ In our CPJava classroom we are already using tools and techniques that are natur
 
 ## Paired Programming Teams
 We will be using the Paired Programming teams for team projects
+
 ### Team Baker
 * Chloe, Hannah
+
 ### Team Rainier
 * Mizuki, Zubin
+
 ### Team Hood
 * Sally, Gus
+
 ### Team St Helens
 * George, Isaac
+
 ### Team Stevens
 * Mark, Chandru
 
