@@ -17,3 +17,7 @@
 
 ## [Math And Wrapper Classes](../../lectures/lecture7.pdf)
 * [Think Java Textbook Chapter 9.4](https://books.trinket.io/thinkjava2/chapter9.html#sec112)
+
+## Java Projects in Processing
+* [First Hello and Sticks Program](https://classroom.google.com/u/0/w/MTI2MDgzMTM2MDgw/t/all) ** Completed ! **
+* [Github and Lightning Project](https://docs.google.com/presentation/d/1-v54sjlDWhh2NRTpCfKCnjfjBkRb68b5VSSColeW920/edit?usp=sharing)
