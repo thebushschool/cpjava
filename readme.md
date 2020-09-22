@@ -58,6 +58,20 @@ In our CPJava classroom we are already using tools and techniques that are natur
 ### Expectations for School Work
 ![alt text][schoolwork]
 
+## Paired Programming Teams
+We will be using the Paired Programming teams for team projects
+### Team Baker
+* Chloe, Hannah
+### Team Rainier
+* Mizuki, Zubin
+### Team Hood
+* Sally, Gus
+### Team St Helens
+* George, Isaac
+### Team Stevens
+* Mark, Chandru
+
+
 ## Lessons FALL 2020  Sep - Dec 13-Weeks
 
 ### [Unit 1](lessons/unit1)  - 3-Weeks
