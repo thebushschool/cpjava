@@ -71,7 +71,7 @@ We will be using the Paired Programming teams for team projects
 * Sally, Gus
 
 ### Team St Helens
-* George, Isaac
+* Roman, Isaac
 
 ### Team Stevens
 * Mark, Chandru
