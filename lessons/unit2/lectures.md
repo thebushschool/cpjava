@@ -2,16 +2,11 @@
 
 # Unit 2 Lessons
 
-## Learning by Doing First - Student-Based Asynchronous Workflow
-In this mode of learning we will simultaneously start a consolidatded student-paced session spanning multiple Java Units 1, 2 & 3, supported by working on Processing projects within Paired Programming teams.  We will mostly be using this workflow model switching to Synchronous in small bursts as directed by your teacher or as needed to support student needs.
 ### Student-Paced Sessions 
 * [First Hello and Sticks Program](https://classroom.google.com/u/0/w/MTI2MDgzMTM2MDgw/t/all) ** Completed ! **
 * [Units 1 2 3 Student-Paced Session](https://app.peardeck.com/student/tjgtblsad) ** One consolidated session for Units 1 2 and 3 **
 ### Paired Programming Projects 
 * [Github and Lightning Project](https://docs.google.com/presentation/d/1-v54sjlDWhh2NRTpCfKCnjfjBkRb68b5VSSColeW920/edit?usp=sharing) ** First Processing Project suporting Units 1 2 and 3 **
-
-## Doing by Learning First - Lecture-Based Synchronous Workflow
-We will use this method of learning sparingly, reserved it for difficult topics that might require a lecture-based instructional unit.  The lectures below are designed in that manner and always available as a reference while we live in the world of Asynchronous "Learning by Doing First" model above.
 
 ### Lectures 
 
