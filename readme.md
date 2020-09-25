@@ -84,7 +84,7 @@ We will be using the Paired Programming teams for team projects
 _Topics: Introduction to Java, Tools walkthrough, Classroom processes, Environment setup, Java Primitive types and Operators_
 
 * [Overview](lessons/unit1)
-* [Lectures](lessons/unit1/lectures.md)
+* [Lessons](lessons/unit1/lectures.md)
 * [Exercises](lessons/unit1/exercises.md)
 * [Projects](lessons/unit1/projects.md)
 
@@ -93,7 +93,7 @@ _Topics: Introduction to Java, Tools walkthrough, Classroom processes, Environme
 _Topics: Objects, Methods, String, Integer, Double, Math_
 
 * [Overview](lessons/unit2)
-* [Lectures](lessons/unit2/lectures.md)
+* [Lessons](lessons/unit2/lectures.md)
 * [Exercises TBD]()
 * [Projects TBD]()
 
@@ -102,7 +102,7 @@ _Topics: Objects, Methods, String, Integer, Double, Math_
 _Topics: Control flow, Booleans, If statements, Object traversals_
 
 * [Overview](lessons/unit3)
-* [Lectures](lessons/unit3/lectures.md)
+* [Lessons](lessons/unit3/lectures.md)
 * [Exercises TBD]()
 * [Projects TBD]()
 
@@ -112,7 +112,7 @@ _Topics: Control flow, Booleans, If statements, Object traversals_
 _Topics: Iteration, While loops, For loops, Nested Loops, Loop Analysis_
 
 * [Overview](lessons/unit4)
-* [Lectures](lessons/unit4/lectures.md)
+* [Lessons](lessons/unit4/lectures.md)
 * [Exercises TBD]()
 * [Projects TBD]()
 
@@ -121,7 +121,7 @@ _Topics: Iteration, While loops, For loops, Nested Loops, Loop Analysis_
 _Topics: Anatomy of a class, Constructor, Accessor, Mutator Methods, this keyword, Social Impact of CS_
 
 * [Overview](lessons/unit5)
-* [Lectures](lessons/unit5/lectures.md)
+* [Lessons](lessons/unit5/lectures.md)
 * [Exercises TBD]()
 * [Projects TBD]()
 
@@ -132,7 +132,7 @@ _Topics: Anatomy of a class, Constructor, Accessor, Mutator Methods, this keywor
 _Topics: Arrays, Array Lists, Array Traversal_
 
 * [Overview](lessons/unit6)
-* [Lectures](lessons/unit6/lectures.md)
+* [Lessons](lessons/unit6/lectures.md)
 * [Exercises TBD]()
 * [Projects TBD]()
 
@@ -141,7 +141,7 @@ _Topics: Arrays, Array Lists, Array Traversal_
 _Topics: Searching Sorting Algorithms, Ethics of Data Collection, Privacy_
 
 * [Overview](lessons/unit7)
-* [Lectures](lessons/unit7/lectures.md)
+* [Lessons](lessons/unit7/lectures.md)
 * [Exercises TBD]()
 * [Projects TBD]()
 
@@ -151,7 +151,7 @@ _Topics: Searching Sorting Algorithms, Ethics of Data Collection, Privacy_
 _Topics: 2D Arrays, Traversal_
 
 * [Overview](lessons/unit8)
-* [Lectures](lessons/unit8/lectures.md)
+* [Lessons](lessons/unit8/lectures.md)
 * [Exercises TBD]()
 * [Projects TBD]()
 
@@ -161,7 +161,7 @@ _Topics: 2D Arrays, Traversal_
 _Topics: Projects, Inheritance, Encapsulation, Hierarchy, Polymorphism_
 
 * [Overview](lessons/unit9)
-* [Lectures](lessons/unit9/lectures.md)
+* [Lessons](lessons/unit9/lectures.md)
 * [Exercises TBD]()
 * [Projects TBD]()
 
@@ -171,7 +171,7 @@ _Topics: Projects, Inheritance, Encapsulation, Hierarchy, Polymorphism_
 _Topics: Projects, Recursion, Recursive Search and Sort_
 
 * [Overview](lessons/unit10)
-* [Lectures](lessons/unit10/lectures.md)
+* [Lessons](lessons/unit10/lectures.md)
 * [Exercises TBD]()
 * [Projects TBD]()
 
