@@ -81,7 +81,15 @@ We will be using the Paired Programming teams for team projects
 ### Team Stevens
 * Mark, Chandru
 
+## APCSA Exam Spring 2020
 
+[APCSA exam will be held on Friday, May 15th 1:00 PM Pacific Time](https://apcoronavirusupdates.collegeboard.org/educators/taking-the-exams/ap-exam-schedule)
+
+Registration is now open for AP exams, which are scheduled for May of 2021. While Bush does not offer the College Board Advanced Placement® curriculum, some courses do prepare students for the content on the exams. These exams are not required or even recommended for admission to U.S. colleges. The most common reasons students would take AP exams are to satisfy entry requirements for some international universities and the possibility of earning college credit with a score of 4 or 5. 
+ 
+Students should register below, and the registration deadline is November 2, 2020. Students should check with their college counselor or teacher if they have questions about whether a course’s content aligns with the corresponding AP exam.
+
+* [Click Here to REGISTER - BUSH SCHOOL HAS A SPECIAL REGISTRATION SITE](https://bush.myschoolapp.com/app/pushpage/TrackPushPageEmail?s=409&snd=c92c364e-455c-423b-aeed-22e62ca564bf&url=0BC61006759208B9B17622DF9FDF43938A774A78322CD835AFA0739F73777143&lbl=here)
 ## Lessons FALL 2020  Sep - Dec 13-Weeks
 
 ### [Unit 1](lessons/unit1)  - 3-Weeks
