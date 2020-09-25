@@ -18,4 +18,4 @@ The exercises in this Unit are to be done concurrently with topics being covered
 
 ### 6. [Complete Getting Started and Java Primitives CSAwesome Assignments](https://classroom.google.com/u/0/w/MTI2MDgzMTM2MDgw/tc/MTI3MDMxNDY0MTEx)
 
-### 7. [Asynchronous Students Paced Session for Units 1, 2 & 3](https://app.peardeck.com/student/tiszxijgv)
+### 7. [Asynchronous Students Paced Session for Units 1, 2 & 3](https://app.peardeck.com/student/tixodenzx)
