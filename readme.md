@@ -64,7 +64,7 @@ We will use this method of learning sparingly, reserved for difficult topics tha
 ![alt text][schoolwork]
 
 ## Paired Programming Teams
-We will be using the Paired Programming teams for team projects
+We will be using the Paired Programming teams for team projects. ** Please provide me the Github Account usernames that you created a few weeks ago **.  The Paired Programming projects will be published at this location.
 
 ### Team Baker
 * Chloe, Hannah
