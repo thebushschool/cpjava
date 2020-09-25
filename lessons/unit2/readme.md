@@ -6,10 +6,11 @@
 * Review of previous Unit
 
 ## Goals
+* Start Student-paced Paired Programming sessions 
 * Learn about Object Oriented view of programming
 * Compare to a functional breakdown
 * Practice coding Classes, Objects
-* Start the Sprite project
+* Start the Processing project Lightning
 
 ## Topics
 * Class templates and Object instances
