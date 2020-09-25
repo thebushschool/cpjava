@@ -180,7 +180,7 @@ _Topics: Projects, Recursion, Recursive Search and Sort_
 * [Exercises TBD]()
 * [Projects TBD]()
 
-### [Unit 11](lessons/unit10) - 1-Weeks
+### [Unit 11](lessons/unit10) - 1-Week
 
 _Topics: PEER SHARING - FINAL PROJECT PRESENTATION_
 
