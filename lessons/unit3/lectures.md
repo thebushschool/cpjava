@@ -5,7 +5,9 @@
 ### Student-Paced Sessions 
 * [First Hello and Sticks Program](https://classroom.google.com/u/0/w/MTI2MDgzMTM2MDgw/t/all) ** Completed ! **
 * [Units 1 2 3 Student-Paced Session](https://app.peardeck.com/student/tjgtblsad) ** One consolidated session for Units 1 2 and 3 **
+
 ### Paired Programming Projects
+
 * TBD
 ### Lectures 
 
