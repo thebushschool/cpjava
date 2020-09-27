@@ -2,12 +2,13 @@
 
 # Unit 2 - Projects
 
-## Trinket Projects
+## Processing Project Lightning
+* [Processing_Github and While Loops Primer](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MTQ2NDMyMzI4OTkz/details) ** Processing, Github, and While Loops Intro for Lightning Project **
+* [Lightning Project Details](https://chandrunarayan.github.io/Lightning/) ** Complete the primer above before attempting the Lightning Processing Project **
 
-### [Statistics Project](https://trinket.io/chandru-narayan-9569/courses/cpjava#/unit-1-projects/statistics)
+* [Sample Lightning Project Output](https://chandrunarayan.github.io/sketches/Lightning/)
+* ![alt text][lightning]
 
-### [Exchange Project](https://trinket.io/chandru-narayan-9569/courses/cpjava#/unit-1-projects/exchange)
+[lightning]: lightning.png
 
-## Processing Projects
-* [Github and Processing Primer](https://docs.google.com/presentation/d/1-v54sjlDWhh2NRTpCfKCnjfjBkRb68b5VSSColeW920/edit?usp=sharing) ** Github and Processing Intro for Lightning Project **
-* [Lightning Project Details](https://chandrunarayan.github.io/Lightning/)
+

@@ -108,7 +108,7 @@ _Topics: Objects, Methods, String, Integer, Double, Math_
 * [Overview](lessons/unit2)
 * [Lessons](lessons/unit2/lectures.md)
 * [Exercises]()
-* [Projects]()
+* [Projects](lessons/unit2/projects.md))
 
 ### [Unit 3](lessons/unit3)  - 2-Weeks
 

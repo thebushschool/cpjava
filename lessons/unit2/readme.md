@@ -27,7 +27,7 @@
 * [Unit 2 Exercises Details](exercises.md)
 
 ## Projects
-* [Unit 2 Project Lightning](https://github.com/chandrunarayan/Lightning)
+* [Unit 2 Projects](projects.md)
 
 ## Debrief
 * What new things did you learn in this unit?
