@@ -27,4 +27,5 @@
 * Students taking the AP CSA exam in May 2021 should be [starting work on condingbat exercises - Warmup-1](https://codingbat.com/java/Warmup-1).  Try your utmost to do the problems yourself without looking at the solution code.  This is important.
 * I recommend this for all students who might be interested or need additional help or clarification. You can look at the solution code available to help you along.
 * Make sure you have [completed all of the setup instructions Part 2 - #4 for codingbat](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MTI3MDIzMTA3OTY4/details). I believe you have done this already. 
+* Make sure you login to codingbat with your bush school email id you already registered with
 * Please note that these do not count towards yoru grade but will help you in clarifying concepts in this class
