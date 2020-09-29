@@ -1,5 +1,7 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
+# [What's happening in CPJava this week (Sep 28 - Oct 2nd) ??](thisweek.md)
+
 ![alt text][bouncyballs]
 
 <a href="https://chandrunarayan.github.io/sketches/bubbles" target="blank">Click here for live code and try clicking bubbles inside resulting new tab or window. Like what you see? This course will be all about developing skills to simulate nature on your computer in a fun, engaging manner and learn Java on the side!</a>
@@ -90,6 +92,7 @@ Registration is now open for AP exams, which are scheduled for May of 2021. Whil
 Students should register below, and the registration deadline is November 2, 2020. Students should check with their college counselor or teacher if they have questions about whether a course’s content aligns with the corresponding AP exam.
 
 * [Click Here to REGISTER - BUSH SCHOOL HAS A SPECIAL REGISTRATION SITE](https://bush.myschoolapp.com/app/pushpage/TrackPushPageEmail?s=409&snd=c92c364e-455c-423b-aeed-22e62ca564bf&url=0BC61006759208B9B17622DF9FDF43938A774A78322CD835AFA0739F73777143&lbl=here)
+
 ## Lessons FALL 2020  Sep - Dec 13-Weeks
 
 ### [Unit 1](lessons/unit1)  - 3-Weeks
@@ -107,8 +110,8 @@ _Topics: Objects, Methods, String, Integer, Double, Math_
 
 * [Overview](lessons/unit2)
 * [Lessons](lessons/unit2/lectures.md)
-* [Exercises]()
-* [Projects](lessons/unit2/projects.md))
+* [Exercises](lessons/unit2/exercises.md)
+* [Projects](lessons/unit2/projects.md)
 
 ### [Unit 3](lessons/unit3)  - 2-Weeks
 
