@@ -13,7 +13,7 @@
 | Roman | [https://IsaacLLBush.github.io/Lightning](https://RomanEmpire42.github.io/Lightning)
 | Zubin | [https://zubeisanoob.github.io/Lightning](https://zubeisanoob.github.io/Lightning)
 | Mizuki | [https://MizukiYates.github.io/Lightning](https://MizukiYates.github.io/Lightning)
-| Project Default | [https://chandrunarayan.github.io/Lightning](https://chandrunarayan.github.io/Lightning)
+| Project Default | [https://cnarayan.github.io/Lightning](https://cnarayan.github.io/Lightning)
 
 
 ## Student Githubs
