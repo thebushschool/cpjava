@@ -95,7 +95,7 @@ The published Student Projects can be found below.
 | Chloe | [https://chloeb777.github.io/Lightning](https://chloeb777.github.io/Lightning)
 | Hannah | [https://hannahrheajiang.github.io/Lightning](https://hannahrheajiang.github.io/Lightning)
 | Isaac | [https://IsaacLLBush.github.io/Lightning](https://IsaacLLBush.github.io/Lightning)
-| Roman | [https://IsaacLLBush.github.io/Lightning](https://RomanEmpire42.github.io/Lightning)
+| Roman | [https://RomanEmpire42.github.io/Lightning](https://RomanEmpire42.github.io/Lightning)
 | Zubin | [https://zubeisanoob.github.io/Lightning](https://zubeisanoob.github.io/Lightning)
 | Mizuki | [https://MizukiYates.github.io/Lightning](https://MizukiYates.github.io/Lightning)
 | Project Default | [https://cnarayan.github.io/Lightning](https://cnarayan.github.io/Lightning)
