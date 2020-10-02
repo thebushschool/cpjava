@@ -1,44 +1,31 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 # Student Work
 
-## Student Portfolios
+## Lightning Project
 
-| Student | Link | Pathway
-| :--- | :--- | :--- |
-| Pamela | [https://pamelabiniam.github.io/cpjava-portfolio](https://pamelabiniam.github.io/cpjava-portfolio) | Standard
-| Jeffrey | [https://jpbatzz.github.io/cpjava-portfolio](https://jpbatzz.github.io/cpjava-portfolio) | Standard
-| Maya | [https://mayaschrum.github.io/cpjava-portfolio](https://mayaschrum.github.io/cpjava-portfolio) | Standard
-| Leah | [https://leahtruman.github.io/cpjava-portfolio](https://leahtruman.github.io/cpjava-portfolio) | Standard
-| Ghislaine | [https://ghislaineederer.github.io/cpjava-portfolio](https://ghislaineederer.github.io/cpjava-portfolio) | Standard
-| Philipp | [https://philippknmergener.github.io/cpjava-portfolio](https://philippknmergener.github.io/cpjava-portfolio) | Advanced
-| Erik | [https://erikonsager.github.io/cpjava-portfolio](https://erikonsager.github.io/cpjava-portfolio) | Advanced
-| Carter | [https://carterschafer.github.io/cpjava-portfolio](https://carterschafer.github.io/cpjava-portfolio) | Advanced
-| Aidan | [https://aidan-lynch.github.io/cpjava-portfolio](https://aidan-lynch.github.io/cpjava-portfolio) | Advanced
+| Student | Link
+| :--- | :--- |
+| Gus | [https://GusCrowley.github.io/Lightning](https://GusCrowley.github.io/Lightning)
+| Sally | [https://SallyWolff.github.io/Lightning](https://SallyWolff.github.io/Lightning)
+| Chloe | [https://chloeb777.github.io/Lightning](https://chloeb777.github.io/Lightning)
+| Hannah | [https://hannahrheajiang.github.io/Lightning](https://hannahrheajiang.github.io/Lightning)
+| Isaac | [https://IsaacLLBush.github.io/Lightning](https://IsaacLLBush.github.io/Lightning)
+| Roman | [https://IsaacLLBush.github.io/Lightning](https://RomanEmpire42.github.io/Lightning)
+| Zubin | [https://zubeisanoob.github.io/Lightning](https://zubeisanoob.github.io/Lightning)
+| Mizuki | [https://MizukiYates.github.io/Lightning](https://MizukiYates.github.io/Lightning)
+| Project Default | [https://chandrunarayan.github.io/Lightning](https://chandrunarayan.github.io/Lightning)
 
-## Student Final Projects
-
-| People | Project | Pathway |
-| :--- | :--- | :--- |
-| Pamela | [https://pamelabiniam.github.io/cpjava-portfolio](https://pamelabiniam.github.io/cpjava-portfolio) | Standard
-| Jeffrey | [https://jpbatzz.github.io/cpjava-portfolio](https://jpbatzz.github.io/cpjava-portfolio) | Standard
-| Maya | [https://mayaschrum.github.io/cpjava-portfolio](https://mayaschrum.github.io/cpjava-portfolio) | Standard
-| Leah | [https://leahtruman.github.io/cpjava-portfolio](https://leahtruman.github.io/cpjava-portfolio) | Standard
-| Ghislaine | [https://ghislaineederer.github.com/cpjava-portfolio](https://ghislaineederer.github.io/cpjava-portfolio/) | Standard
-| Philipp | [https://philippknmergener.github.io/cpjava-portfolio](https://philippknmergener.github.io/cpjava-portfolio) | Advanced
-| Erik | [https://erikonsager.github.io/cpjava-portfolio](https://erikonsager.github.io/cpjava-portfolio) | Advanced
-| Carter | [https://carterschafer.github.io/cpjava-portfolio](https://carterschafer.github.io/cpjava-portfolio) | Advanced
-| Aidan | [https://aidan-lynch.github.io/cpjava-portfolio](https://aidan-lynch.github.io/cpjava-portfolio) | Advanced
 
 ## Student Githubs
 
-| Student Github Sites | Pathway |
-| :-------------------------------------- | :--- |
-| [Pamela's Github](https://github.com/pamelabiniam/cpjava-portfolio) | Standard
-| [Jeffrey's Github](https://github.com/JPbatzz/cpjava-portfolio) | Standard
-| [Maya's Github](https://github.com/mayaschrum/cpjava-portfolio) | Standard
-| [Leah's Github](https://github.com/leahtruman/cpjava-portfolio) | Standard
-| [Ghislaine's Github](https://github.com/ghislaineederer/cpjava-portfolio) | Standard
-| [Philipp's Github](https://github.com/philippknmergener/cpjava-portfolio) | Advanced
-| [Erik's Github](https://github.com/ErikOnsager/cpjava-portfolio) | Advanced
-| [Carter's Github](https://github.com/carterschafer/cpjava-portfolio) | Advanced
-| [Aidan's Github](https://github.com/aidan-lynch/cpjava-portfolio) | Advanced
+| Student Github Sites |
+| :-------------------------------------- |
+| [Gus's Github](https://github.com/GusCrowley)
+| [Sally's Github](https://github.com/SallyWolff)
+| [Chloe's Github](https://github.com/chloeb777)
+| [Hannah's Github](https://github.com/hannahrheajiang)
+| [Isaac's Github](https://github.com/IsaacLLBush)
+| [Roman's Github](https://github.com/IsaacLLBush)
+| [Zubin's Github](https://github.com/zubeisanoob)
+| [Mizuki's Github](https://github.com/MizukiYates)
+
