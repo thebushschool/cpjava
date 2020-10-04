@@ -2,7 +2,7 @@
 
 # [What's happening in CPJava this week (Sep 28 - Oct 2nd) ??](thisweek.md)
 
-![alt text][bouncyballs]
+![alt text][yoda]
 
 <a href="https://chandrunarayan.github.io/sketches/bubbles" target="blank">Click here for live code and try clicking bubbles inside resulting new tab or window. Like what you see? This course will be all about developing skills to simulate nature on your computer in a fun, engaging manner and learn Java on the side!</a>
 
@@ -225,6 +225,7 @@ This course draws from the book Building Java Programs: A Back to Basics Approac
 [congrats]: congrats.png "Congrats"
 [juliaset]: julia1.gif "juliaset"
 [bouncyballs]: bouncy_balls2.gif "bouncyballs"
+[yoda]: yoda.gif "yoda"
 [bubbles]: https://chandrunarayan.github.io/sketches/bubbles/ "bubbles"
 [schedule]: src/CPJava_Schedule_bw.png
 [schoolwork]: schoolwork.png
