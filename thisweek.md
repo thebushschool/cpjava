@@ -1,8 +1,17 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
-# What's happening in CPJava this week (Sep 28 - Oct 2nd) ??
+# What's happening in CPJava this week and next week (Oct 5th - Oct 16th) ??
 
-## Expect significant code development activity within your assigned teams! Ask for help - Mark and I will be available. After completing #A, plan to make simultaneous progress on #B and #C.
+## We are only meeting for 2 Synchronous Sessions in the next 2 weeks - Once Oct 6th and then Oct 16th!
+## There is a 10-day gap in-between - We need to plan for significant Asynchronous work!
+
+## We will cover Objects Constructors and Methods
+
+
+
+
+
+############################
 
 ## A. Complete Statistics and Exchange Trinket Projects if you haven't already done so
 
