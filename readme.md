@@ -112,6 +112,10 @@ Students should register below, and the registration deadline is November 2, 202
 
 ## Lessons FALL 2020  Sep - Dec 13-Weeks
 
+### Student Paced Sessions
+* [Units 1 2 3 Consolidated Intro to Java Variables Operators Student Paced Sesssion](https://app.peardeck.com/student/tixodenzx)
+* [Units 4 5 Consolidated Loops Objects Student Paced Sesssion](https://docs.google.com/presentation/d/1SEB8hbirhy00kq0oxLhQX2xcyC_HvaIw35V8pq82INw/edit#slide=id.g97cdd6c7ea_0_0)
+
 ### [Unit 1](lessons/unit1)  - 3-Weeks
 
 _Topics: Introduction to Java, Tools walkthrough, Classroom processes, Environment setup, Java Primitive types and Operators_
@@ -136,9 +140,8 @@ _Topics: Control flow, Booleans, If statements, Object traversals_
 
 * [Overview](lessons/unit3)
 * [Lessons](lessons/unit3/lectures.md)
-* [Exercises TBD]()
-* [Projects TBD]()
-
+* Exercises Consolidated with Unit 2 Exercises
+* Projects Consolidated with Unit 2 Projects
 
 ### [Unit 4](lessons/unit4)  - 3-Weeks
 
@@ -146,8 +149,8 @@ _Topics: Iteration, While loops, For loops, Nested Loops, Loop Analysis_
 
 * [Overview](lessons/unit4)
 * [Lessons](lessons/unit4/lectures.md)
-* [Exercises TBD]()
-* [Projects TBD]()
+* [Exercises](lessons/unit4/exercises.md)
+* [Projects](lessons/unit4/projects.md)
 
 ### [Unit 5](lessons/unit5)  - 3-Weeks
 
@@ -155,8 +158,8 @@ _Topics: Anatomy of a class, Constructor, Accessor, Mutator Methods, this keywor
 
 * [Overview](lessons/unit5)
 * [Lessons](lessons/unit5/lectures.md)
-* [Exercises TBD]()
-* [Projects TBD]()
+* Exercises Consolidated with Unit 4 Exercises
+* Projects Consolidated with Unit 4 Projects
 
 ## Lessons SPRING 2021 Jan - May 14-Weeks
 
