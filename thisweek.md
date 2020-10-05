@@ -5,13 +5,30 @@
 ## We are only meeting for 2 Synchronous Sessions in the next 2 weeks - Once Oct 6th and then Oct 16th!
 ## There is a 10-day gap in-between - We need to plan for significant Asynchronous work!
 
-## We will cover Objects Constructors and Methods
+## A. We will cover Objects Constructors and Methods
 
-yoda
+* [Access the Units 4 & 5 Student Paced Module here](https://app.peardeck.com/student/tieohailx) 
+* Please respond to prompts from the session by providing answers as requested
+* Complete Units 4 & 5 and the Units 1 2 3 Student-Paced sessions by October 16th
 
+## B. Multiple Short Java Programs to complete and Submit
+* Balloon
+* Coin
+* Con!
 
+## C. Multiple Practice Programs to complete and verify
+* CloverPractice
+* TargetPractice
+* BrickPractice
+* BalloonPractice
+
+## D. Project Dice
+* Complete Dice Project and submit to GitHub
 
 ############################
+############################
+
+# What happened in CPJava previously? (Oct 5th - Oct 16th) ??
 
 ## A. Complete Statistics and Exchange Trinket Projects if you haven't already done so
 
