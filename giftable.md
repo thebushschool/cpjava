@@ -27,6 +27,11 @@
 <tr>
 
 
+  <td>
+    <img src="./giftable/zubin.gif" align="right" alt="2" width = 400px height = 210px>
+  </td>
+
+
   <td> 
     <img src="./giftable/chloe.gif"  alt="1" width = 400px height = 220px >
   </td>
