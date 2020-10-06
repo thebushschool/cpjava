@@ -22,9 +22,6 @@
   <td>
     <img src="./giftable/mizuki.gif" alt="3" width = 161px height = 250px>
   </td>
-  
-</tr>
-</table>
 
 <table style="padding:10px">
 <tr>
@@ -40,4 +37,3 @@
 
 </tr>
 </table>
-
