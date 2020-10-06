@@ -8,13 +8,15 @@
 
 ## We are only meeting for 2 Synchronous Sessions in the next 2 weeks - Once Oct 6th and then Oct 16th!
 ## There is a 10-day gap in-between - We need to plan for significant Asynchronous work!
+## I am riding a final 2020 century for Mary Bridge Children's Hospital to raise funds for Child Abuse Prevention Wednesday Oct 7th
 
-## A. We will cover Objects Constructors and Methods
+## A. We will cover Loops, Objects, Constructors and Methods
 
 * [Access the Units 4 & 5 Student Paced Module here](https://app.peardeck.com/student/tieohailx) 
 * Please respond to prompts from the session by providing answers as requested
 * Complete Units 4 & 5 and the Units 1 2 3 Student-Paced sessions by October 16th
 * I will cover some important sections in class today!
+* I will also be grading your Trinket and Github submissions later this week 
 
 ## B. Multiple Short Java Programs to complete and Submit
 * Balloon
