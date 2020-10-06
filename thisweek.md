@@ -2,6 +2,10 @@
 
 # What's happening in CPJava this week and next week (Oct 5th - Oct 16th) ??
 
+## Very nice work by all on Project Lighning!!  
+### [To see images Projects in action Click Here!](giftable.md)
+### [Student Githubs are here](student-githubs.md)
+
 ## We are only meeting for 2 Synchronous Sessions in the next 2 weeks - Once Oct 6th and then Oct 16th!
 ## There is a 10-day gap in-between - We need to plan for significant Asynchronous work!
 
@@ -10,20 +14,22 @@
 * [Access the Units 4 & 5 Student Paced Module here](https://app.peardeck.com/student/tieohailx) 
 * Please respond to prompts from the session by providing answers as requested
 * Complete Units 4 & 5 and the Units 1 2 3 Student-Paced sessions by October 16th
+* I will cover some important sections in class today!
 
 ## B. Multiple Short Java Programs to complete and Submit
 * Balloon
 * Coin
 * Con!
 
-## C. Multiple Practice Programs to complete and verify
+## C. Multiple Practice Programs to complete and verify 
+### These projects are introduced in the student-paced session [Units 4 & 5 Student Paced Module](https://app.peardeck.com/student/tieohailx)
 * CloverPractice
 * TargetPractice
 * BrickPractice
 * BalloonPractice
 
 ## D. Project Dice
-* Complete Dice Project and submit to GitHub
+* Complete Dice Project and submit to GitHub *** Project information to be posted by end of this week! ***
 
 ############################
 ############################
