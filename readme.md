@@ -4,7 +4,9 @@
 
 ![alt text][yoda]
 
-<a href="https://chandrunarayan.github.io/sketches/bubbles" target="blank">Click here for live code og bouncing bubbles and try clicking them inside resulting new tab or window. Like what you see? This course will be all about developing skills to simulate nature on your computer in a fun, engaging manner and learn Java on the side!</a>
+## [To see other Student Projects in action Click Here!](giftable.md)
+
+<a href="https://chandrunarayan.github.io/sketches/bubbles" target="blank">Click here for live code of bouncing bubbles and try clicking them inside resulting new tab or window. Like what you see? This course will be all about developing skills to simulate nature on your computer in a fun, engaging manner and learn Java on the side!</a>
 
 # CPJava - Computer Programming in Java Course
 
