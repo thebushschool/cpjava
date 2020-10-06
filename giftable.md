@@ -35,5 +35,9 @@
     <img src="./giftable/isaac.gif" align="right" alt="2" width = 321px height = 250px>
   </td>
 
+  <td>
+    <img src="./giftable/sally.gif" align="right" alt="2" width = 321px height = 250px>
+  </td>
+
 </tr>
 </table>
