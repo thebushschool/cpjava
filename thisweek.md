@@ -8,7 +8,7 @@
 
 ## We are only meeting for 2 Synchronous Sessions in the next 2 weeks - Once Oct 6th and then Oct 16th!
 ## There is a 10-day gap in-between - We need to plan for significant Asynchronous work!
-## I am riding a final 2020 century for Mary Bridge Children's Hospital to raise funds for Child Abuse Prevention Wednesday Oct 7th
+## I am riding a final 2020 century for Mary Bridge Children's Hospital to raise funds for Child Abuse Prevention Wednesday Oct 7th. I will not be available on-hand this day.
 
 ## A. We will cover Loops, Objects, Constructors and Methods
 
