@@ -93,7 +93,7 @@ The published Student Projects can be found below.
 | Student | Link
 | :--- | :--- |
 | Gus | [https://GusCrowley.github.io/Lightning](https://GusCrowley.github.io/Lightning)
-| Sally | [https://SallyWolff.github.io/Drawing](https://SallyWolff.github.io/Lightning)
+| Sally | [https://SallyWolff.github.io/Drawing](https://SallyWolff.github.io/Drawing)
 | Chloe | [https://chloeb777.github.io/Lightning](https://chloeb777.github.io/Lightning)
 | Hannah | [https://hannahrheajiang.github.io/Lightning](https://hannahrheajiang.github.io/Lightning)
 | Isaac | [https://IsaacLLBush.github.io/Lightning](https://IsaacLLBush.github.io/Lightning)
