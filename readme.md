@@ -2,7 +2,7 @@
 
 # [What's happening in CPJava this week and next (Oct 5th - Oct 16th) ??](thisweek.md)
 
-| Sally (Crayon) | Chloe (Lightning) | Isaac (Dice-Coin)
+| Sally (Crayon) | Chloe (Light-Sabre) | Isaac (Dice-Coin)
 | :--- | :--- | :--- |
 | ![alt text][crayon] | ![alt text][yoda] | ![alt text][idice]
 
