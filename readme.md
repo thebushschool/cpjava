@@ -4,8 +4,9 @@
 
 ![alt text][yoda]
 
-## [To see other Student Projects in action Click Here!](giftable.md)
+## [To see all Student Projects in action Click Here!](giftable.md)
 
+## Bouncing Bubbles Model Java Program
 <a href="https://chandrunarayan.github.io/sketches/bubbles" target="blank">Click here for live code of bouncing bubbles and try clicking them inside resulting new tab or window. Like what you see? This course will be all about developing skills to simulate nature on your computer in a fun, engaging manner and learn Java on the side!</a>
 
 # CPJava - Computer Programming in Java Course
