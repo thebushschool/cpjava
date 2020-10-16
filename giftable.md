@@ -1,6 +1,8 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
 
+# [To see individual student projects in action Click here!](student-githubs.md)
+
 # Student Project Images
 
 <table style="padding:10px">
@@ -48,4 +50,3 @@
 </table>
 
 
-# [To see individual student projects in action <- Click here!](./student-githubs.html)
