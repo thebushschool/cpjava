@@ -2,7 +2,9 @@
 
 # [What's happening in CPJava this week and next (Oct 5th - Oct 16th) ??](thisweek.md)
 
-![alt text][yoda]
+| Sally (Crayon) | Chloe (Lightning) | Isaac (Dice-Coin)
+| :--- | :--- | :--- |
+| ![alt text][crayon] | ![alt text][yoda] | ![alt text][idice]
 
 ## [To see all Student Projects in action Click Here!](giftable.md)
 
@@ -229,6 +231,8 @@ This course draws from the book Building Java Programs: A Back to Basics Approac
 [juliaset]: julia1.gif "juliaset"
 [bouncyballs]: bouncy_balls2.gif "bouncyballs"
 [yoda]: yoda.gif "yoda"
+[crayon]: crayon.gif "crayon"
+[idice]: idice.gif "idice"
 [bubbles]: https://chandrunarayan.github.io/sketches/bubbles/ "bubbles"
 [schedule]: src/CPJava_Schedule_bw.png
 [schoolwork]: schoolwork.png
