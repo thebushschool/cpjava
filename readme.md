@@ -1,6 +1,6 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
-# [What's happening in CPJava this week and next (Oct 5th - Oct 16th) ??](thisweek.md)
+# [What's happening in CPJava this week and next (Oct 12th - Oct 16th) ??](thisweek.md)
 
 | Sally (Crayon) | Chloe (Light-Sabre) | Isaac (Dice-Coin)
 | :--- | :--- | :--- |

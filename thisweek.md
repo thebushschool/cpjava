@@ -1,6 +1,6 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
-# What's happening in CPJava this week and next week (Oct 5th - Oct 16th) ??
+# What's happening in CPJava this week and next week (Oct 12th - Oct 16th) ??
 
 ## Very nice work by all on Project Lighning!!  
 ### [To see images Projects in action Click Here!](giftable.md)
@@ -41,7 +41,7 @@
 ############################
 ############################
 
-# What happened in CPJava previously? (Oct 5th - Oct 16th) ??
+# What happened in CPJava previously? (Oct 5th - Oct 12th) ??
 
 ## A. Complete Statistics and Exchange Trinket Projects if you haven't already done so
 
