@@ -2,7 +2,7 @@
 
 # [What's happening in CPJava this week and next (Oct 12th - Oct 16th) ??](thisweek.md)
 
-| Sally (Crayon) | Chloe (Light-Sabre) | Isaac (Dice-Coin)
+| [Sally (Crayon)](https://sallywolff.github.io/Drawing/) | [Chloe (Light-Sabre)](https://chloeb777.github.io/Lightning/) | [Isaac (Dice-Coin)](https://izak-1.github.io/Dice/)
 | :--- | :--- | :--- |
 | ![alt text][crayon] | ![alt text][yoda] | ![alt text][idice]
 
