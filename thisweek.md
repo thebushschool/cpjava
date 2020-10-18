@@ -2,7 +2,7 @@
 
 # What's happening in CPJava this week and next week (Oct 19th - Oct 23rd) ??
 
-## A. We will cover parts of Unit 6 in the student-paced module [Unit 6a Arrays]()
+## A. We will cover parts of Unit 6 in the student-paced module [Unit 6a Arrays](https://docs.google.com/presentation/d/16rYe06ohSndVfIjs3WSlVSaD_h0CjnMLGbMfvEbcggI/edit#slide=id.p1)
 
 * Please respond to prompts from the session by providing answers as requested
  
