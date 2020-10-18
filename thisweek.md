@@ -32,6 +32,10 @@
     1. [Dice Project Specifications](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MTg5NzEzNTY3OTQz/details)
     1. [Dice (Slides 53 to 60)](https://docs.google.com/presentation/d/1HC_K5tqfny5QYTdENnDpsQO-nGAAWua_YOQRc18V2IU/edit#slide=id.g9cc763746f_0_21)
 
+## D. Complete Codingbat Exercises (Optional)
+* [Practice Java Code for using Integers and Booleans](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MTk3NzI4NzgwMjYx/details)
+* [Practice Java Code for using Arrays](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MTk3NzI4NzgwNDYz/details)
+
 ############################
 ############################
 
