@@ -43,7 +43,7 @@ In our CPJava classroom we are already using tools and techniques that are natur
     * [Adhoc Mon/Tue/Thu/Fri Meetings](https://calendly.com/chandru-narayan/adhoc-conf)
 
     
-### CPJava Course Schedule
+### [CPJava Course Schedule 2020-2021](yearlycal) 
 ![alt text][schedule]
 
 ## Learning Modes and Typical Student Workflow
