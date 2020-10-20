@@ -7,13 +7,16 @@
 * We will mostly be working on completing programming assignments this week with a brief introduction to Arrays!
 * I will also be grading you Github and Slack submissions of Practice programs and assisting with Project Dice this week. 
 * Your mid-term grade will include all material and assignments identified in the Portal, Practice Programs, Worksheets and Projects Lightning, Dice upto and including Unit 1 to Unit 5
+* Clone and use the Practice Repository for submitting worksheets and practice programs
+
+    * [Clone this Practice Repository](https://github.com/chandrunarayan/Practice/blob/main/README.md)
 
 * Complete the following worksheets
 
     * [Nested Loops Worksheet](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MTgyOTYzNDgwMDM0/details)
     * [Math.random Worksheet](https://drive.google.com/file/d/0Bz2ZkT6qWPYTSU84X3FSOGYwdFU/view?usp=sharing)
 
-* Complete and submit at least 5 out of the 8 below - APCSA students complete all of them!
+* Complete and submit at least 5 out of the 8 Practice programs below - APCSA students complete all of them!
     * [Balloon (Slides 35 to 51)](https://docs.google.com/presentation/d/1HC_K5tqfny5QYTdENnDpsQO-nGAAWua_YOQRc18V2IU/edit#slide=id.g9a1e7ee1cb_8_5)
     * [Coin (Slides 62 to 74)](https://docs.google.com/presentation/d/1HC_K5tqfny5QYTdENnDpsQO-nGAAWua_YOQRc18V2IU/edit#slide=id.p247)
     * [Con! (Slide 75)](https://docs.google.com/presentation/d/1HC_K5tqfny5QYTdENnDpsQO-nGAAWua_YOQRc18V2IU/edit#slide=id.g9e087dd4d3_0_102)
