@@ -2,9 +2,9 @@
 
 # [What's happening in CPJava this week and next (Oct 19th - Oct 23rd) ??](thisweek.md)
 
-| <a href="https://sallywolff.github.io/Drawing/" target="_blank">Sally (Crayon)</a> | <a href="https://chloeb777.github.io/Lightning/" target="_blank">Chloe (Light-Sabre)</a> | <a href="https://izak-1.github.io/Dice/" target="_blank">Isaac (Dice-Coin)</a>
+| <a href="https://GusCrowley.github.io/Lightning" target="_blank">Gus</a> | <a href="https://RomanEmpire42.github.io/Lightning" target="_blank">Roman</a> | <a href="https://hannahrheajiang.github.io/Lightning" target="_blank">Hannah</a>
 | :--- | :--- | :--- |
-| ![alt text][crayon] | ![alt text][yoda] | ![alt text][idice]
+| ![alt text][guslight] | ![alt text][romanlight] | ![alt text][hannahlight]
 
 ## [To see all Student Projects in action Click Here!](giftable.md)
 
@@ -236,4 +236,6 @@ This course draws from the book Building Java Programs: A Back to Basics Approac
 [bubbles]: https://chandrunarayan.github.io/sketches/bubbles/ "bubbles"
 [schedule]: src/CPJava_Schedule_bw.png
 [schoolwork]: schoolwork.png
-
+[guslight]: giftable/gus.gif "guslight"
+[romanlight]: giftable/roman.gif "romanlight"
+[hannahlight]: giftable/hannah.gif "hannahlight"
