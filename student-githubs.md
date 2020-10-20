@@ -15,17 +15,4 @@
 | Mizuki | [https://MizukiYates.github.io/Lightning](https://MizukiYates.github.io/Lightning)
 | Project Default | [https://cnarayan.github.io/Lightning](https://cnarayan.github.io/Lightning)
 
-
-## Student Githubs
-
-| Student Github Sites |
-| :-------------------------------------- |
-| [Gus's Github](https://github.com/GusCrowley)
-| [Sally's Github](https://github.com/SallyWolff)
-| [Chloe's Github](https://github.com/chloeb777)
-| [Hannah's Github](https://github.com/hannahrheajiang)
-| [Isaac's Github](https://github.com/iZak-1)
-| [Roman's Github](https://github.com/RomanEmpire42)
-| [Zubin's Github](https://github.com/zubeisanoob)
-| [Mizuki's Github](https://github.com/MizukiYates)
-
+## Dice Project
