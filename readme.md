@@ -1,6 +1,6 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
-# [What's happening in CPJava this week and next (Oct 19h - Oct 23rd) ??](thisweek.md)
+# [What's happening in CPJava this week and next (Oct 19th - Oct 23rd) ??](thisweek.md)
 
 | <a href="https://sallywolff.github.io/Drawing/" target="_blank">Sally (Crayon)</a> | <a href="https://chloeb777.github.io/Lightning/" target="_blank">Chloe (Light-Sabre)</a> | <a href="https://izak-1.github.io/Dice/" target="_blank">Isaac (Dice-Coin)</a>
 | :--- | :--- | :--- |
