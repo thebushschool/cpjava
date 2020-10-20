@@ -43,7 +43,7 @@
     1. [Codingbat Practice Java Code for using Integers and Booleans](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MTk3NzI4NzgwMjYx/details)
     1. [Codingbat Practice Java Code for using Arrays](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MTk3NzI4NzgwNDYz/details)
 
-## E. For APCSA exam ** Units 1 2 & 3 instructional videos have been released! **. Please access [College AP Daily Videos](https://apcentral.collegeboard.org/learning-development/ap-classroom/ap-daily) here. 
+## E. For APCSA exam ** Units 1 2 & 3 instructional videos have been released! ** Access [College AP Daily Videos](https://apcentral.collegeboard.org/learning-development/ap-classroom/ap-daily) here. 
 
 
 ############################
