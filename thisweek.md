@@ -8,19 +8,20 @@
  
 
 ## B. Continue your work on student-paced session [Units 4 & 5 Loops and Objects](https://app.peardeck.com/student/tieohailx). Make use of the class periods and asynchronous times for completing and submitting the following:
-* Complete Units 4 & 5 Student-Paced session by October 19th
+* Complete Units 4 & 5 Student-Paced session by end of this week
 * We will mostly be working on completing programming assignments this week with a brief introduction to Arrays!
 * I will also be grading you Github and Slack submissions of Practice programs and assisting with Project Dice this week. 
-* Your mid-term grade will include all material and assignments identified in the Portal, Practice Programs, and Projects Lightning and Dice upto and including Unit 1 to Unit 5
+* Your mid-term grade will include all material and assignments identified in the Portal, Practice Programs, Worksheets and Projects Lightning, Dice upto and including Unit 1 to Unit 5
+
 * Complete the following worksheets
 
     * [Nested Loops Worksheet](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MTgyOTYzNDgwMDM0/details)
     * [Math.random Worksheet](https://drive.google.com/file/d/0Bz2ZkT6qWPYTSU84X3FSOGYwdFU/view?usp=sharing)
+
 * Complete and submit at least 5 out of the 8 below - APCSA students complete all of them!
     * [Balloon (Slides 35 to 51)](https://docs.google.com/presentation/d/1HC_K5tqfny5QYTdENnDpsQO-nGAAWua_YOQRc18V2IU/edit#slide=id.g9a1e7ee1cb_8_5)
     * [Coin (Slides 62 to 74)](https://docs.google.com/presentation/d/1HC_K5tqfny5QYTdENnDpsQO-nGAAWua_YOQRc18V2IU/edit#slide=id.p247)
     * [Con! (Slide 75)](https://docs.google.com/presentation/d/1HC_K5tqfny5QYTdENnDpsQO-nGAAWua_YOQRc18V2IU/edit#slide=id.g9e087dd4d3_0_102)
-
     * [CloverPractice (Slide 88)](https://docs.google.com/presentation/d/1HC_K5tqfny5QYTdENnDpsQO-nGAAWua_YOQRc18V2IU/edit#slide=id.g64ba4468d6_0_19)
     * [TargetPractice (Slide 89)](https://docs.google.com/presentation/d/1HC_K5tqfny5QYTdENnDpsQO-nGAAWua_YOQRc18V2IU/edit#slide=id.g64d967bf47_2_0)
     * [BrickPractice (Slide 90)](https://docs.google.com/presentation/d/1HC_K5tqfny5QYTdENnDpsQO-nGAAWua_YOQRc18V2IU/edit#slide=id.p291)
@@ -39,8 +40,8 @@
 * Make sure you login to codingbat with your bush school email id you already registered with
 * Please note that these do not count towards yoru grade but will help you in clarifying concepts in this class
 
-    1. [Practice Java Code for using Integers and Booleans](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MTk3NzI4NzgwMjYx/details)
-    1. [Practice Java Code for using Arrays](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MTk3NzI4NzgwNDYz/details)
+    1. [Codingbat Practice Java Code for using Integers and Booleans](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MTk3NzI4NzgwMjYx/details)
+    1. [Codingbat Practice Java Code for using Arrays](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MTk3NzI4NzgwNDYz/details)
 
 ## E. For APCSA exam ** Units 1 2 & 3 instructional videos have been released! **. Please access [College AP Daily Videos](https://apcentral.collegeboard.org/learning-development/ap-classroom/ap-daily) here. 
 
