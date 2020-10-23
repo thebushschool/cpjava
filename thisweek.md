@@ -45,7 +45,7 @@
 
 * Please respond to prompts from the session by providing answers as requested
 
-## E. For APCSA exam ** Units 1 2 & 3 instructional videos have been released! ** Access [College AP Daily Videos](https://apcentral.collegeboard.org/learning-development/ap-classroom/ap-daily) here. 
+## E. For APCSA exam ** Units 1 2 3 & 4 instructional videos have been released! ** Access [College AP Daily Videos](https://apcentral.collegeboard.org/learning-development/ap-classroom/ap-daily) here. 
 
 
 ############################

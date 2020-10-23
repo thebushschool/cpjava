@@ -2,9 +2,9 @@
 
 # [What's happening in CPJava this week and next (Oct 19th - Oct 23rd) ??](thisweek.md)
 
-| <a href="https://GusCrowley.github.io/Lightning" target="_blank">Gus</a> | <a href="https://RomanEmpire42.github.io/Lightning" target="_blank">Roman</a> | <a href="https://hannahrheajiang.github.io/Lightning" target="_blank">Hannah</a>
+| <a href="https://GusCrowley.github.io/Lightning" target="_blank">Gus</a> | <a href="https://RomanEmpire42.github.io/Lightning" target="_blank">Roman</a> | <a href="https://MizukiYates.github.io/Lightning" target="_blank">Mizuki</a>
 | :--- | :--- | :--- |
-| ![alt text][guslight] | ![alt text][romanlight] | ![alt text][hannahlight]
+| ![alt text][guslight] | ![alt text][romanlight] | ![alt text][mizuki]
 
 ## [To see all Student Projects in action Click Here!](giftable.md)
 
@@ -236,6 +236,7 @@ This course draws from the book Building Java Programs: A Back to Basics Approac
 [bubbles]: https://chandrunarayan.github.io/sketches/bubbles/ "bubbles"
 [schedule]: src/CPJava_Schedule_bw.png
 [schoolwork]: schoolwork.png
-[guslight]: giftable/gus.gif "guslight"
-[romanlight]: giftable/roman.gif "romanlight"
+[guslight]: giftable/gus2.gif "guslight"
+[romanlight]: giftable/roman2.gif "romanlight"
 [hannahlight]: giftable/hannah.gif "hannahlight"
+[mizuki]: giftable/mizuki2.gif "mizuki2"
