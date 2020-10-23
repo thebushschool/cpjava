@@ -2,7 +2,7 @@
 
 # [What's happening in CPJava this week and next (Oct 19th - Oct 23rd) ??](thisweek.md)
 
-| <a href="https://GusCrowley.github.io/Lightning" target="_blank">Gus</a> | <a href="https://RomanEmpire42.github.io/Lightning" target="_blank">Roman</a> | <a href="https://MizukiYates.github.io/Lightning" target="_blank">Mizuki</a>
+| <a href="https://GusCrowley.github.io/Dice" target="_blank">Gus</a> | <a href="https://RomanEmpire42.github.io/Dice" target="_blank">Roman</a> | <a href="https://MizukiYates.github.io/Lightning" target="_blank">Mizuki</a>
 | :--- | :--- | :--- |
 | ![alt text][guslight] | ![alt text][romanlight] | ![alt text][mizuki]
 
