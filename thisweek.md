@@ -41,7 +41,8 @@
     1. [Codingbat Practice Java Code for using Integers and Booleans](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MTk3NzI4NzgwMjYx/details)
     1. [Codingbat Practice Java Code for using Arrays](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MTk3NzI4NzgwNDYz/details)
 
-## D. We will cover parts of Unit 6 in the student-paced module [Unit 6a Arrays](https://docs.google.com/presentation/d/16rYe06ohSndVfIjs3WSlVSaD_h0CjnMLGbMfvEbcggI/edit#slide=id.p1)
+## D. We will cover parts of Unit 6 in the student-paced module [Unit 6a Arrays](https://docs.google.com/presentation/d/16rYe06ohSndVfIjs3WSlVSaD_h0CjnMLGbMfvEbcggI/edit#slide=id.p1) and [Unit 6b Arrays of Objects](https://docs.google.com/presentation/d/1bhgbqk9DAEzQG5ZFXYlGQ4CqQfVvieKUeOftVlC7P2Q/edit#slide=id.p1)
+
 
 * Please respond to prompts from the session by providing answers as requested
 
