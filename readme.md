@@ -1,6 +1,6 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
-# [What's happening in CPJava this week and next (Oct 19th - Oct 23rd) ??](thisweek.md)
+# [What's happening in CPJava this week and next (Oct 19th - Oct 27th) ??](thisweek.md)
 
 | <a href="https://GusCrowley.github.io/Dice" target="_blank">Gus</a> | <a href="https://RomanEmpire42.github.io/Dice" target="_blank">Roman</a> | <a href="https://github.com/zubeisanoob/Dice" target="_blank">Zubin</a>
 | :--- | :--- | :--- |
