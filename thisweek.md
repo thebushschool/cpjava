@@ -45,7 +45,7 @@
 
 * Please respond to prompts from the session by providing answers as requested
 
-## E. [Project Chemotaxis!](https://classroom.google.com/u/0/c/MTI2MDgzMTM2MDgw/a/MjAzNTY2MjYyMzk3/submissions/by-status/and-sort-name/all
+## E. [Project Chemotaxis!](https://classroom.google.com/u/0/c/MTI2MDgzMTM2MDgw/a/MjAzNTY2MjYyMzk3/details)
 Chemotaxis is when an organism moves toward or away from a chemical stimulus like food. Biologists write software using random walks to model and study how very small organisms like bacteria search for food. In this project you will create a simulation of organisms moving away from a starting position using a random walk.
 
 You will get to use Arrays of Objects amd more complex uses for Objects, Constructors and Methods!
