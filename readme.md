@@ -2,7 +2,7 @@
 
 # [What's happening in CPJava this week and next (Oct 19th - Oct 30th) ??](thisweek.md)
 
-| <a href="https://GusCrowley.github.io/Dice" target="_blank">Gus</a> | <a href="https://RomanEmpire42.github.io/Dice" target="_blank">Roman</a> | <a href="https://github.com/zubeisanoob/Dice" target="_blank">Zubin</a>
+| <a href="https://GusCrowley.github.io/Dice" target="_blank">Gus - Psychadelic Dice</a> | <a href="https://RomanEmpire42.github.io/Dice" target="_blank">Roman - Random Dice</a> | <a href="https://github.com/zubeisanoob/Dice" target="_blank">Zubin - Dice Mania</a>
 | :--- | :--- | :--- |
 | ![alt text][guslight] | ![alt text][romandice] | ![alt text][zoobdice]
 
