@@ -1,10 +1,10 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
-# [What's happening in CPJava this week and next (Oct 19th - Oct 27th) ??](thisweek.md)
+# [What's happening in CPJava this week and next (Oct 19th - Oct 30th) ??](thisweek.md)
 
 | <a href="https://GusCrowley.github.io/Dice" target="_blank">Gus</a> | <a href="https://RomanEmpire42.github.io/Dice" target="_blank">Roman</a> | <a href="https://github.com/zubeisanoob/Dice" target="_blank">Zubin</a>
 | :--- | :--- | :--- |
-| ![alt text][guslight] | ![alt text][romanlight] | ![alt text][zoobdice]
+| ![alt text][guslight] | ![alt text][romandice] | ![alt text][zoobdice]
 
 ## [To see all Student Projects in action Click Here!](giftable.md)
 
@@ -241,3 +241,4 @@ This course draws from the book Building Java Programs: A Back to Basics Approac
 [hannahlight]: giftable/hannah.gif "hannahlight"
 [mizuki]: giftable/mizuki2.gif "mizuki2"
 [zoobdice]: giftable/zoobdice.gif "mizuki2"
+[romandice]: giftable/romandice.gif "romandice"

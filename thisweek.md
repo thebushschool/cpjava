@@ -1,6 +1,6 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
-# What's happening in CPJava this week and next week (Oct 19th - Oct 27th) ??
+# What's happening in CPJava this week and next week (Oct 19th - Oct 30th) ??
 
 ## A. Continue your work on student-paced session [Units 4 & 5 Loops and Objects](https://app.peardeck.com/student/tieohailx). Make use of the class periods and asynchronous times for completing and submitting the following:
 * Complete Units 4 & 5 Student-Paced session by end of this week
