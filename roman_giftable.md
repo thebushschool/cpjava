@@ -16,7 +16,7 @@
 
 
   <td>
-    <img src="./giftable/romandice.gif" align="left" alt="2" width = 400px height = 210px>
+    <img src="./giftable/romandice.gif" align="left" alt="2" width = 400px>
   </td>
 
 </tr>

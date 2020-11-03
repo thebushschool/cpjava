@@ -8,7 +8,7 @@
     
  
   <td>
-    <img src="./giftable/zoobdice.gif" align="right" alt="2" width = 231px height = 250px>
+    <img src="./giftable/zoobdice.gif" align="left" alt="2" width = 300px height = 250px>
   </td>
 
 <table style="padding:10px">
@@ -16,7 +16,7 @@
 
 
   <td>
-    <img src="./giftable/zubin2.gif" align="right" alt="2" width = 400px height = 210px>
+    <img src="./giftable/zubin2.gif" align="left" alt="2" width = 400px height = 210px>
   </td>
 
 </tr>

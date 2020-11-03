@@ -6,17 +6,8 @@
 <table style="padding:10px">
 <tr>
     
- 
   <td>
-    <img src="./giftable/gus.gif" align="right" alt="2" width = 231px height = 250px>
-  </td>
-
-<table style="padding:10px">
-<tr>
-
-
-  <td>
-    <img src="./giftable/gus2.gif" align="right" alt="2" width = 400px height = 210px>
+    <img src="./giftable/mizuki2.gif" align="right" alt="2" width = 400px>
   </td>
 
 </tr>

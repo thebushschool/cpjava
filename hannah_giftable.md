@@ -8,15 +8,7 @@
     
  
   <td>
-    <img src="./giftable/hannah.gif" align="right" alt="2" width = 231px height = 250px>
-  </td>
-
-<table style="padding:10px">
-<tr>
-
-
-  <td>
-    <img src="./giftable/hannah.gif" align="right" alt="2" width = 400px height = 210px>
+    <img src="./giftable/hannah.gif" align="right" alt="2" width = 250px>
   </td>
 
 </tr>

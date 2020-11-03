@@ -8,16 +8,10 @@
     
  
   <td>
-    <img src="./giftable/../idice.gif" align="right" alt="2" width = 231px height = 250px>
+    <img src="./giftable/../idice.gif" align="left" alt="2" width = 400px>
   </td>
 
 <table style="padding:10px">
-<tr>
-
-
-  <td>
-    <img src="./giftable/../idice.gif" align="right" alt="2" width = 400px height = 210px>
-  </td>
 
 </tr>
 </table>
