@@ -5,6 +5,11 @@
 ## A. We will complete Unit 6 in the student-paced module [Unit 6a Arrays](https://docs.google.com/presentation/d/16rYe06ohSndVfIjs3WSlVSaD_h0CjnMLGbMfvEbcggI/edit#slide=id.p1) and [Unit 6b Arrays of Objects](https://docs.google.com/presentation/d/1bhgbqk9DAEzQG5ZFXYlGQ4CqQfVvieKUeOftVlC7P2Q/edit#slide=id.p1)
 
 * Please respond to prompts from the session by providing answers as requested
+* We will create at least 2 Practice Programs along the way
+    * Rising Bubbles
+    * Biased Walker with Collisions
+* Please submit the above to the Practice Repository
+
 
 ## B. [Project Chemotaxis!](https://classroom.google.com/u/0/c/MTI2MDgzMTM2MDgw/a/MjAzNTY2MjYyMzk3/details)
 Chemotaxis is when an organism moves toward or away from a chemical stimulus like food. Biologists write software using random walks to model and study how very small organisms like bacteria search for food. In this project you will create a simulation of organisms moving away from a starting position using a random walk.
