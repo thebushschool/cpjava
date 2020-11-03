@@ -242,3 +242,4 @@ This course draws from the book Building Java Programs: A Back to Basics Approac
 [mizuki]: giftable/mizuki2.gif "mizuki2"
 [zoobdice]: giftable/zoobdice.gif "mizuki2"
 [romandice]: giftable/romandice.gif "romandice"
+[sallydice]: giftable/sallydice.gif "sallydice"

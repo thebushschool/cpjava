@@ -11,6 +11,11 @@
     <img src="./giftable/sally.gif" align="left" alt="2" height = 300px>
   </td>
 
+<tr>
+  <td>
+    <img src="./giftable/sallydice.gif" align="left" alt="2" width = 400px>
+  </td>
+
 </tr>
 </table>
 
