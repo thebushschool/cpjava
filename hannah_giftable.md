@@ -8,7 +8,7 @@
     
  
   <td>
-    <img src="./giftable/hannah.gif" align="right" alt="2" width = 250px>
+    <img src="./giftable/hannah.gif" align="left" alt="2" width = 250px>
   </td>
 
 </tr>
