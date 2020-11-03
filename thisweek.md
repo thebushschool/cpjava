@@ -1,6 +1,6 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
-# What's happening in CPJava this week and next week (Noc 2nd - Nov 20th) ??
+# What's happening in CPJava this week and next week (Nov 2nd - Nov 20th) ??
 
 ## A. We will complete Unit 6 in the student-paced module [Unit 6a Arrays](https://docs.google.com/presentation/d/16rYe06ohSndVfIjs3WSlVSaD_h0CjnMLGbMfvEbcggI/edit#slide=id.p1) and [Unit 6b Arrays of Objects](https://docs.google.com/presentation/d/1bhgbqk9DAEzQG5ZFXYlGQ4CqQfVvieKUeOftVlC7P2Q/edit#slide=id.p1)
 
