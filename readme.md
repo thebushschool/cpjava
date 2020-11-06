@@ -2,9 +2,9 @@
 
 # [What's happening in CPJava this week and next (Nov 2nd - Nov 30th) ??](thisweek.md)
 
-| <a href="https://GusCrowley.github.io/Dice" target="_blank">Gus - Psychadelic Dice</a> | <a href="https://RomanEmpire42.github.io/Dice" target="_blank">Roman - Random Dice</a> | <a href="https://github.com/zubeisanoob/Dice" target="_blank">Zubin - Dice Mania</a>
+| <a href="https://hannahrheajiang.github.io/Chemotaxis" target="_blank">Hannah - Butterfly Escape!</a> | <a href="https://RomanEmpire42.github.io/Chemotaxis" target="_blank">Roman - Particle Explosion</a> | <a href="https://github.com/izak-1/Dice" target="_blank">Isaac - Bacteria Control</a>
 | :--- | :--- | :--- |
-| ![alt text][guslight] | ![alt text][romandice] | ![alt text][zoobdice]
+| ![alt text][hannahtaxis] | ![alt text][romantaxis] | ![alt text][isaactaxis]
 
 ## [To see all Student Projects in action Click Here!](giftable.md)
 
