@@ -103,8 +103,8 @@ The published Student Projects can be found below.
 | Roman | [https://RomanEmpire42.github.io/Lightning](https://RomanEmpire42.github.io/Lightning)
 | Zubin | [https://zubeisanoob.github.io/Lightning](https://zubeisanoob.github.io/Lightning)
 | Mizuki | [https://MizukiYates.github.io/Lightning](https://MizukiYates.github.io/Lightning)
-| Project Default | [https://cnarayan.github.io/Lightning](https://cnarayan.github.io/Lightning)
-#
+
+
 ### Dice Project
 
 | Student | Link
@@ -117,7 +117,7 @@ The published Student Projects can be found below.
 | Roman | [https://RomanEmpire42.github.io/Dice](https://RomanEmpire42.github.io/Dice)
 | Zubin | [https://zubeisanoob.github.io/Dice](https://zubeisanoob.github.io/Dice)
 | Mizuki | [https://MizukiYates.github.io/Dice](https://MizukiYates.github.io/Dice)
-#
+
 ### Chemotaxis Project
 
 | Student | Link
