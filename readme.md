@@ -2,7 +2,7 @@
 
 # [What's happening in CPJava this week and next (Nov 2nd - Nov 13th) ??](thisweek.md)
 
-| <a href="https://hannahrheajiang.github.io/Chemotaxis" target="_blank">Hannah - Butterfly Escape!</a> | <a href="https://RomanEmpire42.github.io/Chemotaxis" target="_blank">Roman - Particle Explosion</a> | <a href="https://github.com/izak-1/Dice" target="_blank">Isaac - Bacteria Control</a>
+| <a href="https://hannahrheajiang.github.io/Chemotaxis" target="_blank">Hannah - Butterfly Escape!</a> | <a href="https://RomanEmpire42.github.io/Chemotaxis" target="_blank">Roman - Particle Explosion</a> | <a href="https://izak-1.github.io/Chemotaxis/" target="_blank">Isaac - Bacteria Control</a>
 | :--- | :--- | :--- |
 | ![alt text][hannahtaxis] | ![alt text][romantaxis] | ![alt text][isaactaxis]
 
@@ -243,3 +243,6 @@ This course draws from the book Building Java Programs: A Back to Basics Approac
 [zoobdice]: giftable/zoobdice.gif "mizuki2"
 [romandice]: giftable/romandice.gif "romandice"
 [sallydice]: giftable/sallydice.gif "sallydice"
+[romantaxis]: giftable/romantaxis.gif "romantaxis"
+[hannahtaxis]: giftable/hannahtaxis.gif "hannahtaxis"
+[isaactaxis]: giftable/isaactaxis.gif "isaactaxis"
