@@ -104,7 +104,34 @@ The published Student Projects can be found below.
 | Zubin | [https://zubeisanoob.github.io/Lightning](https://zubeisanoob.github.io/Lightning)
 | Mizuki | [https://MizukiYates.github.io/Lightning](https://MizukiYates.github.io/Lightning)
 | Project Default | [https://cnarayan.github.io/Lightning](https://cnarayan.github.io/Lightning)
+#
+### Dice Project
 
+| Student | Link
+| :--- | :--- |
+| Gus | [https://GusCrowley.github.io/Dice](https://GusCrowley.github.io/Dice)
+| Sally | [https://SallyWolff.github.io/Drawing](https://SallyWolff.github.io/Dice)
+| Chloe | [https://chloeb777.github.io/Dice](https://chloeb777.github.io/Dice)
+| Hannah | [https://hannahrheajiang.github.io/Dice](https://hannahrheajiang.github.io/Dice)
+| Isaac | [https://iZak-1.github.io/Dice](https://iZak-1.github.io/Dice)
+| Roman | [https://RomanEmpire42.github.io/Dice](https://RomanEmpire42.github.io/Dice)
+| Zubin | [https://zubeisanoob.github.io/Dice](https://zubeisanoob.github.io/Dice)
+| Mizuki | [https://MizukiYates.github.io/Dice](https://MizukiYates.github.io/Dice)
+#
+### Chemotaxis Project
+
+| Student | Link
+| :--- | :--- |
+| Gus | [https://GusCrowley.github.io/Chemotaxis](https://GusCrowley.github.io/Chemotaxis)
+| Sally | [https://SallyWolff.github.io/Drawing](https://SallyWolff.github.io/Chemotaxis)
+| Chloe | [https://chloeb777.github.io/Chemotaxis](https://chloeb777.github.io/Chemotaxis)
+| Hannah | [https://hannahrheajiang.github.io/Chemotaxis](https://hannahrheajiang.github.io/Chemotaxis)
+| Isaac | [https://iZak-1.github.io/Chemotaxis](https://iZak-1.github.io/Chemotaxis)
+| Roman | [https://RomanEmpire42.github.io/Chemotaxis](https://RomanEmpire42.github.io/Chemotaxis)
+| Zubin | [https://zubeisanoob.github.io/Chemotaxis](https://zubeisanoob.github.io/Chemotaxis)
+| Mizuki | [https://MizukiYates.github.io/Chemotaxis](https://MizukiYates.github.io/Chemotaxis)
+
+#
 ## APCSA Exam Spring 2020
 
 [APCSA exam will be held on Friday, May 15th 1:00 PM Pacific Time](https://apcoronavirusupdates.collegeboard.org/educators/taking-the-exams/ap-exam-schedule)
