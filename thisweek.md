@@ -1,7 +1,7 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
 # What's happening in CPJava this week and next week (Nov 2nd - Nov 13th) ??
-
+![alt text][wearehere]
 ## A. We will complete Unit 6 in the student-paced module [Unit 6a Arrays](https://docs.google.com/presentation/d/16rYe06ohSndVfIjs3WSlVSaD_h0CjnMLGbMfvEbcggI/edit#slide=id.p1) and [Unit 6b Arrays of Objects](https://docs.google.com/presentation/d/1bhgbqk9DAEzQG5ZFXYlGQ4CqQfVvieKUeOftVlC7P2Q/edit#slide=id.p1)
 
 * Please respond to prompts from the session by providing answers as requested
@@ -49,4 +49,4 @@ You will get to use Arrays of Objects amd more complex uses for Objects, Constru
 
 # [What happened in CPJava previously? (Oct 5th - Oct 12th) ??](weekofoct5)
 
-\
+[wearehere]: wearehere.png "wearehere"
