@@ -14,7 +14,7 @@
 
 * Here we will learn about "evolution" of classes via extending a parent object to a child object - just like what you might observe in nature.
 * We will also study Accessor (getter) and Mutator (setter) methods that will allow view and modification of Object properties.
-* Starting next week we will start work on the [Starfield Project](https://github.com/chandrunarayan/Starfield) 
+* Starting next week we will start work on the [Starfield Project](https://github.com/chandrunarayan/Starfield) It is ready for you now if you want to get a headstart!
 
 ## C. [Project Chemotaxis!](https://classroom.google.com/u/0/c/MTI2MDgzMTM2MDgw/a/MjAzNTY2MjYyMzk3/details)
 Chemotaxis is when an organism moves toward or away from a chemical stimulus like food. Biologists write software using random walks to model and study how very small organisms like bacteria search for food. In this project you will create a simulation of organisms moving away from a starting position using a random walk.
