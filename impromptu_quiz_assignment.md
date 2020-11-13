@@ -32,6 +32,16 @@
 1. If you are still having trouble with this assignment and need help over the weekend, please [setup a conference using this SPECIAL WEEKEND link](https://calendly.com/chandru-narayan/wkend-evenings) and I can provide assistance.
 
 
+<table style="padding:10px">
+<tr>
+    
+ 
+  <td>
+    <img src="./giftable/balls.gif" align="left" alt="2" width = 400px>
+  </td>
 
+<table style="padding:10px">
 
+</tr>
+</table>
 
