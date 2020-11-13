@@ -28,7 +28,7 @@
 1. Add a member function update() for OddBall (which will override the Ball's move() function) to move the odd balls, incrementing its current y position by 1 pixel to the bottom. Keep x position the same as it was when initialized. Make ball enter top of canvas when it leaves the bottom of canvas. Do NOT decrement the bLife - its lifetime in this case.  This ball will live forever.
 1. Lastly update the draw() function in the inheritance_practice tab to call the show() and update() functions for each ball.
 1. I wrote something similar yseterday, your output shoule be somewhat similar to this below.
-1. Please refer to the stusent-paced module [Unit 9a Inheritance & Encapsulation](https://docs.google.com/presentation/d/1APHiU8WDTsL6ll2f2R2uBWW79uEhsPXPJZxobfls5lM/edit#slide=id.p1) for help with code.
+1. Please refer to the student-paced module [Unit 9a Inheritance & Encapsulation](https://docs.google.com/presentation/d/1APHiU8WDTsL6ll2f2R2uBWW79uEhsPXPJZxobfls5lM/edit#slide=id.p1) for help with code.
 1. If you are still having trouble with this assignment and need help over the weekend, please [setup a conference using this SPECIAL WEEKEND link](https://calendly.com/chandru-narayan/wkend-evenings) and I can provide assistance.
 
 
