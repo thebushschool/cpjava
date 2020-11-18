@@ -20,9 +20,11 @@
 
    1. [Complete Inheritance Worksheet](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MjIyMjgxMjU1MzYy/details)
 
-   1. [Complete Doodads Practice Program](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MjIyMjgxMjU1NDA3/details)
+   1. [Complete the Wiggler Encapsulation Practice Program Slides 89-95](https://docs.google.com/presentation/d/1APHiU8WDTsL6ll2f2R2uBWW79uEhsPXPJZxobfls5lM/edit#slide=id.g4479a0a91b_8_223)
 
-   1. [Complete Thingies Practice Program](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MjIyMjgxMjU1NDgx/details)
+   1. [Complete Doodads Encapsulation Practice Program](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MjIyMjgxMjU1NDA3/details)
+
+   1. [Complete Thingies Encapsulation Practice Program](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MjIyMjgxMjU1NDgx/details)
 
 ## C. [Project Starfield](https://github.com/chandrunarayan/Starfield)
 For this project you will make a animation of moving through a starfield. It is very similar to viewing an exploding firework headon as the explosion ejects particles in a 3D sphere. We will do a simulation of this in our project in 2D. The detailed specification of this project is available to you at the link above.
