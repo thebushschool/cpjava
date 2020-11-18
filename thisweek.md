@@ -27,7 +27,7 @@
 ## C. [Project Starfield](https://github.com/chandrunarayan/Starfield)
 For this project you will make a animation of moving through a starfield. It is very similar to viewing an exploding firework headon as the explosion ejects particles in a 3D sphere. We will do a simulation of this in our project in 2D. The detailed specification of this project is available to you at the link above.
 
-## D. Additional Java Coding Practice (Optional - unless taking APCSA exam! HAve you applied for the exam?)
+## D. Additional Java Coding Practice (Optional - unless taking APCSA exam! Have you applied for the exam?)
 * Students taking the APCSA exam in May 2021 should be starting work on condingbat exercises.  Try your utmost to do the problems yourself without looking at the solution code.  This is important.
 * I recommend this for all students who might be interested or need additional help or clarification. You can look at the solution code available to help you along.
 * Make sure you have [completed all of the setup instructions Part 2 - #4 for codingbat](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MTI3MDIzMTA3OTY4/details). I believe you have done this already. 
@@ -36,7 +36,7 @@ For this project you will make a animation of moving through a starfield. It is 
 
     1. [Codingbat Practice Java Code for using Integers and Booleans](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MTk3NzI4NzgwMjYx/details)
     1. [Codingbat Practice Java Code for using Arrays](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MTk3NzI4NzgwNDYz/details)
-    1. Other codingbat being developed ...
+    1. Other codingbat exercises being developed ...
 
 ## E. For APCSA exam ** Units 1 2 3 4 & 5 instructional videos have been released! ** Access [College AP Daily Videos](https://apcentral.collegeboard.org/learning-development/ap-classroom/ap-daily) here. 
 
