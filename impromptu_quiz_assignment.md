@@ -40,8 +40,5 @@
     <img src="./giftable/balls.gif" align="left" alt="2" width = 400px>
   </td>
 
-<table style="padding:10px">
-
-</tr>
 </table>
 
