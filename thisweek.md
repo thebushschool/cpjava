@@ -11,7 +11,7 @@
 * Here we will learn about "evolution" of classes via extending a parent object to a child object - just like what you might observe in nature.
 * We will also study Accessor (getter) and Mutator (setter) methods that will allow view and modification of Object properties.
 
-## B. The following simple tasks below are all due BEFORE Thanksgiving break on Nov 24th. These tasks should take you about 10 minutes each to complete
+## B. The following simple tasks below are all due BEFORE Thanksgiving break on Nov 24th. These tasks should take you, on average, 15 minutes each to complete
 
    1. [Complete the Impromptu Quiz on Inheritance](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MjMxNDc5NzgxNTM5/details)
    This should already be complete! Did you submit your quiz as a Zip file to your Practice Repository?
