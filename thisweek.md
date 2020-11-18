@@ -2,6 +2,7 @@
 
 # What's happening in CPJava this week and next week (Nov 16th - Nov 27th) ??
 ## A. [Access Impromptu Quiz on Arrays of Objects and Inheritance - Due Nov 15th](impromptu_quiz_assignment.md)
+## Did you submit this as a Zip file to your Practice Repository ??
 
 ## Where are we ??
 ![alt text][wearehere]
