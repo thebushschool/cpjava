@@ -6,12 +6,18 @@
 ## Where are we ??
 ![alt text][wearehere]
 
-## A. We will make progress on Vectors and Physics by writing our first Java program on dropping weights on to a rough terrain
+## A. Where we left off before the Thanksgiving break
+* Learned about Inheritance (Parent-Child) using the "extends" keyword
+* Practiced using inheritance in the Wiggler program and Starfield Project
+* Learned about Encapsulation (Hiding) using public and private keywords
+* Practiced using encapsulation in the Dodads and Thingies programs
+* We learned to write getter and setter functions to expose provate objects to client programmers in a secure way
+* Learned the basics of Vectors and its applicability to simulation of real-world moving objects. We studied how to model movement using location, velocity and acceleration Vectors.
+* We are now READY to apply many of these concepts in our Final Asteroids Project for the Semester!
+* It will be an enhancement of the code that produces simulations below implementing Velocity, Acceleration, Force, and Mass (Newtonian Mechanics): 
 
-* Here we will learn about using Java ArrayList to create dynamic collections of objects and to iterate through them.
-* We will continue to complete our discussion on Inheritance and Encapsulation with the Protected keyword.
 
-## B. [Project Starfield](https://github.com/chandrunarayan/Starfield)
+## B. [Project Asteroids](https://github.com/chandrunarayan/Starfield)
 For this project you will make a animation of moving through a starfield. It is very similar to viewing an exploding firework headon as the explosion ejects particles in a 3D sphere. We will do a simulation of this in our project in 2D. The detailed specification of this project is available to you at the link above.
 
 
