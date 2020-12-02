@@ -14,8 +14,6 @@
 * We learned to write getter and setter functions to expose provate objects to client programmers in a secure way
 * Learned the basics of Vectors and its applicability to simulation of real-world moving objects. We studied how to model movement using location, velocity and acceleration Vectors.
 * We are now READY to apply many of these concepts in our Final Asteroids Project for the Semester!
-* It will be an enhancement of the code that produces simulations below implementing Velocity, Acceleration, Force, and Mass (Newtonian Mechanics): 
-
 
 ## B. [Project Asteroids](https://github.com/chandrunarayan/Starfield)
 For this project you will make a animation of moving through a starfield. It is very similar to viewing an exploding firework headon as the explosion ejects particles in a 3D sphere. We will do a simulation of this in our project in 2D. The detailed specification of this project is available to you at the link above.
