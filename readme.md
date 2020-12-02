@@ -2,9 +2,9 @@
 
 # [What's happening in CPJava until end of FallTerm! (Dec 1st - Dec 18th) ??](thisweek.md)
 
-| <a href="https://hannahrheajiang.github.io/Chemotaxis" target="_blank">Hannah - Butterfly Escape!</a> | <a href="https://RomanEmpire42.github.io/Chemotaxis" target="_blank">Roman - Particle Explosion</a> | <a href="https://izak-1.github.io/Chemotaxis/" target="_blank">Isaac - Bacteria Control</a>
+| <a href="https://GusCrowley.github.io/Starfield" target="_blank">Gus Starfield</a> | <a href="https://MizukiYates.github.io/Starfield" target="_blank">Mizuki Starfield</a> | <a href="https://chloeb777.github.io/Starfield" target="_blank">Chloe Starfield</a>
 | :--- | :--- | :--- |
-| ![alt text][hannahtaxis] | ![alt text][romantaxis] | ![alt text][isaactaxis]
+| ![alt text][gusstar] | ![alt text][mizukistar] | ![alt text][chloestar]
 
 ## [To see all Student Projects in action Click Here!](giftable.md)
 
@@ -273,3 +273,7 @@ This course draws from the book Building Java Programs: A Back to Basics Approac
 [romantaxis]: giftable/romantaxis.gif "romantaxis"
 [hannahtaxis]: giftable/hannahtaxis.gif "hannahtaxis"
 [isaactaxis]: giftable/isaactaxis.gif "isaactaxis"
+[gusstar]: giftable/gusstar.gif "gusstar"
+[mizukistar]: giftable/mizukistar.gif "mizukistar"
+[chloestar]: giftable/chloestar.gif "chloestar"
+[hannahstar]: giftable/hannahstar.gif "hannahstar"
