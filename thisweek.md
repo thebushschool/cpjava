@@ -8,17 +8,24 @@
 
 ## A. Where we left off before the Thanksgiving break
 * Learned about Inheritance (Parent-Child) using the "extends" keyword
-* Practiced using inheritance in the Wiggler program and Starfield Project
+* Practiced using Inheritance in the Wiggler program and Starfield Project
 * Learned about Encapsulation (Hiding) using public and private keywords
-* Practiced using encapsulation in the Dodads and Thingies programs
+* Practiced using Encapsulation in the Dodads and Thingies programs
 * We learned to write getter and setter functions to expose provate objects to client programmers in a secure way
 * Learned the basics of Vectors and its applicability to simulation of real-world moving objects. We studied how to model movement using location, velocity and acceleration Vectors.
 * We are now READY to apply many of these concepts in our Final Asteroids Project for the Semester!
-* We will complete Part 1 of this project by the end of this Semester.  We will pickup Part 2 when we return in 2021!
+* We will complete Part 1 of this project by the end of this Semester.  We will pickup Part 2 and Part 3 when we return in 2021!  
+* In Part 3 you will the Asteroid Game project classes to use the Vector class. You will also implement the ability to shoot asteroids from your Spaceship!
 * I Have prepared a 2-part presentation to help reinforce concepts above and introduce the application into the Asteroids project.  [Part1](https://docs.google.com/presentation/d/1HfHQTei9qgkBEBhNqUKqmAc6g2V3x8FDprajTp5IZuE/edit?usp=sharing)  and [Part2](https://docs.google.com/presentation/d/1pPeUvTAbIjtZYvfQIv54BDuunra8H6imO654amT6NI4/edit?usp=sharing) are linked here.
 
-## B. [Project Asteroids](https://github.com/chandrunarayan/AsteroidsGame)
-In this project we will start to replicate the old video game Asteroids. You will write a program that has a space ship that can be controlled by a player. The spaceship canbe navigated through a field of stars.  The spacehip enters an Asteroid field. The stars are stationary, the spaceship and the asteroid have very different movements. The player can navigate the spaceship throught he asteroid field and destroy them with a gun.  Part 1 of this project will create the Asteroid, Star, and Spaceship class where Asteroid and Spaceship are inherited from a top-level Floater class. Part 1 will also implement the movement of both Spaceship and Asteroid in addition to the rotation of Asteroids. Start this project by cloning the [AsteroidsGame Github repository linked here](https://github.com/chandrunarayan/AsteroidsGame).
+## B. [Project Asteroids](https://github.com/chandrunarayan/AsteroidsGame) in 3 parts
+In this project we will start to replicate the old video game Asteroids. You will write a program that has a space ship that can be controlled by a player. The spaceship canbe navigated through a field of stars.  The spacehip enters an Asteroid field. The stars are stationary, the spaceship and the asteroid have very different movements. The player can navigate the spaceship throught he asteroid field and destroy them with a gun.  
+
+In Part 1 of this project, you will create the Star and Spaceship class where Star and Spaceship are inherited from a top-level Floater class. Part 1 will also implement the stationary starfield and the movement of the Spaceship.
+
+In Part 2 you will implement the Asteroid class also as a child of the Floater class. In this class you will override the move() method of the parent class. This is called polymorphism. The Asteroid will rotate in addition to moving axcross the Starfield.
+
+Start Part 1 of this project by cloning the [AsteroidsGame Github repository linked here](https://github.com/chandrunarayan/AsteroidsGame).
 
 
 ## C. Additional Java Coding Practice (Optional - unless taking APCSA exam! Have you applied for the exam?)
