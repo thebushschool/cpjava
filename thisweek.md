@@ -16,7 +16,7 @@
 * We are now READY to apply many of these concepts in our Final Asteroids Project for the Semester!
 
 ## B. [Project Asteroids](https://github.com/chandrunarayan/Starfield)
-For this project you will make a animation of moving through a starfield. It is very similar to viewing an exploding firework headon as the explosion ejects particles in a 3D sphere. We will do a simulation of this in our project in 2D. The detailed specification of this project is available to you at the link above.
+In this project we will start to replicate the old video game Asteroids. You will write a program that has a space ship that can be controlled by a player. The spaceship canbe navigated through a field of stars.  The spacehip enters an Asteroid field. The stars are stationary, the spaceship and the asteroid have very different movements. The player can navigate the spaceship throught he asteroid field and destroy them with a gun.  Part 1 of this project will create the Asteroid, Star, and Spaceship class where Asteroid and Spaceship are inherited from a top-level Floater class. Part 1 will also implement the movement of both Spaceship and Asteroid in addition to the rotation of Asteroids. Start this poroject by cloning the [AsteroidsGame Github repository linked here](https://github.com/chandrunarayan/AsteroidsGame).
 
 
 ## C. Additional Java Coding Practice (Optional - unless taking APCSA exam! Have you applied for the exam?)
@@ -30,7 +30,7 @@ For this project you will make a animation of moving through a starfield. It is 
     1. [Codingbat Practice Java Code for using Arrays](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MTk3NzI4NzgwNDYz/details)
     1. Other codingbat exercises being developed ...
 
-## F. For APCSA exam ** Units 1 2 3 4 & 5 instructional videos have been released! ** Access [College AP Daily Videos](https://apcentral.collegeboard.org/learning-development/ap-classroom/ap-daily) here. 
+## D. For APCSA exam ** Units 1 2 3 4 & 5 instructional videos have been released! ** Access [College AP Daily Videos](https://apcentral.collegeboard.org/learning-development/ap-classroom/ap-daily) here. 
 
 
 ############################
