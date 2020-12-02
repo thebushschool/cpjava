@@ -2,6 +2,8 @@
 
 # What's happening in CPJava for the rest of this term! (Dec 1st - Dec 18th) ??
 
+## Almost done with Fall 2020 Semester!!
+![alt text][timeremaining]
 
 ## Where are we ??
 ![alt text][wearehere]
@@ -69,3 +71,4 @@ We will start our work on Part 1 of the Asteroid Project by cloning the [Asteroi
 # [What happened in CPJava previously? (Oct 5th - Oct 12th) ??](weekofoct5)
 
 [wearehere]: wearehere.png "wearehere"
+[timeremaining]: remaining.png "timeremaining"
