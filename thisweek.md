@@ -26,7 +26,7 @@ In this project we will start to replicate the old video game Asteroids. You wil
 
 We will start our work on Part 1 of the Asteroid Project by cloning the [AsteroidsGame Github repository linked here](https://github.com/chandrunarayan/AsteroidsGame).
 
-## C. [Project Asteroids](https://chandrunarayan.github.io/sketches/AsteroidsVariableDemo/) in 3 parts - Parts 2 and 3 to pickup n 2021!
+## C. [Project Asteroids](https://chandrunarayan.github.io/sketches/AsteroidsVariableDemo/) in 3 parts - Parts 2 and 3 to pickup 1 2021!
 
 * In Part 2 you will implement the `Asteroid` class also as a child of the `Floater` class. In these classes you will override the move() method of the parent class `Floater`. This is called polymorphism. The `Asteroid`s will rotate in addition to moving across the Starfield. 
 
