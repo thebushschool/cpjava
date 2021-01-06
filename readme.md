@@ -118,6 +118,8 @@ Students should register below, and the registration deadline is November 2, 202
 * [Unit 9c Asteroids Project Part 2](https://docs.google.com/presentation/d/1pPeUvTAbIjtZYvfQIv54BDuunra8H6imO654amT6NI4/edit?usp=sharing)
 * [Unit 9d Asteroids Project Part 3](https://docs.google.com/presentation/d/1eSpNZiI6WjTBA4Jn_s_0pSicocsRXhOUnGaTOms80CM/edit?usp=sharing)
 * [Vectors Introduction](https://docs.google.com/presentation/d/1H_v-gJwiZyaRqGt4j-gnPoGeW3QGNZEhcqAEEO4Nzf0/edit?usp=sharing)
+
+
 ### [Unit 1](lessons/unit1)  - 3-Weeks
 
 _Topics: Introduction to Java, Tools walkthrough, Classroom processes, Environment setup, Java Primitive types and Operators_
