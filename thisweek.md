@@ -14,13 +14,14 @@
 * Practiced using Encapsulation in the Dodads and Thingies programs
 * We learned to write getter and setter functions to expose provate objects to client programmers in a secure way
 * Learned the basics of Vectors and its applicability to simulation of real-world moving objects. We studied how to model movement using location, velocity and acceleration Vectors.
-* We are now READY to apply many of these concepts in our Final Asteroids Project for the Semester!
-* We completed Part 1 of this project by the end of this Semester.  We will pickup Part 2 and Part 3 when we return in 2021!  
-* I Have prepared a 2-part presentation to help reinforce concepts above and introduce the application into the Asteroids project.  [Part1](https://docs.google.com/presentation/d/1HfHQTei9qgkBEBhNqUKqmAc6g2V3x8FDprajTp5IZuE/edit?usp=sharing)  and [Part2](https://docs.google.com/presentation/d/1pPeUvTAbIjtZYvfQIv54BDuunra8H6imO654amT6NI4/edit?usp=sharing) helper presentations are linked here.
+* We completed Part 1 of this project at the end of this Semester.
+* We will pickup Part 2 and Part 3 when we return in 2021!  
 
-### B. Java ArrayList [Click here for presentation](https://docs.google.com/presentation/d/1cnaJQR97NmguD3ZGeLL-Rum8TVj_qA0wHxEyVr37K9s/edit#slide=id.p1)
+### B. Study Java ArrayList [Click here for presentation](https://docs.google.com/presentation/d/1cnaJQR97NmguD3ZGeLL-Rum8TVj_qA0wHxEyVr37K9s/edit#slide=id.p1)
 
 ### C. [Project Asteroids](https://chandrunarayan.github.io/sketches/AsteroidsVariableDemo/) in 3 parts - Parts 2 and 3!
+
+* I Have prepared a 2-part presentation to help reinforce concepts above and introduce the application into the Asteroids project.  [Part1](https://docs.google.com/presentation/d/1HfHQTei9qgkBEBhNqUKqmAc6g2V3x8FDprajTp5IZuE/edit?usp=sharing)  and [Part2](https://docs.google.com/presentation/d/1pPeUvTAbIjtZYvfQIv54BDuunra8H6imO654amT6NI4/edit?usp=sharing) helper presentations are linked here.
 
 * In Part 2 you will implement the `Asteroid` class also as a child of the `Floater` class. In these classes you will override the move() method of the parent class `Floater`. This is called polymorphism. The `Asteroid`s will rotate in addition to moving across the Starfield. 
 
