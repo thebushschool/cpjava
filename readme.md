@@ -89,50 +89,7 @@ We will be using the Paired Programming teams for team projects. ** Please provi
 * Roman, Isaac
 
 ### Team Stevens
-* Mark, Chandru
-
-## Student Project Websites
-The published Student Projects can be found below.
-
-### Lightning Project
-
-| Student | Link
-| :--- | :--- |
-| Gus | [https://GusCrowley.github.io/Lightning](https://GusCrowley.github.io/Lightning)
-| Sally | [https://SallyWolff.github.io/Drawing](https://SallyWolff.github.io/Drawing)
-| Chloe | [https://chloeb777.github.io/Lightning](https://chloeb777.github.io/Lightning)
-| Hannah | [https://hannahrheajiang.github.io/Lightning](https://hannahrheajiang.github.io/Lightning)
-| Isaac | [https://iZak-1.github.io/Lightning](https://iZak-1.github.io/Lightning)
-| Roman | [https://RomanEmpire42.github.io/Lightning](https://RomanEmpire42.github.io/Lightning)
-| Zubin | [https://zubeisanoob.github.io/Lightning](https://zubeisanoob.github.io/Lightning)
-| Mizuki | [https://MizukiYates.github.io/Lightning](https://MizukiYates.github.io/Lightning)
-
-
-### Dice Project
-
-| Student | Link
-| :--- | :--- |
-| Gus | [https://GusCrowley.github.io/Dice](https://GusCrowley.github.io/Dice)
-| Sally | [https://SallyWolff.github.io/Drawing](https://SallyWolff.github.io/Dice)
-| Chloe | [https://chloeb777.github.io/Dice](https://chloeb777.github.io/Dice)
-| Hannah | [https://hannahrheajiang.github.io/Dice](https://hannahrheajiang.github.io/Dice)
-| Isaac | [https://iZak-1.github.io/Dice](https://iZak-1.github.io/Dice)
-| Roman | [https://RomanEmpire42.github.io/Dice](https://RomanEmpire42.github.io/Dice)
-| Zubin | [https://zubeisanoob.github.io/Dice](https://zubeisanoob.github.io/Dice)
-| Mizuki | [https://MizukiYates.github.io/Dice](https://MizukiYates.github.io/Dice)
-
-### Chemotaxis Project
-
-| Student | Link
-| :--- | :--- |
-| Gus | [https://GusCrowley.github.io/Chemotaxis](https://GusCrowley.github.io/Chemotaxis)
-| Sally | [https://SallyWolff.github.io/Drawing](https://SallyWolff.github.io/Chemotaxis)
-| Chloe | [https://chloeb777.github.io/Chemotaxis](https://chloeb777.github.io/Chemotaxis)
-| Hannah | [https://hannahrheajiang.github.io/Chemotaxis](https://hannahrheajiang.github.io/Chemotaxis)
-| Isaac | [https://iZak-1.github.io/Chemotaxis](https://iZak-1.github.io/Chemotaxis)
-| Roman | [https://RomanEmpire42.github.io/Chemotaxis](https://RomanEmpire42.github.io/Chemotaxis)
-| Zubin | [https://zubeisanoob.github.io/Chemotaxis](https://zubeisanoob.github.io/Chemotaxis)
-| Mizuki | [https://MizukiYates.github.io/Chemotaxis](https://MizukiYates.github.io/Chemotaxis)
+* Mark, Ryan
 
 #
 ## APCSA Exam Spring 2020
