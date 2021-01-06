@@ -1,5 +1,7 @@
-[_Bush School CPJava Spring Semester 2021_](https://chandrunarayan.github.io/cpjava/)
-## [What's happening in CPJava first 2 weeks of 2021! (Jan 4th - Jan 15th) ??](thisweek.md)
+[_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
+
+## Please complete this [CPJava Mid-Year Course Retrospective](https://forms.gle/FJYRT7hN3gkM3ytX8) Survey.  This is first year of offering a Java class at Bush.  You have been an enthusiastic and excellent first class so far!  I would like to hear your thoughts on how things have gone so far. Any suggestions for improvement are also welcome.  It will help me improve this course and also to be a better teacher.  I would love to hear your thoughts and comments!
+# [What's happening in CPJava until end of FallTerm! (Dec 1st - Dec 18th) ??](thisweek.md)
 
 | <a href="https://GusCrowley.github.io/Starfield" target="_blank">Gus Starfield</a> | <a href="https://MizukiYates.github.io/Starfield" target="_blank">Mizuki Starfield</a> | <a href="https://chloeb777.github.io/Starfield" target="_blank">Chloe Starfield</a>
 | :--- | :--- | :--- |
@@ -9,7 +11,6 @@
 
 ## Bouncing Bubbles Model Java Program
 <a href="https://chandrunarayan.github.io/sketches/bubbles" target="blank">Click here for live code of bouncing bubbles and try clicking them inside resulting new tab or window. Like what you see? This course will be all about developing skills to simulate nature on your computer in a fun, engaging manner and learn Java on the side!</a>
-
 
 # CPJava - Computer Programming in Java Course
 
@@ -248,8 +249,6 @@ _Topics: Projects, Recursion, Recursive Search and Sort_
 _Topics: PEER SHARING - FINAL PROJECT PRESENTATION_
 
 * Class Work: Peer Sharing Final Project Presentations
-
-
 
 ## Course Credit
 
