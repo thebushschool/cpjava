@@ -104,15 +104,21 @@ Students should register below, and the registration deadline is November 2, 202
 
 ## Lessons FALL 2020  Sep - Dec 13-Weeks
 
-### Student Paced Sessions
+### Student Paced Sessions for Java Units
 * [Units 1 2 3 Consolidated Intro to Java Variables Operators Student Paced Sesssion](https://app.peardeck.com/student/tixodenzx)
 * [Units 4 5 Consolidated Loops Objects Student Paced Sesssion](https://docs.google.com/presentation/d/1SEB8hbirhy00kq0oxLhQX2xcyC_HvaIw35V8pq82INw/edit#slide=id.g97cdd6c7ea_0_0)
 * [Unit 6a Arrays Student Paced Sesssion](https://docs.google.com/presentation/d/16rYe06ohSndVfIjs3WSlVSaD_h0CjnMLGbMfvEbcggI/edit?usp=sharing)
 * [Unit 6b Arrays of Objects Student Paced Sesssion](https://docs.google.com/presentation/d/1bhgbqk9DAEzQG5ZFXYlGQ4CqQfVvieKUeOftVlC7P2Q/edit?usp=sharing)
 * [Unit 9a Inheritance & Encapsulation Student Paced Sesssion](https://docs.google.com/presentation/d/1APHiU8WDTsL6ll2f2R2uBWW79uEhsPXPJZxobfls5lM/edit?usp=sharing)
-* [Unit_misc Vectors](https://docs.google.com/presentation/d/1H_v-gJwiZyaRqGt4j-gnPoGeW3QGNZEhcqAEEO4Nzf0/edit?usp=sharing)
 * [Unit 6c Array List](https://docs.google.com/presentation/d/1cnaJQR97NmguD3ZGeLL-Rum8TVj_qA0wHxEyVr37K9s/edit?usp=sharing) 
 
+
+### Student Paced Sessions for Projects
+* [Unit 9b Asteroids Project Introduction](https://docs.google.com/presentation/d/1po9SvD-PYB4Ti9QDpc5ah4QT1h81w5V9Ou_b9JRcXqw/edit?usp=sharing)
+* [Unit 9c Asteroids Project Part 1](https://docs.google.com/presentation/d/1HfHQTei9qgkBEBhNqUKqmAc6g2V3x8FDprajTp5IZuE/edit?usp=sharing)
+* [Unit 9d Asteroids Project Part 2](https://docs.google.com/presentation/d/1pPeUvTAbIjtZYvfQIv54BDuunra8H6imO654amT6NI4/edit?usp=sharing)
+* [Unit 9e Asteroids Project Part 3](https://docs.google.com/presentation/d/1eSpNZiI6WjTBA4Jn_s_0pSicocsRXhOUnGaTOms80CM/edit?usp=sharing)
+* [Vectors Introduction](https://docs.google.com/presentation/d/1H_v-gJwiZyaRqGt4j-gnPoGeW3QGNZEhcqAEEO4Nzf0/edit?usp=sharing)
 ### [Unit 1](lessons/unit1)  - 3-Weeks
 
 _Topics: Introduction to Java, Tools walkthrough, Classroom processes, Environment setup, Java Primitive types and Operators_
