@@ -17,7 +17,9 @@
 
 ### C. [Project Asteroids](https://chandrunarayan.github.io/sketches/AsteroidsVariableDemo/) in 3 parts:
 
-* I Have prepared a 3-part presentation to help reinforce concepts above and introduce the application into the Asteroids project.  [Part1](https://docs.google.com/presentation/d/1HfHQTei9qgkBEBhNqUKqmAc6g2V3x8FDprajTp5IZuE/edit?usp=sharing), [Part2](https://docs.google.com/presentation/d/1pPeUvTAbIjtZYvfQIv54BDuunra8H6imO654amT6NI4/edit?usp=sharing) and [Part3](https://docs.google.com/presentation/d/1eSpNZiI6WjTBA4Jn_s_0pSicocsRXhOUnGaTOms80CM/edit?usp=sharing) helper presentations are linked here.
+* I Have prepared a 3-part presentation to help reinforce concepts above and introduce the application into the Asteroids project.  
+* [Part1](https://docs.google.com/presentation/d/1HfHQTei9qgkBEBhNqUKqmAc6g2V3x8FDprajTp5IZuE/edit?usp=sharing), [Part2](https://docs.google.com/presentation/d/1pPeUvTAbIjtZYvfQIv54BDuunra8H6imO654amT6NI4/edit?usp=sharing) and [Part3](https://docs.google.com/presentation/d/1eSpNZiI6WjTBA4Jn_s_0pSicocsRXhOUnGaTOms80CM/edit?usp=sharing) helper presentations are linked here.
+* [Part1 Repo](https://github.com/chandrunarayan/AsteroidsGame), [Part2 Repo](https://github.com/chandrunarayan/AsteroidsPart2) and [Part3 Repo](https://github.com/chandrunarayan/AsteroidsPart3) Github repositories are linked here.
 * Part 1 establishes the base `Floater` class and the child `Spaceship` class. It also defines keyboard actions to move, rotate, and hyperspace the `Spaceship`. 
 * In Part 2 you will implement the `Asteroid` class also as a child of the `Floater` class. In these classes you will override the move() method of the parent class `Floater`. This is called polymorphism. The `Asteroid`s will rotate in addition to moving across the Starfield. 
 
