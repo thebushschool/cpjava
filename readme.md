@@ -3,6 +3,9 @@
 
 ## [What's happening in CPJava next 2 weeks (Jan 25th - Feb 12th) ??](thisweek.md)
 
+## Mizuki's Asteroids Part 2 submission
+<iframe width="500" height="522" src="https://www.loom.com/embed/9dd09e1e7d494f938b3bb69d87187782" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 ## Chloe's Asteroids Part 2 submission
 <iframe width="600" height="622" src="https://www.loom.com/embed/784cd96e2011402e90450717f0e62c1d" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
