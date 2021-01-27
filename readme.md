@@ -1,10 +1,6 @@
 [_Bush School CPJava Spring Semester 2021_](https://chandrunarayan.github.io/cpjava/)
 ## [What's happening in CPJava next 2 weeks (Jan 25th - Feb 12th) ??](thisweek.md)
 
-| <a href="https://GusCrowley.github.io/Starfield" target="_blank">Gus Starfield</a> | <a href="https://MizukiYates.github.io/Starfield" target="_blank">Mizuki Starfield</a> | <a href="https://chloeb777.github.io/Starfield" target="_blank">Chloe Starfield</a>
-| :--- | :--- | :--- |
-| ![alt text][gusstar] | ![alt text][mizukistar] | ![alt text][chloestar]
-
 ## [To see all Student Projects in action Click Here!](giftable.md)
 
 ## Bouncing Bubbles Model Java Program
@@ -12,7 +8,6 @@
 <a href="https://chandrunarayan.github.io/sketches/bubbles" target="blank">
 
 Click here for live code of bouncing bubbles and try clicking them inside resulting new tab or window. Like what you see? This course will be all about developing skills to simulate nature on your computer in a fun, engaging manner and learn Java on the side!</a>
-
 
 # CPJava - Computer Programming in Java Course
 
