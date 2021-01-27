@@ -114,7 +114,7 @@ Students should register below, and the registration deadline is November 2, 202
 * [Unit 6b Arrays of Objects Student Paced Sesssion](https://docs.google.com/presentation/d/1bhgbqk9DAEzQG5ZFXYlGQ4CqQfVvieKUeOftVlC7P2Q/edit?usp=sharing)
 * [Unit 9a Inheritance & Encapsulation Student Paced Sesssion](https://docs.google.com/presentation/d/1APHiU8WDTsL6ll2f2R2uBWW79uEhsPXPJZxobfls5lM/edit?usp=sharing)
 * [Unit 6c Array List Student Paced Sesssion](https://docs.google.com/presentation/d/1cnaJQR97NmguD3ZGeLL-Rum8TVj_qA0wHxEyVr37K9s/edit?usp=sharing) 
-
+* [Unit 6d For Each Loop Student Paced Sesssion](https://docs.google.com/presentation/d/1NTMFNzH-FB3Pfsnozkuu4lYZre3WNNLI6eAyzpNOJg8/edit#slide=id.p1)
 
 ### Student Paced Sessions for Projects
 * [Unit 9b Asteroids Project Part 1](https://docs.google.com/presentation/d/1HfHQTei9qgkBEBhNqUKqmAc6g2V3x8FDprajTp5IZuE/edit?usp=sharing)

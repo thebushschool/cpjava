@@ -12,8 +12,10 @@
 * Practiced Polymorphism by overlloading and overriding methods from parent classes in the Asteroids program
 * We completed Part 1 of this project at the end of this Semester.
 * We will pickup Part 2 and Part 3 when we return in 2021!  
+* Discuss For Each or "enhanced for" loops
 
 ### B. Study Java ArrayList [Click here for presentation](https://docs.google.com/presentation/d/1cnaJQR97NmguD3ZGeLL-Rum8TVj_qA0wHxEyVr37K9s/edit#slide=id.p1)
+* [For Each Loop Presentation](https://docs.google.com/presentation/d/1NTMFNzH-FB3Pfsnozkuu4lYZre3WNNLI6eAyzpNOJg8/edit#slide=id.p1)
 
 ### C. [Project Asteroids](https://chandrunarayan.github.io/sketches/AsteroidsVariableDemo/) in 3 parts:
 
