@@ -74,21 +74,21 @@ We will use this method of learning sparingly, reserved for difficult topics tha
 ![alt text][schoolwork]
 
 ## Paired Programming Teams
-We will be using the Paired Programming teams for team projects. ** Please provide me the Github Account usernames that you created a few weeks ago **.  The Paired Programming projects will be published at this location.  I have updated paired programming teams for the 2nd-term also keeping in mind the students taking the APCSA exam.
+We will be using the Paired Programming teams for team projects. ** Please provide me the Github Account usernames that you created a few weeks ago **.  The Paired Programming projects will be published at this location.  I have updated paired programming teams for the 2nd-term also keeping in mind the students remote/on-campus students and those taking the APCSA exam.
 
-### Team Baker
-* Chloe, Zubin
+### Team Baker (on-campus & apcsa)
+* Chloe, Gus, Mizuki
+ 
+### Team Rainier (remote & apcsa)
+* Hannah, Ryan, Zubin
 
-### Team Rainier
-* Hannah, Ryan
+### Team Hood (remote)
+* Gus, Sally
 
-### Team Hood
-* Gus, Sally, Mizuki
-
-### Team St Helens
+### Team St Helens (remote)
 * Roman, Isaac
 
-### Team Stevens
+### Team Stevens (on-campus)
 * Mark, Chandru
 
 #
