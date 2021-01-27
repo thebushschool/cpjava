@@ -8,12 +8,8 @@
 ![alt text](BSDS_H.png)
 
 ### A. Where we left off before orientation week
-* Learned about Inheritance (Parent-Child) using the "extends" keyword
-* Practiced using Inheritance in the Wiggler program and Starfield Project
-* Learned about Encapsulation (Hiding) using public and private keywords
-* Practiced using Encapsulation in the Dodads and Thingies programs
-* We learned to write getter and setter functions to expose provate objects to client programmers in a secure way
-* Learned the basics of Vectors and its applicability to simulation of real-world moving objects. We studied how to model movement using location, velocity and acceleration Vectors.
+* Practiced Encapsulation (Hiding) using public, protected and private keywords in the Asteroids program
+* Practiced Polymorphism by overlloading and overriding methods from parent classes in the Asteroids program
 * We completed Part 1 of this project at the end of this Semester.
 * We will pickup Part 2 and Part 3 when we return in 2021!  
 
