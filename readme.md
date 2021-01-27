@@ -1,5 +1,10 @@
 [_Bush School CPJava Spring Semester 2021_](https://chandrunarayan.github.io/cpjava/)
+
+
 ## [What's happening in CPJava next 2 weeks (Jan 25th - Feb 12th) ??](thisweek.md)
+
+## Chloe's Asteroids Part 2 submission
+<div style="position: relative; padding-bottom: 103.66666666666666%; height: 0;"><iframe src="https://www.loom.com/embed/784cd96e2011402e90450717f0e62c1d" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> 
 
 ## [To see all Student Projects in action Click Here!](giftable.md)
 
