@@ -7,7 +7,7 @@
 ![alt text](BSDS_R.png)
 ![alt text](BSDS_H.png)
 
-### A. Where we left off last year
+### A. Where we left off before orientation week
 * Learned about Inheritance (Parent-Child) using the "extends" keyword
 * Practiced using Inheritance in the Wiggler program and Starfield Project
 * Learned about Encapsulation (Hiding) using public and private keywords
@@ -34,6 +34,11 @@
 ### E. For APCSA exam ** Units 1 2 3 4 5 6 & 7 instructional videos have been released! ** Access [College AP Daily Videos](https://apcentral.collegeboard.org/learning-development/ap-classroom/ap-daily) here. 
 
 ### F. Previously ...
+############################
+############################
+
+### [What happened in CPJava previously? (Dec 1st - Dec 18th) ??](weekofjan4)
+
 ############################
 ############################
 
