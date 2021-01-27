@@ -1,6 +1,6 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
-## What's happening in CPJava for the first 2 weeks of Spring 2021! (Jan 4th - Jan 15th) ??
+## What's happening in CPJava for the first 2 weeks of Spring 2021! (Jan 25th - Feb 12th) ??
 
 ### Where are we ??
 ![alt text][wearehere]
