@@ -27,13 +27,13 @@
 ### D. Additional Java Coding Practice (Optional - unless taking APCSA exam! Have you applied for the exam?)
 * New Codingbat exercises being developed ...
 
-### E. For APCSA exam ** Units 1 2 3 4 5 6 & 7 instructional videos have been released! ** Access [College AP Daily Videos](https://apcentral.collegeboard.org/learning-development/ap-classroom/ap-daily) here. 
+### E. For APCSA exam ** Units 1 2 3 4 5 6 & 7 instructional videos have been released! ** Access [College AP Daily Videos](https://apcentral.collegeboard.org/courses/ap-computer-science-a/classroom-resources?course=ap-computer-science-a) here. 
 
 ### F. Previously ...
 ############################
 ############################
 
-### [What happened in CPJava previously? (Dec 1st - Dec 18th) ??](weekofjan4)
+### [What happened in CPJava previously? (Jan 4th - Jan 15th) ??](weekofjan4)
 
 ############################
 ############################
