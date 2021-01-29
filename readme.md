@@ -3,6 +3,14 @@
 
 ## [What's happening in CPJava next 3 weeks (Jan 25th - Feb 12th) ??](thisweek.md)
 
+### On-Campus Schedule
+
+### [Assigned Spaces Link](https://docs.google.com/spreadsheets/d/1taYUBJNivBvYH6h_1XqmnzDTka0KgZ4yjGY0q9Czyt8/edit#gid=1176101705)
+![alt text](BSDS_H.png)
+### Remote Schedule
+![alt text](BSDS_R.png)
+
+
 ## Mizuki's Asteroids Part 2 submission
 <iframe width="500" height="522" src="https://www.loom.com/embed/9dd09e1e7d494f938b3bb69d87187782" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
