@@ -2,11 +2,6 @@
 
 ## What's happening in CPJava for the next 3 weeks of Spring 2021! (Jan 25th - Feb 12th) ??
 
-### Where are we ??
-![alt text][wearehere]
-![alt text](BSDS_R.png)
-![alt text](BSDS_H.png)
-
 ### A. Where we left off before orientation week
 * Practiced Encapsulation (Hiding) using public, protected and private keywords in the Asteroids program
 * Practiced Polymorphism by overlloading and overriding methods from parent classes in the Asteroids program
@@ -14,7 +9,8 @@
 * We will pickup Part 2 and Part 3 when we return in 2021!  
 * Discuss For Each or "enhanced for" loops
 
-### B. Study Java ArrayList [Click here for presentation](https://docs.google.com/presentation/d/1cnaJQR97NmguD3ZGeLL-Rum8TVj_qA0wHxEyVr37K9s/edit#slide=id.p1)
+### B. Study Java ArrayList 
+* [Arraylist Presentation](https://docs.google.com/presentation/d/1cnaJQR97NmguD3ZGeLL-Rum8TVj_qA0wHxEyVr37K9s/edit#slide=id.p1)
 * [For Each Loop Presentation](https://docs.google.com/presentation/d/1NTMFNzH-FB3Pfsnozkuu4lYZre3WNNLI6eAyzpNOJg8/edit#slide=id.p1)
 
 ### C. [Project Asteroids](https://chandrunarayan.github.io/sketches/AsteroidsVariableDemo/) in 3 parts:
