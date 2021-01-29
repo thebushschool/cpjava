@@ -1,6 +1,6 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
-## What's happening in CPJava for the first 2 weeks of Spring 2021! (Jan 25th - Feb 12th) ??
+## What's happening in CPJava for the next 3 weeks of Spring 2021! (Jan 25th - Feb 12th) ??
 
 ### Where are we ??
 ![alt text][wearehere]
@@ -25,7 +25,7 @@
 * Part 1 establishes the base `Floater` class and the child `Spaceship` class. It also defines keyboard actions to move, rotate, and hyperspace the `Spaceship`. 
 * In Part 2 you will implement the `Asteroid` class also as a child of the `Floater` class. In these classes you will override the move() method of the parent class `Floater`. This is called polymorphism. The `Asteroid`s will rotate in addition to moving across the Starfield. 
 
-* In Part 3, you will also create the `Bullet` class. You will also implement the ability to shoot asteroids from your Spaceship! The `Bullet`s will move in a straight line to the `Asteroid` to demolish it (or miss it!). For explosion effects, you will create a generic `Particle` class which can be used for the `Spaceship` exhaust and explosion of the `Asteroid`. Finally, will convert all of the Asteroid Game project classes to use the `Vector` class.
+* In Part 3, you will also create the `Bullet` class. You will also implement the ability to shoot asteroids from your Spaceship! The `Bullet`s will move in a straight line to the `Asteroid` to demolish it (or miss it!). For explosion effects, you will create a generic `Particle` class which can be used for the `Spaceship` exhaust and explosion of the `Asteroid`. Finally and time permitting, will convert all of the Asteroid Game project classes to use the `Vector` class.
 
 
 ### D. Additional Java Coding Practice (Optional - unless taking APCSA exam! Have you applied for the exam?)

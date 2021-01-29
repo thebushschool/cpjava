@@ -1,7 +1,7 @@
 [_Bush School CPJava Spring Semester 2021_](https://chandrunarayan.github.io/cpjava/)
 
 
-## [What's happening in CPJava next 2 weeks (Jan 25th - Feb 12th) ??](thisweek.md)
+## [What's happening in CPJava next 3 weeks (Jan 25th - Feb 12th) ??](thisweek.md)
 
 ## Mizuki's Asteroids Part 2 submission
 <iframe width="500" height="522" src="https://www.loom.com/embed/9dd09e1e7d494f938b3bb69d87187782" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
@@ -80,13 +80,13 @@ We will use this method of learning sparingly, reserved for difficult topics tha
 We will be using the Paired Programming teams for team projects. ** Please provide me the Github Account usernames that you created a few weeks ago **.  The Paired Programming projects will be published at this location.  I have updated paired programming teams for the 2nd-term also keeping in mind the students remote/on-campus students and those taking the APCSA exam.
 
 ### Team Baker (on-campus & apcsa)
-* Chloe, Gus, Mizuki
+* Chloe, Zubin
  
 ### Team Rainier (remote & apcsa)
-* Hannah, Ryan, Zubin
+* Hannah, Ryan
 
 ### Team Hood (remote)
-* Gus, Sally
+* Gus, Sally, Mizuki
 
 ### Team St Helens (remote)
 * Roman, Isaac
