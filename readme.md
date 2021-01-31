@@ -95,7 +95,8 @@ We will be using the Paired Programming teams for team projects. ** Please provi
 ### Team Stevens (on-campus)
 * Mark, Chandru
 
-#
+## Lesson Schedule
+
 ## APCSA Exam Spring 2020
 
 [APCSA exam will be held on Friday, May 15th 1:00 PM Pacific Time](https://apcoronavirusupdates.collegeboard.org/educators/taking-the-exams/ap-exam-schedule)
@@ -124,15 +125,17 @@ Students should register below, and the registration deadline is November 2, 202
 * [Vectors Introduction](https://docs.google.com/presentation/d/1H_v-gJwiZyaRqGt4j-gnPoGeW3QGNZEhcqAEEO4Nzf0/edit?usp=sharing)
 
 ### Processing Project Specification Repositories
-[Lightning Project](https://github.com/chandrunarayan/Lightning)
-[Dice Project](https://github.com/chandrunarayan/Dice)
-[Chemotaxis Project](https://github.com/chandrunarayan/Chemotaxis)
-[Starfield Project](https://github.com/chandrunarayan/Starfield)
-[Asteroids Part 1 Project](https://github.com/chandrunarayan/AsteroidsGame)
-[Asteroids Part 2 Project](https://github.com/chandrunarayan/AsteroidsPart2)
-[Asteroids Part 3 Project](https://github.com/chandrunarayan/AsteroidsPart3)
-[Google Billboard Project](https://github.com/chandrunarayan/GoogleBillboard)
-[Piglatin Project](https://github.com/chandrunarayan/Piglatin)
+* [Lightning Project](https://github.com/chandrunarayan/Lightning)
+* [Dice Project](https://github.com/chandrunarayan/Dice)
+* [Chemotaxis Project](https://github.com/chandrunarayan/Chemotaxis)
+* [Starfield Project](https://github.com/chandrunarayan/Starfield)
+* [Asteroids Part 1 Project](https://github.com/chandrunarayan/AsteroidsGame)
+* [Asteroids Part 2 Project](https://github.com/chandrunarayan/AsteroidsPart2)
+* [Asteroids Part 3 Project](https://github.com/chandrunarayan/AsteroidsPart3)
+* [Google Billboard Project](https://github.com/chandrunarayan/GoogleBillboard)
+* [Piglatin Project](https://github.com/chandrunarayan/Piglatin)
+
+### Codingbat Practice Topics
 
 ### [Archived Lessons](archived_lessons.md)
 
