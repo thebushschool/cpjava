@@ -117,6 +117,8 @@ Students should register below, and the registration deadline is November 2, 202
 
 ### Student Paced Sessions for Java Units
 * [Units 1 2 3 Consolidated Intro to Java Variables Operators Student Paced Sesssion](https://app.peardeck.com/student/tixodenzx)
+* [Unit 2a String Objects & Methods and Google Billboard Project](https://drive.google.com/open?id=1H9tzGeTWetjzUz1G450NGxbEO5xZl3BvacfkFWsvWRE&authuser=0)
+* [Unit 2b String Objects & Methods and Piglatin Project](https://drive.google.com/open?id=1XLlg2WK9z2RQoCVq5l0EaKquK1Mhw4WYbfshck_Rujw&authuser=0)
 * [Units 4 5 Consolidated Loops Objects Student Paced Sesssion](https://docs.google.com/presentation/d/1SEB8hbirhy00kq0oxLhQX2xcyC_HvaIw35V8pq82INw/edit#slide=id.g97cdd6c7ea_0_0)
 * [Unit 6a Arrays Student Paced Sesssion](https://docs.google.com/presentation/d/16rYe06ohSndVfIjs3WSlVSaD_h0CjnMLGbMfvEbcggI/edit?usp=sharing)
 * [Unit 6b Arrays of Objects Student Paced Sesssion](https://docs.google.com/presentation/d/1bhgbqk9DAEzQG5ZFXYlGQ4CqQfVvieKUeOftVlC7P2Q/edit?usp=sharing)
@@ -144,7 +146,7 @@ This course draws from the book Building Java Programs: A Back to Basics Approac
 [crayon]: crayon.gif "crayon"
 [idice]: idice.gif "idice"
 [bubbles]: https://chandrunarayan.github.io/sketches/bubbles/ "bubbles"
-[schedule]: src/schedule.png
+[schedule]: src/CPJava_Schedule_bw.png
 [schoolwork]: schoolwork.png
 [guslight]: giftable/gus2.gif "guslight"
 [romanlight]: giftable/roman2.gif "romanlight"
