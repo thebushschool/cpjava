@@ -97,17 +97,7 @@ We will be using the Paired Programming teams for team projects. ** Please provi
 
 ## Lesson Schedule
 
-## APCSA Exam Spring 2020
-
-[APCSA exam will be held on Friday, May 15th 1:00 PM Pacific Time](https://apcoronavirusupdates.collegeboard.org/educators/taking-the-exams/ap-exam-schedule)
-
-Registration is now open for AP exams, which are scheduled for May of 2021. While Bush does not offer the College Board Advanced Placement® curriculum, some courses do prepare students for the content on the exams. These exams are not required or even recommended for admission to U.S. colleges. The most common reasons students would take AP exams are to satisfy entry requirements for some international universities and the possibility of earning college credit with a score of 4 or 5. 
- 
-Students should register below, and the registration deadline is November 2, 2020. Students should check with their college counselor or teacher if they have questions about whether a course’s content aligns with the corresponding AP exam.
-
-* [Click Here to REGISTER - BUSH SCHOOL HAS A SPECIAL REGISTRATION SITE](https://bush.myschoolapp.com/app/pushpage/TrackPushPageEmail?s=409&snd=c92c364e-455c-423b-aeed-22e62ca564bf&url=0BC61006759208B9B17622DF9FDF43938A774A78322CD835AFA0739F73777143&lbl=here)
-
-### Student Paced Sessions for Java Units
+## Student Paced Sessions for Java Units
 * [Units 1 2 3 Consolidated Intro to Java Variables Operators Student Paced Sesssion](https://app.peardeck.com/student/tixodenzx)
 * [Unit 2a String Objects & Methods and Google Billboard Project](https://drive.google.com/open?id=1H9tzGeTWetjzUz1G450NGxbEO5xZl3BvacfkFWsvWRE&authuser=0)
 * [Unit 2b String Objects & Methods and Piglatin Project](https://drive.google.com/open?id=1XLlg2WK9z2RQoCVq5l0EaKquK1Mhw4WYbfshck_Rujw&authuser=0)
@@ -118,13 +108,13 @@ Students should register below, and the registration deadline is November 2, 202
 * [Unit 6c Array List Student Paced Sesssion](https://docs.google.com/presentation/d/1cnaJQR97NmguD3ZGeLL-Rum8TVj_qA0wHxEyVr37K9s/edit?usp=sharing) 
 * [Unit 6d For Each Loop Student Paced Sesssion](https://docs.google.com/presentation/d/1NTMFNzH-FB3Pfsnozkuu4lYZre3WNNLI6eAyzpNOJg8/edit#slide=id.p1)
 
-### Student Paced Sessions for Projects
+## Student Paced Sessions for Projects
 * [Unit 9b Asteroids Project Part 1](https://docs.google.com/presentation/d/1HfHQTei9qgkBEBhNqUKqmAc6g2V3x8FDprajTp5IZuE/edit?usp=sharing)
 * [Unit 9c Asteroids Project Part 2](https://docs.google.com/presentation/d/1pPeUvTAbIjtZYvfQIv54BDuunra8H6imO654amT6NI4/edit?usp=sharing)
 * [Unit 9d Asteroids Project Part 3](https://docs.google.com/presentation/d/1eSpNZiI6WjTBA4Jn_s_0pSicocsRXhOUnGaTOms80CM/edit?usp=sharing)
 * [Vectors Introduction](https://docs.google.com/presentation/d/1H_v-gJwiZyaRqGt4j-gnPoGeW3QGNZEhcqAEEO4Nzf0/edit?usp=sharing)
 
-### Processing Project Specification Repositories
+## Processing Project Specification & Repositories
 * [Lightning Project](https://github.com/chandrunarayan/Lightning)
 * [Dice Project](https://github.com/chandrunarayan/Dice)
 * [Chemotaxis Project](https://github.com/chandrunarayan/Chemotaxis)
@@ -135,7 +125,17 @@ Students should register below, and the registration deadline is November 2, 202
 * [Google Billboard Project](https://github.com/chandrunarayan/GoogleBillboard)
 * [Piglatin Project](https://github.com/chandrunarayan/Piglatin)
 
-### Codingbat Practice Topics
+## Codingbat Practice Topics
+
+## APCSA Exam Spring 2020
+
+[APCSA exam will be held on Friday, May 15th 1:00 PM Pacific Time](https://apcoronavirusupdates.collegeboard.org/educators/taking-the-exams/ap-exam-schedule)
+
+Registration is now open for AP exams, which are scheduled for May of 2021. While Bush does not offer the College Board Advanced Placement® curriculum, some courses do prepare students for the content on the exams. These exams are not required or even recommended for admission to U.S. colleges. The most common reasons students would take AP exams are to satisfy entry requirements for some international universities and the possibility of earning college credit with a score of 4 or 5. 
+ 
+Students should register below, and the registration deadline is November 2, 2020. Students should check with their college counselor or teacher if they have questions about whether a course’s content aligns with the corresponding AP exam.
+
+* [Click Here to REGISTER - BUSH SCHOOL HAS A SPECIAL REGISTRATION SITE](https://bush.myschoolapp.com/app/pushpage/TrackPushPageEmail?s=409&snd=c92c364e-455c-423b-aeed-22e62ca564bf&url=0BC61006759208B9B17622DF9FDF43938A774A78322CD835AFA0739F73777143&lbl=here)
 
 ### [Archived Lessons](archived_lessons.md)
 
