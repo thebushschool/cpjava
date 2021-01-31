@@ -126,8 +126,9 @@ We will be using the Paired Programming teams for team projects. ** Please provi
 * [Piglatin Project](https://github.com/chandrunarayan/Piglatin)
 
 ## Codingbat Practice Topics
+Make sure you login to codingbat with your username before attempting problem sets
 
-| Week | Topic | Codingbat
+| Week | Topic | Codingbat Problemset
 | :--- | :--- | :--- |
 | Week | Primitives | [Primitives](https://codingbat.com/home/chandru.narayan@bush.edu/intbool1)
 | Week | Functions | [Functions1](https://codingbat.com/home/chandru.narayan@bush.edu/functions1) [Functions2](https://codingbat.com/home/chandru.narayan@bush.edu/functions2) [Functions3](https://codingbat.com/home/chandru.narayan@bush.edu/functions3)
