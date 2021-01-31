@@ -132,6 +132,17 @@ Students should register below, and the registration deadline is November 2, 202
 * [Unit 9d Asteroids Project Part 3](https://docs.google.com/presentation/d/1eSpNZiI6WjTBA4Jn_s_0pSicocsRXhOUnGaTOms80CM/edit?usp=sharing)
 * [Vectors Introduction](https://docs.google.com/presentation/d/1H_v-gJwiZyaRqGt4j-gnPoGeW3QGNZEhcqAEEO4Nzf0/edit?usp=sharing)
 
+### Processing Project Specification Repositories
+[Lightning Project](https://github.com/chandrunarayan/Lightning)
+[Dice Project](https://github.com/chandrunarayan/Dice)
+[Chemotaxis Project](https://github.com/chandrunarayan/Chemotaxis)
+[Starfield Project](https://github.com/chandrunarayan/Starfield)
+[Asteroids Part 1 Project](https://github.com/chandrunarayan/AsteroidsGame)
+[Asteroids Part 2 Project](https://github.com/chandrunarayan/AsteroidsPart2)
+[Asteroids Part 3 Project](https://github.com/chandrunarayan/AsteroidsPart3)
+[Google Billboard Project](https://github.com/chandrunarayan/GoogleBillboard)
+[Piglatin Project](https://github.com/chandrunarayan/Piglatin)
+
 ### [Archived Lessons](archived_lessons.md)
 
 ## Course Credit
