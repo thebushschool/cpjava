@@ -10,13 +10,6 @@
 ### Remote Schedule
 ![alt text](BSDS_R.png)
 
-
-## Mizuki's Asteroids Part 2 submission
-<iframe width="500" height="522" src="https://www.loom.com/embed/9dd09e1e7d494f938b3bb69d87187782" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-## Chloe's Asteroids Part 2 submission
-<iframe width="600" height="622" src="https://www.loom.com/embed/784cd96e2011402e90450717f0e62c1d" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
 ## [To see all Student Projects in action Click Here!](giftable.md)
 
 ## Bouncing Bubbles Model Java Program
@@ -112,8 +105,6 @@ Registration is now open for AP exams, which are scheduled for May of 2021. Whil
 Students should register below, and the registration deadline is November 2, 2020. Students should check with their college counselor or teacher if they have questions about whether a course’s content aligns with the corresponding AP exam.
 
 * [Click Here to REGISTER - BUSH SCHOOL HAS A SPECIAL REGISTRATION SITE](https://bush.myschoolapp.com/app/pushpage/TrackPushPageEmail?s=409&snd=c92c364e-455c-423b-aeed-22e62ca564bf&url=0BC61006759208B9B17622DF9FDF43938A774A78322CD835AFA0739F73777143&lbl=here)
-
-## Lessons FALL 2020  Sep - Dec 13-Weeks
 
 ### Student Paced Sessions for Java Units
 * [Units 1 2 3 Consolidated Intro to Java Variables Operators Student Paced Sesssion](https://app.peardeck.com/student/tixodenzx)

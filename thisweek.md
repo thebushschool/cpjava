@@ -25,7 +25,7 @@
 
 
 ### D. Additional Java Coding Practice (Optional - unless taking APCSA exam! Have you applied for the exam?)
-* New Codingbat exercises being developed ...
+* Codingbat schedule
 
 ### E. For APCSA exam ** Units 1 2 3 4 5 6 & 7 instructional videos have been released! ** Access [College AP Daily Videos](https://apcentral.collegeboard.org/courses/ap-computer-science-a/classroom-resources?course=ap-computer-science-a) here. 
 

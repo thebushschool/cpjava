@@ -1,3 +1,5 @@
+## Lessons FALL 2020  Sep - Dec 13-Weeks
+
 ### [Unit 1](lessons/unit1)  - 3-Weeks
 
 _Topics: Introduction to Java, Tools walkthrough, Classroom processes, Environment setup, Java Primitive types and Operators_
