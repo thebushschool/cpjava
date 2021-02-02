@@ -24,8 +24,25 @@
 * In Part 3, you will also create the `Bullet` class. You will also implement the ability to shoot asteroids from your Spaceship! The `Bullet`s will move in a straight line to the `Asteroid` to demolish it (or miss it!). For explosion effects, you will create a generic `Particle` class which can be used for the `Spaceship` exhaust and explosion of the `Asteroid`. Finally and time permitting, will convert all of the Asteroid Game project classes to use the `Vector` class.
 
 
-### D. Additional Java Coding Practice (Optional - unless taking APCSA exam! Have you applied for the exam?)
-* Codingbat schedule
+### D. Additional Java Practice Codingbat - important for those taking APCSA exam 
+* Make sure you login to codingbat with your username before attempting problem sets
+
+
+    | Sequence | Topic | Codingbat Problemset
+    | :--- | :--- | :--- |
+    | 1 | Primitives | [Primitives](https://codingbat.com/home/chandru.narayan@bush.edu/intbool1)
+    | 2 | Functions | [Functions1](https://codingbat.com/home/chandru.narayan@bush.edu/functions1) [Functions2](https://codingbat.com/home/chandru.narayan@bush.edu/functions2) [Functions3](https://codingbat.com/home/chandru.narayan@bush.edu/functions3)
+    | 3 | Arrays | [Arrays1](https://codingbat.com/home/chandru.narayan@bush.edu/arrays1) [Arrays2](https://codingbat.com/home/chandru.narayan@bush.edu/arrays2) [Arrays3](https://codingbat.com/home/chandru.narayan@bush.edu/arrays3) [Arrays4](https://codingbat.com/home/chandru.narayan@bush.edu/arrays4)
+    | 4 | Array List | [ArrayList1](https://codingbat.com/home/chandru.narayan@bush.edu/arraylist1) [ArrayList2](https://codingbat.com/home/chandru.narayan@bush.edu/arraylist2) [ArrayList3](https://codingbat.com/home/chandru.narayan@bush.edu/arraylist3)
+    | 5 | Fall Review | [FallReview1](https://codingbat.com/home/chandru.narayan@bush.edu/fallreview1) [FallReview2](https://codingbat.com/home/chandru.narayan@bush.edu/fallreview2)
+    | 6 | Google Billboard | [Googlebillboard](https://codingbat.com/home/chandru.narayan@bush.edu/googlebillboard)
+    | 7 | Piglatin | [Piglatin](https://codingbat.com/home/chandru.narayan@bush.edu/piglatin)
+    | 8 | String | [String1](https://codingbat.com/home/chandru.narayan@bush.edu/string1) [String2](https://codingbat.com/home/chandru.narayan@bush.edu/string2) [String3](https://codingbat.com/home/chandru.narayan@bush.edu/string3)
+    | 9 | Palindrome | [Palindrome](https://codingbat.com/home/chandru.narayan@bush.edu/palindrome)
+    | 10 | Minesweeper | [Minesweeper](https://codingbat.com/home/chandru.narayan@bush.edu/minesweeper)
+    | 11 | Recursion | [Recursion1](https://codingbat.com/home/chandru.narayan@bush.edu/recursion1) [Recursion2](https://codingbat.com/home/chandru.narayan@bush.edu/recursion2) [Recursion3](https://codingbat.com/home/chandru.narayan@bush.edu/recursion3)
+    | 12 | Searching | [Searching1](https://codingbat.com/home/chandru.narayan@bush.edu/searching1) [Searching2](https://codingbat.com/home/chandru.narayan@bush.edu/searching2)
+    | 13 | Sorting | [Sorting](https://codingbat.com/home/chandru.narayan@bush.edu/sorting)
 
 ### E. For APCSA exam ** Units 1 2 3 4 5 6 & 7 instructional videos have been released! ** Access [College AP Daily Videos](https://apcentral.collegeboard.org/courses/ap-computer-science-a/classroom-resources?course=ap-computer-science-a) here. 
 

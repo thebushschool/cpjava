@@ -5,14 +5,16 @@
 
 ### On-Campus Schedule
 
-* [Daily Health Screening before Campus Arrival](https://forms.office.com/Pages/ResponsePage.aspx?id=a1889x_4-0Ob0n7ko0Og-VAn6i3AlVpLnGArk2hPCDFUNVFFUVlMWEk0Sk9DMUpPVkg3WllRVVRYOC4u)
+  * [Daily Health Screening before Campus Arrival](https://forms.office.com/Pages/ResponsePage.aspx?id=a1889x_4-0Ob0n7ko0Og-VAn6i3AlVpLnGArk2hPCDFUNVFFUVlMWEk0Sk9DMUpPVkg3WllRVVRYOC4u)
 
-* [Assigned Spaces Link](https://docs.google.com/spreadsheets/d/1taYUBJNivBvYH6h_1XqmnzDTka0KgZ4yjGY0q9Czyt8/edit#gid=1176101705)
+  * [Assigned Spaces Link](https://docs.google.com/spreadsheets/d/1taYUBJNivBvYH6h_1XqmnzDTka0KgZ4yjGY0q9Czyt8/edit#gid=1176101705)
 
-* [Lunch Assignments & Remote Students](https://docs.google.com/spreadsheets/d/1h0JPVNZdF9SK1j_pnrARk2tfXUhV39mZtkg4kYzWlfg/edit?ts=60183d8a#gid=1459610782)
+  * [Lunch Assignments & Remote Students](https://docs.google.com/spreadsheets/d/1h0JPVNZdF9SK1j_pnrARk2tfXUhV39mZtkg4kYzWlfg/edit?ts=60183d8a#gid=1459610782)
+
 ![alt text](BSDS_H.png)
 
 ### Remote Schedule
+
 ![alt text](BSDS_R.png)
 
 ## [To see all Student Projects in action Click Here!](giftable.md)
@@ -110,13 +112,13 @@ We will be using the Paired Programming teams for team projects. ** Please provi
 * [Unit 6a Arrays Student Paced Sesssion](https://docs.google.com/presentation/d/16rYe06ohSndVfIjs3WSlVSaD_h0CjnMLGbMfvEbcggI/edit?usp=sharing)
 * [Unit 6b Arrays of Objects Student Paced Sesssion](https://docs.google.com/presentation/d/1bhgbqk9DAEzQG5ZFXYlGQ4CqQfVvieKUeOftVlC7P2Q/edit?usp=sharing)
 * [Unit 9a Inheritance & Encapsulation Student Paced Sesssion](https://docs.google.com/presentation/d/1APHiU8WDTsL6ll2f2R2uBWW79uEhsPXPJZxobfls5lM/edit?usp=sharing)
-* **New* [Unit 6c Array List Student Paced Sesssion](https://docs.google.com/presentation/d/1cnaJQR97NmguD3ZGeLL-Rum8TVj_qA0wHxEyVr37K9s/edit?usp=sharing) 
+* [Unit 6c Array List Student Paced Sesssion](https://docs.google.com/presentation/d/1cnaJQR97NmguD3ZGeLL-Rum8TVj_qA0wHxEyVr37K9s/edit?usp=sharing) 
 * **New* [Unit 6d For Each Loop Student Paced Sesssion](https://docs.google.com/presentation/d/1NTMFNzH-FB3Pfsnozkuu4lYZre3WNNLI6eAyzpNOJg8/edit#slide=id.p1)
 
 ## Student Paced Sessions for Projects
 * [Unit 9b Asteroids Project Part 1](https://docs.google.com/presentation/d/1HfHQTei9qgkBEBhNqUKqmAc6g2V3x8FDprajTp5IZuE/edit?usp=sharing)
 * [Unit 9c Asteroids Project Part 2](https://docs.google.com/presentation/d/1pPeUvTAbIjtZYvfQIv54BDuunra8H6imO654amT6NI4/edit?usp=sharing)
-* **New* [Unit 9d Asteroids Project Final Part 3](https://docs.google.com/presentation/d/1eSpNZiI6WjTBA4Jn_s_0pSicocsRXhOUnGaTOms80CM/edit?usp=sharing)
+* [Unit 9d Asteroids Project Final Part 3](https://docs.google.com/presentation/d/1eSpNZiI6WjTBA4Jn_s_0pSicocsRXhOUnGaTOms80CM/edit?usp=sharing)
 * [Vectors Introduction](https://docs.google.com/presentation/d/1H_v-gJwiZyaRqGt4j-gnPoGeW3QGNZEhcqAEEO4Nzf0/edit?usp=sharing)
 
 ## Processing Project Specification & Repositories
@@ -126,28 +128,28 @@ We will be using the Paired Programming teams for team projects. ** Please provi
 * [Starfield Project](https://github.com/chandrunarayan/Starfield)
 * [Asteroids Part 1 Project](https://github.com/chandrunarayan/AsteroidsGame)
 * [Asteroids Part 2 Project](https://github.com/chandrunarayan/AsteroidsPart2)
-* **New* [Asteroids Part 3 Project](https://github.com/chandrunarayan/AsteroidsPart3)
+* [Asteroids Part 3 Project](https://github.com/chandrunarayan/AsteroidsPart3)
 * **New* [Google Billboard Project](https://github.com/chandrunarayan/GoogleBillboard)
 * **New* [Piglatin Project](https://github.com/chandrunarayan/Piglatin)
 
 ##  **New* Codingbat Practice Topics
 Make sure you login to codingbat with your username before attempting problem sets
 
-| Week | Topic | Codingbat Problemset
+| Sequence | Topic | Codingbat Problemset
 | :--- | :--- | :--- |
-| Week | Primitives | [Primitives](https://codingbat.com/home/chandru.narayan@bush.edu/intbool1)
-| Week | Functions | [Functions1](https://codingbat.com/home/chandru.narayan@bush.edu/functions1) [Functions2](https://codingbat.com/home/chandru.narayan@bush.edu/functions2) [Functions3](https://codingbat.com/home/chandru.narayan@bush.edu/functions3)
-| Week | Arrays | [Arrays1](https://codingbat.com/home/chandru.narayan@bush.edu/arrays1) [Arrays2](https://codingbat.com/home/chandru.narayan@bush.edu/arrays2) [Arrays3](https://codingbat.com/home/chandru.narayan@bush.edu/arrays3) [Arrays4](https://codingbat.com/home/chandru.narayan@bush.edu/arrays4)
-| Week | Array List | [ArrayList1](https://codingbat.com/home/chandru.narayan@bush.edu/arraylist1) [ArrayList2](https://codingbat.com/home/chandru.narayan@bush.edu/arraylist2) [ArrayList3](https://codingbat.com/home/chandru.narayan@bush.edu/arraylist3)
-| Week | Fall Review | [FallReview1](https://codingbat.com/home/chandru.narayan@bush.edu/fallreview1) [FallReview2](https://codingbat.com/home/chandru.narayan@bush.edu/fallreview2)
-| Week | Google Billboard | [Googlebillboard](https://codingbat.com/home/chandru.narayan@bush.edu/googlebillboard)
-| Week | Piglatin | [Piglatin](https://codingbat.com/home/chandru.narayan@bush.edu/piglatin)
-| Week | String | [String1](https://codingbat.com/home/chandru.narayan@bush.edu/string1) [String2](https://codingbat.com/home/chandru.narayan@bush.edu/string2) [String3](https://codingbat.com/home/chandru.narayan@bush.edu/string3)
-| Week | Palindrome | [Palindrome](https://codingbat.com/home/chandru.narayan@bush.edu/palindrome)
-| Week | Minesweeper | [Minesweeper](https://codingbat.com/home/chandru.narayan@bush.edu/minesweeper)
-| Week | Recursion | [Recursion1](https://codingbat.com/home/chandru.narayan@bush.edu/recursion1) [Recursion2](https://codingbat.com/home/chandru.narayan@bush.edu/recursion2) [Recursion3](https://codingbat.com/home/chandru.narayan@bush.edu/recursion3)
-| Week | Searching | [Searching1](https://codingbat.com/home/chandru.narayan@bush.edu/searching1) [Searching2](https://codingbat.com/home/chandru.narayan@bush.edu/searching2)
-| Week | Sorting | [Sorting](https://codingbat.com/home/chandru.narayan@bush.edu/sorting)
+| 1 | Primitives | [Primitives](https://codingbat.com/home/chandru.narayan@bush.edu/intbool1)
+| 2 | Functions | [Functions1](https://codingbat.com/home/chandru.narayan@bush.edu/functions1) [Functions2](https://codingbat.com/home/chandru.narayan@bush.edu/functions2) [Functions3](https://codingbat.com/home/chandru.narayan@bush.edu/functions3)
+| 3 | Arrays | [Arrays1](https://codingbat.com/home/chandru.narayan@bush.edu/arrays1) [Arrays2](https://codingbat.com/home/chandru.narayan@bush.edu/arrays2) [Arrays3](https://codingbat.com/home/chandru.narayan@bush.edu/arrays3) [Arrays4](https://codingbat.com/home/chandru.narayan@bush.edu/arrays4)
+| 4 | Array List | [ArrayList1](https://codingbat.com/home/chandru.narayan@bush.edu/arraylist1) [ArrayList2](https://codingbat.com/home/chandru.narayan@bush.edu/arraylist2) [ArrayList3](https://codingbat.com/home/chandru.narayan@bush.edu/arraylist3)
+| 5 | Fall Review | [FallReview1](https://codingbat.com/home/chandru.narayan@bush.edu/fallreview1) [FallReview2](https://codingbat.com/home/chandru.narayan@bush.edu/fallreview2)
+| 6 | Google Billboard | [Googlebillboard](https://codingbat.com/home/chandru.narayan@bush.edu/googlebillboard)
+| 7 | Piglatin | [Piglatin](https://codingbat.com/home/chandru.narayan@bush.edu/piglatin)
+| 8 | String | [String1](https://codingbat.com/home/chandru.narayan@bush.edu/string1) [String2](https://codingbat.com/home/chandru.narayan@bush.edu/string2) [String3](https://codingbat.com/home/chandru.narayan@bush.edu/string3)
+| 9 | Palindrome | [Palindrome](https://codingbat.com/home/chandru.narayan@bush.edu/palindrome)
+| 10 | Minesweeper | [Minesweeper](https://codingbat.com/home/chandru.narayan@bush.edu/minesweeper)
+| 11 | Recursion | [Recursion1](https://codingbat.com/home/chandru.narayan@bush.edu/recursion1) [Recursion2](https://codingbat.com/home/chandru.narayan@bush.edu/recursion2) [Recursion3](https://codingbat.com/home/chandru.narayan@bush.edu/recursion3)
+| 12 | Searching | [Searching1](https://codingbat.com/home/chandru.narayan@bush.edu/searching1) [Searching2](https://codingbat.com/home/chandru.narayan@bush.edu/searching2)
+| 13 | Sorting | [Sorting](https://codingbat.com/home/chandru.narayan@bush.edu/sorting)
 
 ## APCSA Exam Spring 2020
 
