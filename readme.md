@@ -131,6 +131,7 @@ We will be using the Paired Programming teams for team projects. ** Please provi
 * [Asteroids Part 3 Project](https://github.com/chandrunarayan/AsteroidsPart3)
 * **New* [Google Billboard Project](https://github.com/chandrunarayan/GoogleBillboard)
 * **New* [Piglatin Project](https://github.com/chandrunarayan/Piglatin)
+* **New* [Palindrome Checker Project](https://github.com/chandrunarayan/PalindromeChecker)
 
 ##  **New* Codingbat Practice Topics
 Make sure you login to codingbat with your username before attempting problem sets
