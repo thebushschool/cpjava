@@ -1,21 +1,9 @@
 [_Bush School CPJava Spring Semester 2021_](https://chandrunarayan.github.io/cpjava/)
+## [What's happening in CPJava first 2 weeks of 2021! (Jan 4th - Jan 15th) ??](thisweek.md)
 
-
-## [What's happening in CPJava next 3 weeks (Jan 25th - Feb 12th) ??](thisweek.md)
-
-### On-Campus Schedule
-
-  * [Daily Health Screening before Campus Arrival](https://forms.office.com/Pages/ResponsePage.aspx?id=a1889x_4-0Ob0n7ko0Og-VAn6i3AlVpLnGArk2hPCDFUNVFFUVlMWEk0Sk9DMUpPVkg3WllRVVRYOC4u)
-
-  * [Assigned Spaces Link](https://docs.google.com/spreadsheets/d/1taYUBJNivBvYH6h_1XqmnzDTka0KgZ4yjGY0q9Czyt8/edit#gid=1176101705)
-
-  * [Lunch Assignments & Remote Students](https://docs.google.com/spreadsheets/d/1h0JPVNZdF9SK1j_pnrARk2tfXUhV39mZtkg4kYzWlfg/edit?ts=60183d8a#gid=1459610782)
-
-![alt text](BSDS_H.png)
-
-### Remote Schedule
-
-![alt text](BSDS_R.png)
+| <a href="https://GusCrowley.github.io/Starfield" target="_blank">Gus Starfield</a> | <a href="https://MizukiYates.github.io/Starfield" target="_blank">Mizuki Starfield</a> | <a href="https://chloeb777.github.io/Starfield" target="_blank">Chloe Starfield</a>
+| :--- | :--- | :--- |
+| ![alt text][gusstar] | ![alt text][mizukistar] | ![alt text][chloestar]
 
 ## [To see all Student Projects in action Click Here!](giftable.md)
 
@@ -24,6 +12,7 @@
 <a href="https://chandrunarayan.github.io/sketches/bubbles" target="blank">
 
 Click here for live code of bouncing bubbles and try clicking them inside resulting new tab or window. Like what you see? This course will be all about developing skills to simulate nature on your computer in a fun, engaging manner and learn Java on the side!</a>
+
 
 # CPJava - Computer Programming in Java Course
 
@@ -85,73 +74,24 @@ We will use this method of learning sparingly, reserved for difficult topics tha
 ![alt text][schoolwork]
 
 ## Paired Programming Teams
-We will be using the Paired Programming teams for team projects. ** Please provide me the Github Account usernames that you created a few weeks ago **.  The Paired Programming projects will be published at this location.  I have updated paired programming teams for the 2nd-term also keeping in mind the students remote/on-campus students and those taking the APCSA exam.
+We will be using the Paired Programming teams for team projects. ** Please provide me the Github Account usernames that you created a few weeks ago **.  The Paired Programming projects will be published at this location.  I have updated paired programming teams for the 2nd-term also keeping in mind the students taking the APCSA exam.
 
-### Team Baker (on-campus & apcsa)
+### Team Baker
 * Chloe, Zubin
- 
-### Team Rainier (remote & apcsa)
+
+### Team Rainier
 * Hannah, Ryan
 
-### Team Hood (remote)
+### Team Hood
 * Gus, Sally, Mizuki
 
-### Team St Helens (remote)
+### Team St Helens
 * Roman, Isaac
 
-### Team Stevens (on-campus)
+### Team Stevens
 * Mark, Chandru
 
-## Lesson Schedule
-
-## Student Paced Sessions for Java Units
-* [Units 1 2 3 Consolidated Intro to Java Variables Operators Student Paced Sesssion](https://app.peardeck.com/student/tixodenzx)
-* **New* [Unit 2a String Objects & Methods and Google Billboard Project](https://drive.google.com/open?id=1H9tzGeTWetjzUz1G450NGxbEO5xZl3BvacfkFWsvWRE&authuser=0)
-* **New* [Unit 2b String Methods & Pointers and Piglatin Project](https://drive.google.com/open?id=1XLlg2WK9z2RQoCVq5l0EaKquK1Mhw4WYbfshck_Rujw&authuser=0)
-* [Units 4 5 Consolidated Loops Objects Student Paced Sesssion](https://docs.google.com/presentation/d/1SEB8hbirhy00kq0oxLhQX2xcyC_HvaIw35V8pq82INw/edit#slide=id.g97cdd6c7ea_0_0)
-* [Unit 6a Arrays Student Paced Sesssion](https://docs.google.com/presentation/d/16rYe06ohSndVfIjs3WSlVSaD_h0CjnMLGbMfvEbcggI/edit?usp=sharing)
-* [Unit 6b Arrays of Objects Student Paced Sesssion](https://docs.google.com/presentation/d/1bhgbqk9DAEzQG5ZFXYlGQ4CqQfVvieKUeOftVlC7P2Q/edit?usp=sharing)
-* [Unit 9a Inheritance & Encapsulation Student Paced Sesssion](https://docs.google.com/presentation/d/1APHiU8WDTsL6ll2f2R2uBWW79uEhsPXPJZxobfls5lM/edit?usp=sharing)
-* [Unit 6c Array List Student Paced Sesssion](https://docs.google.com/presentation/d/1cnaJQR97NmguD3ZGeLL-Rum8TVj_qA0wHxEyVr37K9s/edit?usp=sharing) 
-* **New* [Unit 6d For Each Loop Student Paced Sesssion](https://docs.google.com/presentation/d/1NTMFNzH-FB3Pfsnozkuu4lYZre3WNNLI6eAyzpNOJg8/edit#slide=id.p1)
-
-## Student Paced Sessions for Projects
-* [Unit 9b Asteroids Project Part 1](https://docs.google.com/presentation/d/1HfHQTei9qgkBEBhNqUKqmAc6g2V3x8FDprajTp5IZuE/edit?usp=sharing)
-* [Unit 9c Asteroids Project Part 2](https://docs.google.com/presentation/d/1pPeUvTAbIjtZYvfQIv54BDuunra8H6imO654amT6NI4/edit?usp=sharing)
-* [Unit 9d Asteroids Project Final Part 3](https://docs.google.com/presentation/d/1eSpNZiI6WjTBA4Jn_s_0pSicocsRXhOUnGaTOms80CM/edit?usp=sharing)
-* [Vectors Introduction](https://docs.google.com/presentation/d/1H_v-gJwiZyaRqGt4j-gnPoGeW3QGNZEhcqAEEO4Nzf0/edit?usp=sharing)
-
-## Processing Project Specification & Repositories
-* [Lightning Project](https://github.com/chandrunarayan/Lightning)
-* [Dice Project](https://github.com/chandrunarayan/Dice)
-* [Chemotaxis Project](https://github.com/chandrunarayan/Chemotaxis)
-* [Starfield Project](https://github.com/chandrunarayan/Starfield)
-* [Asteroids Part 1 Project](https://github.com/chandrunarayan/AsteroidsGame)
-* [Asteroids Part 2 Project](https://github.com/chandrunarayan/AsteroidsPart2)
-* [Asteroids Part 3 Project](https://github.com/chandrunarayan/AsteroidsPart3)
-* **New* [Google Billboard Project](https://github.com/chandrunarayan/GoogleBillboard)
-* **New* [Piglatin Project](https://github.com/chandrunarayan/Piglatin)
-* **New* [Palindrome Checker Project](https://github.com/chandrunarayan/PalindromeChecker)
-
-##  **New* Codingbat Practice Topics
-Make sure you login to codingbat with your username before attempting problem sets
-
-| Sequence | Topic | Codingbat Problemset
-| :--- | :--- | :--- |
-| 1 | Primitives | [Primitives](https://codingbat.com/home/chandru.narayan@bush.edu/intbool1)
-| 2 | Functions | [Functions1](https://codingbat.com/home/chandru.narayan@bush.edu/functions1) [Functions2](https://codingbat.com/home/chandru.narayan@bush.edu/functions2) [Functions3](https://codingbat.com/home/chandru.narayan@bush.edu/functions3)
-| 3 | Arrays | [Arrays1](https://codingbat.com/home/chandru.narayan@bush.edu/arrays1) [Arrays2](https://codingbat.com/home/chandru.narayan@bush.edu/arrays2) [Arrays3](https://codingbat.com/home/chandru.narayan@bush.edu/arrays3) [Arrays4](https://codingbat.com/home/chandru.narayan@bush.edu/arrays4)
-| 4 | Array List | [ArrayList1](https://codingbat.com/home/chandru.narayan@bush.edu/arraylist1) [ArrayList2](https://codingbat.com/home/chandru.narayan@bush.edu/arraylist2) [ArrayList3](https://codingbat.com/home/chandru.narayan@bush.edu/arraylist3)
-| 5 | Fall Review | [FallReview1](https://codingbat.com/home/chandru.narayan@bush.edu/fallreview1) [FallReview2](https://codingbat.com/home/chandru.narayan@bush.edu/fallreview2)
-| 6 | Google Billboard | [Googlebillboard](https://codingbat.com/home/chandru.narayan@bush.edu/googlebillboard)
-| 7 | Piglatin | [Piglatin](https://codingbat.com/home/chandru.narayan@bush.edu/piglatin)
-| 8 | String | [String1](https://codingbat.com/home/chandru.narayan@bush.edu/string1) [String2](https://codingbat.com/home/chandru.narayan@bush.edu/string2) [String3](https://codingbat.com/home/chandru.narayan@bush.edu/string3)
-| 9 | Palindrome | [Palindrome](https://codingbat.com/home/chandru.narayan@bush.edu/palindrome)
-| 10 | Minesweeper | [Minesweeper](https://codingbat.com/home/chandru.narayan@bush.edu/minesweeper)
-| 11 | Recursion | [Recursion1](https://codingbat.com/home/chandru.narayan@bush.edu/recursion1) [Recursion2](https://codingbat.com/home/chandru.narayan@bush.edu/recursion2) [Recursion3](https://codingbat.com/home/chandru.narayan@bush.edu/recursion3)
-| 12 | Searching | [Searching1](https://codingbat.com/home/chandru.narayan@bush.edu/searching1) [Searching2](https://codingbat.com/home/chandru.narayan@bush.edu/searching2)
-| 13 | Sorting | [Sorting](https://codingbat.com/home/chandru.narayan@bush.edu/sorting)
-
+#
 ## APCSA Exam Spring 2020
 
 [APCSA exam will be held on Friday, May 15th 1:00 PM Pacific Time](https://apcoronavirusupdates.collegeboard.org/educators/taking-the-exams/ap-exam-schedule)
@@ -162,7 +102,126 @@ Students should register below, and the registration deadline is November 2, 202
 
 * [Click Here to REGISTER - BUSH SCHOOL HAS A SPECIAL REGISTRATION SITE](https://bush.myschoolapp.com/app/pushpage/TrackPushPageEmail?s=409&snd=c92c364e-455c-423b-aeed-22e62ca564bf&url=0BC61006759208B9B17622DF9FDF43938A774A78322CD835AFA0739F73777143&lbl=here)
 
-### [Archived Lessons](archived_lessons.md)
+## Lessons FALL 2020  Sep - Dec 13-Weeks
+
+### Student Paced Sessions for Java Units
+* [Units 1 2 3 Consolidated Intro to Java Variables Operators Student Paced Sesssion](https://app.peardeck.com/student/tixodenzx)
+* [Units 4 5 Consolidated Loops Objects Student Paced Sesssion](https://docs.google.com/presentation/d/1SEB8hbirhy00kq0oxLhQX2xcyC_HvaIw35V8pq82INw/edit#slide=id.g97cdd6c7ea_0_0)
+* [Unit 6a Arrays Student Paced Sesssion](https://docs.google.com/presentation/d/16rYe06ohSndVfIjs3WSlVSaD_h0CjnMLGbMfvEbcggI/edit?usp=sharing)
+* [Unit 6b Arrays of Objects Student Paced Sesssion](https://docs.google.com/presentation/d/1bhgbqk9DAEzQG5ZFXYlGQ4CqQfVvieKUeOftVlC7P2Q/edit?usp=sharing)
+* [Unit 9a Inheritance & Encapsulation Student Paced Sesssion](https://docs.google.com/presentation/d/1APHiU8WDTsL6ll2f2R2uBWW79uEhsPXPJZxobfls5lM/edit?usp=sharing)
+* [Unit 6c Array List Student Paced Sesssion](https://docs.google.com/presentation/d/1cnaJQR97NmguD3ZGeLL-Rum8TVj_qA0wHxEyVr37K9s/edit?usp=sharing) 
+
+
+### Student Paced Sessions for Projects
+* [Unit 9b Asteroids Project Part 1](https://docs.google.com/presentation/d/1HfHQTei9qgkBEBhNqUKqmAc6g2V3x8FDprajTp5IZuE/edit?usp=sharing)
+* [Unit 9c Asteroids Project Part 2](https://docs.google.com/presentation/d/1pPeUvTAbIjtZYvfQIv54BDuunra8H6imO654amT6NI4/edit?usp=sharing)
+* [Unit 9d Asteroids Project Part 3](https://docs.google.com/presentation/d/1eSpNZiI6WjTBA4Jn_s_0pSicocsRXhOUnGaTOms80CM/edit?usp=sharing)
+* [Vectors Introduction](https://docs.google.com/presentation/d/1H_v-gJwiZyaRqGt4j-gnPoGeW3QGNZEhcqAEEO4Nzf0/edit?usp=sharing)
+
+
+### [Unit 1](lessons/unit1)  - 3-Weeks
+
+_Topics: Introduction to Java, Tools walkthrough, Classroom processes, Environment setup, Java Primitive types and Operators_
+
+* [Overview](lessons/unit1)
+* [Lessons](lessons/unit1/lectures.md)
+* [Exercises](lessons/unit1/exercises.md)
+* [Projects](lessons/unit1/projects.md)
+
+### [Unit 2](lessons/unit2)  - 2-Weeks
+
+_Topics: Objects, Methods, String, Integer, Double, Math_
+
+* [Overview](lessons/unit2)
+* [Lessons](lessons/unit2/lectures.md)
+* [Exercises](lessons/unit2/exercises.md)
+* [Projects](lessons/unit2/projects.md)
+
+### [Unit 3](lessons/unit3)  - 2-Weeks
+
+_Topics: Control flow, Booleans, If statements, Object traversals_
+
+* [Overview](lessons/unit3)
+* [Lessons](lessons/unit3/lectures.md)
+* Exercises Consolidated with Unit 2 Exercises
+* Projects Consolidated with Unit 2 Projects
+
+### [Unit 4](lessons/unit4)  - 3-Weeks
+
+_Topics: Iteration, While loops, For loops, Nested Loops, Loop Analysis_
+
+* [Overview](lessons/unit4)
+* [Lessons](lessons/unit4/lectures.md)
+* [Exercises](lessons/unit4/exercises.md)
+* [Projects](lessons/unit4/projects.md)
+
+### [Unit 5](lessons/unit5)  - 3-Weeks
+
+_Topics: Anatomy of a class, Constructor, Accessor, Mutator Methods, this keyword, Social Impact of CS_
+
+* [Overview](lessons/unit5)
+* [Lessons](lessons/unit5/lectures.md)
+* Exercises Consolidated with Unit 4 Exercises
+* Projects Consolidated with Unit 4 Projects
+
+## Lessons SPRING 2021 Jan - May 14-Weeks
+
+### [Unit 6](lessons/unit6)  - 3-Weeks
+
+_Topics: Arrays, Array Lists, Array Traversal_
+
+* [Overview](lessons/unit6)
+* [Lessons](lessons/unit6/lectures.md)
+* [Exercises TBD]()
+* [Projects TBD]()
+
+### [Unit 7](lessons/unit7) - 3-Weeks
+
+_Topics: Searching Sorting Algorithms, Ethics of Data Collection, Privacy_
+
+* [Overview](lessons/unit7)
+* [Lessons](lessons/unit7/lectures.md)
+* [Exercises TBD]()
+* [Projects TBD]()
+
+
+### [Unit 8](lessons/unit8)  - 2-Weeks
+
+_Topics: 2D Arrays, Traversal_
+
+* [Overview](lessons/unit8)
+* [Lessons](lessons/unit8/lectures.md)
+* [Exercises TBD]()
+* [Projects TBD]()
+
+
+### [Unit 9](lessons/unit9)  - 3-Weeks
+
+_Topics: Projects, Inheritance, Encapsulation, Hierarchy, Polymorphism_
+
+* [Overview](lessons/unit9)
+* [Lessons](lessons/unit9/lectures.md)
+* [Exercises TBD]()
+* [Projects TBD]()
+
+
+### [Unit 10](lessons/unit10) - 2-Weeks
+
+_Topics: Projects, Recursion, Recursive Search and Sort_
+
+* [Overview](lessons/unit10)
+* [Lessons](lessons/unit10/lectures.md)
+* [Exercises TBD]()
+* [Projects TBD]()
+
+### [Unit 11](lessons/unit10) - 1-Week
+
+_Topics: PEER SHARING - FINAL PROJECT PRESENTATION_
+
+* Class Work: Peer Sharing Final Project Presentations
+
+
 
 ## Course Credit
 
@@ -176,7 +235,7 @@ This course draws from the book Building Java Programs: A Back to Basics Approac
 [crayon]: crayon.gif "crayon"
 [idice]: idice.gif "idice"
 [bubbles]: https://chandrunarayan.github.io/sketches/bubbles/ "bubbles"
-[schedule]: src/CPJava_Schedule_bw.png
+[schedule]: src/schedule.png
 [schoolwork]: schoolwork.png
 [guslight]: giftable/gus2.gif "guslight"
 [romanlight]: giftable/roman2.gif "romanlight"

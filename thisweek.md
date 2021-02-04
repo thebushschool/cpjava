@@ -1,38 +1,57 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
-## What's happening in CPJava for the first 2 weeks of Spring 2021! (Jan 4th - Jan 15th) ??
+## What's happening in CPJava for the next 3 weeks of Spring 2021! (Jan 25th - Feb 12th) ??
 
-### Where are we ??
-![alt text][wearehere]
-![alt text](BSDS_R.png)
-![alt text](BSDS_H.png)
+### A. Where we left off before orientation week
+* Practiced Encapsulation (Hiding) using public, protected and private keywords in the Asteroids program
+* Practiced Polymorphism by overlloading and overriding methods from parent classes in the Asteroids program
+* We completed Part 1 of this project at the end of this Semester.
+* We will pickup Part 2 and Part 3 when we return in 2021!  
+* Discuss For Each or "enhanced for" loops
 
-### A. Where we left off last year
-* Learned about Inheritance (Parent-Child) using the "extends" keyword
-* Practiced using Inheritance in the Wiggler program and Starfield Project
-* Learned about Encapsulation (Hiding) using public and private keywords
-* Practiced using Encapsulation in the Dodads and Thingies programs
-* We learned to write getter and setter functions to expose provate objects to client programmers in a secure way
-* Learned the basics of Vectors and its applicability to simulation of real-world moving objects. We studied how to model movement using location, velocity and acceleration Vectors.
-* We are now READY to apply many of these concepts in our Final Asteroids Project for the Semester!
-* We completed Part 1 of this project by the end of this Semester.  We will pickup Part 2 and Part 3 when we return in 2021!  
-* I Have prepared a 2-part presentation to help reinforce concepts above and introduce the application into the Asteroids project.  [Part1](https://docs.google.com/presentation/d/1HfHQTei9qgkBEBhNqUKqmAc6g2V3x8FDprajTp5IZuE/edit?usp=sharing)  and [Part2](https://docs.google.com/presentation/d/1pPeUvTAbIjtZYvfQIv54BDuunra8H6imO654amT6NI4/edit?usp=sharing) helper presentations are linked here.
+### B. Study Java ArrayList 
+* [Arraylist Presentation](https://docs.google.com/presentation/d/1cnaJQR97NmguD3ZGeLL-Rum8TVj_qA0wHxEyVr37K9s/edit#slide=id.p1)
+* [For Each Loop Presentation](https://docs.google.com/presentation/d/1NTMFNzH-FB3Pfsnozkuu4lYZre3WNNLI6eAyzpNOJg8/edit#slide=id.p1)
 
-### B. Java ArrayList [Click here for presentation](https://docs.google.com/presentation/d/1cnaJQR97NmguD3ZGeLL-Rum8TVj_qA0wHxEyVr37K9s/edit#slide=id.p1)
+### C. [Project Asteroids](https://chandrunarayan.github.io/sketches/AsteroidsVariableDemo/) in 3 parts:
 
-### C. [Project Asteroids](https://chandrunarayan.github.io/sketches/AsteroidsVariableDemo/) in 3 parts - Parts 2 and 3!
-
+* I Have prepared a 3-part presentation to help reinforce concepts above and introduce the application into the Asteroids project.  
+* [Part1](https://docs.google.com/presentation/d/1HfHQTei9qgkBEBhNqUKqmAc6g2V3x8FDprajTp5IZuE/edit?usp=sharing), [Part2](https://docs.google.com/presentation/d/1pPeUvTAbIjtZYvfQIv54BDuunra8H6imO654amT6NI4/edit?usp=sharing) and [Part3](https://docs.google.com/presentation/d/1eSpNZiI6WjTBA4Jn_s_0pSicocsRXhOUnGaTOms80CM/edit?usp=sharing) helper presentations are linked here.
+* [Part1 Repo](https://github.com/chandrunarayan/AsteroidsGame), [Part2 Repo](https://github.com/chandrunarayan/AsteroidsPart2) and [Part3 Repo](https://github.com/chandrunarayan/AsteroidsPart3) Github repositories are linked here.
+* Part 1 establishes the base `Floater` class and the child `Spaceship` class. It also defines keyboard actions to move, rotate, and hyperspace the `Spaceship`. 
 * In Part 2 you will implement the `Asteroid` class also as a child of the `Floater` class. In these classes you will override the move() method of the parent class `Floater`. This is called polymorphism. The `Asteroid`s will rotate in addition to moving across the Starfield. 
 
-* In Part 3, you will also create the `Bullet` class. You will also implement the ability to shoot asteroids from your Spaceship! The `Bullet`s will move in a straight line to the `Asteroid` to demolish it (or miss it!). For explosion effects, you will create a generic `Particle` class which can be used for the `Spaceship` exhaust and explosion of the `Asteroid`.Finally, will convert all of the Asteroid Game project classes to use the `Vector` class.
+* In Part 3, you will also create the `Bullet` class. You will also implement the ability to shoot asteroids from your Spaceship! The `Bullet`s will move in a straight line to the `Asteroid` to demolish it (or miss it!). For explosion effects, you will create a generic `Particle` class which can be used for the `Spaceship` exhaust and explosion of the `Asteroid`. Finally and time permitting, will convert all of the Asteroid Game project classes to use the `Vector` class.
 
 
-### D. Additional Java Coding Practice (Optional - unless taking APCSA exam! Have you applied for the exam?)
-* New Codingbat exercises being developed ...
+### D. Additional Java Practice Codingbat - important for those taking APCSA exam 
+* Make sure you login to codingbat with your username before attempting problem sets
 
-### E. For APCSA exam ** Units 1 2 3 4 5 6 & 7 instructional videos have been released! ** Access [College AP Daily Videos](https://apcentral.collegeboard.org/learning-development/ap-classroom/ap-daily) here. 
+
+    | Sequence | Topic | Codingbat Problemset
+    | :--- | :--- | :--- |
+    | 1 | Primitives | [Primitives](https://codingbat.com/home/chandru.narayan@bush.edu/intbool1)
+    | 2 | Functions | [Functions1](https://codingbat.com/home/chandru.narayan@bush.edu/functions1) [Functions2](https://codingbat.com/home/chandru.narayan@bush.edu/functions2) [Functions3](https://codingbat.com/home/chandru.narayan@bush.edu/functions3)
+    | 3 | Arrays | [Arrays1](https://codingbat.com/home/chandru.narayan@bush.edu/arrays1) [Arrays2](https://codingbat.com/home/chandru.narayan@bush.edu/arrays2) [Arrays3](https://codingbat.com/home/chandru.narayan@bush.edu/arrays3) [Arrays4](https://codingbat.com/home/chandru.narayan@bush.edu/arrays4)
+    | 4 | Array List | [ArrayList1](https://codingbat.com/home/chandru.narayan@bush.edu/arraylist1) [ArrayList2](https://codingbat.com/home/chandru.narayan@bush.edu/arraylist2) [ArrayList3](https://codingbat.com/home/chandru.narayan@bush.edu/arraylist3)
+    | 5 | Fall Review | [FallReview1](https://codingbat.com/home/chandru.narayan@bush.edu/fallreview1) [FallReview2](https://codingbat.com/home/chandru.narayan@bush.edu/fallreview2)
+    | 6 | Google Billboard | [Googlebillboard](https://codingbat.com/home/chandru.narayan@bush.edu/googlebillboard)
+    | 7 | Piglatin | [Piglatin](https://codingbat.com/home/chandru.narayan@bush.edu/piglatin)
+    | 8 | String | [String1](https://codingbat.com/home/chandru.narayan@bush.edu/string1) [String2](https://codingbat.com/home/chandru.narayan@bush.edu/string2) [String3](https://codingbat.com/home/chandru.narayan@bush.edu/string3)
+    | 9 | Palindrome | [Palindrome](https://codingbat.com/home/chandru.narayan@bush.edu/palindrome)
+    | 10 | Minesweeper | [Minesweeper](https://codingbat.com/home/chandru.narayan@bush.edu/minesweeper)
+    | 11 | Recursion | [Recursion1](https://codingbat.com/home/chandru.narayan@bush.edu/recursion1) [Recursion2](https://codingbat.com/home/chandru.narayan@bush.edu/recursion2) [Recursion3](https://codingbat.com/home/chandru.narayan@bush.edu/recursion3)
+    | 12 | Searching | [Searching1](https://codingbat.com/home/chandru.narayan@bush.edu/searching1) [Searching2](https://codingbat.com/home/chandru.narayan@bush.edu/searching2)
+    | 13 | Sorting | [Sorting](https://codingbat.com/home/chandru.narayan@bush.edu/sorting)
+
+### E. For APCSA exam ** Units 1 2 3 4 5 6 & 7 instructional videos have been released! ** Access [College AP Daily Videos](https://apcentral.collegeboard.org/courses/ap-computer-science-a/classroom-resources?course=ap-computer-science-a) here. 
 
 ### F. Previously ...
+############################
+############################
+
+### [What happened in CPJava previously? (Jan 4th - Jan 15th) ??](weekofjan4)
+
 ############################
 ############################
 
