@@ -63,7 +63,7 @@
 ## Feedback from Students (10 minutes)
 1. Did you enjoy the session today?
 1. What caught yoru attention?
-1. Any questions are OK!
+1. Any questions/comments are OK!
 1. The main sessions is complete, thank you for joining!
 
 ## Extended Q&A with Parents/Guardians (15 minutes)
