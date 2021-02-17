@@ -84,8 +84,11 @@ function setup() {  // this function is run once.
     background("pink");  
     
     // limit the number of frames per second
-    frameRate(1);
-  
+    frameRate(10);
+    
+    // draw smooth lines
+    smooth();
+    
     // UNCOMMENT LINE BELOW TO SAY HELLO!
     sayHello();
 } 
@@ -123,11 +126,19 @@ function drawSticks1() {
 function drawSticks2() {
   // CAN YOU DRAW ANOTHER SET OF LINES FROM BOTTOM TO TOP?
   // OR FROM LEFT TO RIGHT ??
-  // YOU WILL NEED 2 LINES OF CODE SIMILAR TO 40, 44, 48
-  // COPY THOSE BELOW AND MODIFY!
-  strokeWeight(5);
-  stroke(random(255), random(255), random(255), 150);
-  line(width/2, 0, loc, height);
+  // YOU WILL NEED COPY CONTENTS OF drawSticks1() FUNCTION 
+  // BETWEEN OUTER BRACKETS BELOW AND MODIFY JUST 
+  // THE "line" COMMAND!
+    // set the thickness of the line. 
+    strokeWeight(5);
+    // set the color using input parameters:
+    // shades of red, green, blue, transparency in order
+    // random(255) gives a random number 0 to 255 for each color
+    stroke(random(255), random(255), random(255), 100);
+    
+    // draw the line using input parameters:
+    // 2 pairs of points: x1, y1, x2, y2 
+    line(width/2, 0, loc, height);   
 }
 
 function moveLoc() {

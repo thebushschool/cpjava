@@ -14,8 +14,11 @@ function setup() {  // this function is run once.
     background("pink");  
     
     // limit the number of frames per second
-    frameRate(1);
-  
+    frameRate(10);
+
+     // draw smooth lines
+    smooth(); 
+    
     // UNCOMMENT LINE BELOW TO SAY HELLO!
     //sayHello();
 } 
@@ -54,7 +57,8 @@ function drawSticks2() {
   // CAN YOU DRAW ANOTHER SET OF LINES FROM BOTTOM TO TOP?
   // OR FROM LEFT TO RIGHT ??
   // YOU WILL NEED COPY CONTENTS OF drawSticks1() FUNCTION 
-  // BETWEEN OUTER BRACKETS BELOW AND MODIFY!
+  // BETWEEN OUTER BRACKETS BELOW AND MODIFY JUST 
+  // THE "line" COMMAND!
   
 }
 
