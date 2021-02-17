@@ -48,7 +48,7 @@
    * Seattle Traffic Patterns
    * Medical Physics
    * Music and Radio Production
-   Interactive Thearter for Social Change
+   * Interactive Thearter for Social Change
    * Morocco Cultural Immersion
    * Cultural Journey through the American South
 
@@ -56,7 +56,7 @@
    * Brief description of cascade
         * Astronomy is one of the oldest sciences
         * Anthropological considerations
-        * Modern advances in robotic telescopes and asto photography
+        * Modern advances in robotic telescopes and astro photography
    * Telecope live demonstration
    * Example Astro Photographs
 
