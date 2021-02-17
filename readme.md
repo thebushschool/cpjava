@@ -60,13 +60,16 @@ In our CPJava classroom we are already using tools and techniques that are natur
 ### [CPJava Course Schedule 2020-2021](yearlycal) 
 ![alt text][schedule]
 
-## Learning Modes and Typical Student Workflow
+## Learning Modes
 ### Learning by Doing First - Student-Based Asynchronous Workflow
 In this mode of learning we will simultaneously start a consolidatded student-paced session spanning multiple Java Units, supported by working on Processing projects within Paired Programming teams.  We will mostly be using this workflow model, switching to Synchronous in small bursts as directed by your teacher or as needed to support student needs.
 ### Doing by Learning First - Lecture-Based Synchronous Workflow
 We will use this method of learning sparingly, reserved for difficult topics that might require a lecture-based instructional unit.  The lectures below are designed in that manner and always available as a reference while we live in the world of Asynchronous "Learning by Doing First" model above.
 
-### Typical Workflow
+## Mini Lesson for newly admitted Upper School Students!
+### [Click here to access mini lesson](lessons/minilesson)
+
+## Typical Workflow
 1. Student attends CPJava remotely via Zoom or in-person
 
 2. There are 11 Units in this course
