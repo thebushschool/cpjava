@@ -23,8 +23,11 @@
 
 * In Part 3, you will also create the `Bullet` class. You will also implement the ability to shoot asteroids from your Spaceship! The `Bullet`s will move in a straight line to the `Asteroid` to demolish it (or miss it!). For explosion effects, you will create a generic `Particle` class which can be used for the `Spaceship` exhaust and explosion of the `Asteroid`. Finally and time permitting, will convert all of the Asteroid Game project classes to use the `Vector` class.
 
+### D. String Objects & Methods- from Unit 2
+* **New* [Unit 2a String Objects & Methods and Google Billboard Project](https://drive.google.com/open?id=1H9tzGeTWetjzUz1G450NGxbEO5xZl3BvacfkFWsvWRE&authuser=0)
+* **New* [Unit 2b String Methods & Pointers and Piglatin Project](https://drive.google.com/open?id=1XLlg2WK9z2RQoCVq5l0EaKquK1Mhw4WYbfshck_Rujw&authuser=0)
 
-### D. Additional Java Practice Codingbat - important for those taking APCSA exam 
+### E. Additional Java Practice Codingbat - important for those taking APCSA exam 
 * Make sure you login to codingbat with your username before attempting problem sets
 
 
@@ -44,9 +47,9 @@
     | 12 | Searching | [Searching1](https://codingbat.com/home/chandru.narayan@bush.edu/searching1) [Searching2](https://codingbat.com/home/chandru.narayan@bush.edu/searching2)
     | 13 | Sorting | [Sorting](https://codingbat.com/home/chandru.narayan@bush.edu/sorting)
 
-### E. For APCSA exam ** Units 1 2 3 4 5 6 & 7 instructional videos have been released! ** Access [College AP Daily Videos](https://apcentral.collegeboard.org/courses/ap-computer-science-a/classroom-resources?course=ap-computer-science-a) here. 
+### F. For APCSA exam ** Units 1 2 3 4 5 6 & 7 instructional videos have been released! ** Access [College AP Daily Videos](https://apcentral.collegeboard.org/courses/ap-computer-science-a/classroom-resources?course=ap-computer-science-a) here. 
 
-### F. Previously ...
+### G. Previously ...
 ############################
 ############################
 
