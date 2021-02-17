@@ -40,7 +40,7 @@
 
 ## Telescope & Astronomy Cascade Preview (15 minutes)
 
-1. Bush Cascades is a 3-week experiential and immersion program on a interdisciplinary course of study. 
+1. The Bush Cascade program is a 3-week experiential and immersion program on a interdisciplinary course of study. 
 1. They are held 2 times a year at the end of Fall and Spring semesters in January and May. They are open to all Upper School students execluding Seniors who will be doing their final projects instead.
 1. Some Cascades are local to Seattle and others might involve travel to other locations inside and outside Washington State including some international locations! 
 1. They could involve engaging with the Bush and Seattle communities with a goal to learn help and support.
