@@ -1,3 +1,6 @@
+### While reading this example remember canvas coordinates are as follows:
+![alt text](canvas_coords.png)
+The canvas above has width of 400 pixels and height of 400 pixels
 ```javascript
 // Dynamic Sticks
 // Learn to code visually!
@@ -18,7 +21,7 @@ function setup() {  // this function is run once.
 
      // draw smooth lines
     smooth(); 
-    
+
     // UNCOMMENT LINE BELOW TO SAY HELLO!
     //sayHello();
 } 

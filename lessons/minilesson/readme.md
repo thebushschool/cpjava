@@ -1,4 +1,4 @@
-[_Bush School CPJava Spring Semester 2021_](https://chandrunarayan.github.io/cpjava/)
+[_Bush School IDMD Spring Semester 2021_](https://chandrunarayan.github.io/idmd/)
 
 # Bush Upper School Preview Day!
 
@@ -25,6 +25,8 @@
 
 ## Mini Lesson - First Steps in Learning how to Code! (15 minutes)
 
+1. We will draw dynamic shapes on a canvas using coordinates as seen below
+1. ![alt text](canvas_coords.png)
 1. Walkthrough one example for the whole class
 1. Open a NEW tab on your browser by accessing File-> New Tab 
 1. Start a P5JS [Javascript web editor in the new tab created by clicking here](https://editor.p5js.org). Please be patient, it might take a few seconds to open.
