@@ -8,13 +8,14 @@
 | 1 | Enhanced Loop | [For-Each Quiz/Worksheet](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MjYxMjQ5Nzg0Njk3/details) | 2/2 | Due now. Did you submit to Github?    
 | 2 | Array List | [Asteroids Game Final](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MjYwNTg4Mzg5NjQ1/details?cjc=gmy37a3) | 2/12 | Due now. Did you submit to Github?    
 | 3 | String | [Google Billboard](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MjYyNDIxNzgzMTM0/details) | 2/26 | Due this week 
-| 4 | Pointers | [Google Billboard](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MjcwMjU0NTIzMDA5/details) | 2/26 | Due this week 
-| 5 | String & Pointers | [Piglatin](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MjYyNDM0NjMzNDM3/details) | 2/26 | Due 1st week in March 
-| 6 | String & Pointers | [Palindrome Checker](https://github.com/chandrunarayan/PalindromeChecker) | 2/26 | Due 2nd week in March     
-| 7 | All | [Codingbat](codingbat.md) | 2/26 | Not Graded but highly recommended especially for APCSA Students  
+| 4 | Pointers | [Pointers Worksheet](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MjcwMjU0NTIzMDA5/details) | 2/26 | Due this week 
+| 5 | Pointers | [Recursion Worksheet](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/Mjc2Nzg2ODY2MTI5/details) | 2/26 | Due this week 
+| 6 | String & Pointers | [Piglatin](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MjYyNDM0NjMzNDM3/details) | 3/5 | Due 1st week in March 
+| 7 | String & Pointers | [Palindrome Checker](https://github.com/chandrunarayan/PalindromeChecker) | 3/12 | Due 2nd week in March     
+| 8 | All | [Codingbat](codingbat.md) | End of April | Not Graded but highly recommended especially for APCSA Students  
 
 ### B. New material for the next 2 weeks
-* **New* [Unit 10a Recursion Introduction Sieperski Triangles]()
+* **New* [Unit 10a Recursion Introduction Sierpinski Triangles]()
 * **New* [Unit 10b Recursion Fibonacci Sequence]()
 * **New* [OPTIONAL TBD - Unit 10 c Recursion Fractals]()
 
