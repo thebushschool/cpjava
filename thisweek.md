@@ -1,38 +1,31 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
-## What's happening in CPJava for the next 3 weeks of Spring 2021! (Feb 22nd - Mar 5th) ??
+## What's happening in CPJava for the next 2 weeks of Spring 2021! (Feb 22nd - Mar 5th) ??
+### A. Reminders for assignments
 
-### A. Where we left off before Mid-winter break
-* Covered String from Unit 2
-* Introduced Google Billboad project
-* Introduced Piglatin Project
-* Discussed Pointers and did some quizzes
-* Assigned codingbat exercises for the entire Semester
-* Completed the Asteroids Final Part 3
-* Assigned Mid-term grade
+| Seq | Topic | Content/Project | Due | Remarks
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | Enhanced Loop | [For-Each Quiz/Worksheet](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MjYxMjQ5Nzg0Njk3/details) | 2/2 | Due now. Did you submit to Github?    
+| 2 | Array List | [Asteroids Game Final](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MjYwNTg4Mzg5NjQ1/details?cjc=gmy37a3) | 2/12 | Due now. Did you submit to Github?    
+| 3 | String | [Google Billboard](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MjYyNDIxNzgzMTM0/details) | 2/26 | Due this week 
+| 4 | Pointers | [Google Billboard](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MjcwMjU0NTIzMDA5/details) | 2/26 | Due this week 
+| 5 | String & Pointers | [Piglatin](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MjYyNDM0NjMzNDM3/details) | 2/26 | Due 1st week in March 
+| 6 | String & Pointers | [Palindrome Checker](https://github.com/chandrunarayan/PalindromeChecker) | 2/26 | Due 2nd week in March     
+| 7 | All | [Codingbat](codingbat.md) | 2/26 | Not Graded but highly recommended especially for APCSA Students  
 
-### B. Additional Java Practice Codingbat - important for those taking APCSA exam 
-* Make sure you login to codingbat with your username before attempting problem sets
+### B. New material for the next 2 weeks
+* **New* [Unit 10a Recursion Introduction Sieperski Triangles]()
+* **New* [Unit 10b Recursion Fibonacci Sequence]()
+* **New* [OPTIONAL TBD - Unit 10 c Recursion Fractals]()
 
-    | Sequence | Topic | Codingbat Problemset
-    | :--- | :--- | :--- |
-    | 1 | Primitives | [Primitives](https://codingbat.com/home/chandru.narayan@bush.edu/intbool1)
-    | 2 | Functions | [Functions1](https://codingbat.com/home/chandru.narayan@bush.edu/functions1) [Functions2](https://codingbat.com/home/chandru.narayan@bush.edu/functions2) [Functions3](https://codingbat.com/home/chandru.narayan@bush.edu/functions3)
-    | 3 | Arrays | [Arrays1](https://codingbat.com/home/chandru.narayan@bush.edu/arrays1) [Arrays2](https://codingbat.com/home/chandru.narayan@bush.edu/arrays2) [Arrays3](https://codingbat.com/home/chandru.narayan@bush.edu/arrays3) [Arrays4](https://codingbat.com/home/chandru.narayan@bush.edu/arrays4)
-    | 4 | Array List | [ArrayList1](https://codingbat.com/home/chandru.narayan@bush.edu/arraylist1) [ArrayList2](https://codingbat.com/home/chandru.narayan@bush.edu/arraylist2) [ArrayList3](https://codingbat.com/home/chandru.narayan@bush.edu/arraylist3)
-    | 5 | Fall Review | [FallReview1](https://codingbat.com/home/chandru.narayan@bush.edu/fallreview1) [FallReview2](https://codingbat.com/home/chandru.narayan@bush.edu/fallreview2)
-    | 6 | Google Billboard | [Googlebillboard](https://codingbat.com/home/chandru.narayan@bush.edu/googlebillboard)
-    | 7 | Piglatin | [Piglatin](https://codingbat.com/home/chandru.narayan@bush.edu/piglatin)
-    | 8 | String | [String1](https://codingbat.com/home/chandru.narayan@bush.edu/string1) [String2](https://codingbat.com/home/chandru.narayan@bush.edu/string2) [String3](https://codingbat.com/home/chandru.narayan@bush.edu/string3)
-    | 9 | Palindrome | [Palindrome](https://codingbat.com/home/chandru.narayan@bush.edu/palindrome)
-    | 10 | Minesweeper | [Minesweeper](https://codingbat.com/home/chandru.narayan@bush.edu/minesweeper)
-    | 11 | Recursion | [Recursion1](https://codingbat.com/home/chandru.narayan@bush.edu/recursion1) [Recursion2](https://codingbat.com/home/chandru.narayan@bush.edu/recursion2) [Recursion3](https://codingbat.com/home/chandru.narayan@bush.edu/recursion3)
-    | 12 | Searching | [Searching1](https://codingbat.com/home/chandru.narayan@bush.edu/searching1) [Searching2](https://codingbat.com/home/chandru.narayan@bush.edu/searching2)
-    | 13 | Sorting | [Sorting](https://codingbat.com/home/chandru.narayan@bush.edu/sorting)
+### C. Future Sessions in March/April
+* **New* [Unit 8 2D Arrays]()
+* **New* [Unit 10c Search]()
+* **New* [Unit 10c Sort]()
 
-### F. For APCSA exam ** Units 1 2 3 4 5 6 & 7 instructional videos have been released! ** Access [College AP Daily Videos](https://apcentral.collegeboard.org/courses/ap-computer-science-a/classroom-resources?course=ap-computer-science-a) here. 
+### D. For APCSA exam ** Units 1 2 3 4 5 6 & 7 instructional videos have been released! ** Access [College AP Daily Videos](https://apcentral.collegeboard.org/courses/ap-computer-science-a/classroom-resources?course=ap-computer-science-a) here. 
 
-### G. Previously ...
+### D. Previously ...
 ############################
 ############################
 
