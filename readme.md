@@ -143,6 +143,7 @@ We will be using the Paired Programming teams for team projects. ** Please provi
 * **New* [Palindrome Checker Project](https://github.com/chandrunarayan/PalindromeChecker)
 * **New* [Sierpinski Triangles Project](https://github.com/chandrunarayan/Sierpinski)
 * **New* [Linear Binary Search Functions Project](https://github.com/chandrunarayan/LinearBinarySearch)
+* **New* [Game of Life Project](https://github.com/chandrunarayan/GameOfLife)
 
 ##  Codingbat Practice Topics
 Make sure you login to codingbat with your username before attempting problem sets
@@ -154,14 +155,14 @@ Make sure you login to codingbat with your username before attempting problem se
 | 3 | Arrays | [Arrays1](https://codingbat.com/home/chandru.narayan@bush.edu/arrays1) [Arrays2](https://codingbat.com/home/chandru.narayan@bush.edu/arrays2) [Arrays3](https://codingbat.com/home/chandru.narayan@bush.edu/arrays3) [Arrays4](https://codingbat.com/home/chandru.narayan@bush.edu/arrays4)
 | 4 | Array List | [ArrayList1](https://codingbat.com/home/chandru.narayan@bush.edu/arraylist1) [ArrayList2](https://codingbat.com/home/chandru.narayan@bush.edu/arraylist2) [ArrayList3](https://codingbat.com/home/chandru.narayan@bush.edu/arraylist3)
 | 5 | Fall Review | [FallReview1](https://codingbat.com/home/chandru.narayan@bush.edu/fallreview1) [FallReview2](https://codingbat.com/home/chandru.narayan@bush.edu/fallreview2)
-| 6 | Google Billboard | [Googlebillboard](https://codingbat.com/home/chandru.narayan@bush.edu/googlebillboard)
-| 7 | Piglatin | [Piglatin](https://codingbat.com/home/chandru.narayan@bush.edu/piglatin)
-| 8 | String | [String1](https://codingbat.com/home/chandru.narayan@bush.edu/string1) [String2](https://codingbat.com/home/chandru.narayan@bush.edu/string2) [String3](https://codingbat.com/home/chandru.narayan@bush.edu/string3)
-| 9 | Palindrome | [Palindrome](https://codingbat.com/home/chandru.narayan@bush.edu/palindrome)
-| 10 | Minesweeper | [Minesweeper](https://codingbat.com/home/chandru.narayan@bush.edu/minesweeper)
-| 11 | Recursion | [Recursion1](https://codingbat.com/home/chandru.narayan@bush.edu/recursion1) [Recursion2](https://codingbat.com/home/chandru.narayan@bush.edu/recursion2) [Recursion3](https://codingbat.com/home/chandru.narayan@bush.edu/recursion3)
-| 12 | Searching | [Searching1](https://codingbat.com/home/chandru.narayan@bush.edu/searching1) [Searching2](https://codingbat.com/home/chandru.narayan@bush.edu/searching2)
-| 13 | Sorting | [Sorting](https://codingbat.com/home/chandru.narayan@bush.edu/sorting)
+| 6 | String | [Googlebillboard](https://codingbat.com/home/chandru.narayan@bush.edu/googlebillboard)
+| 7 | String & Pointers | [Piglatin](https://codingbat.com/home/chandru.narayan@bush.edu/piglatin)
+| 8 | String & Pointers | [String1](https://codingbat.com/home/chandru.narayan@bush.edu/string1) [String2](https://codingbat.com/home/chandru.narayan@bush.edu/string2) [String3](https://codingbat.com/home/chandru.narayan@bush.edu/string3)
+| 9 | Array Travesal | [Palindrome](https://codingbat.com/home/chandru.narayan@bush.edu/palindrome)
+| 10 | Recursion | [Recursion1](https://codingbat.com/home/chandru.narayan@bush.edu/recursion1) [Recursion2](https://codingbat.com/home/chandru.narayan@bush.edu/recursion2) [Recursion3](https://codingbat.com/home/chandru.narayan@bush.edu/recursion3)
+| 11 | Searching | [Searching1](https://codingbat.com/home/chandru.narayan@bush.edu/searching1) [Searching2](https://codingbat.com/home/chandru.narayan@bush.edu/searching2)
+| 12 | Sorting | [Sorting](https://codingbat.com/home/chandru.narayan@bush.edu/sorting)
+| 13 | 2D Arrays | [Minesweeper](https://codingbat.com/home/chandru.narayan@bush.edu/minesweeper)
 
 ## APCSA Exam Spring 2020
 
