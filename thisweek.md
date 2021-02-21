@@ -19,6 +19,8 @@
 * **New** [Unit 10a Recursion Introduction Sierpinski Triangles](https://docs.google.com/presentation/d/1Ef1iENxFbYeJy7XDUlbV9JTiVYeoUkeXxrpcdx6UiwE/edit?usp=sharing)
 * **New** [Unit 10b Recursion Fibonacci Sequence](https://docs.google.com/presentation/d/19gdc2QhdPKWhc-BZzwau2WEatgVQI2ftLCHv337OUPc/edit?usp=sharing)
 * **TBD** [OPTIONAL - Unit 10c Recursion Fractals]()
+* **New** [[Unit 10d Searching - Linear Binary Recursive](https://docs.google.com/presentation/d/1DW8ui1wq-oD36bLh8V1L0Am2ZW33LLORZDvMT31DWkc/edit#slide=id.gbeb523f7ba_0_0)
+
 
 ### C. Future Sessions in March/April
 * **TBD** [Unit 8 2D Arrays]()

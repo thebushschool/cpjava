@@ -119,6 +119,8 @@ We will be using the Paired Programming teams for team projects. ** Please provi
 * [Unit 9a Inheritance & Encapsulation Student Paced Sesssion](https://docs.google.com/presentation/d/1APHiU8WDTsL6ll2f2R2uBWW79uEhsPXPJZxobfls5lM/edit?usp=sharing)
 * **New* [[Unit 10a Recursion and Sierpinski Triangles](https://docs.google.com/presentation/d/1Ef1iENxFbYeJy7XDUlbV9JTiVYeoUkeXxrpcdx6UiwE/edit?usp=sharing)
 * **New* [[Unit 10b Recursion and Fibonacci Sequence](https://docs.google.com/presentation/d/19gdc2QhdPKWhc-BZzwau2WEatgVQI2ftLCHv337OUPc/edit?usp=sharing)
+* **TBD* [[OPTIONAL Unit 10c Recursion and Fractals()
+* **New** [[Unit 10d Searching - Linear Binary Recursive](https://docs.google.com/presentation/d/1DW8ui1wq-oD36bLh8V1L0Am2ZW33LLORZDvMT31DWkc/edit#slide=id.gbeb523f7ba_0_0)
 
 ## Student Paced Sessions for Projects
 * [Unit 9b Asteroids Project Part 1](https://docs.google.com/presentation/d/1HfHQTei9qgkBEBhNqUKqmAc6g2V3x8FDprajTp5IZuE/edit?usp=sharing)
@@ -138,6 +140,7 @@ We will be using the Paired Programming teams for team projects. ** Please provi
 * **New* [Piglatin Project](https://github.com/chandrunarayan/Piglatin)
 * **New* [Palindrome Checker Project](https://github.com/chandrunarayan/PalindromeChecker)
 * **New* [Sierpinski Triangles Project](https://github.com/chandrunarayan/Sierpinski)
+* **New* [Linear Binary Search Functions Project](https://github.com/chandrunarayan/LinearBinarySearch)
 
 ##  Codingbat Practice Topics
 Make sure you login to codingbat with your username before attempting problem sets
