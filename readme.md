@@ -109,14 +109,16 @@ We will be using the Paired Programming teams for team projects. ** Please provi
 
 ## Student Paced Sessions for Java Units
 * [Units 1 2 3 Consolidated Intro to Java Variables Operators Student Paced Sesssion](https://app.peardeck.com/student/tixodenzx)
-* **New* [Unit 2a String Objects & Methods and Google Billboard Project](https://drive.google.com/open?id=1H9tzGeTWetjzUz1G450NGxbEO5xZl3BvacfkFWsvWRE&authuser=0)
-* **New* [Unit 2b String Methods & Pointers and Piglatin Project](https://drive.google.com/open?id=1XLlg2WK9z2RQoCVq5l0EaKquK1Mhw4WYbfshck_Rujw&authuser=0)
+* [Unit 2a String Objects & Methods and Google Billboard Project](https://drive.google.com/open?id=1H9tzGeTWetjzUz1G450NGxbEO5xZl3BvacfkFWsvWRE&authuser=0)
+* [Unit 2b String Methods & Pointers and Piglatin Project](https://drive.google.com/open?id=1XLlg2WK9z2RQoCVq5l0EaKquK1Mhw4WYbfshck_Rujw&authuser=0)
 * [Units 4 5 Consolidated Loops Objects Student Paced Sesssion](https://docs.google.com/presentation/d/1SEB8hbirhy00kq0oxLhQX2xcyC_HvaIw35V8pq82INw/edit#slide=id.g97cdd6c7ea_0_0)
 * [Unit 6a Arrays Student Paced Sesssion](https://docs.google.com/presentation/d/16rYe06ohSndVfIjs3WSlVSaD_h0CjnMLGbMfvEbcggI/edit?usp=sharing)
 * [Unit 6b Arrays of Objects Student Paced Sesssion](https://docs.google.com/presentation/d/1bhgbqk9DAEzQG5ZFXYlGQ4CqQfVvieKUeOftVlC7P2Q/edit?usp=sharing)
-* [Unit 9a Inheritance & Encapsulation Student Paced Sesssion](https://docs.google.com/presentation/d/1APHiU8WDTsL6ll2f2R2uBWW79uEhsPXPJZxobfls5lM/edit?usp=sharing)
 * [Unit 6c Array List Student Paced Sesssion](https://docs.google.com/presentation/d/1cnaJQR97NmguD3ZGeLL-Rum8TVj_qA0wHxEyVr37K9s/edit?usp=sharing) 
-* **New* [Unit 6d For Each Loop Student Paced Sesssion](https://docs.google.com/presentation/d/1NTMFNzH-FB3Pfsnozkuu4lYZre3WNNLI6eAyzpNOJg8/edit#slide=id.p1)
+* [Unit 6d For Each Loop Student Paced Sesssion](https://docs.google.com/presentation/d/1NTMFNzH-FB3Pfsnozkuu4lYZre3WNNLI6eAyzpNOJg8/edit#slide=id.p1)
+* [Unit 9a Inheritance & Encapsulation Student Paced Sesssion](https://docs.google.com/presentation/d/1APHiU8WDTsL6ll2f2R2uBWW79uEhsPXPJZxobfls5lM/edit?usp=sharing)
+* **New* [[Unit 10a Recursion and Sierpinski Triangles](https://docs.google.com/presentation/d/1Ef1iENxFbYeJy7XDUlbV9JTiVYeoUkeXxrpcdx6UiwE/edit?usp=sharing)
+* **New* [[Unit 10b Recursion and Fibonacci Sequence](https://docs.google.com/presentation/d/19gdc2QhdPKWhc-BZzwau2WEatgVQI2ftLCHv337OUPc/edit?usp=sharing)
 
 ## Student Paced Sessions for Projects
 * [Unit 9b Asteroids Project Part 1](https://docs.google.com/presentation/d/1HfHQTei9qgkBEBhNqUKqmAc6g2V3x8FDprajTp5IZuE/edit?usp=sharing)
@@ -132,11 +134,12 @@ We will be using the Paired Programming teams for team projects. ** Please provi
 * [Asteroids Part 1 Project](https://github.com/chandrunarayan/AsteroidsGame)
 * [Asteroids Part 2 Project](https://github.com/chandrunarayan/AsteroidsPart2)
 * [Asteroids Part 3 Project](https://github.com/chandrunarayan/AsteroidsPart3)
-* **New* [Google Billboard Project](https://github.com/chandrunarayan/GoogleBillboard)
+* [Google Billboard Project](https://github.com/chandrunarayan/GoogleBillboard)
 * **New* [Piglatin Project](https://github.com/chandrunarayan/Piglatin)
 * **New* [Palindrome Checker Project](https://github.com/chandrunarayan/PalindromeChecker)
+* **New* [Sierpinski Triangles Project](https://github.com/chandrunarayan/Sierpinski)
 
-##  **New* Codingbat Practice Topics
+##  Codingbat Practice Topics
 Make sure you login to codingbat with your username before attempting problem sets
 
 | Sequence | Topic | Codingbat Problemset
