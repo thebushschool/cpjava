@@ -1,7 +1,7 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
 ## What's happening in CPJava for the next 2 weeks of Spring 2021! (Feb 22nd - Mar 5th) ??
-### A. Reminders/Notifications for assignments coming due
+### A. Reminders/Notifications for assignments coming due in March/April
 
 | Seq | Topic | Content/Project | Due | Remarks
 | :--- | :--- | :--- | :--- | :--- |
@@ -13,8 +13,10 @@
 | 6 | String & Pointers | [Piglatin Project](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MjYyNDM0NjMzNDM3/details) | 3/5 | Due 1st week in March 
 | 7 | String & Pointers | [Palindrome Checker Project](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MjY1NzMyMjgxOTI2/details) | 3/12 | Due 2nd week in March
 | 8 | Recursion | [Sierpinski Triangle Project](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/Mjc2Nzg2ODY4Nzgx/details) | 3/19 | Due 3rd week in March
-| 9 | Searching | [Linear and Binary Search Worksheet](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/Mjc2NzU1ODkzNjUz/details) | 3/30 | Due early April
-| 10 | All | [Codingbat](codingbat.md) | End of March | Not Graded but highly recommended especially for APCSA Students  
+| 9 | Searching | [Linear and Binary Search Worksheet](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/Mjc2NzU1ODkzNjUz/details) | 3/30 | Due late March
+| 10 | Searching | [Search Functions Project](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/Mjc2NzU1ODkzODc0/details) | 4/16 | Due  mid-April
+| 11 | 2D Arrays | [Game of Life Project](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/Mjc2ODI2MjEwMTAy/details) | 4/16 | Due  late-April
+| 12 | All | [Codingbat](codingbat.md) | End of March | Not Graded but highly recommended especially for APCSA Students  
 
 ### B. New material for the next 2 weeks
 * **New** [Unit 10a Recursion Introduction Sierpinski Triangles](https://docs.google.com/presentation/d/1Ef1iENxFbYeJy7XDUlbV9JTiVYeoUkeXxrpcdx6UiwE/edit?usp=sharing)
@@ -23,7 +25,7 @@
 * **New** [[Unit 10d Searching - Linear Binary Recursive](https://docs.google.com/presentation/d/1DW8ui1wq-oD36bLh8V1L0Am2ZW33LLORZDvMT31DWkc/edit#slide=id.gbeb523f7ba_0_0)
 
 ### C. Future Sessions in April
-* **New** [[Unit 10e Sorting - Sort & Merge](https://docs.google.com/presentation/d/1-f4OU7J88OAA-sbP0U2R_0-3bt1vucoMBUH3U2z5C1A/edit#slide=id.p1)
+* **New** [Unit 10e Sorting & Merging](https://docs.google.com/presentation/d/1-f4OU7J88OAA-sbP0U2R_0-3bt1vucoMBUH3U2z5C1A/edit#slide=id.p1)
 * **New** [Unit 8 2D Arrays Tables](https://docs.google.com/presentation/d/1cIgGz7huTaKrsFC5OKXdKNQ9ftwHSnWO6fjzegs7H0w/edit#slide=id.p1)
 
 
