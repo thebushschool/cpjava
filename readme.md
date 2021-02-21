@@ -121,6 +121,7 @@ We will be using the Paired Programming teams for team projects. ** Please provi
 * **New* [[Unit 10b Recursion and Fibonacci Sequence](https://docs.google.com/presentation/d/19gdc2QhdPKWhc-BZzwau2WEatgVQI2ftLCHv337OUPc/edit?usp=sharing)
 * **TBD* [[OPTIONAL Unit 10c Recursion and Fractals()
 * **New** [[Unit 10d Searching - Linear Binary Recursive](https://docs.google.com/presentation/d/1DW8ui1wq-oD36bLh8V1L0Am2ZW33LLORZDvMT31DWkc/edit#slide=id.gbeb523f7ba_0_0)
+* **New** [[Unit 10e Sorting - Sort & Merge](https://docs.google.com/presentation/d/1-f4OU7J88OAA-sbP0U2R_0-3bt1vucoMBUH3U2z5C1A/edit#slide=id.p1)
 
 ## Student Paced Sessions for Projects
 * [Unit 9b Asteroids Project Part 1](https://docs.google.com/presentation/d/1HfHQTei9qgkBEBhNqUKqmAc6g2V3x8FDprajTp5IZuE/edit?usp=sharing)

@@ -22,10 +22,9 @@
 * **TBD** [OPTIONAL - Unit 10c Recursion Fractals]()
 * **New** [[Unit 10d Searching - Linear Binary Recursive](https://docs.google.com/presentation/d/1DW8ui1wq-oD36bLh8V1L0Am2ZW33LLORZDvMT31DWkc/edit#slide=id.gbeb523f7ba_0_0)
 
-
-### C. Future Sessions in March/April
+### C. Future Sessions in April
+* **New** [[Unit 10e Sorting - Sort & Merge](https://docs.google.com/presentation/d/1-f4OU7J88OAA-sbP0U2R_0-3bt1vucoMBUH3U2z5C1A/edit#slide=id.p1)
 * **TBD** [Unit 8 2D Arrays]()
-* **TBD** [Unit 10e Sort]()
 
 ### D. For APCSA exam ** Units 1 2 3 4 5 6 & 7 instructional videos have been released! ** Access [College AP Daily Videos](https://apcentral.collegeboard.org/courses/ap-computer-science-a/classroom-resources?course=ap-computer-science-a) here. 
 
