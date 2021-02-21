@@ -16,14 +16,14 @@
 | 9 | All | [Codingbat](codingbat.md) | End of April | Not Graded but highly recommended especially for APCSA Students  
 
 ### B. New material for the next 2 weeks
-* **New* [Unit 10a Recursion Introduction Sierpinski Triangles](https://docs.google.com/presentation/d/1Ef1iENxFbYeJy7XDUlbV9JTiVYeoUkeXxrpcdx6UiwE/edit?usp=sharing)
-* **New* [Unit 10b Recursion Fibonacci Sequence](https://docs.google.com/presentation/d/19gdc2QhdPKWhc-BZzwau2WEatgVQI2ftLCHv337OUPc/edit?usp=sharing)
-* TBD [OPTIONAL - Unit 10 c Recursion Fractals]()
+* **New** [Unit 10a Recursion Introduction Sierpinski Triangles](https://docs.google.com/presentation/d/1Ef1iENxFbYeJy7XDUlbV9JTiVYeoUkeXxrpcdx6UiwE/edit?usp=sharing)
+* **New** [Unit 10b Recursion Fibonacci Sequence](https://docs.google.com/presentation/d/19gdc2QhdPKWhc-BZzwau2WEatgVQI2ftLCHv337OUPc/edit?usp=sharing)
+* **TBD** [OPTIONAL - Unit 10c Recursion Fractals]()
 
 ### C. Future Sessions in March/April
-* **New* [Unit 8 2D Arrays]()
-* **New* [Unit 10c Search]()
-* **New* [Unit 10c Sort]()
+* **TBD** [Unit 8 2D Arrays]()
+* **TBD** [Unit 10d Search]()
+* **TBD** [Unit 10e Sort]()
 
 ### D. For APCSA exam ** Units 1 2 3 4 5 6 & 7 instructional videos have been released! ** Access [College AP Daily Videos](https://apcentral.collegeboard.org/courses/ap-computer-science-a/classroom-resources?course=ap-computer-science-a) here. 
 
