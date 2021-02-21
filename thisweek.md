@@ -16,9 +16,9 @@
 | 9 | All | [Codingbat](codingbat.md) | End of April | Not Graded but highly recommended especially for APCSA Students  
 
 ### B. New material for the next 2 weeks
-* **New* [Unit 10a Recursion Introduction Sierpinski Triangles](https://docs.google.com/presentation/d/1Ef1iENxFbYeJy7XDUlbV9JTiVYeoUkeXxrpcdx6UiwE/edit#slide=id.p1)
-* **New* [Unit 10b Recursion Fibonacci Sequence]()
-* **New* [OPTIONAL TBD - Unit 10 c Recursion Fractals]()
+* **New* [Unit 10a Recursion Introduction Sierpinski Triangles](https://docs.google.com/presentation/d/1Ef1iENxFbYeJy7XDUlbV9JTiVYeoUkeXxrpcdx6UiwE/edit?usp=sharing)
+* **New* [Unit 10b Recursion Fibonacci Sequence](https://docs.google.com/presentation/d/19gdc2QhdPKWhc-BZzwau2WEatgVQI2ftLCHv337OUPc/edit?usp=sharing)
+* TBD [OPTIONAL - Unit 10 c Recursion Fractals]()
 
 ### C. Future Sessions in March/April
 * **New* [Unit 8 2D Arrays]()
