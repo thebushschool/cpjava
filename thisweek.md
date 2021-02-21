@@ -9,7 +9,7 @@
 | 2 | Array List | [Asteroids Game Project Final](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MjYwNTg4Mzg5NjQ1/details?cjc=gmy37a3) | 2/12 | Due now. Did you submit to Github?    
 | 3 | String | [Google Billboard Project](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MjYyNDIxNzgzMTM0/details) | 2/26 | Due this week 
 | 4 | Pointers | [Pointers Worksheet](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MjcwMjU0NTIzMDA5/details) | 2/26 | Due this week 
-| 5 | Pointers | [Recursion Worksheet](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/Mjc2Nzg2ODY2MTI5/details) | 2/26 | Due this week 
+| 5 | Recursion | [Recursion Worksheet](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/Mjc2Nzg2ODY2MTI5/details) | 2/26 | Due this week 
 | 6 | String & Pointers | [Piglatin Project](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MjYyNDM0NjMzNDM3/details) | 3/5 | Due 1st week in March 
 | 7 | String & Pointers | [Palindrome Checker Project](https://github.com/chandrunarayan/PalindromeChecker) | 3/12 | Due 2nd week in March
 | 8 | Recursion | [Sierpinski Triangle Project](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/Mjc2Nzg2ODY4Nzgx/details) | 3/19 | Due 3rd week in March     
