@@ -24,7 +24,8 @@
 
 ### C. Future Sessions in April
 * **New** [[Unit 10e Sorting - Sort & Merge](https://docs.google.com/presentation/d/1-f4OU7J88OAA-sbP0U2R_0-3bt1vucoMBUH3U2z5C1A/edit#slide=id.p1)
-* **TBD** [Unit 8 2D Arrays]()
+* **New** [Unit 8 2D Arrays Tables](https://docs.google.com/presentation/d/1cIgGz7huTaKrsFC5OKXdKNQ9ftwHSnWO6fjzegs7H0w/edit#slide=id.p1)
+
 
 ### D. For APCSA exam ** Units 1 2 3 4 5 6 & 7 instructional videos have been released! ** Access [College AP Daily Videos](https://apcentral.collegeboard.org/courses/ap-computer-science-a/classroom-resources?course=ap-computer-science-a) here. 
 
