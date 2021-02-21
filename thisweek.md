@@ -1,7 +1,7 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
 ## What's happening in CPJava for the next 2 weeks of Spring 2021! (Feb 22nd - Mar 5th) ??
-### A. Reminders for assignments
+### A. Reminders/Notifications for assignments coming due
 
 | Seq | Topic | Content/Project | Due | Remarks
 | :--- | :--- | :--- | :--- | :--- |
@@ -12,8 +12,9 @@
 | 5 | Recursion | [Recursion Worksheet](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/Mjc2Nzg2ODY2MTI5/details) | 2/26 | Due this week 
 | 6 | String & Pointers | [Piglatin Project](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MjYyNDM0NjMzNDM3/details) | 3/5 | Due 1st week in March 
 | 7 | String & Pointers | [Palindrome Checker Project](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MjY1NzMyMjgxOTI2/details) | 3/12 | Due 2nd week in March
-| 8 | Recursion | [Sierpinski Triangle Project](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/Mjc2Nzg2ODY4Nzgx/details) | 3/19 | Due 3rd week in March     
-| 9 | All | [Codingbat](codingbat.md) | End of April | Not Graded but highly recommended especially for APCSA Students  
+| 8 | Recursion | [Sierpinski Triangle Project](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/Mjc2Nzg2ODY4Nzgx/details) | 3/19 | Due 3rd week in March
+| 9 | Searching | [Linear and Binary Search Worksheet](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/Mjc2NzU1ODkzNjUz/details) | 3/30 | Due early April
+| 10 | All | [Codingbat](codingbat.md) | End of March | Not Graded but highly recommended especially for APCSA Students  
 
 ### B. New material for the next 2 weeks
 * **New** [Unit 10a Recursion Introduction Sierpinski Triangles](https://docs.google.com/presentation/d/1Ef1iENxFbYeJy7XDUlbV9JTiVYeoUkeXxrpcdx6UiwE/edit?usp=sharing)
@@ -24,7 +25,6 @@
 
 ### C. Future Sessions in March/April
 * **TBD** [Unit 8 2D Arrays]()
-* **TBD** [Unit 10d Search]()
 * **TBD** [Unit 10e Sort]()
 
 ### D. For APCSA exam ** Units 1 2 3 4 5 6 & 7 instructional videos have been released! ** Access [College AP Daily Videos](https://apcentral.collegeboard.org/courses/ap-computer-science-a/classroom-resources?course=ap-computer-science-a) here. 
