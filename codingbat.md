@@ -1,5 +1,5 @@
 ## Codingbat Problem Sets for ALL students
-### Not graded bu recommended especially for APCSA students in preparing for exam
+### Not graded but recommended especially for APCSA students in preparing for exam
 ### Complete 2 problemsets per week
 
 | Sequence | Topic | Codingbat Problemset
