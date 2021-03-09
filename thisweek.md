@@ -5,19 +5,14 @@
 
 | Seq | Topic | Content/Project | Due | Remarks
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | Enhanced Loop | [For-Each Quiz/Worksheet](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MjYxMjQ5Nzg0Njk3/details) | 2/2 | Due now. Did you submit to Github?    
-| 2 | Array List | [Asteroids Game Project Final](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MjYwNTg4Mzg5NjQ1/details?cjc=gmy37a3) | 2/12 | Due now. Did you submit to Github?    
-| 3 | String | [Google Billboard Project](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MjYyNDIxNzgzMTM0/details) | 2/26 | Due this week 
-| 4 | Pointers | [Pointers Worksheet](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MjcwMjU0NTIzMDA5/details) | 2/26 | Due this week 
-| 5 | Recursion | [Recursion Worksheet](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/Mjc2Nzg2ODY2MTI5/details) | 2/26 | Due this week 
-| 6 | String & Pointers | [Piglatin Project](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MjYyNDM0NjMzNDM3/details) | 3/5 | Due 1st week in March 
-| 7 | String & Pointers | [Palindrome Checker Project](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MjY1NzMyMjgxOTI2/details) | 3/12 | Due 2nd week in March
-| 8 | Recursion | [Recursion Practice Problems](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/Mjc2Nzg2ODY4Nzgx/details) | 3/12 | Due 2nd week in March NOT GRADED
-| 9 | Recursion | [Sierpinski Triangle Project](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/Mjc2Nzg2ODY4Nzgx/details) | 3/19 | Due 3rd week in March
-| 10 | Searching | [Linear and Binary Search Worksheet](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/Mjc2NzU1ODkzNjUz/details) | 3/30 | Due late March
-| 11 | Searching | [Search Functions Project](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/Mjc2NzU1ODkzODc0/details) | 4/16 | Due  mid-April
-| 12 | 2D Arrays | [Game of Life Project](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/Mjc2ODI2MjEwMTAy/details) | 4/16 | Due  late-April
-| 13 | All | [Codingbat](codingbat.md) | End of April | Not Graded but highly recommended especially for APCSA Students  
+| 1 | String & Pointers | [Piglatin Project](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MjYyNDM0NjMzNDM3/details) | 3/5 | Due 1st week in March 
+| 2 | String & Pointers | [Palindrome Checker Project](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MjY1NzMyMjgxOTI2/details) | 3/12 | Due 2nd week in March
+| 3 | Recursion | [Recursion Practice Problems](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/Mjc2Nzg2ODY4Nzgx/details) | 3/12 | Due 2nd week in March NOT GRADED
+| 4 | Recursion | [Sierpinski Triangle Project](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/Mjc2Nzg2ODY4Nzgx/details) | 3/19 | Due 3rd week in March
+| 5 | Searching | [Linear and Binary Search Worksheet](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/Mjc2NzU1ODkzNjUz/details) | 3/30 | Due late March
+| 6 | Searching | [Search Functions Project](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/Mjc2NzU1ODkzODc0/details) | 4/16 | Due  mid-April
+| 7 | 2D Arrays | [Game of Life Project](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/Mjc2ODI2MjEwMTAy/details) | 4/16 | Due  late-April
+| 8 | All | [Codingbat](codingbat.md) | End of April | Not Graded but highly recommended especially for APCSA Students  
 
 ### B. New material for the next 4 weeks
 * **New** [OPTIONAL Unit 10c Recursion Fractals](https://docs.google.com/presentation/d/1aR38R14PDpmxgmxdUPdc1ueedpyYKNXf8x0EmPezd0U/edit?usp=sharing)
