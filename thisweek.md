@@ -26,46 +26,26 @@
 
 ### D. For APCSA exam ** Units 1 to 9 instructional videos have been released! ** Access [College AP Daily Videos](https://apcentral.collegeboard.org/pdf/available-ap-daily-videos-ap-computer-science-a.pdf?course=ap-computer-science-a) here. 
 
-### D. Previously ...
+
 ############################
+### E. Previously ...
 ############################
 
 ### [What happened in CPJava previously? (Feb 15thth - Mar 5th) ??](weekoffeb15)
 
 ### [What happened in CPJava previously? (Jan 25th - Feb 12th) ??](weekofjan25)
 
-############################
-############################
-
 ### [What happened in CPJava previously? (Jan 4th - Jan 15th) ??](weekofjan4)
-
-############################
-############################
 
 ### [What happened in CPJava previously? (Dec 1st - Dec 18th) ??](weekofdec1)
 
-############################
-############################
-
 ### [What happened in CPJava previously? (Nov 16th - Nov 27th) ??](weekofnov16)
-
-############################
-############################
 
 ### [What happened in CPJava previously? (Nov 2nd - Nov 13th) ??](weekofnov2)
 
-############################
-############################
-
 ### [What happened in CPJava previously? (Oct 19th - Oct 30th) ??](weekofoct19)
 
-############################
-############################
-
 ### [What happened in CPJava previously? (Oct 12th - Oct 16th) ??](weekofoct12)
-
-############################
-############################
 
 ### [What happened in CPJava previously? (Oct 5th - Oct 12th) ??](weekofoct5)
 
