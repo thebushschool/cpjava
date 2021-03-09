@@ -1,7 +1,7 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
-## What's happening in CPJava for the next 4 weeks of Spring 2021! (Mar 8th - Apr 2nd) ??
-### A. Reminders/Notifications for assignments due in March/April
+## What's happening in CPJava for the next 2 weeks of Spring 2021! (Feb 22nd - Mar 5th) ??
+### A. Reminders/Notifications for assignments coming due in March/April
 
 | Seq | Topic | Content/Project | Due | Remarks
 | :--- | :--- | :--- | :--- | :--- |
@@ -12,30 +12,29 @@
 | 5 | Recursion | [Recursion Worksheet](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/Mjc2Nzg2ODY2MTI5/details) | 2/26 | Due this week 
 | 6 | String & Pointers | [Piglatin Project](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MjYyNDM0NjMzNDM3/details) | 3/5 | Due 1st week in March 
 | 7 | String & Pointers | [Palindrome Checker Project](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/MjY1NzMyMjgxOTI2/details) | 3/12 | Due 2nd week in March
-| 8 | Recursion | [Recursion Practice Problems](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/Mjc2Nzg2ODY4Nzgx/details) | 3/12 | Due 2nd week in March NOT GRADED
-| 9 | Recursion | [Sierpinski Triangle Project](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/Mjc2Nzg2ODY4Nzgx/details) | 3/19 | Due 3rd week in March
-| 10 | Searching | [Linear and Binary Search Worksheet](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/Mjc2NzU1ODkzNjUz/details) | 3/30 | Due late March
-| 11 | Searching | [Search Functions Project](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/Mjc2NzU1ODkzODc0/details) | 4/16 | Due  mid-April
-| 12 | 2D Arrays | [Game of Life Project](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/Mjc2ODI2MjEwMTAy/details) | 4/16 | Due  late-April
-| 13 | All | [Codingbat](codingbat.md) | End of April | Not Graded but highly recommended especially for APCSA Students  
+| 8 | Recursion | [Sierpinski Triangle Project](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/Mjc2Nzg2ODY4Nzgx/details) | 3/19 | Due 3rd week in March
+| 9 | Searching | [Linear and Binary Search Worksheet](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/Mjc2NzU1ODkzNjUz/details) | 3/30 | Due late March
+| 10 | Searching | [Search Functions Project](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/Mjc2NzU1ODkzODc0/details) | 4/16 | Due  mid-April
+| 11 | 2D Arrays | [Game of Life Project](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/Mjc2ODI2MjEwMTAy/details) | 4/16 | Due  late-April
+| 12 | All | [Codingbat](codingbat.md) | End of April | Not Graded but highly recommended especially for APCSA Students  
 
-### B. New material for the next 4 weeks
-* **New** [OPTIONAL Unit 10c Recursion Fractals](https://docs.google.com/presentation/d/1aR38R14PDpmxgmxdUPdc1ueedpyYKNXf8x0EmPezd0U/edit?usp=sharing)
-* **New** [Unit 10d Linear & Binary Search with Recursion](https://docs.google.com/presentation/d/1DW8ui1wq-oD36bLh8V1L0Am2ZW33LLORZDvMT31DWkc/edit?usp=sharing)
-* **New** [Unit 10e Sort & Merge with Recursion](https://docs.google.com/presentation/d/1-f4OU7J88OAA-sbP0U2R_0-3bt1vucoMBUH3U2z5C1A/edit?usp=sharing)
-
-
-### C. Future Sessions in April
-* **New** [Unit 8 2D Arrays Tables](https://docs.google.com/presentation/d/1cIgGz7huTaKrsFC5OKXdKNQ9ftwHSnWO6fjzegs7H0w/edit?usp=sharing)
+### B. New material for the next 2 weeks
+* **New** [Unit 10a Recursion Introduction Sierpinski Triangles](https://docs.google.com/presentation/d/1Ef1iENxFbYeJy7XDUlbV9JTiVYeoUkeXxrpcdx6UiwE/edit?usp=sharing)
+* **New** [Unit 10b Recursion Fibonacci Sequence](https://docs.google.com/presentation/d/19gdc2QhdPKWhc-BZzwau2WEatgVQI2ftLCHv337OUPc/edit?usp=sharing)
+* **TBD** [Unit 10c Recursion Fractals]()
 
 
-### D. For APCSA exam ** Units 1 to 9 instructional videos have been released! ** Access [College AP Daily Videos](https://apcentral.collegeboard.org/pdf/available-ap-daily-videos-ap-computer-science-a.pdf?course=ap-computer-science-a) here. 
+### C. Future Sessions in March/April
+* **New** [Unit 10d Searching - Linear Binary Recursive](https://docs.google.com/presentation/d/1DW8ui1wq-oD36bLh8V1L0Am2ZW33LLORZDvMT31DWkc/edit#slide=id.gbeb523f7ba_0_0)
+* **New** [Unit 10e Sorting & Merging](https://docs.google.com/presentation/d/1-f4OU7J88OAA-sbP0U2R_0-3bt1vucoMBUH3U2z5C1A/edit#slide=id.p1)
+* **New** [Unit 8 2D Arrays Tables](https://docs.google.com/presentation/d/1cIgGz7huTaKrsFC5OKXdKNQ9ftwHSnWO6fjzegs7H0w/edit#slide=id.p1)
+
+
+### D. For APCSA exam ** Units 1 2 3 4 5 6 & 7 instructional videos have been released! ** Access [College AP Daily Videos](https://apcentral.collegeboard.org/courses/ap-computer-science-a/classroom-resources?course=ap-computer-science-a) here. 
 
 ### D. Previously ...
 ############################
 ############################
-
-### [What happened in CPJava previously? (Feb 15thth - Mar 5th) ??](weekoffeb15)
 
 ### [What happened in CPJava previously? (Jan 25th - Feb 12th) ??](weekofjan25)
 
