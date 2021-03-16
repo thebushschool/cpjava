@@ -161,7 +161,7 @@ Make sure you login to codingbat with your username before attempting problem se
 | 6 | String | [Googlebillboard](https://codingbat.com/home/chandru.narayan@bush.edu/googlebillboard)
 | 7 | String & Pointers | [Piglatin](https://codingbat.com/home/chandru.narayan@bush.edu/piglatin)
 | 8 | String & Pointers | [String1](https://codingbat.com/home/chandru.narayan@bush.edu/string1) [String2](https://codingbat.com/home/chandru.narayan@bush.edu/string2) [String3](https://codingbat.com/home/chandru.narayan@bush.edu/string3)
-| 9 | Array Travesal | [Palindrome](https://codingbat.com/home/chandru.narayan@bush.edu/palindrome)
+| 9 | Array Traversal | [Palindrome](https://codingbat.com/home/chandru.narayan@bush.edu/palindrome)
 | 10 | Recursion | [Recursion1](https://codingbat.com/home/chandru.narayan@bush.edu/recursion1) [Recursion2](https://codingbat.com/home/chandru.narayan@bush.edu/recursion2) [Recursion3](https://codingbat.com/home/chandru.narayan@bush.edu/recursion3)
 | 11 | Searching | [Searching1](https://codingbat.com/home/chandru.narayan@bush.edu/searching1) [Searching2](https://codingbat.com/home/chandru.narayan@bush.edu/searching2)
 | 12 | Sorting | [Sorting](https://codingbat.com/home/chandru.narayan@bush.edu/sorting)
