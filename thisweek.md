@@ -14,11 +14,11 @@
 | 7 | 2D Arrays | [Game of Life Project](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/Mjc2ODI2MjEwMTAy/details) | 4/16 | Due  late-April
 | 8 | All | [Codingbat](codingbat.md) | End of April | Not Graded but highly recommended especially for APCSA Students  
 
-### B. New material for the next 4 weeks
-* **New** [OPTIONAL Unit 10c Recursion Fractals](https://docs.google.com/presentation/d/1aR38R14PDpmxgmxdUPdc1ueedpyYKNXf8x0EmPezd0U/edit?usp=sharing)
-* **New** [Unit 10d Linear & Binary Search with Recursion](https://docs.google.com/presentation/d/1DW8ui1wq-oD36bLh8V1L0Am2ZW33LLORZDvMT31DWkc/edit?usp=sharing)
-* **New** [Unit 10e Sort & Merge with Recursion](https://docs.google.com/presentation/d/1-f4OU7J88OAA-sbP0U2R_0-3bt1vucoMBUH3U2z5C1A/edit?usp=sharing)
-
+### B. Class material for the next 4 weeks
+* [OPTIONAL Unit 10c Recursion Fractals](https://docs.google.com/presentation/d/1aR38R14PDpmxgmxdUPdc1ueedpyYKNXf8x0EmPezd0U/edit?usp=sharing)
+* [Unit 10d Linear & Binary Search with Recursion](https://docs.google.com/presentation/d/1DW8ui1wq-oD36bLh8V1L0Am2ZW33LLORZDvMT31DWkc/edit?usp=sharing)
+* [Unit 10e Sort & Merge with Recursion](https://docs.google.com/presentation/d/1-f4OU7J88OAA-sbP0U2R_0-3bt1vucoMBUH3U2z5C1A/edit?usp=sharing)
+* [Class Recording from March 25th. Use passsword: k7zWa5&A ](https://zoom.us/rec/share/U-4ghXxit9sgo4TDPhGrLEW1GGt__EH3HsAmmeaLjVLj0zjfw43QTQxdMuG0VLTq.oSimoN7xsH3TGbnh)
 
 ### C. Future Sessions in April
 * **New** [Unit 8 2D Arrays Tables](https://docs.google.com/presentation/d/1cIgGz7huTaKrsFC5OKXdKNQ9ftwHSnWO6fjzegs7H0w/edit?usp=sharing)
