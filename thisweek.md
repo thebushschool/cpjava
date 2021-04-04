@@ -1,7 +1,8 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
-## What's happening in CPJava for the next 4 weeks of Spring 2021! (Mar 8th - Apr 2nd) ??
-### A. Reminders/Notifications for assignments due in March/April
+## What's happening in CPJava for the next 2 week of Spring 2021 with Spring Break intervening! (Apr 5th - Apr 23rd) ??
+
+### A. Reminders/Notifications for assignments due in March/April/May
 
 | Seq | Topic | Content/Project | Due | Remarks
 | :--- | :--- | :--- | :--- | :--- |
@@ -14,24 +15,20 @@
 | 7 | 2D Arrays | [Game of Life Project](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/Mjc2ODI2MjEwMTAy/details) | 4/16 | Due  late-April
 | 8 | All | [Codingbat](codingbat.md) | End of April | Not Graded but highly recommended especially for APCSA Students  
 
-### B. Class material for the next 4 weeks
-* [OPTIONAL Unit 10c Recursion Fractals](https://docs.google.com/presentation/d/1aR38R14PDpmxgmxdUPdc1ueedpyYKNXf8x0EmPezd0U/edit?usp=sharing)
-* [Unit 10d Linear & Binary Search with Recursion](https://docs.google.com/presentation/d/1DW8ui1wq-oD36bLh8V1L0Am2ZW33LLORZDvMT31DWkc/edit?usp=sharing)
-* [Unit 10e Sort & Merge with Recursion](https://docs.google.com/presentation/d/1-f4OU7J88OAA-sbP0U2R_0-3bt1vucoMBUH3U2z5C1A/edit?usp=sharing)
-* [Class Recording from March 25th](https://zoom.us/rec/share/U-4ghXxit9sgo4TDPhGrLEW1GGt__EH3HsAmmeaLjVLj0zjfw43QTQxdMuG0VLTq.oSimoN7xsH3TGbnh) Use Passcode: k7zWa5&A
+### B. Class material for the final weeks of the Semester!
 
-### C. Future Sessions in April
 * **New** [Unit 8 2D Arrays Tables](https://docs.google.com/presentation/d/1cIgGz7huTaKrsFC5OKXdKNQ9ftwHSnWO6fjzegs7H0w/edit?usp=sharing)
+* [Unit 10e Sort & Merge with Recursion](https://docs.google.com/presentation/d/1-f4OU7J88OAA-sbP0U2R_0-3bt1vucoMBUH3U2z5C1A/edit?usp=sharing)
 
-
-### D. For APCSA exam ** Units 1 to 9 instructional videos have been released! ** Access [College AP Daily Videos](https://apcentral.collegeboard.org/pdf/available-ap-daily-videos-ap-computer-science-a.pdf?course=ap-computer-science-a) here. 
-
+### C. For APCSA exam ** Units 1 to 10 instructional videos have been released! ** Access [College AP Daily Videos](https://apcentral.collegeboard.org/pdf/available-ap-daily-videos-ap-computer-science-a.pdf?course=ap-computer-science-a) here. 
 
 ############################
-### E. Previously ...
+### D. Previously ...
 ############################
 
-### [What happened in CPJava previously? (Feb 15thth - Mar 5th) ??](weekoffeb15)
+### [What happened in CPJava previously? (Mar 8thth - Apr2nd) ??](weekofmar8)
+
+### [What happened in CPJava previously? (Feb 15th - Mar 5th) ??](weekoffeb15)
 
 ### [What happened in CPJava previously? (Jan 25th - Feb 12th) ??](weekofjan25)
 
