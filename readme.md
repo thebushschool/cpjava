@@ -1,7 +1,7 @@
 [_Bush School CPJava Spring Semester 2021_](https://chandrunarayan.github.io/cpjava/)
 
 
-## [What's happening in CPJava next 4 weeks (Mar 8th-Apr 2nd) ??](thisweek.md)
+## [What's happening in CPJava next week (Mar 8th-Apr 2nd) ??](thisweek.md)
 
 ### 2021 Weekly Schedule
 ![alt text](2021-Weekly-Schedule.png)
@@ -123,9 +123,9 @@ We will be using the Paired Programming teams for team projects. ** Please provi
 * [Unit 9a Inheritance & Encapsulation Student Paced Sesssion](https://docs.google.com/presentation/d/1APHiU8WDTsL6ll2f2R2uBWW79uEhsPXPJZxobfls5lM/edit?usp=sharing)
 * [Unit 10a Recursion and Sierpinski Triangles](https://docs.google.com/presentation/d/1Ef1iENxFbYeJy7XDUlbV9JTiVYeoUkeXxrpcdx6UiwE/edit?usp=sharing)
 * [Unit 10b Recursion and Fibonacci Sequence](https://docs.google.com/presentation/d/19gdc2QhdPKWhc-BZzwau2WEatgVQI2ftLCHv337OUPc/edit?usp=sharing)
-* **New** [OPTIONAL Unit 10c Recursion and Fractals](https://docs.google.com/presentation/d/1aR38R14PDpmxgmxdUPdc1ueedpyYKNXf8x0EmPezd0U/edit?usp=sharing)
-* **New** [Unit 10d Searching - Linear Binary Recursive Search](https://docs.google.com/presentation/d/1DW8ui1wq-oD36bLh8V1L0Am2ZW33LLORZDvMT31DWkc/edit?usp=sharing)
-* **New** [Unit 10e Sorting - Sort & Merge](https://docs.google.com/presentation/d/1-f4OU7J88OAA-sbP0U2R_0-3bt1vucoMBUH3U2z5C1A/edit?usp=sharing)
+* [OPTIONAL Unit 10c Recursion and Fractals](https://docs.google.com/presentation/d/1aR38R14PDpmxgmxdUPdc1ueedpyYKNXf8x0EmPezd0U/edit?usp=sharing)
+* [Unit 10d Searching - Linear Binary Recursive Search](https://docs.google.com/presentation/d/1DW8ui1wq-oD36bLh8V1L0Am2ZW33LLORZDvMT31DWkc/edit?usp=sharing)
+* [Unit 10e Sorting - Sort & Merge](https://docs.google.com/presentation/d/1-f4OU7J88OAA-sbP0U2R_0-3bt1vucoMBUH3U2z5C1A/edit?usp=sharing)
 
 ## Student Paced Sessions for Projects
 * [Unit 9b Asteroids Project Part 1](https://docs.google.com/presentation/d/1HfHQTei9qgkBEBhNqUKqmAc6g2V3x8FDprajTp5IZuE/edit?usp=sharing)
@@ -145,7 +145,7 @@ We will be using the Paired Programming teams for team projects. ** Please provi
 * [Piglatin Project](https://github.com/chandrunarayan/Piglatin)
 * [Palindrome Checker Project](https://github.com/chandrunarayan/PalindromeChecker)
 * [Sierpinski Triangles Project](https://github.com/chandrunarayan/Sierpinski)
-* **New* [Linear Binary Search Functions Project](https://github.com/chandrunarayan/LinearBinarySearch)
+* [Linear Binary Search Functions Project](https://github.com/chandrunarayan/LinearBinarySearch)
 * **New* [Game of Life Project](https://github.com/chandrunarayan/GameOfLife)
 
 ##  Codingbat Practice Topics
@@ -167,15 +167,11 @@ Make sure you login to codingbat with your username before attempting problem se
 | 12 | Sorting | [Sorting](https://codingbat.com/home/chandru.narayan@bush.edu/sorting)
 | 13 | 2D Arrays | [Minesweeper](https://codingbat.com/home/chandru.narayan@bush.edu/minesweeper)
 
-## APCSA Exam Spring 2020
+## APCSA Exam Spring 2021
 
-[APCSA exam will be held on Friday, May 15th 1:00 PM Pacific Time](https://apcoronavirusupdates.collegeboard.org/educators/taking-the-exams/ap-exam-schedule)
+### [APCSA exam will be held on Tuesday, May 18th 1:00 PM Pacific Time](https://apstudents.collegeboard.org/exam-calendar)
 
-Registration is now open for AP exams, which are scheduled for May of 2021. While Bush does not offer the College Board Advanced Placement® curriculum, some courses do prepare students for the content on the exams. These exams are not required or even recommended for admission to U.S. colleges. The most common reasons students would take AP exams are to satisfy entry requirements for some international universities and the possibility of earning college credit with a score of 4 or 5. 
- 
-Students should register below, and the registration deadline is November 2, 2020. Students should check with their college counselor or teacher if they have questions about whether a course’s content aligns with the corresponding AP exam.
-
-* [Click Here to REGISTER - BUSH SCHOOL HAS A SPECIAL REGISTRATION SITE](https://bush.myschoolapp.com/app/pushpage/TrackPushPageEmail?s=409&snd=c92c364e-455c-423b-aeed-22e62ca564bf&url=0BC61006759208B9B17622DF9FDF43938A774A78322CD835AFA0739F73777143&lbl=here)
+### [APCSA Instructional Videos can be accessed here](https://apcentral.collegeboard.org/pdf/available-ap-daily-videos-ap-computer-science-a.pdf?course=ap-computer-science-a)
 
 ### [Archived Lessons](archived_lessons.md)
 
