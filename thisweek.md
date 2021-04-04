@@ -1,6 +1,6 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
-## What's happening in CPJava for the next 2 week of Spring 2021 with Spring Break intervening! (Apr 5th - Apr 23rd) ??
+## What's happening in CPJava for the next 2 weeks (Apr 5th - Apr 23rd) ??
 
 ### A. Reminders/Notifications for assignments due in March/April/May
 
