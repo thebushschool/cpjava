@@ -26,7 +26,7 @@
 ### D. Previously ...
 ############################
 
-### [What happened in CPJava previously? (Mar 8thth - Apr2nd) ??](weekofmar8)
+### [What happened in CPJava previously? (Mar 8th - Apr2nd) ??](weekofmar8)
 
 ### [What happened in CPJava previously? (Feb 15th - Mar 5th) ??](weekoffeb15)
 
