@@ -1,7 +1,7 @@
 [_Bush School CPJava Spring Semester 2021_](https://chandrunarayan.github.io/cpjava/)
 
 
-## [What's happening in CPJava next week (Mar 8th-Apr 2nd) ??](thisweek.md)
+## [What's happening in CPJava for the next 2 weeks with Spring Break intervening? Apr 5th - Apr 23rd](thisweek.md)
 
 ### 2021 Weekly Schedule
 ![alt text](2021-Weekly-Schedule.png)
