@@ -20,7 +20,7 @@
 * [Unit 8 2D Arrays Tables](https://docs.google.com/presentation/d/1cIgGz7huTaKrsFC5OKXdKNQ9ftwHSnWO6fjzegs7H0w/edit?usp=sharing)
 * [Unit 10e Sort & Merge with Recursion](https://docs.google.com/presentation/d/1-f4OU7J88OAA-sbP0U2R_0-3bt1vucoMBUH3U2z5C1A/edit?usp=sharing)
 * [Final Project Assignments TBD ..]()
-* We will syudy how to code genetic algorithms which is the precusrsor of Neural Networks
+* We will study how to code genetic algorithms which is the precusrsor of Neural Networks
 * I decided on this because it gives you a bit more practice of Java concepts learned
 
 ### C. For APCSA exam ** Units 1 to 10 instructional videos have been released! ** Access [College AP Daily Videos](https://apcentral.collegeboard.org/pdf/available-ap-daily-videos-ap-computer-science-a.pdf?course=ap-computer-science-a) here. 
