@@ -1,7 +1,7 @@
 [_Bush School CPJava Spring Semester 2021_](https://chandrunarayan.github.io/cpjava/)
 
 
-## [What's happening in CPJava for the next 2 weeks with Spring Break intervening? Apr 5th - Apr 23rd](thisweek.md)
+## [What's happening in CPJava for the next 2 weeks after Spring Break? Apr 19th - Apr 30th](thisweek.md)
 
 ### 2021 Weekly Schedule
 ![alt text](2021-Weekly-Schedule.png)
@@ -146,7 +146,7 @@ We will be using the Paired Programming teams for team projects. ** Please provi
 * [Palindrome Checker Project](https://github.com/chandrunarayan/PalindromeChecker)
 * [Sierpinski Triangles Project](https://github.com/chandrunarayan/Sierpinski)
 * [Linear Binary Search Functions Project](https://github.com/chandrunarayan/LinearBinarySearch)
-* **New* [Game of Life Project](https://github.com/chandrunarayan/GameOfLife)
+* [Game of Life Project](https://github.com/chandrunarayan/GameOfLife)
 
 ##  Codingbat Practice Topics
 Make sure you login to codingbat with your username before attempting problem sets

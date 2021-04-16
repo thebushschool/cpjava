@@ -1,6 +1,6 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
 
-## What's happening in CPJava for the next 2 weeks (Apr 19th - Apr 30th) ??
+## What's happening in CPJava for the next 2 weeks (Apr 5th - Apr 23rd) ??
 
 ### A. Reminders/Notifications for assignments due in March/April/May
 
@@ -17,9 +17,8 @@
 
 ### B. Class material for the final weeks of the Semester!
 
-* [Unit 8 2D Arrays Tables](https://docs.google.com/presentation/d/1cIgGz7huTaKrsFC5OKXdKNQ9ftwHSnWO6fjzegs7H0w/edit?usp=sharing)
+* **New** [Unit 8 2D Arrays Tables](https://docs.google.com/presentation/d/1cIgGz7huTaKrsFC5OKXdKNQ9ftwHSnWO6fjzegs7H0w/edit?usp=sharing)
 * [Unit 10e Sort & Merge with Recursion](https://docs.google.com/presentation/d/1-f4OU7J88OAA-sbP0U2R_0-3bt1vucoMBUH3U2z5C1A/edit?usp=sharing)
-* [Final Project Assignments]()
 
 ### C. For APCSA exam ** Units 1 to 10 instructional videos have been released! ** Access [College AP Daily Videos](https://apcentral.collegeboard.org/pdf/available-ap-daily-videos-ap-computer-science-a.pdf?course=ap-computer-science-a) here. 
 
