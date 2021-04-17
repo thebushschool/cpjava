@@ -6,7 +6,7 @@
 ### 2021 Weekly Schedule
 ![alt text](2021-Weekly-Schedule.png)
 
-### On-Campus Schedule
+### On-Campus Schedule Apr 26th
 
   * [Daily Health Screening before Campus Arrival](https://forms.office.com/Pages/ResponsePage.aspx?id=a1889x_4-0Ob0n7ko0Og-VAn6i3AlVpLnGArk2hPCDFUNVFFUVlMWEk0Sk9DMUpPVkg3WllRVVRYOC4u)
 
@@ -16,7 +16,7 @@
 
 ![alt text](BSDS_H.png)
 
-### Remote Schedule
+### Remote Schedule Apr 3rd
 
 ![alt text](BSDS_R.png)
 
