@@ -13,7 +13,7 @@
 | 5 | Searching | [Linear and Binary Search Worksheet](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/Mjc2NzU1ODkzNjUz/details) | 3/30 | Due late March
 | 6 | Searching | [Search Functions Project](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/Mjc2NzU1ODkzODc0/details) | 4/16 | Due  mid-April
 | 7 | 2D Arrays | [Game of Life Project](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/Mjc2ODI2MjEwMTAy/details) | 4/16 | Due  late-April
-| 8 | All | [Codingbat](codingbat.md) | End of April | Not Graded but highly recommended especially for APCSA Students  
+| 8 | All **New added 2DArrays | [Codingbat](codingbat.md) | End of April | Not Graded but highly recommended especially for APCSA Students  
 
 ### B. Class material for the final weeks of the Semester!
 

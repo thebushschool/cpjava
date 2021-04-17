@@ -166,6 +166,7 @@ Make sure you login to codingbat with your username before attempting problem se
 | 11 | Searching | [Searching1](https://codingbat.com/home/chandru.narayan@bush.edu/searching1) [Searching2](https://codingbat.com/home/chandru.narayan@bush.edu/searching2)
 | 12 | Sorting | [Sorting](https://codingbat.com/home/chandru.narayan@bush.edu/sorting)
 | 13 | 2D Arrays | [Minesweeper](https://codingbat.com/home/chandru.narayan@bush.edu/minesweeper)
+| 14 | 2D Arrays | [2DArrays](https://codingbat.com/home/chandru.narayan@bush.edu/2darrays)
 
 ## APCSA Exam Spring 2021
 
