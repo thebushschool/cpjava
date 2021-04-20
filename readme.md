@@ -168,15 +168,16 @@ Make sure you login to codingbat with your username before attempting problem se
 | 13 | 2D Arrays | [Minesweeper](https://codingbat.com/home/chandru.narayan@bush.edu/minesweeper)
 | 14 | 2D Arrays | [2DArrays](https://codingbat.com/home/chandru.narayan@bush.edu/2darrays)
 
-## APCSA Exam Spring 2021
-
+## APCSA Exam Spring 2021 - May 18th
 ### [APCSA exam will be held on Tuesday, May 18th 1:00 PM Pacific Time](https://apstudents.collegeboard.org/exam-calendar)
 
 ### [APCSA Instructional Videos](https://apcentral.collegeboard.org/pdf/available-ap-daily-videos-ap-computer-science-a.pdf?course=ap-computer-science-a) can be accessed here!
 
 ### *** New [APCSA Review Videos](https://apcentral.collegeboard.org/pdf/ap-daily-live-review-syllabus-ap-computer-science-a.pdf) can be accessed here! If you are taking the APCS A exam this May, you will benefit by watching (and practicing!) these youtube videos as part of your review.
 
-### [Archived Lessons](archived_lessons.md)
+### *** New [Review APCSA Exam Terms and Conditions](https://click.e.collegeboard.org/?qs=81714f6076c5719f8990737aac6c43e70d0940b5a3a097e9530451cfd63b2a33685e83fe56306bca09f8800b3b62bfcde3eda64b5b7f181e74e64fc6db7ae0a1). Once reviewed, [you need to accept them here](https://click.e.collegeboard.org/?qs=81714f6076c5719f5ad93b119992ec0e02b849771c0a15e4166521e30b86a9d10bf05d77b1850e054b8fd90d6c8cb5448a072ee0ce71f4b25498f2d0281d6181) before taking the exam.
+  
+## [Archived Lessons](archived_lessons.md)
 
 ## Course Credit
 
