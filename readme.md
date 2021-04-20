@@ -172,7 +172,9 @@ Make sure you login to codingbat with your username before attempting problem se
 
 ### [APCSA exam will be held on Tuesday, May 18th 1:00 PM Pacific Time](https://apstudents.collegeboard.org/exam-calendar)
 
-### [APCSA Instructional Videos can be accessed here](https://apcentral.collegeboard.org/pdf/available-ap-daily-videos-ap-computer-science-a.pdf?course=ap-computer-science-a)
+### [APCSA Instructional Videos](https://apcentral.collegeboard.org/pdf/available-ap-daily-videos-ap-computer-science-a.pdf?course=ap-computer-science-a) can be accessed here!
+
+### *** New [APCSA Review Videos](https://apcentral.collegeboard.org/pdf/ap-daily-live-review-syllabus-ap-computer-science-a.pdf) can be accessed here! If you are taking the APCS A exam this May, you will benefit by watching (and practicing!) these youtube videos as part of your review.
 
 ### [Archived Lessons](archived_lessons.md)
 
