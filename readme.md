@@ -16,7 +16,7 @@
 
 ![alt text](BSDS_H.png)
 
-### Remote Schedule Apr 3rd
+### Remote Schedule Apr 19th
 
 ![alt text](BSDS_R.png)
 
