@@ -3,13 +3,10 @@
 
 ## [What's happening in CPJava for the next 2 weeks after Spring Break? Apr 19th - Apr 30th](thisweek.md)
 
-### 2021 Weekly Schedule
+## 2021 Weekly Schedule
 ![alt text](2021-Weekly-Schedule.png)
-  * [Daily Health Screening before Campus Arrival](https://forms.office.com/Pages/ResponsePage.aspx?id=a1889x_4-0Ob0n7ko0Og-VAn6i3AlVpLnGArk2hPCDFUNVFFUVlMWEk0Sk9DMUpPVkg3WllRVVRYOC4u)
-
-  * [Assigned Spaces Link](https://docs.google.com/spreadsheets/d/1taYUBJNivBvYH6h_1XqmnzDTka0KgZ4yjGY0q9Czyt8/edit#gid=1176101705)
-
-  * [Lunch Assignments & Remote Students](https://docs.google.com/spreadsheets/d/1h0JPVNZdF9SK1j_pnrARk2tfXUhV39mZtkg4kYzWlfg/edit?ts=60183d8a#gid=1459610782)
+* [Daily Health Screening before Campus Arrival](https://forms.office.com/Pages/ResponsePage.aspx?id=a1889x_4-0Ob0n7ko0Og-VAn6i3AlVpLnGArk2hPCDFUNVFFUVlMWEk0Sk9DMUpPVkg3WllRVVRYOC4u)
+* [Assigned Spaces Link & Remote Students Roster](https://docs.google.com/spreadsheets/d/1zUfECDQHdLX9Wg1Q_MNokOrYd7GXkEOLYGulvWUvKPQ/edit?ts=608080fc#gid=919051611)
 
 ### Remote Schedule Apr 19th
 
