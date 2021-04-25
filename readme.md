@@ -6,6 +6,7 @@
 ## 2021 Weekly Schedule
 ![alt text](2021-Weekly-Schedule.png)
 * [Daily Health Screening before Campus Arrival](https://forms.office.com/Pages/ResponsePage.aspx?id=a1889x_4-0Ob0n7ko0Og-VAn6i3AlVpLnGArk2hPCDFUNVFFUVlMWEk0Sk9DMUpPVkg3WllRVVRYOC4u)
+* [Faculty/Staff On Campus Form](https://docs.google.com/forms/d/e/1FAIpQLScPfJwgQTUNx-86SPGF2UpaxTvuKqYQfIfW2shM4pOOapucew/viewform)
 * [Lunch Assignments & Remote Students Roster](https://docs.google.com/spreadsheets/d/1zUfECDQHdLX9Wg1Q_MNokOrYd7GXkEOLYGulvWUvKPQ/edit?ts=608080fc#gid=919051611)
 * [Assigned Classroom Spaces for Hybrid Schooling](https://docs.google.com/spreadsheets/d/1ptL6A439QUUwwVE4XioRQpLjxhR3keJVzTiOWTpGizo/edit?usp=sharing_eip&ts=60819645)
 
