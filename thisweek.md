@@ -20,9 +20,10 @@
 * [Unit 8 2D Arrays Tables](https://docs.google.com/presentation/d/1cIgGz7huTaKrsFC5OKXdKNQ9ftwHSnWO6fjzegs7H0w/edit?usp=sharing)
 
 ### C. Final Project Assignments
-* [Final Project Assignments TBD..]()
-* We will study how to code genetic algorithms which is the precusrsor of Neural Networks
-* I decided on this because it gives you a bit more practice of Java concepts learned
+
+* The [Game of Life](https://classroom.google.com/c/MTI2MDgzMTM2MDgw/a/Mjc2ODI2MjEwMTAy/details) project will be considered as your final project assignment.
+* If you are taking the APCSA Exam you are exempt from the Final Project. However, you are required to complete the [Coding Bat Problemsets](./codingbat) as preparation for your final exam.  
+
 
 ### C. For APCSA exam ** Units 1 to 10 instructional videos have been released! ** Access [College AP Daily Videos](https://apcentral.collegeboard.org/pdf/available-ap-daily-videos-ap-computer-science-a.pdf?course=ap-computer-science-a) here. 
 
