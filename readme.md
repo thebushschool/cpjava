@@ -10,13 +10,17 @@
 * [Lunch Assignments & Remote Students Roster](https://docs.google.com/spreadsheets/d/1zUfECDQHdLX9Wg1Q_MNokOrYd7GXkEOLYGulvWUvKPQ/edit?ts=608080fc#gid=919051611)
 * [Assigned Classroom Spaces for Hybrid Schooling](https://docs.google.com/spreadsheets/d/1ptL6A439QUUwwVE4XioRQpLjxhR3keJVzTiOWTpGizo/edit?usp=sharing_eip&ts=60819645)
 
-### Remote Schedule Apr 19th
+### Remote Schedule May 3rd
 
-![alt text](BSDS_R.png)
+![alt text](may3.png)
 
-### On-Campus Schedule Apr 26th
+### Remote Special Schedule for May 7th
 
-![alt text](BSDS_H.png)
+![alt text](may7.png)
+
+### Remote Schedule FINAL WEEK May 10th
+
+![alt text](final_week.png)
 
 
 ## [To see all Student Projects in action Click Here!](giftable.md)
