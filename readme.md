@@ -3,7 +3,7 @@
 
 ## [What's happening in CPJava during the final weeks of the Semester? Apr 19th - May 14th](thisweek.md)
 
-## 2021 Weekly Schedule
+## 2021 Weekly Schedule  HAPPY FRIDAY!!
 ![alt text](2021-Weekly-Schedule.png)
 * [Daily Health Screening before Campus Arrival](https://forms.office.com/Pages/ResponsePage.aspx?id=a1889x_4-0Ob0n7ko0Og-VAn6i3AlVpLnGArk2hPCDFUNVFFUVlMWEk0Sk9DMUpPVkg3WllRVVRYOC4u)
 * [Faculty/Staff On Campus Form](https://docs.google.com/forms/d/e/1FAIpQLScPfJwgQTUNx-86SPGF2UpaxTvuKqYQfIfW2shM4pOOapucew/viewform)
