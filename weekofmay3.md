@@ -1,7 +1,7 @@
 [_Bush School CPJava Spring Semester 2021_](https://chandrunarayan.github.io/cpjava/)
 
 
-## [Final Week of the CPJava class Year & Semester! May 10th - May 14th](thisweek.md)
+## [What's happening in CPJava during the final weeks of the Semester? Apr 19th - May 14th](thisweek.md)
 
 ## 2021 Weekly Schedule  HAPPY FRIDAY!!
 ![alt text](2021-Weekly-Schedule.png)
@@ -9,6 +9,14 @@
 * [Faculty/Staff On Campus Form](https://docs.google.com/forms/d/e/1FAIpQLScPfJwgQTUNx-86SPGF2UpaxTvuKqYQfIfW2shM4pOOapucew/viewform)
 * [Lunch Assignments & Remote Students Roster](https://docs.google.com/spreadsheets/d/1zUfECDQHdLX9Wg1Q_MNokOrYd7GXkEOLYGulvWUvKPQ/edit?ts=608080fc#gid=919051611)
 * [Assigned Classroom Spaces for Hybrid Schooling](https://docs.google.com/spreadsheets/d/1ptL6A439QUUwwVE4XioRQpLjxhR3keJVzTiOWTpGizo/edit?usp=sharing_eip&ts=60819645)
+
+### Remote Schedule May 3rd
+
+![alt text](may3.png)
+
+### Remote Special Schedule for May 7th
+
+![alt text](may7.png)
 
 ### Remote Schedule FINAL WEEK May 10th
 
