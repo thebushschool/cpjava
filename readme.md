@@ -1,4 +1,4 @@
-[_Bush School CPJava Spring Semester 2021_](https://chandrunarayan.github.io/cpjava/)
+[_Bush School CPJava Fall Semester 2021_](https://chandrunarayan.github.io/cpjava/)
 
 
 ## [Final Week of the CPJava class Year & Semester! May 10th - May 14th](thisweek.md)

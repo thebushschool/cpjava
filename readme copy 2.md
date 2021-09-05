@@ -1,4 +1,4 @@
-[_Bush School CPJava Spring Semester 2021_](https://chandrunarayan.github.io/cpjava/)
+[_Bush School CPJava Fall Semester 2021_](https://chandrunarayan.github.io/cpjava/)
 ## [What's happening in CPJava first 2 weeks of 2021! (Jan 4th - Jan 15th) ??](thisweek.md)
 
 | <a href="https://GusCrowley.github.io/Starfield" target="_blank">Gus Starfield</a> | <a href="https://MizukiYates.github.io/Starfield" target="_blank">Mizuki Starfield</a> | <a href="https://chloeb777.github.io/Starfield" target="_blank">Chloe Starfield</a>
