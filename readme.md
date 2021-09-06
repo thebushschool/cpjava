@@ -20,18 +20,18 @@ In our CPJava classroom we are already using tools and techniques that are natur
 
 1. [CPJava WEBSITE](https://chandrunarayan.github.io/cpjava) - lessons, presentation, examples, exercises, projects, student-portfolios, references
 1. [CPJava Syllabus](src/CPJava_Syllabus.pdf) - Course Description, Syllabus, Grading Rubric etc.
-1. [Google Classroom](https://classroom.google.com/c/MTI2MDgzMTM2MDgw) - Google Classroom for course Assignments and student administrative materials
+1. [Google Classroom](https://classroom.google.com/c/MzkyMDU1MDY0Njc4) - Google Classroom for course Assignments and student administrative materials
 1. [GITHUB repository](https://github.com/) - code submissions for exercises and projects, published student portfilios - Login/Register with Bush ID
-1. [Processing Editor (IDE) Download](https://processing.org) - Code editor for Java and Processing languages
+1. [Processing Editor (IDE) Download](https://processing.org/download) - Code editor download for Java and Processing languages - Get Stable Release v. 3.5.4 or greater
 1. [Visual Code Editor (IDE) Download](https://code.visualstudio.com/download) - Login/Register with Bush ID
 1. [Trinket Exercises](https://trinket.io/chandru-narayan-9569/courses/cpjava-fall-2021) - Web-Based Java Exercises
-1. [Codingbat Exercises]() - Web-Based Java Exercises
-1. [CSAwesome Online Text](https://runestone.academy/runestone/default/user/login?_next=/runestone/default/index)
+1. [Codingbat Exercises](https://chandrunarayan.github.io/cpjava/#codingbat-practice-topics) - Web-Based Java Exercises
+1. [CSAwesome Online Text](https://csawesome.runestone.academy/runestone/books/published/csawesome/index.html) - CSAwesome Online Text
 1. [Online Textbook The Nature of Code](https://drive.google.com/file/d/1qZtNgUW-sAeSKF2FTZC5OXv-4q-09ye3/view?usp=sharing) - Download a local copy
 1. [Online Textbook Think Java](https://books.trinket.io/thinkjava2/index.html) - Web reference
 1. [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) - Youtube Video Examples from the Processing Foundation
 1. [Bush PORTAL](https://bush.myschoolapp.com/app/faculty#academicclass/110863906/0/bulletinboard) - links for all tools, official assignments, schedules, syllabus, grade rubric
-1. [SLACK Instant Messaging](https://app.slack.com/client/TTS9Y46VC) - communication for differentiated classroom, code extracts, bug fixes, instant help, quick challenges. You will receive an invitation. email communication is discouraged for this purpose.
+1. [SLACK Instant Messaging](https://cpjava2020.slack.com/archives/C02D12AE94P) - communication for differentiated classroom, code extracts, bug fixes, instant help, quick challenges. You will receive an invitation. email communication is discouraged for this purpose.
 1. [Bush EMAIL](mailto:chandru.narayan@bush.edu) will be used for administrative, one-on-one communications as necessary. Please check this once a each day during the Semester. 
 1. [Zoom Conference Appointments](https://calendly.com/chandru-narayan/conf-with-chandru)
 
@@ -45,23 +45,20 @@ In this mode of learning we will simultaneously start a consolidatded student-pa
 ### Doing by Learning First - Lecture-Based Synchronous Workflow
 We will use this method of learning sparingly, reserved for difficult topics that might require a lecture-based instructional unit.  The lectures below are designed in that manner and always available as a reference while we live in the world of Asynchronous "Learning by Doing First" model above.
 
-## Mini Lesson for newly admitted Upper School Students!
-### [Click here to access mini lesson](lessons/minilesson)
-
 ## Typical Workflow
-1. Student attends CPJava remotely via Zoom or in-person
+1. Student attends CPJava classes in-person at Bush Campus
 
 2. There are 11 Units in this course
 
-3. Each Unit will have student-paced asynchronous and lecture-based synchronous sessions that will guide the coverage of the content in each Unit
+3. Each Unit will have student-paced asynchronous and lecture-based  sessions that will guide the coverage of the content in each Unit
 
-4. Each Unit will also have Exercises and Projects to complete on online sources.  These are assigned via the [Google classroom](https://classroom.google.com/c/MTI2MDgzMTM2MDgw)
+4. Each Unit will also have Exercises and Projects to complete on online sources.  These are assigned via the [Google classroom](https://classroom.google.com/w/MzkyMDU1MDY0Njc4/t/all)
 
 5. Exercises are short code extracts, videos to watch etc. Projects are complete solutions (programs) that you will write to meet a given specification.
 
 6. Complete these and submit them to Github these as directed.  Projects will always have a code submission that is due. In some cases exercises may not have a code submission, but you will still practice them online.
 
-7. Once you complete the exercises and projects, mark them as complete in the [Google classroom](https://classroom.google.com/c/MTI2MDgzMTM2MDgw). If you actually submitted code to Github, paste a link in the Google classroom assignment before marking it as complete.
+7. Once you complete the exercises and projects, mark them as complete in the [Google classroom](https://classroom.google.com/w/MzkyMDU1MDY0Njc4/t/all). If you actually submitted code to Github, paste a link in the Google classroom assignment before marking it as complete.
 
 ### Expectations for School Work
 ![alt text][schoolwork]
@@ -168,7 +165,7 @@ This course draws from the book Building Java Programs: A Back to Basics Approac
 [idice]: idice.gif "idice"
 [bubbles]: https://chandrunarayan.github.io/sketches/bubbles/ "bubbles"
 [schedule]: src/schedule.png
-[schoolwork]: schoolwork.png
+[schoolwork]: src/expectations.png
 [guslight]: giftable/gus2.gif "guslight"
 [romanlight]: giftable/roman2.gif "romanlight"
 [hannahlight]: giftable/hannah.gif "hannahlight"
