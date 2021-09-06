@@ -84,7 +84,7 @@ We will be using the Paired Programming teams for team projects. ** Please provi
 ## Lesson Schedule
 
 ## Student Paced Sessions for Java Units
-* [Unit 0 Java Introduction](src/CPJavaIntro-v3.pdf)
+* [Unit 0 Java Introduction](lessons/unit1/src/CPJavaIntro-v3.pdf)
 * [Units 1 2 3 Consolidated Intro to Java Variables Operators Student Paced Sesssion](https://app.peardeck.com/student/tixodenzx)
 * [Unit 2a String Objects & Methods and Google Billboard Project](https://drive.google.com/open?id=1H9tzGeTWetjzUz1G450NGxbEO5xZl3BvacfkFWsvWRE&authuser=0)
 * [Unit 2b String Methods & Pointers and Piglatin Project](https://drive.google.com/open?id=1XLlg2WK9z2RQoCVq5l0EaKquK1Mhw4WYbfshck_Rujw&authuser=0)
