@@ -97,7 +97,7 @@ In the world of programming - [collaboration with others is everything](https://
 * [Unit 9a Inheritance & Encapsulation Student Paced Sesssion](https://docs.google.com/presentation/d/1APHiU8WDTsL6ll2f2R2uBWW79uEhsPXPJZxobfls5lM/edit?usp=sharing)
 * [Unit 10a Recursion and Sierpinski Triangles](https://docs.google.com/presentation/d/1Ef1iENxFbYeJy7XDUlbV9JTiVYeoUkeXxrpcdx6UiwE/edit?usp=sharing)
 * [Unit 10b Recursion and Fibonacci Sequence](https://docs.google.com/presentation/d/19gdc2QhdPKWhc-BZzwau2WEatgVQI2ftLCHv337OUPc/edit?usp=sharing)
-* [OPTIONAL Unit 10c Recursion and Fractals](https://docs.google.com/presentation/d/1aR38R14PDpmxgmxdUPdc1ueedpyYKNXf8x0EmPezd0U/edit?usp=sharing)
+* [Unit 10c Recursion and Fractals](https://docs.google.com/presentation/d/1aR38R14PDpmxgmxdUPdc1ueedpyYKNXf8x0EmPezd0U/edit?usp=sharing)
 * [Unit 10d Searching - Linear Binary Recursive Search](https://docs.google.com/presentation/d/1DW8ui1wq-oD36bLh8V1L0Am2ZW33LLORZDvMT31DWkc/edit?usp=sharing)
 * [Unit 10e Sorting - Sort & Merge](https://docs.google.com/presentation/d/1-f4OU7J88OAA-sbP0U2R_0-3bt1vucoMBUH3U2z5C1A/edit?usp=sharing)
 
