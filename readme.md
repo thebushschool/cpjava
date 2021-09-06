@@ -36,7 +36,7 @@ In our CPJava classroom we are already using tools and techniques that are natur
 1. [Zoom Conference Appointments](https://calendly.com/chandru-narayan/conf-with-chandru)
 
     
-### [CPJava Course Schedule 2020-2021](yearlycal) 
+### [Downloadable CPJava Course Schedule 2020-2021](src/schedule.png) 
 ![alt text][schedule]
 
 ## Learning Modes
