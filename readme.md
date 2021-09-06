@@ -66,24 +66,25 @@ We will use this method of learning sparingly, reserved for difficult topics tha
 ## Paired Programming Teams
 We will be using the Paired Programming teams for team projects. ** Please provide me the Github Account usernames that you created a few weeks ago **.  The Paired Programming projects will be published at this location.  I have updated paired programming teams for the 2nd-term also keeping in mind the students remote/on-campus students and those taking the APCSA exam.
 
-### Team Baker (on-campus & apcsa)
-* Chloe, Zubin
+### Team Baker 
+* 
  
-### Team Rainier (remote & apcsa)
-* Hannah, Ryan
+### Team Rainier 
+* 
 
-### Team Hood (remote)
-* Gus, Sally, Mizuki
+### Team Hood 
+* 
 
-### Team St Helens (remote)
-* Roman, Isaac
+### Team St Helens 
+* 
 
-### Team Stevens (on-campus)
-* Mark, Chandru
+### Team Stevens 
+* Ethan, Chandru
 
 ## Lesson Schedule
 
 ## Student Paced Sessions for Java Units
+* [Unit 0 Java Introduction](src/CPJavaIntro-v3.pdf)
 * [Units 1 2 3 Consolidated Intro to Java Variables Operators Student Paced Sesssion](https://app.peardeck.com/student/tixodenzx)
 * [Unit 2a String Objects & Methods and Google Billboard Project](https://drive.google.com/open?id=1H9tzGeTWetjzUz1G450NGxbEO5xZl3BvacfkFWsvWRE&authuser=0)
 * [Unit 2b String Methods & Pointers and Piglatin Project](https://drive.google.com/open?id=1XLlg2WK9z2RQoCVq5l0EaKquK1Mhw4WYbfshck_Rujw&authuser=0)
