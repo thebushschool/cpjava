@@ -1,6 +1,6 @@
 [_Bush School CPJava Fall Semester 2021_](https://chandrunarayan.github.io/cpjava/)
 
-## Bouncing Bubbles Model Java Program
+## Bouncing Bubbles Java Program
 ![alt text](bouncy_balls.gif)
 
 <a href="https://chandrunarayan.github.io/sketches/bubbles" target="blank">Click here for live code of bouncing bubbles and try clicking them inside resulting new tab or window. Like what you see? This course will be all about developing skills to simulate nature on your computer in a fun, engaging manner and learn Java on the side!</a>
