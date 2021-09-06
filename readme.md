@@ -122,7 +122,7 @@ In the world of programming - [collaboration with others is everything](https://
 * [Linear Binary Search Functions Project](https://github.com/chandrunarayan/LinearBinarySearch)
 * [Game of Life Project](https://github.com/chandrunarayan/GameOfLife)
 
-##  Codingbat Practice Topics
+##  [Codingbat Practice Topics](https://codingbat.com/home/chandru.narayan@bush.edu)
 Make sure you login to codingbat with your username before attempting problem sets
 
 | Sequence | Topic | Codingbat Problemset
