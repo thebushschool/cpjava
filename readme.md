@@ -1,22 +1,5 @@
 [_Bush School CPJava Fall Semester 2021_](https://chandrunarayan.github.io/cpjava/)
 
-
-## [Final Week of the CPJava class Year & Semester! May 10th - May 14th](thisweek.md)
-
-## 2021 Weekly Schedule  HAPPY FRIDAY!!
-![alt text](2021-Weekly-Schedule.png)
-* [Daily Health Screening before Campus Arrival](https://forms.office.com/Pages/ResponsePage.aspx?id=a1889x_4-0Ob0n7ko0Og-VAn6i3AlVpLnGArk2hPCDFUNVFFUVlMWEk0Sk9DMUpPVkg3WllRVVRYOC4u)
-* [Faculty/Staff On Campus Form](https://docs.google.com/forms/d/e/1FAIpQLScPfJwgQTUNx-86SPGF2UpaxTvuKqYQfIfW2shM4pOOapucew/viewform)
-* [Lunch Assignments & Remote Students Roster](https://docs.google.com/spreadsheets/d/1zUfECDQHdLX9Wg1Q_MNokOrYd7GXkEOLYGulvWUvKPQ/edit?ts=608080fc#gid=919051611)
-* [Assigned Classroom Spaces for Hybrid Schooling](https://docs.google.com/spreadsheets/d/1ptL6A439QUUwwVE4XioRQpLjxhR3keJVzTiOWTpGizo/edit?usp=sharing_eip&ts=60819645)
-
-### Remote Schedule FINAL WEEK May 10th
-
-![alt text](final_week.png)
-
-
-## [To see all Student Projects in action Click Here!](giftable.md)
-
 ## Bouncing Bubbles Model Java Program
 ![alt text](bouncy_balls.gif)
 <a href="https://chandrunarayan.github.io/sketches/bubbles" target="blank">
@@ -28,31 +11,30 @@ Click here for live code of bouncing bubbles and try clicking them inside result
 This course is designed to introduce computer programming in the Java language. Learning to use a computer language is a necessary skill for all students regardless of discipline. In this course we will teach the fundamentals of computer programming from the stand point of simulation, automation, and problem solving of real-world systems and natural processes. At the same time, the design and implementation of computer programs is taught from the context of fundamental aspects of computer science, including the development and analysis of algorithms, the development and use of fundamental data structures, the study of standard
 algorithms and typical applications, and the use of logic and formal methods. 
 
-In addition, the year-long course will cover many of the topics necessary for preparation to the AP Computer Science A (APCSA) examination in Spring of the following year. This is an introductory course in computer programming using Java. As such, no specific programming prerequisites are needed to take this course. However, additional preparation may be needed to fully prepare a student for the AP CSA exam with no prior knowledge of computer programming.
+In addition, the year-long course will cover many of the topics necessary for preparation to the AP Computer Science A (APCSA) examination in Spring of the following year. This is an introductory course in computer programming using Java. As such, no specific programming prerequisites are needed to take this course. However, additional preparation may be needed to fully prepare a student for the APCSA exam with no prior knowledge of computer programming.
 
 ### [Click here for a Complete Course Syllabus](src/CPJava_Syllabus.pdf)
-### [Click here for the Bush 2020 Curriculum Guide](src/Curriculum Guide 2020-2021.pdf)
 
 ### Remote Classroom Tools
 
 In our CPJava classroom we are already using tools and techniques that are naturally adapted to a remote learning format. We will continue using our already established tools and techniques for learning CPJava.  We will add to that, a video conferencing solution  to complete our toolset needed for remote learning! All applications (except email) are to be run using your Chrome Browser on your laptop. 
 
-1. [ZOOM for CPJava](https://zoom.us/j/5176316708) - video conferencing application - join here each day and time CPJava classes are held
-1. [CPJava WEBSITE](https://chandrunarayan.github.io/cpjava/) - lessons, presentation, examples, exercises, projects, student-portfolios, references
+1. [CPJava WEBSITE](https://chandrunarayan.github.io/cpjava) - lessons, presentation, examples, exercises, projects, student-portfolios, references
+1. [CPJava Syllabus](src/CPJava_Syllabus.pdf) - Course Description, Syllabus, Grading Rubric etc.
 1. [Google Classroom](https://classroom.google.com/c/MTI2MDgzMTM2MDgw) - Google Classroom for course Assignments and student administrative materials
 1. [GITHUB repository](https://github.com/) - code submissions for exercises and projects, published student portfilios - Login/Register with Bush ID
 1. [Processing Editor (IDE) Download](https://processing.org) - Code editor for Java and Processing languages
 1. [Visual Code Editor (IDE) Download](https://code.visualstudio.com/download) - Login/Register with Bush ID
-1. Web-Based Java Exercises - [Trinket Exercises](https://trinket.io/chandru-narayan-9569/courses/cpjava) and [REPL.IT Exercises](https://repl.it/teacher/classrooms/207755) - Login/Register with Bush ID
-1. [BUSHSCHOOL_CPJAVA Online Text/Course](https://runestone.academy/runestone/default/user/login?_next=/runestone/default/index) - eBook for Java and Runestone CSAwesome Course - Logins are already created
-1. [**New Online Textbook Think Java](https://books.trinket.io/thinkjava2/index.html)
+1. [Trinket Exercises](https://trinket.io/chandru-narayan-9569/courses/cpjava-fall-2021) - Web-Based Java Exercises
+1. [Codingbat Exercises]() - Web-Based Java Exercises
+1. [CSAwesome Online Text](https://runestone.academy/runestone/default/user/login?_next=/runestone/default/index)
+1. [Online Textbook The Nature of Code](https://drive.google.com/file/d/1qZtNgUW-sAeSKF2FTZC5OXv-4q-09ye3/view?usp=sharing) - Download a local copy
+1. [Online Textbook Think Java](https://books.trinket.io/thinkjava2/index.html) - Web reference
 1. [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) - Youtube Video Examples from the Processing Foundation
 1. [Bush PORTAL](https://bush.myschoolapp.com/app/faculty#academicclass/110863906/0/bulletinboard) - links for all tools, official assignments, schedules, syllabus, grade rubric
 1. [SLACK Instant Messaging](https://app.slack.com/client/TTS9Y46VC) - communication for differentiated classroom, code extracts, bug fixes, instant help, quick challenges. You will receive an invitation. email communication is discouraged for this purpose.
 1. [Bush EMAIL](mailto:chandru.narayan@bush.edu) will be used for administrative, one-on-one communications as necessary. Please check this once a each day during the Semester. 
-1. 1-1 Calendly Conference Appointments 
-    * [Wed Conference Meetings](https://calendly.com/chandru-narayan/cpjava-wed)
-    * [Adhoc Mon/Tue/Thu/Fri Meetings](https://calendly.com/chandru-narayan/adhoc-conf)
+1. [Zoom Conference Appointments](https://calendly.com/chandru-narayan/conf-with-chandru)
 
     
 ### [CPJava Course Schedule 2020-2021](yearlycal) 
@@ -114,7 +96,7 @@ We will be using the Paired Programming teams for team projects. ** Please provi
 * [Unit 6b Arrays of Objects Student Paced Sesssion](https://docs.google.com/presentation/d/1bhgbqk9DAEzQG5ZFXYlGQ4CqQfVvieKUeOftVlC7P2Q/edit?usp=sharing)
 * [Unit 7a Array List Student Paced Sesssion](https://docs.google.com/presentation/d/1cnaJQR97NmguD3ZGeLL-Rum8TVj_qA0wHxEyVr37K9s/edit?usp=sharing) 
 * [Unit 7b For Each Loop Student Paced Sesssion](https://docs.google.com/presentation/d/1NTMFNzH-FB3Pfsnozkuu4lYZre3WNNLI6eAyzpNOJg8/edit#slide=id.p1)
-* **New** [Unit 8 2D Arrays Tables](https://docs.google.com/presentation/d/1cIgGz7huTaKrsFC5OKXdKNQ9ftwHSnWO6fjzegs7H0w/edit?usp=sharing)
+* [Unit 8 2D Arrays Tables](https://docs.google.com/presentation/d/1cIgGz7huTaKrsFC5OKXdKNQ9ftwHSnWO6fjzegs7H0w/edit?usp=sharing)
 * [Unit 9a Inheritance & Encapsulation Student Paced Sesssion](https://docs.google.com/presentation/d/1APHiU8WDTsL6ll2f2R2uBWW79uEhsPXPJZxobfls5lM/edit?usp=sharing)
 * [Unit 10a Recursion and Sierpinski Triangles](https://docs.google.com/presentation/d/1Ef1iENxFbYeJy7XDUlbV9JTiVYeoUkeXxrpcdx6UiwE/edit?usp=sharing)
 * [Unit 10b Recursion and Fibonacci Sequence](https://docs.google.com/presentation/d/19gdc2QhdPKWhc-BZzwau2WEatgVQI2ftLCHv337OUPc/edit?usp=sharing)
@@ -126,7 +108,7 @@ We will be using the Paired Programming teams for team projects. ** Please provi
 * [Unit 9b Asteroids Project Part 1](https://docs.google.com/presentation/d/1HfHQTei9qgkBEBhNqUKqmAc6g2V3x8FDprajTp5IZuE/edit?usp=sharing)
 * [Unit 9c Asteroids Project Part 2](https://docs.google.com/presentation/d/1pPeUvTAbIjtZYvfQIv54BDuunra8H6imO654amT6NI4/edit?usp=sharing)
 * [Unit 9d Asteroids Project Final Part 3](https://docs.google.com/presentation/d/1eSpNZiI6WjTBA4Jn_s_0pSicocsRXhOUnGaTOms80CM/edit?usp=sharing)
-* [Vectors Introduction](https://docs.google.com/presentation/d/1H_v-gJwiZyaRqGt4j-gnPoGeW3QGNZEhcqAEEO4Nzf0/edit?usp=sharing)
+* [Vectors](https://docs.google.com/presentation/d/1H_v-gJwiZyaRqGt4j-gnPoGeW3QGNZEhcqAEEO4Nzf0/edit?usp=sharing)
 
 ## Processing Project Specification & Repositories
 * [Lightning Project](https://github.com/chandrunarayan/Lightning)
@@ -163,14 +145,14 @@ Make sure you login to codingbat with your username before attempting problem se
 | 13 | 2D Arrays | [Minesweeper](https://codingbat.com/home/chandru.narayan@bush.edu/minesweeper)
 | 14 | 2D Arrays | [2DArrays](https://codingbat.com/home/chandru.narayan@bush.edu/2darrays)
 
-## APCSA Exam Spring 2021 - May 18th
+## APCSA Exam Spring 2022 - May 4th
 ### [APCSA exam will be held on Tuesday, May 18th 1:00 PM Pacific Time](https://apstudents.collegeboard.org/exam-calendar)
 
 ### [APCSA Instructional Videos](https://apcentral.collegeboard.org/pdf/available-ap-daily-videos-ap-computer-science-a.pdf?course=ap-computer-science-a) can be accessed here!
 
-### *** New [APCSA Review Videos](https://apcentral.collegeboard.org/pdf/ap-daily-live-review-syllabus-ap-computer-science-a.pdf) can be accessed here! If you are taking the APCS A exam this May, you will benefit by watching (and practicing!) these youtube videos as part of your review.
+### [APCSA Review Videos](https://apcentral.collegeboard.org/pdf/ap-daily-live-review-syllabus-ap-computer-science-a.pdf) can be accessed here! If you are taking the APCSA exam this May, you will benefit by watching (and practicing!) these youtube videos as part of your review.
 
-### *** New [Review APCSA Exam Terms and Conditions](https://click.e.collegeboard.org/?qs=81714f6076c5719f8990737aac6c43e70d0940b5a3a097e9530451cfd63b2a33685e83fe56306bca09f8800b3b62bfcde3eda64b5b7f181e74e64fc6db7ae0a1). Once reviewed, [you need to accept them here](https://click.e.collegeboard.org/?qs=81714f6076c5719f5ad93b119992ec0e02b849771c0a15e4166521e30b86a9d10bf05d77b1850e054b8fd90d6c8cb5448a072ee0ce71f4b25498f2d0281d6181) before taking the exam.
+### [Review APCSA Exam Terms and Conditions](https://click.e.collegeboard.org/?qs=81714f6076c5719f8990737aac6c43e70d0940b5a3a097e9530451cfd63b2a33685e83fe56306bca09f8800b3b62bfcde3eda64b5b7f181e74e64fc6db7ae0a1). Once reviewed, [you need to accept them here](https://click.e.collegeboard.org/?qs=81714f6076c5719f5ad93b119992ec0e02b849771c0a15e4166521e30b86a9d10bf05d77b1850e054b8fd90d6c8cb5448a072ee0ce71f4b25498f2d0281d6181) before taking the exam.
   
 ## [Archived Lessons](archived_lessons.md)
 
@@ -186,7 +168,7 @@ This course draws from the book Building Java Programs: A Back to Basics Approac
 [crayon]: crayon.gif "crayon"
 [idice]: idice.gif "idice"
 [bubbles]: https://chandrunarayan.github.io/sketches/bubbles/ "bubbles"
-[schedule]: src/CPJava_Schedule_bw.png
+[schedule]: src/schedule.png
 [schoolwork]: schoolwork.png
 [guslight]: giftable/gus2.gif "guslight"
 [romanlight]: giftable/roman2.gif "romanlight"
