@@ -41,9 +41,9 @@ In our CPJava classroom we are already using tools and techniques that are natur
 
 ## Learning Modes
 ### Learning by Doing First - Student-Based Asynchronous Workflow
-In this mode of learning we will simultaneously start a consolidatded student-paced session spanning multiple Java Units, supported by working on Processing projects within Paired Programming teams.  We will mostly be using this workflow model, switching to Synchronous in small bursts as directed by your teacher or as needed to support student needs.
-### Doing by Learning First - Lecture-Based Synchronous Workflow
-We will use this method of learning sparingly, reserved for difficult topics that might require a lecture-based instructional unit.  The lectures below are designed in that manner and always available as a reference while we live in the world of Asynchronous "Learning by Doing First" model above.
+In this mode of learning we will simultaneously start a consolidated student-paced sessions spanning multiple Java Units, and by working on programming projects within [Paired Programming teams](#paired-programming-teams).  We will mostly be using this workflow model, switching to Synchronous teacher-led sessions in small bursts as needed.
+### Doing by Learning First - Teacher-Led Synchronous Workflow
+We will use this method of learning sparingly, reserved for difficult topics that might require a lecture-based instructional unit.  The [lesson plans are published](#student-paced-sessions-for-java-units) and always available as a reference while we live in the world of Asynchronous "Learning by Doing First" model above.
 
 ## Typical Workflow
 1. Student attends CPJava classes in-person at Bush Campus
@@ -64,7 +64,7 @@ We will use this method of learning sparingly, reserved for difficult topics tha
 ![alt text][schoolwork]
 
 ## Paired Programming Teams
-We will be using the Paired Programming teams for team projects. ** Please provide me the Github Account usernames that you created a few weeks ago **.  The Paired Programming projects will be published at this location.  I have updated paired programming teams for the 2nd-term also keeping in mind the students remote/on-campus students and those taking the APCSA exam.
+In the world of programming - [collaboration with others is everything!](https://youtu.be/q7d_JtyCq1A).  We will model that in our learning process in the classroom. We will learn by doing and by pairing with others. Each person in a paired team will have the opportunity to teach and to learn from each other. We will be using the Paired Programming teams for team for learning Java and projects. ** Please provide me the Github Account usernames that you created **.  The Paired Programming projects will be published at this location.  I have updated paired programming teams for the 2nd-term also keeping in mind the students remote/on-campus students and those taking the APCSA exam.
 
 ### Team Baker 
 * 
