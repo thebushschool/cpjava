@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(255,255,255);
+    color: rgb(0,0,0);
+    font-family: "Open Sans", sans-serif;
+    text-align: left;
+}
+
+#content {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+header {
+	
+}
+
+footer {
+	font-style: italic;
+	font-size: 90%;
+}
+mark.green {
+    color:#00ff00;
+    background: none;
+}
+
+mark.blue {
+    color:#0000ff;
+    background: none;
+}
+mark.orange {
+    color:#ff4500;
+    background: none;
+}
+mark.yellow {
+    color:#ffff00;
+    background: none;
+}
+mark.red {
+    color:#ff0000;
+    background: none;
+}
