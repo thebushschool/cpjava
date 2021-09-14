@@ -2,7 +2,7 @@
 
 # Unit 1 Lectures
 
-## [Introduction to CPJava Course and Overview of CS](../../lectures/lecture0_Intro.pdf)
+## [Introduction to CPJava Course and Overview of CS](/src/CPJavaIntro-v3.pdf)
 
 ## [Lecture1: Basic Java Syntax](../../lectures/lecture1.pdf)
 * [Think Java Textbook Chapter 1](https://books.trinket.io/thinkjava2/chapter1.html)
