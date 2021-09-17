@@ -86,7 +86,6 @@ In the world of programming - [collaboration with others is everything](https://
 ## Student Paced Sessions for Java Units
 * [Unit 0 Java Introduction First week](lessons/unit1/src/CPJavaIntro_v3.pdf)
 * [Units 1 2 3 Consolidated Intro to Java Variables Operators Student Paced Sesssion](https://docs.google.com/presentation/d/1SEB8hbirhy00kq0oxLhQX2xcyC_HvaIw35V8pq82INw/edit#slide=id.g97cdd6c7ea_0_0)
-* [Unit 0 Processing_For_While_Loops_Primer](https://docs.google.com/presentation/d/1oGEPH8JPehlrZLI9IREmoKrNd192qZ_DuNtancZooY4/edit?usp=sharing)
 * [Units 4 5 Loops & Objects Student Paced Session](https://docs.google.com/presentation/d/1HC_K5tqfny5QYTdENnDpsQO-nGAAWua_YOQRc18V2IU/edit?usp=sharing)
 * [Unit 6a Arrays Student Paced Sesssion](https://docs.google.com/presentation/d/16rYe06ohSndVfIjs3WSlVSaD_h0CjnMLGbMfvEbcggI/edit?usp=sharing)
 * [Unit 6b Arrays of Objects Student Paced Sesssion](https://docs.google.com/presentation/d/1bhgbqk9DAEzQG5ZFXYlGQ4CqQfVvieKUeOftVlC7P2Q/edit?usp=sharing)
@@ -103,12 +102,15 @@ In the world of programming - [collaboration with others is everything](https://
 * [Unit 10e Sorting - Sort & Merge](https://docs.google.com/presentation/d/1-f4OU7J88OAA-sbP0U2R_0-3bt1vucoMBUH3U2z5C1A/edit?usp=sharing)
 
 ## Student Paced Sessions for Projects
+* [Unit 0 Processing Primer Scales Project](https://docs.google.com/presentation/d/1oGEPH8JPehlrZLI9IREmoKrNd192qZ_DuNtancZooY4/edit?usp=sharing)
+* [Unit 1 Using MathDotRandom in the Lightning Project](https://docs.google.com/presentation/d/1ga570E_dgM4iSPyWmaa2AmE9roI63Eoe8VdkLu8fdQ4/edit#slide=id.g40fbbe7893_0_24)
 * [Unit 9b Asteroids Project Part 1](https://docs.google.com/presentation/d/1HfHQTei9qgkBEBhNqUKqmAc6g2V3x8FDprajTp5IZuE/edit?usp=sharing)
 * [Unit 9c Asteroids Project Part 2](https://docs.google.com/presentation/d/1pPeUvTAbIjtZYvfQIv54BDuunra8H6imO654amT6NI4/edit?usp=sharing)
 * [Unit 9d Asteroids Project Final Part 3](https://docs.google.com/presentation/d/1eSpNZiI6WjTBA4Jn_s_0pSicocsRXhOUnGaTOms80CM/edit?usp=sharing)
 * [Vectors](https://docs.google.com/presentation/d/1H_v-gJwiZyaRqGt4j-gnPoGeW3QGNZEhcqAEEO4Nzf0/edit?usp=sharing)
 
 ## Processing Project Specification & Repositories
+* [Processing Primer Scales Project](https://github.com/chandrunarayan/Scales)
 * [Lightning Project](https://github.com/chandrunarayan/Lightning)
 * [Dice Project](https://github.com/chandrunarayan/Dice)
 * [Chemotaxis Project](https://github.com/chandrunarayan/Chemotaxis)
