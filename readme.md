@@ -109,7 +109,7 @@ In the world of programming - [collaboration with others is everything](https://
 * [Unit 9d Asteroids Project Final Part 3](https://docs.google.com/presentation/d/1eSpNZiI6WjTBA4Jn_s_0pSicocsRXhOUnGaTOms80CM/edit?usp=sharing)
 * [Vectors](https://docs.google.com/presentation/d/1H_v-gJwiZyaRqGt4j-gnPoGeW3QGNZEhcqAEEO4Nzf0/edit?usp=sharing)
 
-## Processing Project Specification & Repositories
+## Processing Project Specifications & Repositories
 * [Processing Primer Scales Project](https://github.com/chandrunarayan/Scales)
 * [Lightning Project](https://github.com/chandrunarayan/Lightning)
 * [Dice Project](https://github.com/chandrunarayan/Dice)
@@ -124,6 +124,7 @@ In the world of programming - [collaboration with others is everything](https://
 * [Sierpinski Triangles Project](https://github.com/chandrunarayan/Sierpinski)
 * [Linear Binary Search Functions Project](https://github.com/chandrunarayan/LinearBinarySearch)
 * [Game of Life Project](https://github.com/chandrunarayan/GameOfLife)
+* In Work [Boids - a physics simulation Project]()
 
 ##  [Codingbat Practice Topics](https://codingbat.com/home/chandru.narayan@bush.edu)
 Make sure you login to codingbat with your username before attempting problem sets
