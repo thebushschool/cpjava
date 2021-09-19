@@ -111,7 +111,7 @@ In the world of programming - [collaboration with others is everything](https://
 * [Vectors](https://docs.google.com/presentation/d/1H_v-gJwiZyaRqGt4j-gnPoGeW3QGNZEhcqAEEO4Nzf0/edit?usp=sharing)
 
 ## Processing Project Specifications & Repositories
-* [Processing Primer Scales Project](https://github.com/chandrunarayan/Scales)
+* [Scales Project](https://github.com/chandrunarayan/Scales)
 * [Lightning Project](https://github.com/chandrunarayan/Lightning)
 * [Dice Project](https://github.com/chandrunarayan/Dice)
 * [Chemotaxis Project](https://github.com/chandrunarayan/Chemotaxis)
