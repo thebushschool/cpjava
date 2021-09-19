@@ -34,6 +34,7 @@ In our CPJava classroom we are already using tools and techniques that are natur
 1. [SLACK Instant Messaging](https://cpjava2020.slack.com/archives/C02D12AE94P) - communication for differentiated classroom, code extracts, bug fixes, instant help, quick challenges. You will receive an invitation. email communication is discouraged for this purpose.
 1. [Bush EMAIL](mailto:chandru.narayan@bush.edu) will be used for administrative, one-on-one communications as necessary. Please check this once a each day during the Semester. 
 1. [Zoom Conference Appointments](https://calendly.com/chandru-narayan/conf-with-chandru)
+1. STEM Center Support - Roman Rothstein will be your STEM Center support consultant. He took the CP Java class last year and speak with you with direct experience!  Best way to contact him is via email Roman.Rothstein@bush.edu
 
     
 ### [Downloadable CPJava Course Schedule 2020-2021](src/schedule.png) 
