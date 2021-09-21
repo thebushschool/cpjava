@@ -125,7 +125,8 @@ In the world of programming - [collaboration with others is everything](https://
 * [Sierpinski Triangles Project](https://github.com/chandrunarayan/Sierpinski)
 * [Linear Binary Search Functions Project](https://github.com/chandrunarayan/LinearBinarySearch)
 * [Game of Life Project](https://github.com/chandrunarayan/GameOfLife)
-* In Work [Boids - a physics simulation Project]()
+* **New In Work [Boids - a physics simulation Project]()
+* **New [Help with errors running Processing in Github](https://chandrunarayan.github.io/ProcessingInGithub/)
 
 ##  [Codingbat Practice Topics](https://codingbat.com/home/chandru.narayan@bush.edu)
 Make sure you login to codingbat with your username before attempting problem sets
