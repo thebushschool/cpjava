@@ -1,6 +1,6 @@
 # Welcome to the Geometry Back to School Night Mini lesson!
 
-## [Click Here for Reference Daily Class Slides Presentation](lessons/geominilesson/geodaily.pdf)
+## [Click Here for Reference Daily Class Slides Presentation](geodaily.pdf)
 
 ### Here are 2 examples of investigations we did in class
 
