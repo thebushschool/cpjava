@@ -1,16 +1,18 @@
 # Welcome to the Geometry Back to School Night Mini lesson!
 
+## [Click Here for Reference Daily Class Slides Presentation](lessons/geominilesson/geodaily.pdf)
+
 ### Here are 2 examples of investigations we did in class
 
-1. Painted Cubes
+* Painted Cubes
 
-![alt text][paintedcube]
+    ![alt text][paintedcube]
 
-2. Vertical Angles Conjecture
+* Vertical Angles Conjecture
 
-![alt text][vaconjecture]
+    ![alt text][vaconjecture]
 
-### [Reference Daily Class Slides Presentation](lessons/geominilesson/geodaily.pdf)
+
 
 [paintedcube]: painted_cubes.png
 [vaconjecture]: va_conjecture.png
