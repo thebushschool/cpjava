@@ -6,10 +6,9 @@
 
 ![alt text][paintedcube]
 
-1. Vertical Angles Conjecture
+2. Vertical Angles Conjecture
 
-![alt text][paintedcube]
+![alt text][vaconjecture]
 
-
-[paintedcube]: lessons/geominilesson/geomini.md/painted_cubes.png
-[vaconjecture]: lessons/geominilesson/geomini.md/va_conjecture.png
+[paintedcube]: painted_cubes.png
+[vaconjecture]: va_conjecture.png
