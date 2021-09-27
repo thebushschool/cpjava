@@ -10,5 +10,7 @@
 
 ![alt text][vaconjecture]
 
+### [Reference Daily Class Slides Presentation](lessons/geominilesson/geodaily.pdf)
+
 [paintedcube]: painted_cubes.png
 [vaconjecture]: va_conjecture.png
