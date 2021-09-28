@@ -129,7 +129,9 @@ In the world of programming - [collaboration with others is everything](https://
 * **New [Help with errors running Processing in Github](https://chandrunarayan.github.io/ProcessingInGithub/)
 
 ##  [Codingbat Practice Topics](https://codingbat.com/home/chandru.narayan@bush.edu)
-Make sure you login to codingbat with your username before attempting problem sets
+Make sure you login to codingbat with your username before attempting problem sets. 
+
+Completion of these problem sets are not rquired for the CPJava course. However, it is highy recommended and essential in preparing for the APCSA exam if you plan to take it. See additional details about the APCSA exam in the sections below
 
 | Sequence | Topic | Codingbat Problemset
 | :--- | :--- | :--- |
@@ -149,13 +151,14 @@ Make sure you login to codingbat with your username before attempting problem se
 | 14 | 2D Arrays | [2DArrays](https://codingbat.com/home/chandru.narayan@bush.edu/2darrays)
 
 ## APCSA Exam Spring 2022 - May 4th
-### [APCSA exam will be held on Tuesday, May 18th 1:00 PM Pacific Time](https://apstudents.collegeboard.org/exam-calendar)
+### [APCSA exam will be held on Wednesday, May 4th, 2022](https://apstudents.collegeboard.org/exam-calendar)
+
+### [Learn all about the APCSA Exam](https://apstudents.collegeboard.org/courses/ap-computer-science-a)
 
 ### [APCSA Instructional Videos](https://apcentral.collegeboard.org/pdf/available-ap-daily-videos-ap-computer-science-a.pdf?course=ap-computer-science-a) can be accessed here!
 
 ### [APCSA Review Videos](https://apcentral.collegeboard.org/pdf/ap-daily-live-review-syllabus-ap-computer-science-a.pdf) can be accessed here! If you are taking the APCSA exam this May, you will benefit by watching (and practicing!) these youtube videos as part of your review.
 
-### [Review APCSA Exam Terms and Conditions](https://click.e.collegeboard.org/?qs=81714f6076c5719f8990737aac6c43e70d0940b5a3a097e9530451cfd63b2a33685e83fe56306bca09f8800b3b62bfcde3eda64b5b7f181e74e64fc6db7ae0a1). Once reviewed, [you need to accept them here](https://click.e.collegeboard.org/?qs=81714f6076c5719f5ad93b119992ec0e02b849771c0a15e4166521e30b86a9d10bf05d77b1850e054b8fd90d6c8cb5448a072ee0ce71f4b25498f2d0281d6181) before taking the exam.
 
 ## Course Credit
 
