@@ -10,6 +10,7 @@
 | Ethan | [Ethan's Lightning](https://ethanmondri.github.io/Lightning/)
 
 ## Scales Project (Currently in-work by students)
+
 | Student | Link
 | :--- | :--- |
 | Asher | [Cool Blue Scales](https://asher-0225.github.io/Scales/)
