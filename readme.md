@@ -110,6 +110,8 @@ In the world of programming - [collaboration with others is everything](https://
 * [Unit 9d Asteroids Project Final Part 3](https://docs.google.com/presentation/d/1eSpNZiI6WjTBA4Jn_s_0pSicocsRXhOUnGaTOms80CM/edit?usp=sharing)
 * [Vectors](https://docs.google.com/presentation/d/1H_v-gJwiZyaRqGt4j-gnPoGeW3QGNZEhcqAEEO4Nzf0/edit?usp=sharing)
 
+## [Click Here For Student Projects Currently In-Work](student-githubs.md)
+
 ## Processing Project Specifications & Repositories
 * [Scales Project](https://github.com/chandrunarayan/Scales)
 * [Lightning Project](https://github.com/chandrunarayan/Lightning)
