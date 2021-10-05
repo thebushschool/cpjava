@@ -28,7 +28,7 @@
 1. We will draw dynamic shapes on a digital canvas
 1. Walkthrough one example for the whole class
 1. Open a NEW tab on your browser by accessing File-> New Tab 
-1. Start a P5JS [Javascript web editor in the new tab created by clicking here](https://editor.p5js.org). Please be patient, it might take a few seconds to open.
+1. Start a P5JS <a href="https://www.thesitewizard.com/" target="_blank">Javascript</a> [Javascript web editor in the new tab created by clicking here](https://editor.p5js.org). Please be patient, it might take a few seconds to open.
 1. Breakout into multiple rooms for doing a coding exercise!
    * Odd numbered teams Replace all code inside editor using [code for "Dynamic sticks" linked here](code1.md)
    * Even numbered teams Replace all code inside editor using [code for "Dynamic rectangles" linked here](code2.md)
@@ -42,7 +42,7 @@
 
 1. The Bush Cascade program is a 3-week experiential and immersion program on a interdisciplinary course of study. 
 1. They are held 2 times a year at the end of Fall and Spring semesters in January and May. They are open to all Upper School students execluding Seniors who will be doing their final projects instead.
-1. Some Cascades are local to Seattle and others might involve travel to other locations inside and outside Washington State including some international locations! 
+1. Some Cascades are local to Seattle and others might involve travel to other locations including the Bush School Methow campus in Eastern Washington State and some international locations! 
 1. They could involve engaging with the Bush and Seattle communities with a goal to learn help and support.
 1. Previous Cascades included diverse subjects such as:
    * The Science of Food and Cooking
@@ -58,8 +58,10 @@
         * Astronomy is one of the oldest sciences
         * Anthropological considerations
         * Modern advances in robotic telescopes and astro photography
+   * <a href="http://thebushtelescope.com" target="_blank">Our Bush Telescope website</a>
+   * [Our Bush Telescope website](http://thebushtelescope.com)
    * Telecope live demonstration
-   * Example Astro Photographs
+   * Astro Images from the Cascade held in May 2020
 
 ## Feedback from Students (10 minutes)
 1. Did you enjoy the session today?
