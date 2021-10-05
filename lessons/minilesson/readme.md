@@ -27,8 +27,7 @@
 
 1. We will draw dynamic shapes on a digital canvas
 1. Walkthrough one example for the whole class
-1. Open a NEW tab on your browser by accessing File-> New Tab 
-1. Start a P5JS <a href="https://www.thesitewizard.com/" target="_blank">Javascript</a> [Javascript web editor in the new tab created by clicking here](https://editor.p5js.org). Please be patient, it might take a few seconds to open.
+1. Start a P5JS <a href="https://editor.p5js.org" target="_blank">Javascript web editor in a new tab by clicking here. Please be patient, it might take a few seconds to open.</a>
 1. Breakout into multiple rooms for doing a coding exercise!
    * Odd numbered teams Replace all code inside editor using [code for "Dynamic sticks" linked here](code1.md)
    * Even numbered teams Replace all code inside editor using [code for "Dynamic rectangles" linked here](code2.md)
@@ -59,7 +58,6 @@
         * Anthropological considerations
         * Modern advances in robotic telescopes and astro photography
    * <a href="http://thebushtelescope.com" target="_blank">Our Bush Telescope website</a>
-   * [Our Bush Telescope website](http://thebushtelescope.com)
    * Telecope live demonstration
    * Astro Images from the Cascade held in May 2020
 
