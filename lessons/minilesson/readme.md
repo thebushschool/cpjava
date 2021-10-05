@@ -57,7 +57,7 @@
         * Modern advances in robotic telescopes and astro photography
    * <a href="http://thebushtelescope.com" target="_blank">Our Bush Telescope website</a>
    * Telecope live demonstration
-   * Astro Images from the Cascade held in May 2020
+   * <a href="https://www.thebushtelescope.com/images" target="_blank">Astro Images from the Cascade held in May 2020.</a>
 
 ## Feedback from Students (10 minutes)
 1. Did you enjoy the session today?
