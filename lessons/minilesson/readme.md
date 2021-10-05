@@ -1,5 +1,3 @@
-[_Bush School IDMD Spring Semester 2021_](https://chandrunarayan.github.io/idmd/)
-
 # Bush Upper School Preview Day!
 
 ## Agenda
@@ -64,8 +62,8 @@
 ## Feedback from Students (10 minutes)
 1. Did you enjoy the session today?
 1. What caught yoru attention?
-1. Any questions/comments are OK!
-1. The main sessions is complete, thank you for joining!
+1. All questions/comments are OK!
+1. The main session is complete, thank you for joining!
 
 ## Extended Q&A with Parents/Guardians (15 minutes)
 * Extended session for parents, guardians and students!
