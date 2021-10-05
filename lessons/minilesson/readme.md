@@ -27,7 +27,7 @@
 
 1. We will draw dynamic shapes on a digital canvas
 1. Walkthrough one example for the whole class
-1. Start a P5JS <a href="https://editor.p5js.org" target="_blank">Javascript web editor in a new tab by clicking here. Please be patient, it might take a few seconds to open.</a>
+1. Start a P5JS <a href="https://editor.p5js.org" target="_blank">Javascript web editor in a new tab by clicking here.</a> Please be patient, it might take a few seconds to open.
 1. Breakout into multiple rooms for doing a coding exercise!
    * Odd numbered teams Replace all code inside editor using [code for "Dynamic sticks" linked here](code1.md)
    * Even numbered teams Replace all code inside editor using [code for "Dynamic rectangles" linked here](code2.md)
