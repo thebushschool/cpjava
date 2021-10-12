@@ -110,7 +110,8 @@ In the world of programming - [collaboration with others is everything](https://
 * [Unit 9d Asteroids Project Final Part 3](https://docs.google.com/presentation/d/1eSpNZiI6WjTBA4Jn_s_0pSicocsRXhOUnGaTOms80CM/edit?usp=sharing)
 * [Vectors](https://docs.google.com/presentation/d/1H_v-gJwiZyaRqGt4j-gnPoGeW3QGNZEhcqAEEO4Nzf0/edit?usp=sharing)
 
-## [Click Here For Student Projects Currently In-Work](student-githubs.md)
+## Student Projects
+* ### [Click Here For Student Projects Currently In-Work](student-githubs.md)
 
 ## Processing Project Specifications & Repositories
 * [Scales Project](https://github.com/chandrunarayan/Scales)
@@ -128,7 +129,7 @@ In the world of programming - [collaboration with others is everything](https://
 * [Linear Binary Search Functions Project](https://github.com/chandrunarayan/LinearBinarySearch)
 * [Game of Life Project](https://github.com/chandrunarayan/GameOfLife)
 * **New In Work [Boids - a physics simulation Project]()
-* **New [Help with errors running Processing in Github](https://chandrunarayan.github.io/ProcessingInGithub/)
+* [Help with errors running Processing in Github](https://chandrunarayan.github.io/ProcessingInGithub/)
 
 ##  [Codingbat Practice Topics](https://codingbat.com/home/chandru.narayan@bush.edu)
 Make sure you login to codingbat with your username before attempting problem sets. 
@@ -174,7 +175,7 @@ This course draws from the book Building Java Programs: A Back to Basics Approac
 [crayon]: crayon.gif "crayon"
 [idice]: idice.gif "idice"
 [bubbles]: https://chandrunarayan.github.io/sketches/bubbles/ "bubbles"
-[schedule]: src/schedule.png
+[schedule]: src/schedule_v2.png
 [schoolwork]: src/expectations.png
 [guslight]: giftable/gus2.gif "guslight"
 [romanlight]: giftable/roman2.gif "romanlight"
