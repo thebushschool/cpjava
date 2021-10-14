@@ -1,7 +1,7 @@
 [_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
-# Student Projects!
+# Student Projects Completed as of Oct 2021!
 
-## Lightning Project (Currently in-work by students)
+## Lightning Project
 
 | Student | Link
 | :--- | :--- |
@@ -15,7 +15,7 @@
 | Kaito | [Kaito Lightning](https://knhikino19.github.io/Lightning/)
 | Ethan | [Horizontal Lightning](https://ethanmondri.github.io/Lightning/)
 
-## Scales Project (Currently in-work by students)
+## Scales Project
 
 | Student | Link
 | :--- | :--- |
