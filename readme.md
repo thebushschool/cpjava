@@ -37,7 +37,7 @@ In our CPJava classroom we are already using tools and techniques that are natur
 1. STEM Center Support - Roman Rothstein will be your STEM Center support consultant. He took the CP Java class last year and speak with you with direct experience!  Best way to contact him is via email Roman.Rothstein@bush.edu
 
     
-### [Downloadable CPJava Course Schedule 2020-2021](src/schedule.png) 
+### [Downloadable CPJava Course Schedule 2021-2022](src/schedule_v2.png) 
 ![alt text][schedule]
 
 ## Learning Modes
