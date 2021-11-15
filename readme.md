@@ -34,9 +34,10 @@ In our CPJava classroom we are already using tools and techniques that are natur
 1. [SLACK Instant Messaging](https://cpjava2020.slack.com/archives/C02D12AE94P) - communication for differentiated classroom, code extracts, bug fixes, instant help, quick challenges. You will receive an invitation. email communication is discouraged for this purpose.
 1. [Bush EMAIL](mailto:chandru.narayan@bush.edu) will be used for administrative, one-on-one communications as necessary. Please check this once a each day during the Semester. 
 1. [Zoom Conference Appointments](https://calendly.com/chandru-narayan/conf-with-chandru)
+1. STEM Center Support - Roman Rothstein will be your STEM Center support consultant. He took the CP Java class last year and speak with you with direct experience!  Best way to contact him is via email Roman.Rothstein@bush.edu
 
     
-### [Downloadable CPJava Course Schedule 2020-2021](src/schedule.png) 
+### [Downloadable CPJava Course Schedule 2021-2022](src/schedule_v2.png) 
 ![alt text][schedule]
 
 ## Learning Modes
@@ -67,16 +68,16 @@ We will use this method of learning sparingly, reserved for difficult topics tha
 In the world of programming - [collaboration with others is everything](https://youtu.be/q7d_JtyCq1A)!.  We will model that in our learning process in the classroom. We will learn by doing and by pairing with others. Each person in a paired team will have the opportunity to teach and to learn from each other. We will be using the Paired Programming teams for team for learning Java and projects. ** Please provide me the Github Account usernames that you created **.  The Paired Programming projects will be published at this location.  I have updated paired programming teams for the 2nd-term also keeping in mind the students remote/on-campus students and those taking the APCSA exam.
 
 ### Team Baker 
-* 
+* Nate, Asher
  
 ### Team Rainier 
-* 
+* Grace, Noah
 
 ### Team Hood 
-* 
+* Kaito, Miguel
 
 ### Team St Helens 
-* 
+* Luke, Tully
 
 ### Team Stevens 
 * Ethan, Chandru
@@ -85,14 +86,14 @@ In the world of programming - [collaboration with others is everything](https://
 
 ## Student Paced Sessions for Java Units
 * [Unit 0 Java Introduction First week](lessons/unit1/src/CPJavaIntro_v3.pdf)
-* [Units 1 2 3 Consolidated Intro to Java Variables Operators Student Paced Sesssion](https://app.peardeck.com/student/tixodenzx)
-* [Unit 2a String Objects & Methods and Google Billboard Project](https://drive.google.com/open?id=1H9tzGeTWetjzUz1G450NGxbEO5xZl3BvacfkFWsvWRE&authuser=0)
-* [Unit 2b String Methods & Pointers and Piglatin Project](https://drive.google.com/open?id=1XLlg2WK9z2RQoCVq5l0EaKquK1Mhw4WYbfshck_Rujw&authuser=0)
+* [Units 1 2 3 Consolidated Intro to Java Variables Operators Student Paced Sesssion](https://docs.google.com/presentation/d/1SEB8hbirhy00kq0oxLhQX2xcyC_HvaIw35V8pq82INw/edit#slide=id.g97cdd6c7ea_0_0)
 * [Units 4 5 Loops & Objects Student Paced Session](https://docs.google.com/presentation/d/1HC_K5tqfny5QYTdENnDpsQO-nGAAWua_YOQRc18V2IU/edit?usp=sharing)
 * [Unit 6a Arrays Student Paced Sesssion](https://docs.google.com/presentation/d/16rYe06ohSndVfIjs3WSlVSaD_h0CjnMLGbMfvEbcggI/edit?usp=sharing)
 * [Unit 6b Arrays of Objects Student Paced Sesssion](https://docs.google.com/presentation/d/1bhgbqk9DAEzQG5ZFXYlGQ4CqQfVvieKUeOftVlC7P2Q/edit?usp=sharing)
 * [Unit 7a Array List Student Paced Sesssion](https://docs.google.com/presentation/d/1cnaJQR97NmguD3ZGeLL-Rum8TVj_qA0wHxEyVr37K9s/edit?usp=sharing) 
 * [Unit 7b For Each Loop Student Paced Sesssion](https://docs.google.com/presentation/d/1NTMFNzH-FB3Pfsnozkuu4lYZre3WNNLI6eAyzpNOJg8/edit#slide=id.p1)
+* [Unit 2a String Objects & Methods and Google Billboard Project](https://drive.google.com/open?id=1H9tzGeTWetjzUz1G450NGxbEO5xZl3BvacfkFWsvWRE&authuser=0)
+* [Unit 2b String Methods & Pointers and Piglatin Project](https://drive.google.com/open?id=1XLlg2WK9z2RQoCVq5l0EaKquK1Mhw4WYbfshck_Rujw&authuser=0)
 * [Unit 8 2D Arrays Tables](https://docs.google.com/presentation/d/1cIgGz7huTaKrsFC5OKXdKNQ9ftwHSnWO6fjzegs7H0w/edit?usp=sharing)
 * [Unit 9a Inheritance & Encapsulation Student Paced Sesssion](https://docs.google.com/presentation/d/1APHiU8WDTsL6ll2f2R2uBWW79uEhsPXPJZxobfls5lM/edit?usp=sharing)
 * [Unit 10a Recursion and Sierpinski Triangles](https://docs.google.com/presentation/d/1Ef1iENxFbYeJy7XDUlbV9JTiVYeoUkeXxrpcdx6UiwE/edit?usp=sharing)
@@ -102,15 +103,22 @@ In the world of programming - [collaboration with others is everything](https://
 * [Unit 10e Sorting - Sort & Merge](https://docs.google.com/presentation/d/1-f4OU7J88OAA-sbP0U2R_0-3bt1vucoMBUH3U2z5C1A/edit?usp=sharing)
 
 ## Student Paced Sessions for Projects
+* [Unit 0 Processing Primer Scales Project](https://docs.google.com/presentation/d/1oGEPH8JPehlrZLI9IREmoKrNd192qZ_DuNtancZooY4/edit?usp=sharing)
+* [Unit 1 Using MathDotRandom in the Lightning Project](https://docs.google.com/presentation/d/1ga570E_dgM4iSPyWmaa2AmE9roI63Eoe8VdkLu8fdQ4/edit#slide=id.g40fbbe7893_0_24)
 * [Unit 9b Asteroids Project Part 1](https://docs.google.com/presentation/d/1HfHQTei9qgkBEBhNqUKqmAc6g2V3x8FDprajTp5IZuE/edit?usp=sharing)
 * [Unit 9c Asteroids Project Part 2](https://docs.google.com/presentation/d/1pPeUvTAbIjtZYvfQIv54BDuunra8H6imO654amT6NI4/edit?usp=sharing)
 * [Unit 9d Asteroids Project Final Part 3](https://docs.google.com/presentation/d/1eSpNZiI6WjTBA4Jn_s_0pSicocsRXhOUnGaTOms80CM/edit?usp=sharing)
 * [Vectors](https://docs.google.com/presentation/d/1H_v-gJwiZyaRqGt4j-gnPoGeW3QGNZEhcqAEEO4Nzf0/edit?usp=sharing)
 
-## Processing Project Specification & Repositories
+## Student Projects
+* ### [Click Here For Student Projects Currently In-Work](student-githubs.md)
+
+## Processing Project Specifications & Repositories
+* [Scales Project](https://github.com/chandrunarayan/Scales)
 * [Lightning Project](https://github.com/chandrunarayan/Lightning)
 * [Dice Project](https://github.com/chandrunarayan/Dice)
 * [Chemotaxis Project](https://github.com/chandrunarayan/Chemotaxis)
+* [Rising Bubbles Project](https://classroom.google.com/c/MzkyMDU1MDY0Njc4/a/NDM0NTIzNzc4MjQ1/details)
 * [Starfield Project](https://github.com/chandrunarayan/Starfield)
 * [Asteroids Part 1 Project](https://github.com/chandrunarayan/AsteroidsGame)
 * [Asteroids Part 2 Project](https://github.com/chandrunarayan/AsteroidsPart2)
@@ -121,9 +129,13 @@ In the world of programming - [collaboration with others is everything](https://
 * [Sierpinski Triangles Project](https://github.com/chandrunarayan/Sierpinski)
 * [Linear Binary Search Functions Project](https://github.com/chandrunarayan/LinearBinarySearch)
 * [Game of Life Project](https://github.com/chandrunarayan/GameOfLife)
+* **New In Work [Boids - a physics simulation Project]()
+* [Help with errors running Processing in Github](https://chandrunarayan.github.io/ProcessingInGithub/)
 
 ##  [Codingbat Practice Topics](https://codingbat.com/home/chandru.narayan@bush.edu)
-Make sure you login to codingbat with your username before attempting problem sets
+Make sure you login to codingbat with your username before attempting problem sets. 
+
+Completion of these problem sets are not rquired for the CPJava course. However, it is highy recommended and essential in preparing for the APCSA exam if you plan to take it. See additional details about the APCSA exam in the sections below
 
 | Sequence | Topic | Codingbat Problemset
 | :--- | :--- | :--- |
@@ -143,13 +155,16 @@ Make sure you login to codingbat with your username before attempting problem se
 | 14 | 2D Arrays | [2DArrays](https://codingbat.com/home/chandru.narayan@bush.edu/2darrays)
 
 ## APCSA Exam Spring 2022 - May 4th
-### [APCSA exam will be held on Tuesday, May 18th 1:00 PM Pacific Time](https://apstudents.collegeboard.org/exam-calendar)
+### [APCSA exam will be held on Wednesday, May 4th, 2022](https://apstudents.collegeboard.org/exam-calendar)
+
+### ***Registration is OPEN*** - [REGISTER BY NOV 2nd](https://aptsusa.com/bush/) !!
+
+### [Learn all about the APCSA Exam](https://apstudents.collegeboard.org/courses/ap-computer-science-a)
 
 ### [APCSA Instructional Videos](https://apcentral.collegeboard.org/pdf/available-ap-daily-videos-ap-computer-science-a.pdf?course=ap-computer-science-a) can be accessed here!
 
 ### [APCSA Review Videos](https://apcentral.collegeboard.org/pdf/ap-daily-live-review-syllabus-ap-computer-science-a.pdf) can be accessed here! If you are taking the APCSA exam this May, you will benefit by watching (and practicing!) these youtube videos as part of your review.
 
-### [Review APCSA Exam Terms and Conditions](https://click.e.collegeboard.org/?qs=81714f6076c5719f8990737aac6c43e70d0940b5a3a097e9530451cfd63b2a33685e83fe56306bca09f8800b3b62bfcde3eda64b5b7f181e74e64fc6db7ae0a1). Once reviewed, [you need to accept them here](https://click.e.collegeboard.org/?qs=81714f6076c5719f5ad93b119992ec0e02b849771c0a15e4166521e30b86a9d10bf05d77b1850e054b8fd90d6c8cb5448a072ee0ce71f4b25498f2d0281d6181) before taking the exam.
 
 ## Course Credit
 
@@ -163,7 +178,7 @@ This course draws from the book Building Java Programs: A Back to Basics Approac
 [crayon]: crayon.gif "crayon"
 [idice]: idice.gif "idice"
 [bubbles]: https://chandrunarayan.github.io/sketches/bubbles/ "bubbles"
-[schedule]: src/schedule.png
+[schedule]: src/schedule_v3.png
 [schoolwork]: src/expectations.png
 [guslight]: giftable/gus2.gif "guslight"
 [romanlight]: giftable/roman2.gif "romanlight"
