@@ -14,7 +14,7 @@ let loc2 = 0; // set up a variable pixel location for rect2
 function setup() { // this function is run once.   
   // canvas size in pixels
   // width is set to 600, and height to 200
-  createCanvas(400, 200);
+  createCanvas(800, 600);
 }
 
 function draw() { // this function is run repeatedly.  
@@ -34,10 +34,11 @@ function draw() { // this function is run repeatedly.
 }
 
 function sayHello() {
+  textSize(30);
   // SAY HELLO TO YOUR FRIENDS - MODIFY TEXT TO INCLUDE YOUR NAME BELOW!! 
   // use input parameters: quoted text, x, y loc in pixels
   fill("black");
-  text("Hello friends!", 250, 30);  
+  text("Hello friends!", 250, 40);  
 }
 
 function drawRect1() {
