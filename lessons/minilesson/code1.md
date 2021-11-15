@@ -5,7 +5,8 @@ The canvas above has width of 400 pixels and height of 400 pixels
 ```javascript
 // Dynamic Sticks
 // Learn to code visually!
-// Anything following "//" are help comments !!
+// Anything following "//" (slashes) are help comments !!
+// You may be asked to uncomment - if so, simply remove the slashes
 
 let loc = 0;  // set up a variable pixel location
 
@@ -39,7 +40,7 @@ function draw() {  // this function is run repeatedly.
 }
 
 function sayHello() {
-    // SAY HELLO TO YOUR FRIENDS - MODIFY TEXT BELOW!! 
+    // SAY HELLO TO YOUR FRIENDS - MODIFY TEXT TO INCLUDE YOUR NAME BELOW!! 
     // use input parameters: quoted text, x loc & y loc
     text("Hello friends!", 20, height/2);
 }
@@ -61,7 +62,7 @@ function drawSticks2() {
   // CAN YOU DRAW ANOTHER SET OF LINES FROM BOTTOM TO TOP?
   // OR FROM LEFT TO RIGHT ??
   // YOU WILL NEED COPY CONTENTS OF drawSticks1() FUNCTION 
-  // BETWEEN OUTER BRACKETS BELOW AND MODIFY JUST 
+  // BETWEEN OUTER { BRACKETS } BELOW AND MODIFY JUST 
   // THE "line" COMMAND!
   
 }

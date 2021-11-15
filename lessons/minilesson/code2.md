@@ -5,7 +5,8 @@ The canvas above has width of 400 pixels and height of 400 pixels
 ```javascript
 // Dynamic Rectangles
 // Learn to code visually!
-// text following // are help comments !!
+// Anything following "//" (slashes) are help comments !!
+// You may be asked to uncomment - if so, simply remove the slashes
 
 let loc1 = 0; // set up a variable pixel location for rect1
 let loc2 = 0; // set up a variable pixel location for rect2
@@ -33,7 +34,7 @@ function draw() { // this function is run repeatedly.
 }
 
 function sayHello() {
-  // SAY HELLO TO YOUR FRIENDS - MODIFY TEXT BELOW!! 
+  // SAY HELLO TO YOUR FRIENDS - MODIFY TEXT TO INCLUDE YOUR NAME BELOW!! 
   // use input parameters: quoted text, x, y loc in pixels
   fill("black");
   text("Hello friends!", 250, 30);  
