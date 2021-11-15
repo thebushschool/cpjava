@@ -118,6 +118,7 @@ In the world of programming - [collaboration with others is everything](https://
 * [Lightning Project](https://github.com/chandrunarayan/Lightning)
 * [Dice Project](https://github.com/chandrunarayan/Dice)
 * [Chemotaxis Project](https://github.com/chandrunarayan/Chemotaxis)
+* [Rising Bubbles Project](https://classroom.google.com/c/MzkyMDU1MDY0Njc4/a/NDM0NTIzNzc4MjQ1/details)
 * [Starfield Project](https://github.com/chandrunarayan/Starfield)
 * [Asteroids Part 1 Project](https://github.com/chandrunarayan/AsteroidsGame)
 * [Asteroids Part 2 Project](https://github.com/chandrunarayan/AsteroidsPart2)
@@ -177,7 +178,7 @@ This course draws from the book Building Java Programs: A Back to Basics Approac
 [crayon]: crayon.gif "crayon"
 [idice]: idice.gif "idice"
 [bubbles]: https://chandrunarayan.github.io/sketches/bubbles/ "bubbles"
-[schedule]: src/schedule_v2.png
+[schedule]: src/schedule_v3.png
 [schoolwork]: src/expectations.png
 [guslight]: giftable/gus2.gif "guslight"
 [romanlight]: giftable/roman2.gif "romanlight"
