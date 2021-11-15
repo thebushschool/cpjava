@@ -57,7 +57,7 @@
         * Modern advances in robotic telescopes and astro photography
    * <a href="http://thebushtelescope.com" target="_blank">Our Bush Telescope website</a>
    * Bush Telescope & Astronomy Quiz!
-   * <a href="https://www.thebushtelescope.com/images" target="_blank">Astro Images from the Telescope Cascade to be held in May 2021 at the Methow campus!</a>
+   * <a href="https://www.thebushtelescope.com/images" target="_blank">Astro Images from the Telescope Cascade held in May 2020 at the Seattle campus!</a>
 
 ## Feedback - Q&A from Students/Parents (10 minutes)
 1. Did you enjoy the session today?
