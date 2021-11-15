@@ -6,8 +6,8 @@
 | :--- | :--- | :--- |
 | 5 min | Introductions | Welcome, Say Hello!
 | 15 min | Mini Lesson | First Steps in Learning how to Code!
-| 10 min | Telescope & Astronomy Cascade | A preview of an upcoming 3-week Cascade!
-| 15 min | Q&A | Extended time for parents Q&A
+| 15 min | Telescope & Astronomy Cascade | A preview of an upcoming 3-week Cascade!
+| 10 min | Q&A | Parents/Students Feedback Q&A
 
 
 ## Logistics (5 minutes)
