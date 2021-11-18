@@ -24,7 +24,7 @@ function setup() {  // this function is run once.
     smooth(); 
 
     // UNCOMMENT LINE BELOW TO SAY HELLO!
-    sayHello();
+    //sayHello();
 } 
 
 function draw() {  // this function is run repeatedly.  
