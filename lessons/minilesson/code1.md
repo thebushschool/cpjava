@@ -12,7 +12,7 @@ let loc = 0;  // set up a variable pixel location
 function setup() {  // this function is run once.   
     // canvas size in pixels
     // width is set to 600, and height to 200
-    createCanvas(600, 200); 
+    createCanvas(800, 600); 
 
     // set the background color
     background("pink");  
@@ -24,12 +24,12 @@ function setup() {  // this function is run once.
     smooth(); 
 
     // UNCOMMENT LINE BELOW TO SAY HELLO!
-    //sayHello();
+    sayHello();
 } 
 
 function draw() {  // this function is run repeatedly.  
   // UNCOMMENT ONE LINE BELOW TO SEE WHAT HAPPENS!
-  //drawSticks1();
+  drawSticks1();
 
   // UNCOMMENT ONE LINE BELOW TO RUN YOUR CUSTOM CODE!
   //drawSticks2();   
@@ -39,9 +39,10 @@ function draw() {  // this function is run repeatedly.
 }
 
 function sayHello() {
-    // SAY HELLO TO YOUR FRIENDS - MODIFY TEXT BELOW!! 
+    textSize(30);
+    // SAY HELLO TO YOUR FRIENDS - MODIFY TEXT BELOW TO ADD YOUR NAME!! 
     // use input parameters: quoted text, x loc & y loc
-    text("Hello friends!", 20, height/2);
+    text("Hello friends!", 20, height-30);
 }
 
 function drawSticks1() {
@@ -50,7 +51,7 @@ function drawSticks1() {
     // set the color using input parameters:
     // shades of red, green, blue, transparency in order
     // random(255) gives a random number 0 to 255 for each color
-    stroke(random(255), random(255), random(255), 100);
+    stroke(random(255), random(255), random(255));
     
     // draw the line using input parameters:
     // 2 pairs of points: x1, y1, x2, y2 

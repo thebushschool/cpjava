@@ -7,8 +7,7 @@
 | 5 min | Introductions | Welcome, Say Hello!
 | 15 min | Mini Lesson | First Steps in Learning how to Code!
 | 15 min | Telescope & Astronomy Cascade | A preview of an upcoming 3-week Cascade!
-| 10 min | Feedback | Share your thoughts on today
-| 15 min | Q&A | Extended time for parents Q&A
+| 10 min | Q&A | Parents/Students Feedback Q&A
 
 
 ## Logistics (5 minutes)
@@ -17,7 +16,7 @@
 * Use your laptop to write some simple and visual code today during the Mini Lesson
 * We will use the browser for coding - no software needed. Chrome is preferred
 * Do our exercise in breakout rooms
-* Display our results to the class by sharing your screen
+* Display your results to the class by sharing your screen
 * Brief Cascade intro and Bush Telescope live demonstration
 * Stay online for additional 15 minutes for questions from parents or guardians
 
@@ -35,7 +34,7 @@
 1. When time is up select one teammember to display results to the class!
 1. One [solution to each example can be found here](codesolutions.md). Only look here after you have attempted it within your team! 
 
-## Telescope & Astronomy Cascade Preview (15 minutes)
+## Telescope & Astronomy Cascade Preview (10 minutes)
 
 1. The Bush Cascade program is a 3-week experiential and immersion program on a interdisciplinary course of study. 
 1. They are held 2 times a year at the end of Fall and Spring semesters in January and May. They are open to all Upper School students execluding Seniors who will be doing their final projects instead.
@@ -49,6 +48,7 @@
    * Interactive Thearter for Social Change
    * Morocco Cultural Immersion
    * Cultural Journey through the American South
+   * Bush Telescope & Astronomy Cascade
 
 1. Telescope & Astronomy Cascade Preview
    * Brief description of cascade
@@ -56,18 +56,15 @@
         * Anthropological considerations
         * Modern advances in robotic telescopes and astro photography
    * <a href="http://thebushtelescope.com" target="_blank">Our Bush Telescope website</a>
-   * Telecope live demonstration
-   * <a href="https://www.thebushtelescope.com/images" target="_blank">Astro Images from the Cascade held in May 2020.</a>
+   * Bush Telescope & Astronomy Quiz!
+   * <a href="https://www.thebushtelescope.com/images" target="_blank">Astro Images from the Telescope Cascade held in May 2020 at the Seattle campus!</a>
 
-## Feedback from Students (10 minutes)
+## Feedback - Q&A from Students/Parents (10 minutes)
 1. Did you enjoy the session today?
 1. What caught yoru attention?
 1. All questions/comments are OK!
 1. The main session is complete, thank you for joining!
 
-## Extended Q&A with Parents/Guardians (15 minutes)
-* Extended session for parents, guardians and students!
-* All questions are welcome
 
 ## My contact information
 * [Chandru Narayan a brief intro](../../chandru.png), Computer Science Teacher
