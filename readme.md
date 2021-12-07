@@ -120,6 +120,7 @@ In the world of programming - [collaboration with others is everything](https://
 * [Chemotaxis Project](https://github.com/chandrunarayan/Chemotaxis)
 * [Rising Bubbles Project](https://classroom.google.com/c/MzkyMDU1MDY0Njc4/a/NDM0NTIzNzc4MjQ1/details)
 * [Starfield Project](https://github.com/chandrunarayan/Starfield)
+* **New [Snowflake Live Coding Project](https://chandrunarayan.github.io/Snowflake/)
 * [Asteroids Part 1 Project](https://github.com/chandrunarayan/AsteroidsGame)
 * [Asteroids Part 2 Project](https://github.com/chandrunarayan/AsteroidsPart2)
 * [Asteroids Part 3 Project](https://github.com/chandrunarayan/AsteroidsPart3)
@@ -129,7 +130,7 @@ In the world of programming - [collaboration with others is everything](https://
 * [Sierpinski Triangles Project](https://github.com/chandrunarayan/Sierpinski)
 * [Linear Binary Search Functions Project](https://github.com/chandrunarayan/LinearBinarySearch)
 * [Game of Life Project](https://github.com/chandrunarayan/GameOfLife)
-* **New In Work [Boids - a physics simulation Project]()
+* In Work [Boids - a physics simulation Project]()
 * [Help with errors running Processing in Github](https://chandrunarayan.github.io/ProcessingInGithub/)
 
 ##  [Codingbat Practice Topics](https://codingbat.com/home/chandru.narayan@bush.edu)
