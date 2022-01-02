@@ -1,4 +1,4 @@
-[_Bush School CPJava Fall Semester 2021_](https://chandrunarayan.github.io/cpjava/)
+[_Bush School CPJava Spring Semester 2022_](https://chandrunarayan.github.io/cpjava/)
 
 ## Bouncing Bubbles Java Program
 ![alt text](bouncy_balls.gif)
@@ -10,7 +10,7 @@
 This course is designed to introduce computer programming in the Java language. Learning to use a computer language is a necessary skill for all students regardless of discipline. In this course we will teach the fundamentals of computer programming from the stand point of simulation, automation, and problem solving of real-world systems and natural processes. At the same time, the design and implementation of computer programs is taught from the context of fundamental aspects of computer science, including the development and analysis of algorithms, the development and use of fundamental data structures, the study of standard
 algorithms and typical applications, and the use of logic and formal methods. 
 
-In addition, the year-long course will cover many of the topics necessary for preparation to the AP Computer Science A (APCSA) examination in Spring of the following year. This is an introductory course in computer programming using Java. As such, no specific programming prerequisites are needed to take this course. However, additional preparation may be needed to fully prepare a student for the APCSA exam with no prior knowledge of computer programming.
+In addition, the year-long course, which started last Fall, will cover many of the topics necessary for preparation to the AP Computer Science A (APCSA) examination in Spring of this year. This is an introductory course in computer programming using Java. As such, no specific programming prerequisites are needed to take this course. However, additional preparation may be needed to fully prepare a student for the APCSA exam with no prior knowledge of computer programming.
 
 ### [Click here for a Complete Course Syllabus](src/CPJava_Syllabus.pdf)
 
@@ -68,7 +68,7 @@ We will use this method of learning sparingly, reserved for difficult topics tha
 In the world of programming - [collaboration with others is everything](https://youtu.be/q7d_JtyCq1A)!.  We will model that in our learning process in the classroom. We will learn by doing and by pairing with others. Each person in a paired team will have the opportunity to teach and to learn from each other. We will be using the Paired Programming teams for team for learning Java and projects. ** Please provide me the Github Account usernames that you created **.  The Paired Programming projects will be published at this location.  I have updated paired programming teams for the 2nd-term also keeping in mind the students remote/on-campus students and those taking the APCSA exam.
 
 ### Team Baker 
-* Nate, Asher
+* Tyler, Ethan
  
 ### Team Rainier 
 * Grace, Noah
