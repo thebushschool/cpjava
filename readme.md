@@ -66,9 +66,6 @@ We will use this method of learning sparingly, reserved for difficult topics tha
 
 ## Paired Programming Teams
 In the world of programming - [collaboration with others is everything](https://youtu.be/q7d_JtyCq1A)!.  We will model that in our learning process in the classroom. We will learn by doing and by pairing with others. Each person in a paired team will have the opportunity to teach and to learn from each other. We will be using the Paired Programming teams for team for learning Java and projects. ** Please provide me the Github Account usernames that you created **.  The Paired Programming projects will be published at this location.  I have updated paired programming teams for the 2nd-term also keeping in mind the students remote/on-campus students and those taking the APCSA exam.
-
-### Team Baker 
-* Tyler, Ethan
  
 ### Team Rainier 
 * Grace, Noah
@@ -81,6 +78,9 @@ In the world of programming - [collaboration with others is everything](https://
 
 ### Team Stevens 
 * Ethan, Chandru
+
+### Team Baker 
+* 
 
 ## Lesson Schedule
 
