@@ -124,7 +124,7 @@ In the world of programming - [collaboration with others is everything](https://
 * done[Asteroids Part 1 Project](https://github.com/chandrunarayan/AsteroidsGame)
 * done[Asteroids Part 2 Project](https://github.com/chandrunarayan/AsteroidsPart2)
 * done[Asteroids Part 3 Project](https://github.com/chandrunarayan/AsteroidsPart3)
-* inwork[Google Billboard Project](https://github.com/chandrunarayan/GoogleBillboard)
+* done[Google Billboard Project](https://github.com/chandrunarayan/GoogleBillboard)
 * inwork[Piglatin Project](https://github.com/chandrunarayan/Piglatin)
 * [Palindrome Checker Project](https://github.com/chandrunarayan/PalindromeChecker)
 * [Sierpinski Triangles Project](https://github.com/chandrunarayan/Sierpinski)
