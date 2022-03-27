@@ -143,7 +143,7 @@ Completion of these problem sets are not rquired for the CPJava course. However,
 
 Suggested Schedule of Completion updated 03.28.22 
 
-| Sequence | Topic | Codingbat Problemset
+| Sequence | Schedule Topic | Codingbat Problemset
 | :--- | :--- | :--- |
 | 1 | ***DONE*** Primitives | [Primitives](https://codingbat.com/home/chandru.narayan@bush.edu/intbool1)
 | 2 | ***DONE*** Functions | [Functions1](https://codingbat.com/home/chandru.narayan@bush.edu/functions1) [Functions2](https://codingbat.com/home/chandru.narayan@bush.edu/functions2) [Functions3](https://codingbat.com/home/chandru.narayan@bush.edu/functions3)
@@ -155,9 +155,10 @@ Suggested Schedule of Completion updated 03.28.22
 | 8 | ***DONE*** String & Pointers | [String1](https://codingbat.com/home/chandru.narayan@bush.edu/string1) [String2](https://codingbat.com/home/chandru.narayan@bush.edu/string2) [String3](https://codingbat.com/home/chandru.narayan@bush.edu/string3)
 | 9 | ***DONE*** Array Traversal | [Palindrome](https://codingbat.com/home/chandru.narayan@bush.edu/palindrome)
 | 10 | ***TODO*** 2D Arrays | [Minesweeper](https://codingbat.com/home/chandru.narayan@bush.edu/minesweeper)
-| 11 |  ***TODO*** 2D Arrays | [2DArrays](https://codingbat.com/home/chandru.narayan@bush.edu/2darrays)| 10 | Recursion | [Recursion1](https://codingbat.com/home/chandru.narayan@bush.edu/recursion1) [Recursion2](https://codingbat.com/home/chandru.narayan@bush.edu/recursion2) [Recursion3](https://codingbat.com/home/chandru.narayan@bush.edu/recursion3)
-| 12 |  ***TODO*** Searching | [Searching1](https://codingbat.com/home/chandru.narayan@bush.edu/searching1) [Searching2](https://codingbat.com/home/chandru.narayan@bush.edu/searching2)
-| 13 |  ***TODO*** Sorting | [Sorting](https://codingbat.com/home/chandru.narayan@bush.edu/sorting)
+| 11 |  ***TODO*** 2D Arrays | [2DArrays](https://codingbat.com/home/chandru.narayan@bush.edu/2darrays)
+| 12 | Recursion | [Recursion1](https://codingbat.com/home/chandru.narayan@bush.edu/recursion1) [Recursion2](https://codingbat.com/home/chandru.narayan@bush.edu/recursion2) [Recursion3](https://codingbat.com/home/chandru.narayan@bush.edu/recursion3)
+| 13 |  ***TODO*** Searching | [Searching1](https://codingbat.com/home/chandru.narayan@bush.edu/searching1) [Searching2](https://codingbat.com/home/chandru.narayan@bush.edu/searching2)
+| 14 |  ***TODO*** Sorting | [Sorting](https://codingbat.com/home/chandru.narayan@bush.edu/sorting)
 
 
 ## APCSA Exam Spring 2022 - May 4th
