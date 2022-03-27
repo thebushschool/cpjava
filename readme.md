@@ -112,6 +112,7 @@ In the world of programming - [collaboration with others is everything](https://
 
 ## Student Projects
 * ### [Click Here For Student Projects Currently In-Work](student-githubs.md)
+* [Help with errors running Processing in Github](https://chandrunarayan.github.io/ProcessingInGithub/)
 
 ## Processing Project Specifications & Repositories
 * done[Scales Project](https://github.com/chandrunarayan/Scales)
@@ -126,12 +127,12 @@ In the world of programming - [collaboration with others is everything](https://
 * done[Asteroids Part 3 Project](https://github.com/chandrunarayan/AsteroidsPart3)
 * done[Google Billboard Project](https://github.com/chandrunarayan/GoogleBillboard)
 * done[Piglatin Project](https://github.com/chandrunarayan/Piglatin)
-* inwork[Palindrome Checker Project](https://github.com/chandrunarayan/PalindromeChecker)
-* [Sierpinski Triangles Project](https://github.com/chandrunarayan/Sierpinski)
-* [Linear Binary Search Functions Project](https://github.com/chandrunarayan/LinearBinarySearch)
-* [Game of Life Project](https://github.com/chandrunarayan/GameOfLife)
-* [Boids - a physics simulation Project]()
-* [Help with errors running Processing in Github](https://chandrunarayan.github.io/ProcessingInGithub/)
+* IN-WORK[Palindrome Checker Project](https://github.com/chandrunarayan/PalindromeChecker)
+* TO-DO[Linear Binary Search Functions Project](https://github.com/chandrunarayan/LinearBinarySearch)
+* OPTIONAL[Sierpinski Triangles Project](https://github.com/chandrunarayan/Sierpinski)
+* FINAL[Game of Life Project with extensions](https://github.com/chandrunarayan/GameOfLife)
+* FINAL[Custom Newton's Boids - a physics simulation Project]()
+* FINAL[Custom Genetic Objects - a genetic evolution simulation Project]()
 
 ##  [Codingbat Practice Topics](https://codingbat.com/home/chandru.narayan@bush.edu)
 Make sure you login to codingbat with your username before attempting problem sets. 
@@ -179,7 +180,7 @@ This course draws from the book Building Java Programs: A Back to Basics Approac
 [crayon]: crayon.gif "crayon"
 [idice]: idice.gif "idice"
 [bubbles]: https://chandrunarayan.github.io/sketches/bubbles/ "bubbles"
-[schedule]: src/schedule_v6.png
+[schedule]: src/schedule_v7.png
 [schoolwork]: src/expectations.png
 [guslight]: giftable/gus2.gif "guslight"
 [romanlight]: giftable/roman2.gif "romanlight"
