@@ -162,8 +162,6 @@ Suggested Schedule of Completion updated 03.28.22
 ## APCSA Exam Spring 2022 - May 4th
 ### [APCSA exam will be held on Wednesday, May 4th, 2022](https://apstudents.collegeboard.org/exam-calendar)
 
-### ***Registration is OPEN*** - [REGISTER BY NOV 2nd](https://aptsusa.com/bush/) !!
-
 ### [Learn all about the APCSA Exam](https://apstudents.collegeboard.org/courses/ap-computer-science-a)
 
 ### [APCSA Instructional Videos](https://apcentral.collegeboard.org/pdf/available-ap-daily-videos-ap-computer-science-a.pdf?course=ap-computer-science-a) can be accessed here!
