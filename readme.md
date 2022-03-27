@@ -139,9 +139,10 @@ In the world of programming - [collaboration with others is everything](https://
 ##  [Codingbat Practice Topics](https://codingbat.com/home/chandru.narayan@bush.edu)
 Make sure you login to codingbat with your username before attempting problem sets. 
 
-Completion of these problem sets are not rquired for the CPJava course. However, it is highy recommended and essential in preparing for the APCSA exam if you plan to take it. See suggested schedule status with problemset topic. See additional details about the APCSA exam in the sections below
+Completion of these problem sets are not rquired for the CPJava course. However, it is highy recommended and essential in preparing for the APCSA exam if you plan to take it. See suggested schedule sequence below by topic. See additional details about the APCSA exam in the sections below
 
 Suggested Schedule of Completion updated 03.28.22 
+
 | Sequence | Topic | Codingbat Problemset
 | :--- | :--- | :--- |
 | 1 | ***DONE*** Primitives | [Primitives](https://codingbat.com/home/chandru.narayan@bush.edu/intbool1)
