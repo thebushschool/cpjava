@@ -97,7 +97,7 @@ In the world of programming - [collaboration with others is everything](https://
 * done[Unit 9a Inheritance & Encapsulation Student Paced Sesssion](https://docs.google.com/presentation/d/1U6Q4y2aVB-DTWi-jB2GYJP2BUIu_k2O3yY6iDY9w-Mw/edit)
 * done[Unit 2a String Objects & Methods and Google Billboard Project](https://drive.google.com/open?id=1H9tzGeTWetjzUz1G450NGxbEO5xZl3BvacfkFWsvWRE&authuser=0)
 * done[Unit 2b String Methods & Pointers and Piglatin Project](https://drive.google.com/open?id=1XLlg2WK9z2RQoCVq5l0EaKquK1Mhw4WYbfshck_Rujw&authuser=0)
-* IN-WORK[Unit 8 2D Arrays Tables](https://docs.google.com/presentation/d/1cIgGz7huTaKrsFC5OKXdKNQ9ftwHSnWO6fjzegs7H0w/edit?usp=sharing)
+* done[Unit 8 2D Arrays Tables](https://docs.google.com/presentation/d/1cIgGz7huTaKrsFC5OKXdKNQ9ftwHSnWO6fjzegs7H0w/edit?usp=sharing)
 * TO-DO[Unit 10a Recursion and Sierpinski Triangles](https://docs.google.com/presentation/d/1Ef1iENxFbYeJy7XDUlbV9JTiVYeoUkeXxrpcdx6UiwE/edit?usp=sharing)
 * OPTIONAL[Unit 10b Recursion and Fibonacci Sequence](https://docs.google.com/presentation/d/19gdc2QhdPKWhc-BZzwau2WEatgVQI2ftLCHv337OUPc/edit?usp=sharing)
 * OPTIONAL[Unit 10c Recursion and Fractals](https://docs.google.com/presentation/d/1aR38R14PDpmxgmxdUPdc1ueedpyYKNXf8x0EmPezd0U/edit?usp=sharing)
@@ -129,7 +129,7 @@ In the world of programming - [collaboration with others is everything](https://
 * done[Asteroids Part 3 Project](https://github.com/chandrunarayan/AsteroidsPart3)
 * done[Google Billboard Project](https://github.com/chandrunarayan/GoogleBillboard)
 * done[Piglatin Project](https://github.com/chandrunarayan/Piglatin)
-* IN-WORK[Palindrome Checker Project](https://github.com/chandrunarayan/PalindromeChecker)
+* done[Palindrome Checker Project](https://github.com/chandrunarayan/PalindromeChecker)
 * TO-DO[Linear Binary Search Functions Project](https://github.com/chandrunarayan/LinearBinarySearch)
 * OPTIONAL[Sierpinski Triangles Project](https://github.com/chandrunarayan/Sierpinski)
 * FINAL[Game of Life Project with extensions](https://github.com/chandrunarayan/GameOfLife)
@@ -154,8 +154,8 @@ Suggested Schedule of Completion updated 03.28.22
 | 7 | ***DONE*** String & Pointers | [Piglatin](https://codingbat.com/home/chandru.narayan@bush.edu/piglatin)
 | 8 | ***DONE*** String & Pointers | [String1](https://codingbat.com/home/chandru.narayan@bush.edu/string1) [String2](https://codingbat.com/home/chandru.narayan@bush.edu/string2) [String3](https://codingbat.com/home/chandru.narayan@bush.edu/string3)
 | 9 | ***DONE*** Array Traversal | [Palindrome](https://codingbat.com/home/chandru.narayan@bush.edu/palindrome)
-| 10 | ***TODO*** 2D Arrays | [Minesweeper](https://codingbat.com/home/chandru.narayan@bush.edu/minesweeper)
-| 11 |  ***TODO*** 2D Arrays | [2DArrays](https://codingbat.com/home/chandru.narayan@bush.edu/2darrays)
+| 10 | ***DONE*** 2D Arrays | [Minesweeper](https://codingbat.com/home/chandru.narayan@bush.edu/minesweeper)
+| 11 |  ***DONE*** 2D Arrays | [2DArrays](https://codingbat.com/home/chandru.narayan@bush.edu/2darrays)
 | 12 | Recursion | [Recursion1](https://codingbat.com/home/chandru.narayan@bush.edu/recursion1) [Recursion2](https://codingbat.com/home/chandru.narayan@bush.edu/recursion2) [Recursion3](https://codingbat.com/home/chandru.narayan@bush.edu/recursion3)
 | 13 |  ***TODO*** Searching | [Searching1](https://codingbat.com/home/chandru.narayan@bush.edu/searching1) [Searching2](https://codingbat.com/home/chandru.narayan@bush.edu/searching2)
 | 14 |  ***TODO*** Sorting | [Sorting](https://codingbat.com/home/chandru.narayan@bush.edu/sorting)
@@ -186,7 +186,7 @@ This course draws from the book Building Java Programs: A Back to Basics Approac
 [crayon]: crayon.gif "crayon"
 [idice]: idice.gif "idice"
 [bubbles]: https://chandrunarayan.github.io/sketches/bubbles/ "bubbles"
-[schedule]: src/schedule_v7.png
+[schedule]: src/schedule_v8.png
 [schoolwork]: src/expectations.png
 [guslight]: giftable/gus2.gif "guslight"
 [romanlight]: giftable/roman2.gif "romanlight"
