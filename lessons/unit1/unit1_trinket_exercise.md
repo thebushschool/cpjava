@@ -56,7 +56,7 @@ Other spaces are optional. Here is another version of the program. It runs, but 
 
 ## Assignment: Four 4s challenge
 
-Use exactly four 4's to write an expression that evaluates to every integer from 1 to 10, using only the four arithmetic operators + - * / and (). No decimals, factorials, square roots, exponents, or other symbols are allowed. The first one has already been done for you. Submit the link to your finished program by choosing Share Link. Go to the [CPJava Google Classroom]() and and then choose Add Link to submit the assignment. Don't forget to click the Turn In button. If you have extra time, see if you can get the numbers after 10; 11, 12, 13 and so on. If you are not able to Share Link, [you can submit your code to me via slack](https://cpjava2020.slack.com/archives/DTQ4CEAKX).
+Use exactly four 4's to write an expression that evaluates to every integer from 1 to 10, using only the four arithmetic operators + - * / and (). No decimals, factorials, square roots, exponents, or other symbols are allowed. The first one has already been done for you. Submit the link to your finished program by choosing Share Link. Go to the [CPJava Google Classroom]() and and then choose Add Link to submit the assignment. Don't forget to click the Turn In button. If you have extra time, see if you can get the numbers after 10; 11, 12, 13 and so on. If you are not able to Share Link, [you can submit your code to me via slack](https://cpjava2020.slack.com/archives/C04174TB020).
 
 <iframe src="https://trinket.io/java/bd6e15d01f" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
