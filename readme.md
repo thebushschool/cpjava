@@ -1,6 +1,5 @@
 [_Bush School CPJava Fall Semester 2022 (Year-Long)_](https://chandrunarayan.github.io/cpjava/)
 
-## WEBSITE UNDER CONSTRUCTION!!
 ## Bouncing Bubbles Java Program
 ![alt text](bouncy_balls.gif)
 
