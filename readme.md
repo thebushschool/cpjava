@@ -90,7 +90,7 @@ In the world of programming - [collaboration with others is everything](https://
 ## Lesson Schedule
 
 ## Student Paced Sessions for Java Units
-* [Unit 0 Java Introduction First week](lessons/unit1/src/CPJavaIntro_v4.pdf)
+* [Unit 0 Java Introduction First week tasks](lessons/unit1/src/CPJavaIntro_v4.pdf)
 * [Units 1 2 3 Consolidated Intro to Java Variables Operators Student Paced Sesssion](https://docs.google.com/presentation/d/1SEB8hbirhy00kq0oxLhQX2xcyC_HvaIw35V8pq82INw/edit#slide=id.g97cdd6c7ea_0_0)
 * [Units 4 5 Loops & Objects Student Paced Session](https://docs.google.com/presentation/d/1HC_K5tqfny5QYTdENnDpsQO-nGAAWua_YOQRc18V2IU/edit?usp=sharing)
 * [Unit 6a Arrays Student Paced Sesssion](https://docs.google.com/presentation/d/16rYe06ohSndVfIjs3WSlVSaD_h0CjnMLGbMfvEbcggI/edit?usp=sharing)
