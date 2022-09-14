@@ -71,33 +71,34 @@ We will use this method at the start of each Unit, or for unfamiliar and difficu
 In the world of programming - [collaboration with others is everything](https://youtu.be/q7d_JtyCq1A)!.  We will model that in our learning process in the classroom. We will learn by doing and by pairing with others. Each person in a paired team will have the opportunity to teach and to learn from each other. We will be using the Paired Programming teams for team for learning Java and projects. ** Please provide me the Github Account usernames that you created **.  The Paired Programming projects will be published at this location.  I have updated paired programming teams for the 2nd-term also keeping in mind the students remote/on-campus students and those taking the APCSA exam.
  
 ### Team Rainier 
-* 
+* Zach, Evan
 
 ### Team Hood 
-* 
+* Latti, Max
 
 ### Team St Helens 
-* 
+* Cassidy, Mariah
 
 ### Team Stevens 
-* 
+* Alexander, Wyatt
 
 ### Team Baker 
-* 
+* Ava, Zorian
 
 ### Team Glacier Peak
+* Tully, Chandru
 
 ## Lesson Schedule
 
 ## Student Paced Sessions for Java Units
-* [Unit 0 Java Introduction First week tasks](lessons/unit1/src/CPJavaIntro_v4.pdf)
-* [Units 1 2 3 Consolidated Intro to Java Variables Operators Student Paced Sesssion](https://docs.google.com/presentation/d/1SEB8hbirhy00kq0oxLhQX2xcyC_HvaIw35V8pq82INw/edit#slide=id.g97cdd6c7ea_0_0)
-* [Units 4 5 Loops & Objects Student Paced Session](https://docs.google.com/presentation/d/1HC_K5tqfny5QYTdENnDpsQO-nGAAWua_YOQRc18V2IU/edit?usp=sharing)
-* [Unit 6a Arrays Student Paced Sesssion](https://docs.google.com/presentation/d/16rYe06ohSndVfIjs3WSlVSaD_h0CjnMLGbMfvEbcggI/edit?usp=sharing)
-* [Unit 6b Arrays of Objects Student Paced Sesssion](https://docs.google.com/presentation/d/1bhgbqk9DAEzQG5ZFXYlGQ4CqQfVvieKUeOftVlC7P2Q/edit?usp=sharing)
-* [Unit 7a Array List Student Paced Sesssion](https://docs.google.com/presentation/d/1cnaJQR97NmguD3ZGeLL-Rum8TVj_qA0wHxEyVr37K9s/edit?usp=sharing) 
-* [Unit 7b For Each Loop Student Paced Sesssion](https://docs.google.com/presentation/d/1NTMFNzH-FB3Pfsnozkuu4lYZre3WNNLI6eAyzpNOJg8/edit#slide=id.p1)
-* [Unit 9a Inheritance & Encapsulation Student Paced Sesssion](https://docs.google.com/presentation/d/1U6Q4y2aVB-DTWi-jB2GYJP2BUIu_k2O3yY6iDY9w-Mw/edit)
+* [Unit 0 Java Introduction](lessons/unit1/src/CPJavaIntro_v4.pdf)
+* [Units 1 2 3 Consolidated Intro to Java Variables Operators](https://docs.google.com/presentation/d/1SEB8hbirhy00kq0oxLhQX2xcyC_HvaIw35V8pq82INw/edit#slide=id.g97cdd6c7ea_0_0)
+* [Units 4 5 Loops & Objects](https://docs.google.com/presentation/d/1HC_K5tqfny5QYTdENnDpsQO-nGAAWua_YOQRc18V2IU/edit?usp=sharing)
+* [Unit 6a Arrays](https://docs.google.com/presentation/d/16rYe06ohSndVfIjs3WSlVSaD_h0CjnMLGbMfvEbcggI/edit?usp=sharing)
+* [Unit 6b Arrays of Objects](https://docs.google.com/presentation/d/1bhgbqk9DAEzQG5ZFXYlGQ4CqQfVvieKUeOftVlC7P2Q/edit?usp=sharing)
+* [Unit 7a Array List](https://docs.google.com/presentation/d/1cnaJQR97NmguD3ZGeLL-Rum8TVj_qA0wHxEyVr37K9s/edit?usp=sharing) 
+* [Unit 7b For Each Loop](https://docs.google.com/presentation/d/1NTMFNzH-FB3Pfsnozkuu4lYZre3WNNLI6eAyzpNOJg8/edit#slide=id.p1)
+* [Unit 9a Inheritance & Encapsulation](https://docs.google.com/presentation/d/1U6Q4y2aVB-DTWi-jB2GYJP2BUIu_k2O3yY6iDY9w-Mw/edit)
 * [Unit 2a String Objects & Methods and Google Billboard Project](https://drive.google.com/open?id=1H9tzGeTWetjzUz1G450NGxbEO5xZl3BvacfkFWsvWRE&authuser=0)
 * [Unit 2b String Methods & Pointers and Piglatin Project](https://drive.google.com/open?id=1XLlg2WK9z2RQoCVq5l0EaKquK1Mhw4WYbfshck_Rujw&authuser=0)
 * [Unit 8 2D Arrays Tables](https://docs.google.com/presentation/d/1cIgGz7huTaKrsFC5OKXdKNQ9ftwHSnWO6fjzegs7H0w/edit?usp=sharing)
