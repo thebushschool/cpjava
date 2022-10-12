@@ -10,7 +10,7 @@
 | Cassidy   | [My Scales](https://cassidysnyder.github.io/Scales/index.html)
 | Evan      | [My Scales](https://evanz-26.github.io/ScalesProject/index.html)
 | Ava       | [My Scales](https://glorifiedmouse.github.io/Scales/index.html)
-| Latti     | [My Scales](https://lattit.github.io/Scales/index.html)
+| Latti     | [My Scales](https://lattit.github.io/Scales-Project/index.html)
 | Mariah    | [My Scales](https://mariahmartin.github.io/Scales/index.html)
 | Max       | [My Scales](https://maxfleming2023.github.io/Scales/index.html)
 | Zach       | [My Scales](https://unknown.github.io/Scales/index.html)
