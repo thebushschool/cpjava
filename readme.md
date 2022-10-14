@@ -167,6 +167,8 @@ Suggested Schedule of Completion updated 03.28.22
 
 ## APCSA Exam Spring 2023 - May 3rd
 
+## [REGISTER HERE BY NOV 1 2022 !!](https://aptsusa.com/bush/)
+
 ### [APCSA Exam Hints](src/examhints.pdf)
 
 ### [APCSA exam will be held on Wednesday, May 3rd, 2023](https://apstudents.collegeboard.org/exam-calendar)
