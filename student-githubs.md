@@ -1,5 +1,5 @@
 [_Bush School CPJava Fall Semester 2022_](https://chandrunarayan.github.io/cpjava/)
-# Student Projects Completed
+# Student Projects Completed as of Oct 12, 2022
 
 ## Scales Project
 
