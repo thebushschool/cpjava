@@ -13,7 +13,7 @@
 | Latti     | [My Scales](https://lattit.github.io/Scales-Project/index.html)
 | Mariah    | [My Scales](https://mariahmartin.github.io/Scales/index.html)
 | Max       | [My Scales](https://maxfleming2023.github.io/Scales/index.html)
-| Zach       | [My Scales](https://unknown.github.io/Scales/index.html)
+| Zach       | [My Scales](https://zerohumans787.github.io/Scales/index.html)
 | Zorian    | [My Scales](https://zorianc.github.io/Scales/index.html)
 
 ## Lightning Project
@@ -28,7 +28,7 @@
 | Latti     | [My Lightning](https://lattit.github.io/Lightning/index.html)
 | Mariah    | [My Lightning](https://mariahmartin.github.io/Lightning/index.html)
 | Max       | [My Lightning](https://maxfleming2023.github.io/Lightning/index.html)
-| Zach       | [My Scales](https://unknown.github.io/Lightning/index.html)
+| Zach      | [My Lightning](https://zerohumans787.github.io/Lightning/index.html)
 | Zorian    | [My Lightning](https://zorianc.github.io/Lightning/index.html)
 
 
