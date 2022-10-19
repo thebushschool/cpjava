@@ -6,7 +6,7 @@
 | Student | Link
 | :--- | :--- |
 | Alexander | [My Scales](https://alexandertburton.github.io/Scales/index.html)
-| Wyatt     | [My Scales](https://bush-wyattthelan.github.io/Scales/index.html)
+| Wyatt     | [My Scales](https://bush-wyattthelen.github.io/Scales/index.html)
 | Cassidy   | [My Scales](https://cassidysnyder.github.io/Scales/index.html)
 | Evan      | [My Scales](https://evanz-26.github.io/ScalesProject/index.html)
 | Ava       | [My Scales](https://glorifiedmouse.github.io/Scales/index.html)
@@ -21,7 +21,7 @@
 | Student | Link
 | :--- | :--- |
 | Alexander | [My Lightning](https://alexandertburton.github.io/Lightning/index.html)
-| Wyatt     | [My Lightning](https://bush-wyattthelan.github.io/Lightning/index.html)
+| Wyatt     | [My Lightning](https://bush-wyattthelen.github.io/Lightning/index.html)
 | Cassidy   | [My Lightning](https://cassidysnyder.github.io/Lightning/index.html)
 | Evan      | [My Lightning](https://evanz-26.github.io/Lightning-Project/index.html)
 | Ava       | [My Lightning](https://glorifiedmouse.github.io/Lightning/index.html)
