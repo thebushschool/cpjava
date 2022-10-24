@@ -40,7 +40,7 @@ In our CPJava classroom we are already using tools and techniques that are natur
     
 ### [Downloadable CPJava Course Schedule 2022-2023](src/schedule.png) 
 
-Schedule updated 09.05.22
+Schedule updated 10/24/22
 ![alt text][schedule]
 
 ## Learning Modes
