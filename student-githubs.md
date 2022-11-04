@@ -35,6 +35,20 @@ updated 10/24/22
 | Zach      | Done | [Spawn Bolt](https://zerohumans787.github.io/Lightning/index.html)
 | Zorian    | Done | [Fade Lightning](https://zorianc.github.io/Lightning/index.html)
 
+## Dice Project
+
+| Student | Status | Link
+| :--- | :--- | :--- |
+| Alexander | Done | [Dice](https://alexandertburton.github.io/Dice/index.html)
+| Ava       | Done | [Dice](https://glorifiedmouse.github.io/Dice/index.html)
+| Cassidy   | Done | [Dice](https://cassidysnyder.github.io/Dice/index.html)
+| Evan      | Done | [Dice](https://evanz-26.github.io/Dice-Project/index.html)
+| Latti     | Done | [Dice](https://lattit.github.io/Dice/index.html)
+| Mariah    | Done | [Dice](https://mariahmartin.github.io/Dice/index.html)
+| Max       | Done | [Dice](https://maxfleming2023.github.io/Dice/index.html)
+| Wyatt     | Done | [Dice](https://bush-wyattthelen.github.io/Dice/index.html)
+| Zach      | Done | [Dice](https://zerohumans787.github.io/Dice/index.html)
+| Zorian    | Done | [Dice](https://zorianc.github.io/Dice/index.html)
 
 ## Objects Practice
 
