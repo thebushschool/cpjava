@@ -1,4 +1,4 @@
-[_Bush School CPJava Fall Semester 2022 (Year-Long)_](https://chandrunarayan.github.io/cpjava/)
+[_Bush School CPJava Spring Semester 2023 (Year-Long)_](https://chandrunarayan.github.io/cpjava/)
 
 ## Bouncing Bubbles Java Program
 ![alt text](bouncy_balls.gif)
@@ -40,7 +40,7 @@ In our CPJava classroom we are already using tools and techniques that are natur
     
 ### [Downloadable CPJava Course Schedule 2022-2023](src/schedule.png) 
 
-Schedule updated 10/24/22
+Schedule updated 2/4/23
 
 ![alt text][schedule]
 
