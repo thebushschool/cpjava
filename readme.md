@@ -44,6 +44,11 @@ Schedule updated 2/4/23
 
 ![alt text][schedule]
 
+Jan 3rd, 2023 Note
+
+![alt text][jan3note]
+<span style="color:red">Chemotaxis project (Arrays of Objects) and Rising Bubbles Part 2 project (Array List) are now due in Feb 2023</span> See Portal!
+
 ## Learning Modes
 ### Learning by Doing First - Student-Based Asynchronous Workflow
 In this mode of learning we will simultaneously start a consolidated student-paced sessions spanning multiple Java Units, and by working on programming projects within [Paired Programming teams](#paired-programming-teams).  We will mostly be using this workflow model, switching to Synchronous teacher-led sessions in small bursts as needed.
@@ -196,17 +201,4 @@ This course draws from the book Building Java Programs: A Back to Basics Approac
 [schedule]: src/schedule.png
 [remaining]: src/remaining.png
 [schoolwork]: src/expectations.png
-[guslight]: giftable/gus2.gif "guslight"
-[romanlight]: giftable/roman2.gif "romanlight"
-[hannahlight]: giftable/hannah.gif "hannahlight"
-[mizuki]: giftable/mizuki2.gif "mizuki2"
-[zoobdice]: giftable/zoobdice.gif "mizuki2"
-[romandice]: giftable/romandice.gif "romandice"
-[sallydice]: giftable/sallydice.gif "sallydice"
-[romantaxis]: giftable/romantaxis.gif "romantaxis"
-[hannahtaxis]: giftable/hannahtaxis.gif "hannahtaxis"
-[isaactaxis]: giftable/isaactaxis.gif "isaactaxis"
-[gusstar]: giftable/gusstar.gif "gusstar"
-[mizukistar]: giftable/mizukistar.gif "mizukistar"
-[chloestar]: giftable/chloestar.gif "chloestar"
-[hannahstar]: giftable/hannahstar.gif "hannahstar"
+[jan3note]: src/jan3rd_note.png
