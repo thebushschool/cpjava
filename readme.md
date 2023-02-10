@@ -97,13 +97,13 @@ In the world of programming - [collaboration with others is everything](https://
 ## Lesson Schedule
 
 ## Student Paced Sessions for Java Units
-* [Unit 0 Java Introduction](lessons/unit1/src/CPJavaIntro_v4.pdf)
-* [Units 1 2 3 Consolidated Intro to Java Variables Operators](https://docs.google.com/presentation/d/1SEB8hbirhy00kq0oxLhQX2xcyC_HvaIw35V8pq82INw/edit#slide=id.g97cdd6c7ea_0_0)
-* [Units 4 5 Loops & Objects](https://docs.google.com/presentation/d/1HC_K5tqfny5QYTdENnDpsQO-nGAAWua_YOQRc18V2IU/edit?usp=sharing)
-* [Unit 6a Arrays](https://docs.google.com/presentation/d/16rYe06ohSndVfIjs3WSlVSaD_h0CjnMLGbMfvEbcggI/edit?usp=sharing)
-* [Unit 6b Arrays of Objects](https://docs.google.com/presentation/d/1bhgbqk9DAEzQG5ZFXYlGQ4CqQfVvieKUeOftVlC7P2Q/edit?usp=sharing)
-* [Unit 7a Array List](https://docs.google.com/presentation/d/1cnaJQR97NmguD3ZGeLL-Rum8TVj_qA0wHxEyVr37K9s/edit?usp=sharing) 
-* [Unit 7b For Each Loop](https://docs.google.com/presentation/d/1NTMFNzH-FB3Pfsnozkuu4lYZre3WNNLI6eAyzpNOJg8/edit#slide=id.p1)
+* DONE [Unit 0 Java Introduction](lessons/unit1/src/CPJavaIntro_v4.pdf)
+* DONE [Units 1 2 3 Consolidated Intro to Java Variables Operators](https://docs.google.com/presentation/d/1SEB8hbirhy00kq0oxLhQX2xcyC_HvaIw35V8pq82INw/edit#slide=id.g97cdd6c7ea_0_0)
+* DONE [Units 4 5 Loops & Objects](https://docs.google.com/presentation/d/1HC_K5tqfny5QYTdENnDpsQO-nGAAWua_YOQRc18V2IU/edit?usp=sharing)
+* DONE [Unit 6a Arrays](https://docs.google.com/presentation/d/16rYe06ohSndVfIjs3WSlVSaD_h0CjnMLGbMfvEbcggI/edit?usp=sharing)
+* DONE [Unit 6b Arrays of Objects](https://docs.google.com/presentation/d/1bhgbqk9DAEzQG5ZFXYlGQ4CqQfVvieKUeOftVlC7P2Q/edit?usp=sharing)
+* DONE [Unit 7a Array List](https://docs.google.com/presentation/d/1cnaJQR97NmguD3ZGeLL-Rum8TVj_qA0wHxEyVr37K9s/edit?usp=sharing) 
+* DONE [Unit 7b For Each Loop](https://docs.google.com/presentation/d/1NTMFNzH-FB3Pfsnozkuu4lYZre3WNNLI6eAyzpNOJg8/edit#slide=id.p1)
 * [Unit 9a Inheritance & Encapsulation](https://docs.google.com/presentation/d/1U6Q4y2aVB-DTWi-jB2GYJP2BUIu_k2O3yY6iDY9w-Mw/edit)
 * [Unit 2a String Objects & Methods and Google Billboard Project](https://drive.google.com/open?id=1H9tzGeTWetjzUz1G450NGxbEO5xZl3BvacfkFWsvWRE&authuser=0)
 * [Unit 2b String Methods & Pointers and Piglatin Project](https://drive.google.com/open?id=1XLlg2WK9z2RQoCVq5l0EaKquK1Mhw4WYbfshck_Rujw&authuser=0)
@@ -127,13 +127,13 @@ In the world of programming - [collaboration with others is everything](https://
 * [Help with errors running Processing in Github](https://chandrunarayan.github.io/ProcessingInGithub/)
 
 ## Processing Project Specifications & Repositories
-* [Scales Project](https://github.com/chandrunarayan/Scales)
-* [Lightning Project](https://github.com/chandrunarayan/Lightning)
-* [Dice Project](https://github.com/chandrunarayan/Dice)
-* [Chemotaxis Project](https://github.com/chandrunarayan/Chemotaxis)
-* [Rising Bubbles Project](https://classroom.google.com/c/MzkyMDU1MDY0Njc4/a/NDM0NTIzNzc4MjQ1/details)
+* DONE [Scales Project](https://github.com/chandrunarayan/Scales)
+* DONE [Lightning Project](https://github.com/chandrunarayan/Lightning)
+* DONE [Dice Project](https://github.com/chandrunarayan/Dice)
+* IN-WORK [Chemotaxis Project](https://github.com/chandrunarayan/Chemotaxis)
+* IN-WORK [Rising Bubbles Project](https://classroom.google.com/c/MzkyMDU1MDY0Njc4/a/NDM0NTIzNzc4MjQ1/details)
 * [Starfield Project](https://github.com/chandrunarayan/Starfield)
-* [Snowflake Live Coding Project](https://chandrunarayan.github.io/Snowflake/)
+* DONE [Snowflake Live Coding Project](https://chandrunarayan.github.io/Snowflake/)
 * [Asteroids Part 1 Project](https://github.com/chandrunarayan/AsteroidsGame)
 * [Asteroids Part 2 Project](https://github.com/chandrunarayan/AsteroidsPart2)
 * [Asteroids Part 3 Project](https://github.com/chandrunarayan/AsteroidsPart3)
@@ -156,11 +156,11 @@ Suggested Schedule of Completion updated 03.28.22
 
 | Sequence | Schedule Topic | Codingbat Problemset
 | :--- | :--- | :--- |
-| 1 | Primitives | [Primitives](https://codingbat.com/home/chandru.narayan@bush.edu/intbool1)
-| 2 | Functions | [Functions1](https://codingbat.com/home/chandru.narayan@bush.edu/functions1) [Functions2](https://codingbat.com/home/chandru.narayan@bush.edu/functions2) [Functions3](https://codingbat.com/home/chandru.narayan@bush.edu/functions3)
-| 3 | Arrays | [Arrays1](https://codingbat.com/home/chandru.narayan@bush.edu/arrays1) [Arrays2](https://codingbat.com/home/chandru.narayan@bush.edu/arrays2) [Arrays3](https://codingbat.com/home/chandru.narayan@bush.edu/arrays3) [Arrays4](https://codingbat.com/home/chandru.narayan@bush.edu/arrays4)
-| 4 | Array List | [ArrayList1](https://codingbat.com/home/chandru.narayan@bush.edu/arraylist1) [ArrayList2](https://codingbat.com/home/chandru.narayan@bush.edu/arraylist2) [ArrayList3](https://codingbat.com/home/chandru.narayan@bush.edu/arraylist3)
-| 5 | Fall Review | [FallReview1](https://codingbat.com/home/chandru.narayan@bush.edu/fallreview1) [FallReview2](https://codingbat.com/home/chandru.narayan@bush.edu/fallreview2)
+| 1 | COMPLETE Primitives | [Primitives](https://codingbat.com/home/chandru.narayan@bush.edu/intbool1)
+| 2 | COMPLETE Functions | [Functions1](https://codingbat.com/home/chandru.narayan@bush.edu/functions1) [Functions2](https://codingbat.com/home/chandru.narayan@bush.edu/functions2) [Functions3](https://codingbat.com/home/chandru.narayan@bush.edu/functions3)
+| 3 | COMPLETE Arrays | [Arrays1](https://codingbat.com/home/chandru.narayan@bush.edu/arrays1) [Arrays2](https://codingbat.com/home/chandru.narayan@bush.edu/arrays2) [Arrays3](https://codingbat.com/home/chandru.narayan@bush.edu/arrays3) [Arrays4](https://codingbat.com/home/chandru.narayan@bush.edu/arrays4)
+| 4 | COMPLETE Array List | [ArrayList1](https://codingbat.com/home/chandru.narayan@bush.edu/arraylist1) [ArrayList2](https://codingbat.com/home/chandru.narayan@bush.edu/arraylist2) [ArrayList3](https://codingbat.com/home/chandru.narayan@bush.edu/arraylist3)
+| 5 | COMPLETE Fall Review | [FallReview1](https://codingbat.com/home/chandru.narayan@bush.edu/fallreview1) [FallReview2](https://codingbat.com/home/chandru.narayan@bush.edu/fallreview2)
 | 6 | String | [Googlebillboard](https://codingbat.com/home/chandru.narayan@bush.edu/googlebillboard)
 | 7 | String & Pointers | [Piglatin](https://codingbat.com/home/chandru.narayan@bush.edu/piglatin)
 | 8 | String & Pointers | [String1](https://codingbat.com/home/chandru.narayan@bush.edu/string1) [String2](https://codingbat.com/home/chandru.narayan@bush.edu/string2) [String3](https://codingbat.com/home/chandru.narayan@bush.edu/string3)
