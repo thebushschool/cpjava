@@ -1,5 +1,11 @@
 [_Bush School CPJava Spring Semester 2023 (Year-Long)_](https://chandrunarayan.github.io/cpjava/)
 
+## Newly added topics
+| Date | Topic | Link
+| :--- | :--- | :--- |
+| 02-10-2023 | FRQ Notes for AP Exam takers | [click to go there](https://chandrunarayan.github.io/cpjava/#frq-notes)
+
+
 ## Bouncing Bubbles Java Program
 ![alt text](bouncy_balls.gif)
 
