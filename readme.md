@@ -146,7 +146,8 @@ In the world of programming - [collaboration with others is everything](https://
 * FINAL[Custom Newton's Boids - a physics simulation Project]()
 * FINAL[Custom Genetic Objects - a genetic evolution simulation Project]()
 
-##  [Codingbat Practice Topics](https://codingbat.com/home/chandru.narayan@bush.edu)
+## AP Exam Section
+###  [Codingbat Practice Topics](https://codingbat.com/home/chandru.narayan@bush.edu)
 Make sure you login to codingbat with your username before attempting problem sets. 
 
 Completion of these problem sets are not rquired for the CPJava course. However, it is highy recommended and essential in preparing for the APCSA exam if you plan to take it. See suggested schedule sequence below by topic. See additional details about the APCSA exam in the sections below
@@ -170,10 +171,15 @@ Suggested Schedule of Completion updated 03.28.22
 | 13 |  Searching | [Searching1](https://codingbat.com/home/chandru.narayan@bush.edu/searching1) [Searching2](https://codingbat.com/home/chandru.narayan@bush.edu/searching2)
 | 14 |  Sorting | [Sorting](https://codingbat.com/home/chandru.narayan@bush.edu/sorting)
 
+### FRQ Notes 
+* Question 1: Methods and Control Structures—You’ll be asked to write program code to create objects of a class and call methods, and satisfy method specifications using expressions, conditional statements, and iterative statements.
+* Question 2: Classes—You’ll be asked to write program code to define a new type by creating a class and satisfy method specifications using expressions, conditional statements, and iterative statements.
+* Question 3: Array/ArrayList—You’ll be asked to write program code to satisfy method specifications and create, traverse, and manipulate elements in 1D array or ArrayList objects.
+* Question 4: 2D Array—You’ll be asked to write program code to satisfy method specifications and create, traverse, and manipulate elements in 2D array objects.
 
-## APCSA Exam Spring 2023 - May 3rd
+### APCSA Exam Spring 2023 - May 3rd
 
-## [REGISTER HERE BY NOV 1 2022 !!](https://aptsusa.com/bush/)
+### [REGISTER HERE BY NOV 1 2022 !!](https://aptsusa.com/bush/)
 
 ### [APCSA Exam Hints](src/examhints.pdf)
 
