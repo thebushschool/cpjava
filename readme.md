@@ -4,10 +4,10 @@
 
 | Date | Topic | Link
 | :--- | :--- | :--- |
+(#hints-faq) |
 | 02-11-2023 | Declare and Define Primitives, Objects, Array and ArrayList with examples | [click to go there](#hints-faq) |
 | 02-10-2023 | FRQ Notes for AP Exam takers | [click to go there](#frq-notes) |
-
-
+| 02-8-2023 | Jan 3rd, 2023 Notes | [click to go there](#jan-3rd-2023-note) |
 
 ## Bouncing Bubbles Java Program
 ![alt text](bouncy_balls.gif)
@@ -53,8 +53,7 @@ Schedule updated 2/4/23
 
 ![alt text][schedule]
 
-Jan 3rd, 2023 Note
-
+## Jan 3rd 2023 Note
 ![alt text][jan3note]
 <span style="color:red">Chemotaxis project (Arrays of Objects) and Rising Bubbles Part 2 project (Array List) are now due in Feb 2023</span> See Portal!
 
