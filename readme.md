@@ -4,8 +4,9 @@
 
 | Date | Topic | Link
 | :--- | :--- | :--- |
-| 02-11-2023 | Declare and Define Primitives, Objects, Array and ArrayList with examples | [click to go there](#hints-faq)
-| 02-10-2023 | FRQ Notes for AP Exam takers | [click to go there](#frq-notes)
+| 02-11-2023 | Declare and Define Primitives, Objects, Array and ArrayList with examples | [click to go there](#hints-faq) |
+| 02-10-2023 | FRQ Notes for AP Exam takers | [click to go there](#frq-notes) |
+
 
 
 ## Bouncing Bubbles Java Program
