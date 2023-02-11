@@ -3,7 +3,8 @@
 ## Newly added topics
 | Date | Topic | Link
 | :--- | :--- | :--- |
-| 02-10-2023 | FRQ Notes for AP Exam takers | [click to go there](https://chandrunarayan.github.io/cpjava/#frq-notes)
+| 02-11-2023 | Declare and Define Primitives, Objects, Array and ArrayList with examples | [click to go there](#hints-faq)
+| 02-10-2023 | FRQ Notes for AP Exam takers | [click to go there](#frq-notes)
 
 
 ## Bouncing Bubbles Java Program
@@ -130,7 +131,10 @@ In the world of programming - [collaboration with others is everything](https://
 
 ## Student Projects
 * ### [Click Here For Student Projects Currently In-Work](student-githubs.md)
+
+## Hints FAQ
 * [Help with errors running Processing in Github](https://chandrunarayan.github.io/ProcessingInGithub/)
+* [Declare and Define Primitives, Objects, Array and ArrayList with examples](src/declare_define_examples.md)
 
 ## Processing Project Specifications & Repositories
 * DONE [Scales Project](https://github.com/chandrunarayan/Scales)
