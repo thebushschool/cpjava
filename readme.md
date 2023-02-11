@@ -1,6 +1,7 @@
 [_Bush School CPJava Spring Semester 2023 (Year-Long)_](https://chandrunarayan.github.io/cpjava/)
 
 ## Newly added topics
+
 | Date | Topic | Link
 | :--- | :--- | :--- |
 | 02-11-2023 | Declare and Define Primitives, Objects, Array and ArrayList with examples | [click to go there](#hints-faq)
