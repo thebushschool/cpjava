@@ -4,7 +4,6 @@
 
 | Date | Topic | Link
 | :--- | :--- | :--- |
-(#hints-faq) |
 | 02-11-2023 | Declare and Define Primitives, Objects, Array and ArrayList with examples | [click to go there](#hints-faq) |
 | 02-10-2023 | FRQ Notes for AP Exam takers | [click to go there](#frq-notes) |
 | 02-8-2023 | Jan 3rd, 2023 Note | [click to go there](#jan-3rd-2023-note) |
