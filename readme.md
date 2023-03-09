@@ -9,7 +9,7 @@
 | 02-8-2023 | Jan 3rd, 2023 Note | [click to go there](#jan-3rd-2023-note) |
 
 ## Bouncing Bubbles Java Program
-![alt text](bouncy_balls.gif)
+![Click here for note](bouncy_balls.gif)
 
 <a href="https://chandrunarayan.github.io/sketches/bubbles" target="blank">Click here for live code of bouncing bubbles and try clicking them inside resulting new tab or window. Like what you see? This course will be all about developing skills to simulate nature on your computer in a fun, engaging manner and learn Java on the side!</a>
 
