@@ -124,9 +124,9 @@ In the world of programming - [collaboration with others is everything](https://
 ## Project Specific Student Paced Sessions
 * DONE [Unit 0 Processing Primer Scales Project](https://docs.google.com/presentation/d/1oGEPH8JPehlrZLI9IREmoKrNd192qZ_DuNtancZooY4/edit?usp=sharing)
 * DONE [Unit 1 Using MathDotRandom in the Lightning Project](https://docs.google.com/presentation/d/1ga570E_dgM4iSPyWmaa2AmE9roI63Eoe8VdkLu8fdQ4/edit#slide=id.g40fbbe7893_0_24)
-* [Unit 9b Asteroids Project Part 1](https://docs.google.com/presentation/d/1HfHQTei9qgkBEBhNqUKqmAc6g2V3x8FDprajTp5IZuE/edit?usp=sharing)
-* [Unit 9c Asteroids Project Part 2](https://docs.google.com/presentation/d/1pPeUvTAbIjtZYvfQIv54BDuunra8H6imO654amT6NI4/edit?usp=sharing)
-* [Unit 9d Asteroids Project Final Part 3](https://docs.google.com/presentation/d/1eSpNZiI6WjTBA4Jn_s_0pSicocsRXhOUnGaTOms80CM/edit?usp=sharing)
+* IN-WORK [Unit 9b Asteroids Project Part 1](https://docs.google.com/presentation/d/1HfHQTei9qgkBEBhNqUKqmAc6g2V3x8FDprajTp5IZuE/edit?usp=sharing)
+* IN-WORK [Unit 9c Asteroids Project Part 2](https://docs.google.com/presentation/d/1pPeUvTAbIjtZYvfQIv54BDuunra8H6imO654amT6NI4/edit?usp=sharing)
+* IN-WORK [Unit 9d Asteroids Project Final Part 3](https://docs.google.com/presentation/d/1eSpNZiI6WjTBA4Jn_s_0pSicocsRXhOUnGaTOms80CM/edit?usp=sharing)
 * [Vectors](https://docs.google.com/presentation/d/1H_v-gJwiZyaRqGt4j-gnPoGeW3QGNZEhcqAEEO4Nzf0/edit?usp=sharing)
 
 ## Student Projects
