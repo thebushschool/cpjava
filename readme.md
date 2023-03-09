@@ -9,7 +9,7 @@
 | 02-8-2023 | Jan 3rd, 2023 Note | [click to go there](#jan-3rd-2023-note) |
 
 ## Bouncing Bubbles Java Program
-![Click here for note](bouncy_balls.gif)
+![alt text](bouncy_balls.gif)
 
 <a href="https://chandrunarayan.github.io/sketches/bubbles" target="blank">Click here for live code of bouncing bubbles and try clicking them inside resulting new tab or window. Like what you see? This course will be all about developing skills to simulate nature on your computer in a fun, engaging manner and learn Java on the side!</a>
 
@@ -53,7 +53,7 @@ Schedule updated 2/26/23
 ![alt text][schedule]
 
 ## Jan 3rd 2023 Note
-[alt text][jan3note]
+[Click here for note][jan3note]
 
 <span style="color:red">Chemotaxis project (Arrays of Objects) and Rising Bubbles Part 2 project (Array List) are now due in Feb 2023</span> See Portal!
 
