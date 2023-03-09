@@ -55,8 +55,6 @@ Schedule updated 2/26/23
 ## Jan 3rd 2023 Note
 [Click here for note][jan3note]
 
-<span style="color:red">Chemotaxis project (Arrays of Objects) and Rising Bubbles Part 2 project (Array List) are now due in Feb 2023</span> See Portal!
-
 ## Learning Modes
 ### Learning by Doing First - Student-Based Asynchronous Workflow
 In this mode of learning we will simultaneously start a consolidated student-paced sessions spanning multiple Java Units, and by working on programming projects within [Paired Programming teams](#paired-programming-teams).  We will mostly be using this workflow model, switching to Synchronous teacher-led sessions in small bursts as needed.
