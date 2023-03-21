@@ -53,7 +53,8 @@ Schedule updated 3/21/23
 ![alt text][schedule]
 
 ## Jan 3rd 2023 Note
-[Jan 3 Note][jan3note]
+![alt text][jan3note]
+<span style="color:red">Chemotaxis project (Arrays of Objects) and Rising Bubbles Part 2 project (Array List) are now due in Feb 2023</span> See Portal!
 
 ## Learning Modes
 ### Learning by Doing First - Student-Based Asynchronous Workflow
