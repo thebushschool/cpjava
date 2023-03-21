@@ -214,7 +214,7 @@ This course draws from the book Building Java Programs: A Back to Basics Approac
 [crayon]: crayon.gif "crayon"
 [idice]: idice.gif "idice"
 [bubbles]: https://chandrunarayan.github.io/sketches/bubbles/ "bubbles"
-[schedule]: src/schedule_v9.png
+[schedule]: src/schedule.png
 [remaining]: src/remaining.png
 [schoolwork]: src/expectations.png
 [jan3note]: src/jan3rd_note.png
