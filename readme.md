@@ -6,7 +6,7 @@
 | :--- | :--- | :--- |
 | 02-11-2023 | Declare and Define Primitives, Objects, Array and ArrayList with examples | [click to go there](#hints-faq) |
 | 02-10-2023 | FRQ Notes for AP Exam takers | [click to go there](#frq-notes) |
-| 02-8-2023 | Jan 3rd, 2023 Note | [click to go there](#jan-3rd-2023-note) |
+
 
 ## Bouncing Bubbles Java Program
 ![alt text](bouncy_balls.gif)
@@ -48,13 +48,12 @@ In our CPJava classroom we are already using tools and techniques that are natur
     
 ### [Downloadable CPJava Course Schedule 2022-2023](src/schedule.png) 
 
-Schedule updated 2/26/23
+Schedule updated 3/21/23
 
 ![alt text][schedule]
 
 ## Jan 3rd 2023 Note
-![alt text][jan3note]
-<span style="color:red">Chemotaxis project (Arrays of Objects) and Rising Bubbles Part 2 project (Array List) are now due in Feb 2023</span> See Portal!
+[Jan 3 Note][jan3note]
 
 ## Learning Modes
 ### Learning by Doing First - Student-Based Asynchronous Workflow
@@ -112,7 +111,7 @@ In the world of programming - [collaboration with others is everything](https://
 * DONE [Unit 7a Array List](https://docs.google.com/presentation/d/1cnaJQR97NmguD3ZGeLL-Rum8TVj_qA0wHxEyVr37K9s/edit?usp=sharing) 
 * DONE [Unit 7b For Each Loop](https://docs.google.com/presentation/d/1NTMFNzH-FB3Pfsnozkuu4lYZre3WNNLI6eAyzpNOJg8/edit#slide=id.p1)
 * IN-WORK [Unit 9a Inheritance & Encapsulation](https://docs.google.com/presentation/d/1U6Q4y2aVB-DTWi-jB2GYJP2BUIu_k2O3yY6iDY9w-Mw/edit)
-* [Unit 2a String Objects & Methods and Google Billboard Project](https://drive.google.com/open?id=1H9tzGeTWetjzUz1G450NGxbEO5xZl3BvacfkFWsvWRE&authuser=0)
+* IN-WORK [Unit 2a String Objects & Methods and Google Billboard Project](https://drive.google.com/open?id=1H9tzGeTWetjzUz1G450NGxbEO5xZl3BvacfkFWsvWRE&authuser=0)
 * [Unit 2b String Methods & Pointers and Piglatin Project](https://drive.google.com/open?id=1XLlg2WK9z2RQoCVq5l0EaKquK1Mhw4WYbfshck_Rujw&authuser=0)
 * [Unit 8 2D Arrays Tables](https://docs.google.com/presentation/d/1cIgGz7huTaKrsFC5OKXdKNQ9ftwHSnWO6fjzegs7H0w/edit?usp=sharing)
 * [Unit 10a Recursion and Sierpinski Triangles](https://docs.google.com/presentation/d/1Ef1iENxFbYeJy7XDUlbV9JTiVYeoUkeXxrpcdx6UiwE/edit?usp=sharing)
@@ -124,9 +123,9 @@ In the world of programming - [collaboration with others is everything](https://
 ## Project Specific Student Paced Sessions
 * DONE [Unit 0 Processing Primer Scales Project](https://docs.google.com/presentation/d/1oGEPH8JPehlrZLI9IREmoKrNd192qZ_DuNtancZooY4/edit?usp=sharing)
 * DONE [Unit 1 Using MathDotRandom in the Lightning Project](https://docs.google.com/presentation/d/1ga570E_dgM4iSPyWmaa2AmE9roI63Eoe8VdkLu8fdQ4/edit#slide=id.g40fbbe7893_0_24)
-* [Unit 9b Asteroids Project Part 1](https://docs.google.com/presentation/d/1HfHQTei9qgkBEBhNqUKqmAc6g2V3x8FDprajTp5IZuE/edit?usp=sharing)
-* [Unit 9c Asteroids Project Part 2](https://docs.google.com/presentation/d/1pPeUvTAbIjtZYvfQIv54BDuunra8H6imO654amT6NI4/edit?usp=sharing)
-* [Unit 9d Asteroids Project Final Part 3](https://docs.google.com/presentation/d/1eSpNZiI6WjTBA4Jn_s_0pSicocsRXhOUnGaTOms80CM/edit?usp=sharing)
+* IN-WORK [Unit 9b Asteroids Project Part 1](https://docs.google.com/presentation/d/1HfHQTei9qgkBEBhNqUKqmAc6g2V3x8FDprajTp5IZuE/edit?usp=sharing)
+* IN-WORK [Unit 9c Asteroids Project Part 2](https://docs.google.com/presentation/d/1pPeUvTAbIjtZYvfQIv54BDuunra8H6imO654amT6NI4/edit?usp=sharing)
+* IN-WORK [Unit 9d Asteroids Project Final Part 3](https://docs.google.com/presentation/d/1eSpNZiI6WjTBA4Jn_s_0pSicocsRXhOUnGaTOms80CM/edit?usp=sharing)
 * [Vectors](https://docs.google.com/presentation/d/1H_v-gJwiZyaRqGt4j-gnPoGeW3QGNZEhcqAEEO4Nzf0/edit?usp=sharing)
 
 ## Student Projects
@@ -143,11 +142,11 @@ In the world of programming - [collaboration with others is everything](https://
 * DONE [Chemotaxis Project](https://github.com/chandrunarayan/Chemotaxis)
 * DONE  [Rising Bubbles Project](https://classroom.google.com/c/MzkyMDU1MDY0Njc4/a/NDM0NTIzNzc4MjQ1/details)
 * DONE [Snowflake Live Coding Project](https://chandrunarayan.github.io/Snowflake/)
-* IN-WORK [Starfield Project](https://github.com/chandrunarayan/Starfield)
-* [Asteroids Part 1 Project](https://github.com/chandrunarayan/AsteroidsGame)
-* [Asteroids Part 2 Project](https://github.com/chandrunarayan/AsteroidsPart2)
-* [Asteroids Part 3 Project](https://github.com/chandrunarayan/AsteroidsPart3)
-* [Google Billboard Project](https://github.com/chandrunarayan/GoogleBillboard)
+* DONE [Starfield Project](https://github.com/chandrunarayan/Starfield)
+* IN-WORK [Asteroids Part 1 Project](https://github.com/chandrunarayan/AsteroidsGame)
+* IN-WORK [Asteroids Part 2 Project](https://github.com/chandrunarayan/AsteroidsPart2)
+* IN-WORK [Asteroids Part 3 Project](https://github.com/chandrunarayan/AsteroidsPart3)
+* IN-WORK [Google Billboard Project](https://github.com/chandrunarayan/GoogleBillboard)
 * [Piglatin Project](https://github.com/chandrunarayan/Piglatin)
 * [Palindrome Checker Project](https://github.com/chandrunarayan/PalindromeChecker)
 * [Linear Binary Search Functions Project](https://github.com/chandrunarayan/LinearBinarySearch)
