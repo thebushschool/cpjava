@@ -155,9 +155,9 @@ In the world of programming - [collaboration with others is everything](https://
 * [Sierpinski Triangles Project](https://github.com/chandrunarayan/Sierpinski)
 
 *FINAL PROJECTS ARE EXEMPT FOR AP EXAM TAKERS OR SENIORS DOING SENIOR PROJECTS*
-* FINAL PROJECT OPTION 1[Game of Life Project with extensions](https://github.com/chandrunarayan/GameOfLife)
-* FINAL PROJECT OPTION 2[Custom Newton's Boids - a physics simulation Project]()
-* FINAL PROJECT OPTION 3[Custom Genetic Objects - a genetic evolution simulation Project]()
+* FINAL PROJECT OPTION 1 [Game of Life Project with extensions](https://github.com/chandrunarayan/GameOfLife)
+* FINAL PROJECT OPTION 2 [Custom Newton's Boids - a physics simulation Project]()
+* FINAL PROJECT OPTION 3 [Custom Genetic Objects - a genetic evolution simulation Project]()
 
 ## AP Exam Section
 ###  [Codingbat Practice Topics](https://codingbat.com/home/chandru.narayan@bush.edu)
