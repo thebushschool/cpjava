@@ -1,4 +1,4 @@
-[_Bush School CPJava Spring Semester 2023 (Year-Long)_](https://chandrunarayan.github.io/cpjava/) updated Mar 21, 2023
+[_Bush School CPJava Spring Semester 2023 (Year-Long)_](https://chandrunarayan.github.io/cpjava/) updated Ap6 6th, 2023
 
 ## Newly added topics
 
@@ -6,6 +6,7 @@
 | :--- | :--- | :--- |
 | 02-11-2023 | Declare and Define Primitives, Objects, Array and ArrayList with examples | [click to go there](#hints-faq) |
 | 02-10-2023 | FRQ Notes for AP Exam takers | [click to go there](#frq-notes) |
+| 02-10-2023 | Codingbat & Project Updates for AP Exam takers | [click to go there](#ap-exam-section) |
 
 
 ## Bouncing Bubbles Java Program
@@ -51,10 +52,6 @@ In our CPJava classroom we are already using tools and techniques that are natur
 Schedule updated 3/21/23
 
 ![alt text][schedule]
-
-## Jan 3rd 2023 Note
-![alt text][jan3note]
-<span style="color:red">Chemotaxis project (Arrays of Objects) and Rising Bubbles Part 2 project (Array List) are now due in Feb 2023</span> See Portal!
 
 ## Learning Modes
 ### Learning by Doing First - Student-Based Asynchronous Workflow
@@ -144,11 +141,11 @@ In the world of programming - [collaboration with others is everything](https://
 * DONE  [Rising Bubbles Project](https://classroom.google.com/c/MzkyMDU1MDY0Njc4/a/NDM0NTIzNzc4MjQ1/details)
 * DONE [Snowflake Live Coding Project](https://chandrunarayan.github.io/Snowflake/)
 * DONE [Starfield Project](https://github.com/chandrunarayan/Starfield)
-* IN-WORK [Asteroids Part 1 Project](https://github.com/chandrunarayan/AsteroidsGame)
-* IN-WORK [Asteroids Part 2 Project](https://github.com/chandrunarayan/AsteroidsPart2)
+* DONE [Asteroids Part 1 Project](https://github.com/chandrunarayan/AsteroidsGame)
+* DONE [Asteroids Part 2 Project](https://github.com/chandrunarayan/AsteroidsPart2)
 * IN-WORK [Asteroids Part 3 Project](https://github.com/chandrunarayan/AsteroidsPart3)
 * IN-WORK [Google Billboard Project](https://github.com/chandrunarayan/GoogleBillboard)
-* [Piglatin Project](https://github.com/chandrunarayan/Piglatin)
+* IN-WORK [Piglatin Project](https://github.com/chandrunarayan/Piglatin)
 * [Palindrome Checker Project](https://github.com/chandrunarayan/PalindromeChecker)
 * [Linear Binary Search Functions Project](https://github.com/chandrunarayan/LinearBinarySearch)
 * [Sierpinski Triangles Project](https://github.com/chandrunarayan/Sierpinski)
@@ -162,7 +159,7 @@ Make sure you login to codingbat with your username before attempting problem se
 
 Completion of these problem sets are not rquired for the CPJava course. However, it is highy recommended and essential in preparing for the APCSA exam if you plan to take it. See suggested schedule sequence below by topic. See additional details about the APCSA exam in the sections below
 
-Suggested Schedule of Completion updated 03.28.22 
+Suggested Schedule of Completion updated 04.06.23 
 
 | Sequence | Schedule Topic | Codingbat Problemset
 | :--- | :--- | :--- |
@@ -171,10 +168,10 @@ Suggested Schedule of Completion updated 03.28.22
 | 3 | COMPLETE Arrays | [Arrays1](https://codingbat.com/home/chandru.narayan@bush.edu/arrays1) [Arrays2](https://codingbat.com/home/chandru.narayan@bush.edu/arrays2) [Arrays3](https://codingbat.com/home/chandru.narayan@bush.edu/arrays3) [Arrays4](https://codingbat.com/home/chandru.narayan@bush.edu/arrays4)
 | 4 | COMPLETE Array List | [ArrayList1](https://codingbat.com/home/chandru.narayan@bush.edu/arraylist1) [ArrayList2](https://codingbat.com/home/chandru.narayan@bush.edu/arraylist2) [ArrayList3](https://codingbat.com/home/chandru.narayan@bush.edu/arraylist3)
 | 5 | COMPLETE Fall Review | [FallReview1](https://codingbat.com/home/chandru.narayan@bush.edu/fallreview1) [FallReview2](https://codingbat.com/home/chandru.narayan@bush.edu/fallreview2)
-| 6 | String | [Googlebillboard](https://codingbat.com/home/chandru.narayan@bush.edu/googlebillboard)
-| 7 | String & Pointers | [Piglatin](https://codingbat.com/home/chandru.narayan@bush.edu/piglatin)
-| 8 | String & Pointers | [String1](https://codingbat.com/home/chandru.narayan@bush.edu/string1) [String2](https://codingbat.com/home/chandru.narayan@bush.edu/string2) [String3](https://codingbat.com/home/chandru.narayan@bush.edu/string3)
-| 9 | Array Traversal | [Palindrome](https://codingbat.com/home/chandru.narayan@bush.edu/palindrome)
+| 6 | ***IN-WORK*** String | [Googlebillboard](https://codingbat.com/home/chandru.narayan@bush.edu/googlebillboard)
+| 7 | ***IN-WORK*** String & Pointers | [Piglatin](https://codingbat.com/home/chandru.narayan@bush.edu/piglatin)
+| 8 | ***IN-WORK*** String & Pointers | [String1](https://codingbat.com/home/chandru.narayan@bush.edu/string1) [String2](https://codingbat.com/home/chandru.narayan@bush.edu/string2) [String3](https://codingbat.com/home/chandru.narayan@bush.edu/string3)
+| 9 | ***IN-WORK*** Array Traversal | [Palindrome](https://codingbat.com/home/chandru.narayan@bush.edu/palindrome)
 | 10 | 2D Arrays | [Minesweeper](https://codingbat.com/home/chandru.narayan@bush.edu/minesweeper)
 | 11 |  2D Arrays | [2DArrays](https://codingbat.com/home/chandru.narayan@bush.edu/2darrays)
 | 12 | Recursion | [Recursion1](https://codingbat.com/home/chandru.narayan@bush.edu/recursion1) [Recursion2](https://codingbat.com/home/chandru.narayan@bush.edu/recursion2) [Recursion3](https://codingbat.com/home/chandru.narayan@bush.edu/recursion3)
@@ -188,8 +185,6 @@ Suggested Schedule of Completion updated 03.28.22
 * Question 4: 2D Array—You’ll be asked to write program code to satisfy method specifications and create, traverse, and manipulate elements in 2D array objects.
 
 ### APCSA Exam Spring 2023 - May 3rd
-
-### [REGISTER HERE BY NOV 1 2022 !!](https://aptsusa.com/bush/)
 
 ### [APCSA Exam Hints](src/examhints.pdf)
 
