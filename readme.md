@@ -122,7 +122,6 @@ In the world of programming - [collaboration with others is everything](https://
 * DONE [Unit 0 Processing Primer Scales Project](https://docs.google.com/presentation/d/1oGEPH8JPehlrZLI9IREmoKrNd192qZ_DuNtancZooY4/edit?usp=sharing)
 * DONE [Unit 1 Using MathDotRandom in the Lightning Project](https://docs.google.com/presentation/d/1ga570E_dgM4iSPyWmaa2AmE9roI63Eoe8VdkLu8fdQ4/edit#slide=id.g40fbbe7893_0_24)
 * DONE [Unit 9b Asteroids Project Part 1](https://docs.google.com/presentation/d/1HfHQTei9qgkBEBhNqUKqmAc6g2V3x8FDprajTp5IZuE/edit?usp=sharing)
-* DONE [Unit 9b Asteroids Project Part 1](https://docs.google.com/presentation/d/1HfHQTei9qgkBEBhNqUKqmAc6g2V3x8FDprajTp5IZuE/edit?usp=sharing)
 * DONE [Unit 9c Asteroids Project Part 2](https://docs.google.com/presentation/d/1pPeUvTAbIjtZYvfQIv54BDuunra8H6imO654amT6NI4/edit?usp=sharing)
 * IN-WORK [Unit 9d Asteroids Project Final Part 3](https://docs.google.com/presentation/d/1eSpNZiI6WjTBA4Jn_s_0pSicocsRXhOUnGaTOms80CM/edit?usp=sharing)
 * [Vectors](https://docs.google.com/presentation/d/1H_v-gJwiZyaRqGt4j-gnPoGeW3QGNZEhcqAEEO4Nzf0/edit?usp=sharing)
@@ -147,7 +146,7 @@ In the world of programming - [collaboration with others is everything](https://
 * IN-WORK [Asteroids Part 3 Project](https://github.com/chandrunarayan/AsteroidsPart3)
 * IN-WORK [Google Billboard Project](https://github.com/chandrunarayan/GoogleBillboard)
 * IN-WORK [Piglatin Project](https://github.com/chandrunarayan/Piglatin)
-* [Palindrome Checker Project](https://github.com/chandrunarayan/PalindromeChecker)
+* IN-WORK [Palindrome Checker Project](https://github.com/chandrunarayan/PalindromeChecker)
 * [Linear Binary Search Functions Project](https://github.com/chandrunarayan/LinearBinarySearch)
 * [Sierpinski Triangles Project](https://github.com/chandrunarayan/Sierpinski)
 
