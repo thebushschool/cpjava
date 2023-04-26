@@ -1,4 +1,4 @@
-[_Bush School CPJava Spring Semester 2023 (Year-Long)_](https://chandrunarayan.github.io/cpjava/) updated Ap6 6th, 2023
+[_Bush School CPJava Spring Semester 2023 (Year-Long)_](https://chandrunarayan.github.io/cpjava/) updated Ap6 26th, 2023
 
 ## Newly added topics
 
@@ -123,8 +123,8 @@ In the world of programming - [collaboration with others is everything](https://
 * DONE [Unit 1 Using MathDotRandom in the Lightning Project](https://docs.google.com/presentation/d/1ga570E_dgM4iSPyWmaa2AmE9roI63Eoe8VdkLu8fdQ4/edit#slide=id.g40fbbe7893_0_24)
 * DONE [Unit 9b Asteroids Project Part 1](https://docs.google.com/presentation/d/1HfHQTei9qgkBEBhNqUKqmAc6g2V3x8FDprajTp5IZuE/edit?usp=sharing)
 * DONE [Unit 9c Asteroids Project Part 2](https://docs.google.com/presentation/d/1pPeUvTAbIjtZYvfQIv54BDuunra8H6imO654amT6NI4/edit?usp=sharing)
-* IN-WORK [Unit 9d Asteroids Project Final Part 3](https://docs.google.com/presentation/d/1eSpNZiI6WjTBA4Jn_s_0pSicocsRXhOUnGaTOms80CM/edit?usp=sharing)
-* [Vectors](https://docs.google.com/presentation/d/1H_v-gJwiZyaRqGt4j-gnPoGeW3QGNZEhcqAEEO4Nzf0/edit?usp=sharing)
+* DONE [Unit 9d Asteroids Project Final Part 3](https://docs.google.com/presentation/d/1eSpNZiI6WjTBA4Jn_s_0pSicocsRXhOUnGaTOms80CM/edit?usp=sharing)
+* TBD [Vectors](https://docs.google.com/presentation/d/1H_v-gJwiZyaRqGt4j-gnPoGeW3QGNZEhcqAEEO4Nzf0/edit?usp=sharing)
 
 ## Student Projects
 * ### [Click Here For Student Projects Currently In-Work](student-githubs.md)
@@ -143,12 +143,12 @@ In the world of programming - [collaboration with others is everything](https://
 * DONE [Starfield Project](https://github.com/chandrunarayan/Starfield)
 * DONE [Asteroids Part 1 Project](https://github.com/chandrunarayan/AsteroidsGame)
 * DONE [Asteroids Part 2 Project](https://github.com/chandrunarayan/AsteroidsPart2)
-* IN-WORK [Asteroids Part 3 Project](https://github.com/chandrunarayan/AsteroidsPart3)
-* IN-WORK [Google Billboard Project](https://github.com/chandrunarayan/GoogleBillboard)
-* IN-WORK [Piglatin Project](https://github.com/chandrunarayan/Piglatin)
+* IDONE [Asteroids Part 3 Project](https://github.com/chandrunarayan/AsteroidsPart3)
+* DONE [Google Billboard Project](https://github.com/chandrunarayan/GoogleBillboard)
+* DONE [Piglatin Project](https://github.com/chandrunarayan/Piglatin)
 * IN-WORK [Palindrome Checker Project](https://github.com/chandrunarayan/PalindromeChecker)
-* [Linear Binary Search Functions Project](https://github.com/chandrunarayan/LinearBinarySearch)
-* [Sierpinski Triangles Project](https://github.com/chandrunarayan/Sierpinski)
+* N-WORK [Linear Binary Search Functions Project](https://github.com/chandrunarayan/LinearBinarySearch)
+* OPTIONAL [Sierpinski Triangles Project](https://github.com/chandrunarayan/Sierpinski)
 
 *FINAL PROJECTS ARE EXEMPT FOR AP EXAM TAKERS OR SENIORS DOING SENIOR PROJECTS*
 * FINAL PROJECT OPTION 1 [Game of Life Project with extensions](https://github.com/chandrunarayan/GameOfLife)
@@ -170,15 +170,15 @@ Suggested Schedule of Completion updated 04.06.23
 | 3 | COMPLETE Arrays | [Arrays1](https://codingbat.com/home/chandru.narayan@bush.edu/arrays1) [Arrays2](https://codingbat.com/home/chandru.narayan@bush.edu/arrays2) [Arrays3](https://codingbat.com/home/chandru.narayan@bush.edu/arrays3) [Arrays4](https://codingbat.com/home/chandru.narayan@bush.edu/arrays4)
 | 4 | COMPLETE Array List | [ArrayList1](https://codingbat.com/home/chandru.narayan@bush.edu/arraylist1) [ArrayList2](https://codingbat.com/home/chandru.narayan@bush.edu/arraylist2) [ArrayList3](https://codingbat.com/home/chandru.narayan@bush.edu/arraylist3)
 | 5 | COMPLETE Fall Review | [FallReview1](https://codingbat.com/home/chandru.narayan@bush.edu/fallreview1) [FallReview2](https://codingbat.com/home/chandru.narayan@bush.edu/fallreview2)
-| 6 | ***IN-WORK*** String | [Googlebillboard](https://codingbat.com/home/chandru.narayan@bush.edu/googlebillboard)
-| 7 | ***IN-WORK*** String & Pointers | [Piglatin](https://codingbat.com/home/chandru.narayan@bush.edu/piglatin)
-| 8 | ***IN-WORK*** String & Pointers | [String1](https://codingbat.com/home/chandru.narayan@bush.edu/string1) [String2](https://codingbat.com/home/chandru.narayan@bush.edu/string2) [String3](https://codingbat.com/home/chandru.narayan@bush.edu/string3)
+| 6 | COMPLETE  String | [Googlebillboard](https://codingbat.com/home/chandru.narayan@bush.edu/googlebillboard)
+| 7 | COMPLETE String & Pointers | [Piglatin](https://codingbat.com/home/chandru.narayan@bush.edu/piglatin)
+| 8 | COMPLETE String & Pointers | [String1](https://codingbat.com/home/chandru.narayan@bush.edu/string1) [String2](https://codingbat.com/home/chandru.narayan@bush.edu/string2) [String3](https://codingbat.com/home/chandru.narayan@bush.edu/string3)
 | 9 | ***IN-WORK*** Array Traversal | [Palindrome](https://codingbat.com/home/chandru.narayan@bush.edu/palindrome)
-| 10 | 2D Arrays | [Minesweeper](https://codingbat.com/home/chandru.narayan@bush.edu/minesweeper)
-| 11 |  2D Arrays | [2DArrays](https://codingbat.com/home/chandru.narayan@bush.edu/2darrays)
-| 12 | Recursion | [Recursion1](https://codingbat.com/home/chandru.narayan@bush.edu/recursion1) [Recursion2](https://codingbat.com/home/chandru.narayan@bush.edu/recursion2) [Recursion3](https://codingbat.com/home/chandru.narayan@bush.edu/recursion3)
-| 13 |  Searching | [Searching1](https://codingbat.com/home/chandru.narayan@bush.edu/searching1) [Searching2](https://codingbat.com/home/chandru.narayan@bush.edu/searching2)
-| 14 |  Sorting | [Sorting](https://codingbat.com/home/chandru.narayan@bush.edu/sorting)
+| 10 | OPTIONAL 2D Arrays | [Minesweeper](https://codingbat.com/home/chandru.narayan@bush.edu/minesweeper)
+| 11 |  OPTIONAL 2D Arrays | [2DArrays](https://codingbat.com/home/chandru.narayan@bush.edu/2darrays)
+| 12 | ***IN-WORK*** Recursion | [Recursion1](https://codingbat.com/home/chandru.narayan@bush.edu/recursion1) [Recursion2](https://codingbat.com/home/chandru.narayan@bush.edu/recursion2) [Recursion3](https://codingbat.com/home/chandru.narayan@bush.edu/recursion3)
+| 13 |  ***IN-WORK*** Searching | [Searching1](https://codingbat.com/home/chandru.narayan@bush.edu/searching1) [Searching2](https://codingbat.com/home/chandru.narayan@bush.edu/searching2)
+| 14 |  ***IN-WORK*** Sorting | [Sorting](https://codingbat.com/home/chandru.narayan@bush.edu/sorting)
 
 ### FRQ Notes 
 * Question 1: Methods and Control Structures—You’ll be asked to write program code to create objects of a class and call methods, and satisfy method specifications using expressions, conditional statements, and iterative statements.
