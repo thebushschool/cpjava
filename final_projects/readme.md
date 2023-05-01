@@ -116,21 +116,22 @@ three: x, y, and a bias) and size the array accordingly.
             weights[i] = random(-1,1); 
         }
     }
-}
+
 ```
 
 A perceptron needs to be able to receive inputs and generate an output. We can package
 these requirements into a function called feedforward(). In this example, we’ll have the perceptron receive its inputs as an array (which should be the same length as the array of
-weights) and return the output as an integer. Result is the sign of the sum, -1 or +1. Here
+weights) and return the output as an integer. But, before you return the output, you need to send it through the sign activation function described previosly whose result is the sign of the sum, -1 or +1. Here
 the perceptron is making a guess. Is it on
 one side of the line or the other?
 ```
-int feedforward(float[] inputs) {
-    float sum = 0;
-    for (int i = 0; i < weights.length; i++) {
-        sum += inputs[i]*weights[i];
+    int feedforward(float[] inputs) {
+        float sum = 0;
+        for (int i = 0; i < weights.length; i++) {
+            sum += inputs[i]*weights[i];
+        }
+        return activate(sum);
     }
-    return activate(sum);
 }
 ```
 
@@ -138,13 +139,64 @@ You should now be able to create a Perceptron object and ask it to make a guess 
 given point. 
 ![feed](feedforward.jpg)
 
-You can then test your Percetron using code below
-
 ```
 Perceptron p = new Perceptron(3); #Create the Perceptron.
 float[] point = {50,-12,1}; #The input is 3 values: x,y and bias.
 int result = p.feedforward(point); The answer!
 ```
-### TASK A: Write code in Processing for the Perceptron class and main tab Now
-### TASK B: Test it with various values for point. You may choose to create a Point class as well instead of defining points as shown above
-### TASK C: Observe results - What can you conclude?
+## Your Tasks this week!
+1. Create a new Processing sketch - call it ``neuron_classifier``
+1. Add code above to the ``Perceptron`` tab and the main ``neuron_classifier`` tab
+1. You will need to develop the sign activation function activate() described previously and add it to the Perceptron class.
+
+1. Write code to create a class Point in the ``Point`` tab which has 2 float members x, y. Write 2 overloaded constructors 
+    - an no-arg one which will initiallize members x, y to random values between -1 and 1.
+    - one with args for initializing x, y to specified values between -1 and 1.
+
+1. I have written the main tab including a function ``line_func`` which returns the ``y`` value of a random equation of a line $$y=slope * x + off $$  The main tab also includes coordinate transformatios for handling the origin (0,0) being at the center of the canvas and x values -0.5 to 0.5 and y values from -0.5 to 0.5.  I will walkthrough this with you if you do not understand it.
+    ```
+    int nwt = 3;
+    int npts = 100;
+    Perceptron pcp = new Perceptron(nwt);
+    Point [] pts = new Point [npts];
+    float slope = (float) (Math.random()) -0.5;
+    float off = (float) (Math.random()) -0.5;
+    void setup() {
+    size(500,500);
+
+    for (int i = 0; i < pts.length; i++) {
+        pts[i] = new Point();
+    }
+    
+    pcp.feedforward(pcp.weights);
+    }
+
+    float line_func(float x) {
+    //y = slope * x + off
+    return slope * x + off;
+    }
+
+    float px(float x) {
+    return map(x, -0.5, 0.5, 0, width);
+    }
+
+    float py(float y) {
+    return map(y, -0.5, 0.5, height, 0);
+    }
+
+    void draw() {
+    background(255);
+    stroke(0);
+    line(px(-1),py(line_func(-1)),px(1),py(line_func(1)));
+    for (Point pt : pts) {
+        ellipse(px(pt.x), py(pt.y), 16, 16);
+    }
+    }
+    ```
+
+
+1. Test your code with an array of Point objects.  The output of 2 runs should look similar to this.  
+    ![r1](r1.png)
+    ![r1](r2.png)
+
+## WE HAVE NOW CONCLUDED PART 1 OF YOUR FINAL PROJECT!!
