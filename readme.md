@@ -115,8 +115,8 @@ In the world of programming - [collaboration with others is everything](https://
 IN-WORK [Unit 10a Recursion and Sierpinski Triangles](https://docs.google.com/presentation/d/1Ef1iENxFbYeJy7XDUlbV9JTiVYeoUkeXxrpcdx6UiwE/edit?usp=sharing)
 * [Unit 10b Recursion and Fibonacci Sequence](https://docs.google.com/presentation/d/19gdc2QhdPKWhc-BZzwau2WEatgVQI2ftLCHv337OUPc/edit?usp=sharing)
 * [Unit 10c Recursion and Fractals](https://docs.google.com/presentation/d/1aR38R14PDpmxgmxdUPdc1ueedpyYKNXf8x0EmPezd0U/edit?usp=sharing)
-IN-WORK [Unit 10d Searching - Linear Binary Recursive Search](https://docs.google.com/presentation/d/1DW8ui1wq-oD36bLh8V1L0Am2ZW33LLORZDvMT31DWkc/edit?usp=sharing)
-IN-WORK [Unit 10e Sorting - Sort & Merge](https://docs.google.com/presentation/d/1-f4OU7J88OAA-sbP0U2R_0-3bt1vucoMBUH3U2z5C1A/edit?usp=sharing)
+* IN-WORK [Unit 10d Searching - Linear Binary Recursive Search](https://docs.google.com/presentation/d/1DW8ui1wq-oD36bLh8V1L0Am2ZW33LLORZDvMT31DWkc/edit?usp=sharing)
+* IN-WORK [Unit 10e Sorting - Sort & Merge](https://docs.google.com/presentation/d/1-f4OU7J88OAA-sbP0U2R_0-3bt1vucoMBUH3U2z5C1A/edit?usp=sharing)
 
 ## Project Specific Student Paced Sessions
 * DONE [Unit 0 Processing Primer Scales Project](https://docs.google.com/presentation/d/1oGEPH8JPehlrZLI9IREmoKrNd192qZ_DuNtancZooY4/edit?usp=sharing)
@@ -143,7 +143,7 @@ IN-WORK [Unit 10e Sorting - Sort & Merge](https://docs.google.com/presentation/d
 * DONE [Starfield Project](https://github.com/chandrunarayan/Starfield)
 * DONE [Asteroids Part 1 Project](https://github.com/chandrunarayan/AsteroidsGame)
 * DONE [Asteroids Part 2 Project](https://github.com/chandrunarayan/AsteroidsPart2)
-* IDONE [Asteroids Part 3 Project](https://github.com/chandrunarayan/AsteroidsPart3)
+* DONE [Asteroids Part 3 Project](https://github.com/chandrunarayan/AsteroidsPart3)
 * DONE [Google Billboard Project](https://github.com/chandrunarayan/GoogleBillboard)
 * DONE [Piglatin Project](https://github.com/chandrunarayan/Piglatin)
 * IN-WORK [Palindrome Checker Project](https://github.com/chandrunarayan/PalindromeChecker)
@@ -214,3 +214,4 @@ This course draws from the book Building Java Programs: A Back to Basics Approac
 [remaining]: src/remaining.png
 [schoolwork]: src/expectations.png
 [jan3note]: src/jan3rd_note.png
+

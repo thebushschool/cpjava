@@ -3,7 +3,7 @@
 The human brain can be described as a biological neural network—an interconnected web
 of neurons transmitting elaborate patterns of electrical signals. Dendrites receive input
 signals and, based on those inputs, fire an output signal via an axon. Or something like that.
-How the human brain actually works is an elaborate and complex mystery, we will attempt to write very simplistic code that will allow us to simulate a single neuron called a Perceptron in Java.
+How the human brain actually works is an elaborate and complex mystery, we will attempt to write very simplistic code that will allow us to simulate a single neuron called a Perceptron in Java.  We wil be using [Tariq Rashid's book Make your Own Neural Network](myonn.pdf) as a reference during this project. 
 
 ### The Perceptron
 Invented in 1957 by Frank Rosenblatt at the Cornell Aeronautical Laboratory, a perceptron is
