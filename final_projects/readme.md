@@ -52,7 +52,7 @@ Let’s follow each of these steps in more detail.
     Output = activate(sum) ⇒ activate(2) ⇒ +1
     ```
 
-## Simple Classification Example in Java using the Perceptron Model
+### Simple Classification Example in Java using the Perceptron Model
 
 Now that we understand the computational process of a perceptron, we can look at an
 example of one in action. We stated that neural networks are often used for pattern
@@ -92,15 +92,23 @@ input. A bias input always has the value of 1 and is also weighted. Here is our 
 the addition of the bias:
 
 ![preceptron_with_bias](preceptron_with_bias.jpg)
+
 The output is the sum of the above three values, 0 plus 0 plus the bias’s weight. Therefore,
 the bias, on its own, answers the question as to where (0,0) is in relation to the line. If the
 bias’s weight is positive, (0,0) is above the line; negative, it is below. It “biases” the
 perceptron’s understanding of the line’s position relative to (0,0).
 
-## Write code in proicessing for the Perceptron
+![Alt text](https://machinelearning.tobiashill.se/wp-content/uploads/2022/09/Single-neuron-3.png)
+
+In the figure above we have a more complete picture. It shows the sum of $\sum (weights * inputs)$ plus the bias (weight of the bias can be thought of as being 1) producing a weighted sum $z$. This $z$ not shown in above figure, is then passed through to $\sigma()$ the activation function which will allow the signal to flow out of the neuron if it is greater than a given threshold. Note the reference to the ```sign activation function``` from before.   The activation function ```sigmoid``` has an equation and graph that looks like this: $$ \sigma (z) = \frac{1}{1+e^{-z}}$$ 
+![Alt text](https://machinelearning.tobiashill.se/wp-content/uploads/2022/09/Screenshot-2019-01-07-at-13.30.22-1.png)
+where $z$ is the weighted sum.
+
+### Write code in processing for the Perceptron
 We’re now ready to assemble the code for a Perceptron class. The only data the
 perceptron needs to track are the input weights, and we could use an array of floats to store
 these.
+
 ```
 class Perceptron {
   float [] weights;
@@ -116,27 +124,16 @@ three: x, y, and a bias) and size the array accordingly.
     }
   }
 
-  float feedforward(float [] inputs) {
-    float sum = 0, result;
-    for (int i = 0; i < inputs.length; i++) {
-      //System.out.printf("inputs[i]=%f\n", inputs[i]);
-      sum += inputs[i]*weights[i];
-    }
-    //System.out.printf("sum=%f\n", sum);
-    result = activate(sum);
-    return result;
-  }
-
-}
+....
 
 ```
-
 A perceptron needs to be able to receive inputs and generate an output. We can package
 these requirements into a function called feedforward(). In this example, we’ll have the perceptron receive its inputs as an array (which should be the same length as the array of
 weights) and return the output as an integer. But, before you return the output, you need to send it through the sign activation function described previosly whose result is the sign of the sum, -1 or +1. Here
 the perceptron is making a guess. Is it on
 one side of the line or the other?
 ```
+....
     int feedforward(float[] inputs) {
         float sum = 0;
         for (int i = 0; i < weights.length; i++) {
@@ -165,7 +162,7 @@ int result = p.feedforward(point); The answer!
     - an no-arg one which will initiallize members x, y to random values between -1 and 1.
     - one with args for initializing x, y to specified values between -1 and 1.
 
-1. I have written the main tab including a function ``line_func`` which returns the ``y`` value of a random equation of a line $$y=slope * x + off $$  The main tab also includes coordinate transformatios for handling the origin (0,0) being at the center of the canvas and x values -0.5 to 0.5 and y values from -0.5 to 0.5.  I will walkthrough this with you if you do not understand it.
+1. I have written the main tab including a function ``line_func`` which returns the ``y`` value of a random equation of a line $$y=slope * x + off $$  The main tab also includes coordinate transformations for handling the origin (0,0) being at the center of the canvas and x values -0.5 to 0.5 and y values from -0.5 to 0.5.  I will walkthrough this with you if you do not understand it.
     ```
     int nwt = 3;
     int npts = 100;
