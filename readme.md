@@ -1,4 +1,4 @@
-[_Bush School CPJava Spring Semester 2023 (Year-Long)_](https://chandrunarayan.github.io/cpjava/) updated May 2nd, 2023
+[_Bush School CPJava Spring Semester 2023 (Year-Long)_](https://chandrunarayan.github.io/cpjava/) updated May 2, 2023
 
 ## Newly added topics
 
