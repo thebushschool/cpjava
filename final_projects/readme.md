@@ -1,8 +1,11 @@
-## Perceptron Machine Learning Project
+# Perceptron Machine Learning(ML) Project
+## Part 1 - Introduction to the Perceptron
 
 The human brain can be described as a biological neural network—an interconnected web
 of neurons transmitting elaborate patterns of electrical signals. Dendrites receive input
 signals and, based on those inputs, fire an output signal via an axon. Or something like that.
+![sn](singleneuron.png)
+
 How the human brain actually works is an elaborate and complex mystery, we will attempt to write very simplistic code that will allow us to simulate a single neuron called a Perceptron in Java.  We wil be using [Tariq Rashid's book Make your Own Neural Network](myonn.pdf) as a reference during this project. 
 
 ### The Perceptron
@@ -242,4 +245,105 @@ int result = p.feedforward(point); The answer!
     ![r1](r1.png)
     ![r1](r2.png)
 
-## WE HAVE NOW CONCLUDED PART 1 OF YOUR FINAL PROJECT!!
+### WE HAVE NOW CONCLUDED PART 1 OF YOUR FINAL PROJECT!!
+
+##  Part 2 - Supervised ML, Matrices & the Muli-Layered Perceptron
+
+### Review
+
+We looked at a very simplistic Perceptron simulating a single neuron iin the previous Part 1 of this project.  
+
+In this section we will look at a multi-layered perceptron model which are much more adept at solving more difficult problems like machine recognition of written numerals which will be end goal of our project.
+
+![neurons](neurons.png)
+
+![Alt text](https://machinelearning.tobiashill.se/wp-content/uploads/2022/09/network_example_4.png)
+
+![Alt text](https://machinelearning.tobiashill.se/wp-content/uploads/2022/09/MnistExamples.png)
+
+However, to do this, we will be using linear algebra and matrix maths to do our computations.  Using for-loops in Java will be much more difficult and error prone. We will use a Matrix library in Java to help us along the way.  Before we do that we should look at some notations we need to follow strictly as to not get confused.
+
+Before I explain how the network as a whole can be used to solve problems, let's review and look at notational representation of weighted sums and activation functions.  We will then see how Matrices can help.
+
+![Alt text](https://machinelearning.tobiashill.se/wp-content/uploads/2022/09/Single-neuron-3.png)
+
+The input to every neuron is the weighted sum of the output from every neuron in the previous layer. In the example this would be:
+
+![ws](ws.png)
+
+When considering the entire layer of neurons, we instead write this in vector form $$z = Wx + b$$where $z, x, b$ are vectors and $W$ is a matrix.
+
+$x$ contains all outgoing signals from the preceding layer.
+$b$ contains all biases in the current layer.
+$W$ has all the weight for all connections between preceding layer and the current.
+
+The input signal is then transformed within the neuron by applying something called an activation function, denoted σ. The name, activation function, stems from the fact that this function commonly is designed to let the signal pass through the neuron if the in-signal z is big enough, but limit the output from the neuron if z is not. We can think of this as the neuron firing or being active if stimuli is strong enough.
+
+More importantly the activation function adds non-linearity to the network which is important when trying to fit the network efficiently (by fit the network I mean train the network to produce the output we want). Without it the network would just be a linear combination of its input.
+
+A common activation function is this logistic function, called the sigmoid-function:
+
+$$ \sigma (z) = \frac{1}{1+e^{-z}}$$ 
+![Alt text](https://machinelearning.tobiashill.se/wp-content/uploads/2022/09/Screenshot-2019-01-07-at-13.30.22-1.png)
+where $z$ is the weighted sum.
+
+As you can see from the graphs they both behave the way I described: They let the signal pass if big enough, and limits it if not. 
+
+Finally, after having applied the activation function to z, getting σ(z), we have the output from the neuron.
+
+Or stated in vector-form: after having applied the activation function to vector z, getting σ(z) (where the function is applied to every element in the vector z) we have the output from all the neurons in that layer.
+
+### A Three Layer Example with Matrix Multiplication
+
+We haven’t worked through feeding signals through a neural network using matrices to do the
+calculations. We also haven’t worked through an example with more than 2 layers, which is
+interesting because we need to see how we treat the outputs of the middle layer as inputs to the
+final third layer.
+The following diagram shows an example neural network with 3 layers, each with 3 nodes. To
+keep the diagram clear, not all the weights are marked.
+
+![threel](threelayer.jpg)
+
+We’ll introduce some of the commonly used terminology here too. The first layer is the input
+layer , as we know. The final layer is the output layer , as we also know. The middle layer is
+called the hidden layer . That sounds mysterious and dark, but sadly there isn’t a mysterious
+dark reason for it. The name just stuck because the outputs of the middle layer are not
+necessarily made apparent as outputs, so are “hidden”. Yes, that’s a bit lame, but there really
+isn’t a better reason for the name.
+Let’s work through that example network, illustrated in that diagram. We can see the three
+inputs are 0.9, 0.1 and 0.8. So the input matrix $I$ and weight $W_{input-hidden}$ are:
+
+![ins](ins.jpg)
+![ws](ws.jpg)
+
+$$ X = W_{ih} * I $$
+![not](notation.png)
+![mult](mult.jpg)
+
+$$ \sigma (z) = \frac{1}{1+e^{-z}}$$ 
+![osig](osig.png)
+![oosig](oosig.jpg)
+$$ \sigma (z) = \frac{1}{1+e^{-z}}$$ 
+![final](finaloutput.jpg)
+![full](fulloutput.jpg)
+
+### Our task in Part 2 is to implement this network with Matrices and see if we can get the outputs above!!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
