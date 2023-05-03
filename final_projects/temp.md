@@ -1,6 +1,22 @@
 # Perceptron Machine Learning(ML) Project
 ## Part 1 - Introduction to the Perceptron
 
+
+Display math:
+
+```math
+e^{i\tau} - 1 = 0
+```
+
+```katex
+a^2 + b^2 = c^2
+```
+
+and line math `$V + F = E + 2$` or $`\sin^2(\alpha) + \cos^2(\alpha) = 1`$.
+
+$\sin^2(\alpha) + \cos^2(\alpha) = 1$
+
+
 The human brain can be described as a biological neural network—an interconnected web
 of neurons transmitting elaborate patterns of electrical signals. Dendrites receive input
 signals and, based on those inputs, fire an output signal via an axon. Or something like that.
