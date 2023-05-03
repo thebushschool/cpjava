@@ -103,9 +103,9 @@ perceptron’s understanding of the line’s position relative to (0,0).
 
 ![Alt text](https://machinelearning.tobiashill.se/wp-content/uploads/2022/09/Single-neuron-3.png)
 
-In the figure above we have a more complete picture. It shows the sum of $$\sum (weights * inputs)$$ plus the bias (weight of the bias can be thought of as being 1) producing a weighted sum $$z$$ This is not shown in above figure, is then passed through to $$\sigma(z)$$ the activation function which will allow the signal to flow out of the neuron if it is greater than a given threshold. Note the reference to the ```sign activation function``` from before.   The activation function ```sigmoid``` has an equation and graph that looks like this: $$ \sigma (z) = \frac{1}{1+e^{-z}}$$ 
+In the figure above we have a more complete picture. It shows the sum of $\sum (weights * inputs)$ plus the bias (weight of the bias can be thought of as being 1) producing a weighted sum $z$. This $z$ not shown in above figure, is then passed through to $\sigma()$ the activation function which will allow the signal to flow out of the neuron if it is greater than a given threshold. Note the reference to the ```sign activation function``` from before.   The activation function ```sigmoid``` has an equation and graph that looks like this: $$ \sigma (z) = \frac{1}{1+e^{-z}}$$ 
 ![Alt text](https://machinelearning.tobiashill.se/wp-content/uploads/2022/09/Screenshot-2019-01-07-at-13.30.22-1.png)
-
+where $z$ is the weighted sum.
 
 ### Write code in processing for the Perceptron
 We’re now ready to assemble the code for a Perceptron class. The only data the
@@ -165,7 +165,7 @@ int result = p.feedforward(point); The answer!
     - an no-arg one which will initiallize members x, y to random values between -1 and 1.
     - one with args for initializing x, y to specified values between -1 and 1.
 
-1. I have written the main tab including a function ``line_func`` which returns the ``y`` value of a random equation of a line $$y=slope * x + offset $$  The main tab also includes coordinate transformations for handling the origin (0,0) being at the center of the canvas and x values -0.5 to 0.5 and y values from -0.5 to 0.5.  I will walkthrough this with you if you do not understand it.
+1. I have written the main tab including a function ``line_func`` which returns the ``y`` value of a random equation of a line $$y=slope * x + off $$  The main tab also includes coordinate transformations for handling the origin (0,0) being at the center of the canvas and x values -0.5 to 0.5 and y values from -0.5 to 0.5.  I will walkthrough this with you if you do not understand it.
     ```
     int nwt = 3;
     int npts = 100;
@@ -271,13 +271,11 @@ The input to every neuron is the weighted sum of the output from every neuron in
 
 ![ws](ws.png)
 
-When considering the entire layer of neurons, we instead write this in vector form $$ z = Wx + b $$ where $$z, x, b $$ are vectors and $$ W $$ is a matrix.
+When considering the entire layer of neurons, we instead write this in vector form $$z = Wx + b$$where $z, x, b$ are vectors and $W$ is a matrix.
 
-x: contains all outgoing signals from the preceding layer.
-
-b: contains all biases in the current layer.
-
-W: has all the weight for all connections between preceding layer and the current.
+$x$ contains all outgoing signals from the preceding layer.
+$b$ contains all biases in the current layer.
+$W$ has all the weight for all connections between preceding layer and the current.
 
 The input signal is then transformed within the neuron by applying something called an activation function, denoted σ. The name, activation function, stems from the fact that this function commonly is designed to let the signal pass through the neuron if the in-signal z is big enough, but limit the output from the neuron if z is not. We can think of this as the neuron firing or being active if stimuli is strong enough.
 
@@ -287,7 +285,7 @@ A common activation function is this logistic function, called the sigmoid-funct
 
 $$ \sigma (z) = \frac{1}{1+e^{-z}}$$ 
 ![Alt text](https://machinelearning.tobiashill.se/wp-content/uploads/2022/09/Screenshot-2019-01-07-at-13.30.22-1.png)
-
+where $z$ is the weighted sum.
 
 As you can see from the graphs they both behave the way I described: They let the signal pass if big enough, and limits it if not. 
 
@@ -313,7 +311,7 @@ dark reason for it. The name just stuck because the outputs of the middle layer 
 necessarily made apparent as outputs, so are “hidden”. Yes, that’s a bit lame, but there really
 isn’t a better reason for the name.
 Let’s work through that example network, illustrated in that diagram. We can see the three
-inputs are 0.9, 0.1 and 0.8. So the input matrix $$I$$ and weight $$W_{input-hidden}$$ are:
+inputs are 0.9, 0.1 and 0.8. So the input matrix $I$ and weight $W_{input-hidden}$ are:
 
 ![ins](ins.jpg)
 ![ws](ws.jpg)
