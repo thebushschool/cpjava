@@ -1,4 +1,4 @@
-[_Bush School CPJava Spring Semester 2023 (Year-Long)_](https://chandrunarayan.github.io/cpjava/) updated May 2, 2023
+[_Bush School CPJava Spring Semester 2023 (Year-Long)_](https://chandrunarayan.github.io/cpjava/) updated May 11, 2023
 
 ## Newly added topics
 
@@ -146,9 +146,9 @@ In the world of programming - [collaboration with others is everything](https://
 * DONE [Asteroids Part 3 Project](https://github.com/chandrunarayan/AsteroidsPart3)
 * DONE [Google Billboard Project](https://github.com/chandrunarayan/GoogleBillboard)
 * DONE [Piglatin Project](https://github.com/chandrunarayan/Piglatin)
-* IN-WORK [Palindrome Checker Project](https://github.com/chandrunarayan/PalindromeChecker)
-* IN-WORK [Linear Binary Search Functions Project](https://github.com/chandrunarayan/LinearBinarySearch)
-* OPTIONAL [Sierpinski Triangles Project](https://github.com/chandrunarayan/Sierpinski)
+* DONE [Palindrome Checker Project](https://github.com/chandrunarayan/PalindromeChecker)
+* IN-WORK [Sierpinski Triangles Project](https://github.com/chandrunarayan/Sierpinski)
+* OPTIONAL [Linear Binary Search Functions Project](https://github.com/chandrunarayan/LinearBinarySearch)
 
 *FINAL PROJECTS ARE EXEMPT FOR AP EXAM TAKERS OR SENIORS DOING SENIOR PROJECTS*
 * FINAL PROJECT OPTION 1 [Game of Life Project with extensions](https://github.com/chandrunarayan/GameOfLife)
