@@ -1,32 +1,53 @@
-import Jama.*;
-NeuralNetwork myNN;
+/**
+ * Bush School CPJava Class Final Project
+ * Project Details: https://chandrunarayan.github.io/cpjava/final_projects/
+ * 1. Build a complete Java Neural Network from scratch
+ * 2. Test the Neural Network using 2 scenarios
+ *    a. Predict equation of line using a supplied set of points
+ *    b. Classify hand written 28x28 pixel numerals from 0-9
+ * Adapted for Bush School by Chandru Narayan
+ * from "Make your own Neural Network" by Tariq Rashid
+ */
+
+// Import NIST Java Matrix Library
+// https://math.nist.gov/javanumerics/jama/Jama-1.0.3.jarhttps://math.nist.gov/javanumerics/jama/Jama-1.0.3.jar
+// https://math.nist.gov/javanumerics/jama/doc/ 
+ 
+import Jama.*;  
+
+// Globals
+NeuralNetwork bushNN;
 int input_nodes = 3;
 int hidden_nodes = 3;
 int output_nodes = 3;
 float learning_rate = 0.1;
 
+// Main
 void setup() {
   // create my neural network
-  myNN = new NeuralNetwork(input_nodes, hidden_nodes, output_nodes, learning_rate);
+  bushNN = new NeuralNetwork(input_nodes, hidden_nodes, output_nodes, learning_rate);
 
+// Create input data as a Column Matrix
+// carefully note how the column matrix is initialized
+// This will eventualy come from a file of input values
   double[][] ainp = {{0.9},
     {0.1},
     {0.8}};
     
-  Matrix inp = new Matrix(ainp);
-  System.out.println("printing inputs to neural network");  
-  inp.print(input_nodes, input_nodes);
+  Matrix inp = new Matrix(ainp);  //column matrix of input values
+  MatrixPrint.mprint("printing inputs to neural network", inp, input_nodes, input_nodes);  
+  //inp.print(input_nodes, input_nodes);
   //inp.transpose().print(input_nodes, input_nodes);
   
   //Predict the output for a given set of inputs!
   // feedforward
-  Matrix out = myNN.predict(inp);
+  Matrix out = bushNN.predict(inp);
   
-  System.out.println("printing final output from neural network");  
-  out.print(output_nodes, output_nodes);
+  MatrixPrint.mprint("printing final output from neural network", out, output_nodes, output_nodes);  
+  //out.print(output_nodes, output_nodes);
   //out.transpose().print(input_nodes, input_nodes);
 
-  myNN.train(inp);
+  bushNN.train(inp);
 }
 
 void draw() {
