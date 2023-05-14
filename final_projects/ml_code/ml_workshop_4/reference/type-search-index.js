@@ -1,1 +1,0 @@
-typeSearchIndex = [{"p":"<Unnamed>","l":"ml_workshop_4.Activator"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"ml_workshop_4.MatrixPrint"},{"p":"<Unnamed>","l":"ml_workshop_4"},{"p":"<Unnamed>","l":"ml_workshop_4.NeuralNetwork"}];updateSearchResults();
