@@ -338,9 +338,15 @@ $$ \sigma (z) = \frac{1}{1+e^{-z}}$$
 ![final](finaloutput.jpg)
 ![full](fulloutput.jpg)
 
-### Our task in Part 2 is to implement this network with Matrices and see if we can get the outputs above!!
+### Complete Matrix Implementation Neural Network 
 
+1. [Download Processing Zip file - Extract and Open in Processing](ml_workshop_4_lesson.zip)
 
+1. Update code by replacing every single "??" with the with the appropriate variable names.  Follow the strict naming conventions already established in the Processing code extract.
+1. Build the complete Java Neural Network by eliminating all errors
+1. If correctly updated and built, you should be able to verify the outputs of the neural network by comparing the input, hidden and output values shown below
+![full](fulloutput.jpg)
+1. Note - you should not need any other function from the Matrix libray other than the constructor and the "times" function.  Built "Column" 3x1 matrices for inputs and outputs.  Do not transpose any matrices at this stage.
 
 
 
