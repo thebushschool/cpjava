@@ -18,12 +18,15 @@ void setup() {
   inp.print(input_nodes, input_nodes);
   //inp.transpose().print(input_nodes, input_nodes);
   
+  //Predict the output for a given set of inputs!
+  // feedforward
   Matrix out = myNN.predict(inp);
+  
   System.out.println("printing final output from neural network");  
   out.print(output_nodes, output_nodes);
   //out.transpose().print(input_nodes, input_nodes);
 
-  myNN.train();
+  myNN.train(inp);
 }
 
 void draw() {
