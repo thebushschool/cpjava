@@ -347,6 +347,7 @@ $$ \sigma (z) = \frac{1}{1+e^{-z}}$$
 1. If correctly updated and built, you should be able to verify the outputs of the neural network by comparing the input, hidden and output values shown below
 ![full](fulloutput.jpg)
 1. Note - you should not need any other function from the Matrix libray other than the constructor and the "times" function.  Built "Column" 3x1 matrices for inputs and outputs.  Do not transpose any matrices at this stage.
+1. Detailed [Java code documentation for for this project can be found here](https://chandrunarayan.github.io/cpjava/final_projects/ml_code/ml_workshop_4/reference/ml_workshop_4.html)
 
 
 
