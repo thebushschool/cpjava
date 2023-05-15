@@ -9,12 +9,10 @@ static class MatrixPrint {
    * mprint function for debugging.
    * @param title: description of print outs following
    * @param in: input Matrix to print
-   * @param rows: number of rows in matrix to print
-   * @param rows: number of columns in matrix to print
    */   
-  static void mprint(String title, Matrix in, int rows, int cols) {
+  static void mprint(String title, Matrix in) {
     System.out.println(String.format("%s:", title));
     // caling the Matrix print function
-    in.print(rows, cols);
+    in.print(3, 3);  // print 3 digits of precision for rows and cols
   }
 }

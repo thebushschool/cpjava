@@ -1,7 +1,7 @@
 /**
  * Bush School CPJava Class Final Project
  * Project Details: https://chandrunarayan.github.io/cpjava/final_projects/
- * NeuralNetwork class with predict() & train() functions 
+ * NeuralNetwork class with predict() and train() functions 
  */
 class NeuralNetwork {
   /** number of input nodes */
@@ -36,7 +36,7 @@ class NeuralNetwork {
       {0.2, 0.8, 0.2},
       {0.1, 0.5, 0.6}};
     wIH = new Matrix(awIH);  // weights matrix in between input and hidden layers
-    MatrixPrint.mprint("printing initial input_hidden weights", wIH, hidden_nodes, hidden_nodes);
+    MatrixPrint.mprint("printing initial input_hidden weights", wIH);
 
     // initial hidden_output weights
     // this will eventually be created using a normal distribution of random numbers
@@ -44,7 +44,7 @@ class NeuralNetwork {
       {0.6, 0.5, 0.2},
       {0.8, 0.1, 0.9}};
     wHO = new Matrix(awHO);  // weights matrix in between hidden and output layers
-    MatrixPrint.mprint("printing initial hidden_output weights", wHO, hidden_nodes, hidden_nodes);
+    MatrixPrint.mprint("printing initial hidden_output weights", wHO);
 
   }
   
@@ -58,17 +58,17 @@ class NeuralNetwork {
     // hidden layer calculations
     // hidden layer inputs: weighted sum
     Matrix hid_inp = wIH.times(inp);  // dot product to create the weighted sum
-    //MatrixPrint.mprint("printing hidden layer inputs: weighted sum", hid_inp, hidden_nodes, hidden_nodes);
+    //MatrixPrint.mprint("printing hidden layer inputs: weighted sum", hid_inp);
 
     // hidden layer outputs: sigmoid(weighted sum)
     // note: output of hidden layer is same as input of output layer
     Matrix hid_outp = Activator.sigmoid(hid_inp);  // sigmoid activation of the weighted sum
-    //MatrixPrint.mprint("printing hidden layer outputs: sigmoid(weighted sum)", hid_outp, hidden_nodes, hidden_nodes);
+    //MatrixPrint.mprint("printing hidden layer outputs: sigmoid(weighted sum)", hid_outp);
 
     //output layer calculations
     //output of hidden layer is same as input of output layer
     Matrix out_outp = wHO.times(hid_outp);  // dot product to create the weighted sum
-    //MatrixPrint.mprint("printing output layer inputs: weighted sum", out_outp, hidden_nodes, hidden_nodes);
+    //MatrixPrint.mprint("printing output layer inputs: weighted sum", out_outp);
 
     // calculate sigmoid activation of the weighted sum of the output layer
     Matrix out = Activator.sigmoid(out_outp); 
@@ -83,6 +83,6 @@ class NeuralNetwork {
     // Reverse Propagation
     // first feed forward!
     Matrix out = this.predict(inp);
-    //MatrixPrint.mprint("printing first output from neural network before back propagation", out, output_nodes, output_nodes);
+    //MatrixPrint.mprint("printing first output from neural network before back propagation", out);
   }
 }

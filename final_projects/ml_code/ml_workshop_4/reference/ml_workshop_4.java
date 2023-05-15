@@ -49,20 +49,18 @@ void setup() {
   double[][] ainp = {{0.9},
     {0.1},
     {0.8}};
-    
+
   Matrix inp = new Matrix(ainp);  //column matrix of input values
-  MatrixPrint.mprint("printing inputs to neural network", inp, input_nodes, input_nodes);  
-  //inp.print(input_nodes, input_nodes);
-  //inp.transpose().print(input_nodes, input_nodes);
+  MatrixPrint.mprint("printing inputs to neural network", inp);  
   
-  //Predict the output for a given set of inputs!
+  // Predict the output for a given set of inputs!
   // feedforward
   Matrix out = bushNN.predict(inp);
   
-  MatrixPrint.mprint("printing final output from neural network", out, output_nodes, output_nodes);  
-  //out.print(output_nodes, output_nodes);
-  //out.transpose().print(input_nodes, input_nodes);
+  MatrixPrint.mprint("printing final output from neural network", out);  
 
+  // Train the neural network for a given set of training inputs for which answer is known!
+  // backward propagation
   bushNN.train(inp);
 }
 
@@ -107,18 +105,16 @@ static class MatrixPrint {
    * mprint function for debugging.
    * @param title: description of print outs following
    * @param in: input Matrix to print
-   * @param rows: number of rows in matrix to print
-   * @param rows: number of columns in matrix to print
    */   
-  static void mprint(String title, Matrix in, int rows, int cols) {
+  static void mprint(String title, Matrix in) {
     System.out.println(String.format("%s:", title));
     // caling the Matrix print function
-    in.print(rows, cols);
+    in.print(3, 3);  // print 3 digits of precision for rows and cols
   }
 }/**
  * Bush School CPJava Class Final Project
  * Project Details: https://chandrunarayan.github.io/cpjava/final_projects/
- * NeuralNetwork class with predict() & train() functions 
+ * NeuralNetwork class with predict() and train() functions 
  */
 class NeuralNetwork {
   /** number of input nodes */
@@ -153,7 +149,7 @@ class NeuralNetwork {
       {0.2, 0.8, 0.2},
       {0.1, 0.5, 0.6}};
     wIH = new Matrix(awIH);  // weights matrix in between input and hidden layers
-    MatrixPrint.mprint("printing initial input_hidden weights", wIH, hidden_nodes, hidden_nodes);
+    MatrixPrint.mprint("printing initial input_hidden weights", wIH);
 
     // initial hidden_output weights
     // this will eventually be created using a normal distribution of random numbers
@@ -161,7 +157,7 @@ class NeuralNetwork {
       {0.6, 0.5, 0.2},
       {0.8, 0.1, 0.9}};
     wHO = new Matrix(awHO);  // weights matrix in between hidden and output layers
-    MatrixPrint.mprint("printing initial hidden_output weights", wHO, hidden_nodes, hidden_nodes);
+    MatrixPrint.mprint("printing initial hidden_output weights", wHO);
 
   }
   
@@ -175,17 +171,17 @@ class NeuralNetwork {
     // hidden layer calculations
     // hidden layer inputs: weighted sum
     Matrix hid_inp = wIH.times(inp);  // dot product to create the weighted sum
-    //MatrixPrint.mprint("printing hidden layer inputs: weighted sum", hid_inp, hidden_nodes, hidden_nodes);
+    //MatrixPrint.mprint("printing hidden layer inputs: weighted sum", hid_inp);
 
     // hidden layer outputs: sigmoid(weighted sum)
     // note: output of hidden layer is same as input of output layer
-    Matrix hid_outp = Activator.sigmoid(hid_inp);  // simoid activation of the weighted sum
-    //MatrixPrint.mprint("printing hidden layer outputs: sigmoid(weighted sum)", hid_outp, hidden_nodes, hidden_nodes);
+    Matrix hid_outp = Activator.sigmoid(hid_inp);  // sigmoid activation of the weighted sum
+    //MatrixPrint.mprint("printing hidden layer outputs: sigmoid(weighted sum)", hid_outp);
 
     //output layer calculations
     //output of hidden layer is same as input of output layer
     Matrix out_outp = wHO.times(hid_outp);  // dot product to create the weighted sum
-    //MatrixPrint.mprint("printing output layer inputs: weighted sum", out_outp, hidden_nodes, hidden_nodes);
+    //MatrixPrint.mprint("printing output layer inputs: weighted sum", out_outp);
 
     // calculate sigmoid activation of the weighted sum of the output layer
     Matrix out = Activator.sigmoid(out_outp); 
@@ -200,7 +196,7 @@ class NeuralNetwork {
     // Reverse Propagation
     // first feed forward!
     Matrix out = this.predict(inp);
-    //MatrixPrint.mprint("printing first output from neural network before back propagation", out, output_nodes, output_nodes);
+    //MatrixPrint.mprint("printing first output from neural network before back propagation", out);
   }
 }
 }

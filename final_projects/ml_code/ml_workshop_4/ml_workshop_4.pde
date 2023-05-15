@@ -33,15 +33,15 @@ void setup() {
   double[][] ainp = {{0.9},
     {0.1},
     {0.8}};
-    
+
   Matrix inp = new Matrix(ainp);  //column matrix of input values
-  MatrixPrint.mprint("printing inputs to neural network", inp, input_nodes, input_nodes);  
+  MatrixPrint.mprint("printing inputs to neural network", inp);  
   
   // Predict the output for a given set of inputs!
   // feedforward
   Matrix out = bushNN.predict(inp);
   
-  MatrixPrint.mprint("printing final output from neural network", out, output_nodes, output_nodes);  
+  MatrixPrint.mprint("printing final output from neural network", out);  
 
   // Train the neural network for a given set of training inputs for which answer is known!
   // backward propagation
