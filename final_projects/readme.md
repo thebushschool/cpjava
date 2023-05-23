@@ -260,7 +260,7 @@ int result = p.feedforward(point); The answer!
 
 ##  Part 2 - Supervised ML, Matrices & the Muli-Layered Perceptron
 
-### Review
+### Review of Feed Forward Algorithm
 
 We looked at a very simplistic Perceptron simulating a single neuron iin the previous Part 1 of this project.  
 
@@ -338,7 +338,7 @@ $$ \sigma (z) = \frac{1}{1+e^{-z}}$$
 ![final](finaloutput.jpg)
 ![full](fulloutput.jpg)
 
-### Complete Matrix Implementation Neural Network 
+### Complete Matrix Implementation of the Forward Feed portion of the Neural Network 
 
 1. [Download Processing Zip file - Extract and Open in Processing](ml_workshop_4_lesson.zip)
 
@@ -349,7 +349,55 @@ $$ \sigma (z) = \frac{1}{1+e^{-z}}$$
 1. Note - you should not need any other function from the Matrix libray other than the constructor and the "times" function.  Built "Column" 3x1 matrices for inputs and outputs.  Do not transpose any matrices at this stage.
 1. Detailed [Java code documentation for for this project can be found here](https://chandrunarayan.github.io/cpjava/final_projects/ml_code/ml_workshop_4/reference/ml_workshop_4.html)
 
+### WE HAVE NOW CONCLUDED PART 2 OF YOUR FINAL PROJECT!!
 
+##  Part 3 - Errors and Weights of the Perceptron
+
+### Review of Back Propagation Algorithm
+### We will do this just using pictures instead using a 1000 words!
+
+![bp1](bp1.png)
+![bp2](bp2.png)
+![bp3](bp3.png)
+![bp4](bp4.png)
+![bp5](bp5.png)
+![bp6](bp6.png)
+![bp7](bp7.png)
+![bp8](bp8.png)
+![bp9](bp9.png)
+![bp10](bp10.png)
+![bp11](bp11.png)
+![bp12](bp12.png)
+![bp13](bp13.png)
+![bp14](bp14.png)
+![bp15](bp15.png)
+
+### Review of Weight adjustment to minimize Output Errors
+### We will cover the calculus behind the weight adjustment algorithm
+
+![gd1](gd1.png)
+![gd2](gd2.png)
+![gd3](gd3.png)
+![gd4](gd4.png)
+![gd5](gd5.png)
+![gd6](gd6.png)
+![gd7](gd7.png)
+![gd8](gd8.png)
+![gd9](gd9.png)
+![gd10](gd10.png)
+![gd11](gd11.png)
+![gd12](gd12.png)
+![gd13](gd13.png)
+![gd14](gd14.png)
+![gd15](gd15.png)
+
+### WE HAVE NOW CONCLUDED PART 3 OF YOUR FINAL PROJECT!!
+
+### Complete Matrix Implementation of the Backward Propagation portion of the Neural Network with Erros Calculations and Weight adjustments!
+
+1. step 1
+1. step 2
+1. step 3 ....
 
 
 
