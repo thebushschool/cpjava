@@ -372,6 +372,11 @@ $$ \sigma (z) = \frac{1}{1+e^{-z}}$$
 ![bp14](bp14.png)
 ![bp15](bp15.png)
 
+### 3A:  Complete Matrix Implementation of caculating the hidden errors in each of the layers of the Neural Network 
+1. step 1
+1. step 2
+1. step 3 ....
+
 ### Review of Weight adjustment to minimize Output Errors
 ### We will cover the calculus behind the weight adjustment algorithm
 
@@ -391,13 +396,13 @@ $$ \sigma (z) = \frac{1}{1+e^{-z}}$$
 ![gd14](gd14.png)
 ![gd15](gd15.png)
 
-### WE HAVE NOW CONCLUDED PART 3 OF YOUR FINAL PROJECT!!
-
-### Complete Matrix Implementation of the Backward Propagation portion of the Neural Network with Erros Calculations and Weight adjustments!
+### 3B:  Complete Matrix Implementation of the Backward Propagation portion of the Neural Network with Erros Calculations and Weight adjustments!
 
 1. step 1
 1. step 2
 1. step 3 ....
+
+### WE HAVE NOW CONCLUDED PART 3 OF YOUR FINAL PROJECT!!
 
 
 
