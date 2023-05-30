@@ -372,10 +372,19 @@ $$ \sigma (z) = \frac{1}{1+e^{-z}}$$
 ![bp14](bp14.png)
 ![bp15](bp15.png)
 
-### 3A:  Complete Matrix Implementation of caculating the hidden errors in each of the layers of the Neural Network 
-1. step 1
-1. step 2
-1. step 3 ....
+### 3A:  Complete Matrix Implementation of caculating the hidden errors in each of the layers of the Neural Network. You have previously calculated the outputs, and then used targets to calculate the final output errors from the output layer.  To prepare for the back propagation phase of this project (where we calculate the adjust to the weights), we need to calculate and store the:
+
+ * hidden layer inputs (weighted sum of inputs)
+ * hidden layer outputs (sigmoid of the weighted sum above). Note: this is the same as the output layer inputs.
+ * output layer outputs: (sigmoid of the weighted sum output layer inputs)
+
+To do this, we need to change the result of the previously written predict() function which previously returned a single output matrix to an array of 3 Matrices holding the 3 quantities above.
+
+1. Modify the call the predict() function to accept an array of 3 matrices
+1. Modify he predict() function to return an array of 3 matrices with thwe values stored as indicated above
+1. The MatrixUtil.mprint() function has changed to accept a "debug" flag to "true" or "false" to allow for printing only the what needs to be printed with9ut any clutter
+
+[The Processing code template with "??" can be downloaded here](ml_workshop_4_lesson.zip) for you to complete this Part 3a version of the code. Once completed properly, you can verify the answers with  key provided.
 
 ### Review of Weight adjustment to minimize Output Errors
 ### We will cover the calculus behind the weight adjustment algorithm
