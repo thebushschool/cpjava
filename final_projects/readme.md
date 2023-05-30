@@ -384,7 +384,7 @@ To do this, we need to change the result of the previously written predict() fun
 1. Modify he predict() function to return an array of 3 matrices with thwe values stored as indicated above
 1. The MatrixUtil.mprint() function has changed to accept a "debug" flag to "true" or "false" to allow for printing only the what needs to be printed with9ut any clutter
 
-[The Processing code template with "??" can be downloaded here](ml_workshop_4_lesson.zip) for you to complete this Part 3a version of the code. Once completed properly, you can verify the answers with  key provided.
+[The Processing code template with "??" can be downloaded here](ml_code/ml_workshop_4a_lesson.zip) for you to complete this Part 3a version of the code. Once completed properly, you can verify the answers with  key provided.
 
 ### Review of Weight adjustment to minimize Output Errors
 ### We will cover the calculus behind the weight adjustment algorithm
