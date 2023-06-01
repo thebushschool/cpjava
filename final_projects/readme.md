@@ -433,7 +433,7 @@ TO DO in 3b:
 
  * Adjust weight matrix in each layer according to the last derived equation
 
-1. Modify the ``predict()`` function by replacing the ``??`` with the appropriate code according to the instructions provided.
+1. Modify the ``train()`` function by replacing the ``??`` with the appropriate code according to the instructions provided.
 1. Print the adjusted Weight matrices using the ``MatrixUtil.mprint()`` function and verify the answers for the the first input.
 1. Put it in a loppe to accept many input vectors for training the neural network!
 
