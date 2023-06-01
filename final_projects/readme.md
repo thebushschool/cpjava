@@ -381,7 +381,7 @@ $$ \sigma (z) = \frac{1}{1+e^{-z}}$$
 To do this, we need to change the result of the previously written predict() function which previously returned a single output matrix to an array of 3 Matrices holding the 3 quantities above.
 
 1. Modify the call the predict() function to accept an array of 3 matrices
-1. Modify he predict() function to return an array of 3 matrices with thwe values stored as indicated above
+1. Modify he predict() function to return an array of 3 matrices with the values stored as indicated above
 1. The MatrixUtil.mprint() function has changed to accept a "debug" flag to "true" or "false" to allow for printing only the what needs to be printed with9ut any clutter
 
 [The Processing code template with "??" can be downloaded here](ml_code/ml_workshop_4a_lesson.zip) for you to complete this Part 3a version of the code. Once completed properly, you can verify the answers with  key provided.
@@ -405,11 +405,37 @@ To do this, we need to change the result of the previously written predict() fun
 ![gd14](gd14.png)
 ![gd15](gd15.png)
 
+The above equation that we derived from first principles gives us the ```Derivative (Slope) of the Error Function with respect to the Weights in Each Layer```.   But, how do we use this adjust the weights in each layer? 
+
+That would be:
+![gd16](gd16.png)
+
+where $\alpha$ is the Learning Rate. From this we can conclude:
+![gd17](gd17.png)
+
+The above equation gives us a practical way to implement the adjustments of weights for each input vector that we ``train()`` the neural network on!
+
 ### 3B:  Complete Matrix Implementation of the Backward Propagation portion of the Neural Network with Erros Calculations and Weight adjustments!
 
-1. step 1
-1. step 2
-1. step 3 ....
+[The Processing code template with "??" can be downloaded here](ml_workshop_5_lesson.zip) for you to complete this Part 3b version of the code. Once completed properly, you can verify the answers with  key provided for the adjusted weights for the first set of inputs.
+
+DONE IN 3a and previous:
+
+ * ``initial input``: data to ``train`` the neural network
+ * ``target``:  the labeled correct answer
+ * ``hidden layer inputs`` (weighted sum of inputs)
+ * ``hidden layer outputs`` (sigmoid of the weighted sum above). Note: this is the same as the output layer inputs.
+ * ``output layer outputs`` ot final outputs: (sigmoid of the weighted sum of output layer inputs)
+ * ``output error``: output from output layer - target 
+ * ``hidden error``: output from the previous hidden layer * distributed error from the current layer
+
+TO DO in 3b:
+
+ * Adjust weight matrix in each layer according to the last derived equation
+
+1. Modify the ``predict()`` function by replacing the ``??`` with the appropriate code according to the instructions provided.
+1. Print the adjusted Weight matrices using the ``MatrixUtil.mprint()`` function and verify the answers for the the first input.
+1. Put it in a loppe to accept many input vectors for training the neural network!
 
 ### WE HAVE NOW CONCLUDED PART 3 OF YOUR FINAL PROJECT!!
 
