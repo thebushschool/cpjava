@@ -414,7 +414,10 @@ where $\alpha$ is the Learning Rate. From this we can conclude:
 ![gd17](gd17.png)
 ![gd18](gd18.png)
 
-The above equation in the matrix form gives us a practical way to implement the adjustments of weights for each input vector that we ``train()`` the neural network on!
+The above equation in the matrix form gives us a practical way to implement the adjustments of weights for each input vector that we ``train()`` the neural network on!  I have added below a depiction of the forward feed and backward prop steps along with specific variables used in our neural network implementation, 
+![gd19](gd19.png)
+![gd21](gd21.png)
+![gd20](gd20.png)
 
 ### 3B:  Complete Matrix Implementation of the Backward Propagation portion of the Neural Network with Erros Calculations and Weight adjustments!
 
