@@ -442,11 +442,11 @@ TO DO in 3b:
 
 1. Modify the ``train()`` function by replacing the ``??`` with the appropriate code according to the instructions provided.
 1. Print the adjusted Weight matrices using the ``MatrixUtil.mprint()`` function and verify the answers for the the first input.
-1. Put it in a loppe to accept many input vectors for training the neural network!
+1. Put it in a loop to accept many input vectors for training the neural network!
 
 ### WE HAVE NOW CONCLUDED PART 3 OF YOUR FINAL PROJECT!!
 
-### [REFERNCE MNIST HAND-WRITTEN NUMERALS TEST AND TRAINING INPUT DATASETS](mnist)
+### [REFERENCE MNIST HAND-WRITTEN NUMERALS TEST AND TRAINING INPUT DATASETS](mnist)
 
 
 
