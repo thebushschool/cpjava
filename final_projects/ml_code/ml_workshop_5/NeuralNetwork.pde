@@ -34,27 +34,29 @@ class NeuralNetwork {
 
     // initial input_hidden weights
     // created using a normal distribution of random numbers
-    // wIH = MatrixUtil.mcrud(iNodes, hNodes);  // weights matrix in between input and hidden layers
-    // MatrixUtil.mprint(debug, "printing initial input_hidden weights", wIH);
+    //wIH = MatrixUtil.mcrud(iNodes, hNodes);  // weights matrix in between input and hidden layers
+    //MatrixUtil.mprint(debug, "printing initial input_hidden weights", wIH);
 
     // initial hidden_output weights
     // created using a normal distribution of random numbers
-    // wHO = MatrixUtil.mcrud(hNodes, oNodes);  // weights matrix in between hidden and output layers
-    // MatrixUtil.mprint(debug, "printing initial hidden_output weights", wHO);
+    //wHO = MatrixUtil.mcrud(hNodes, oNodes);  // weights matrix in between hidden and output layers
+    //MatrixUtil.mprint(debug, "printing initial hidden_output weights", wHO);
+    
     double[][] awIH = {{0.9, 0.3, 0.4},
       {0.2, 0.8, 0.2},
       {0.1, 0.5, 0.6}};
     wIH = new Matrix(awIH);  // weights matrix in between input and hidden layers
-    MatrixUtil.mprint(true, "printing initial input_hidden weights", wIH);
-
+    MatrixUtil.mprint(debug, "printing initial input_hidden weights", wIH);
+  
     // initial hidden_output weights
     // this will eventually be created using a normal distribution of random numbers
     double[][] awHO = {{0.3, 0.7, 0.5},
       {0.6, 0.5, 0.2},
       {0.8, 0.1, 0.9}};
     wHO = new Matrix(awHO);  // weights matrix in between hidden and output layers
-    MatrixUtil.mprint(true, "printing initial hidden_output weights", wHO);
-  }
+    MatrixUtil.mprint(debug, "printing initial hidden_output weights", wHO);
+    
+}
 
   /**
    * predict() function implementing feed forward calculations.
@@ -101,7 +103,7 @@ class NeuralNetwork {
     
     boolean debug = false;
     
-    System.out.println("***** Feed Forward Starts *******");
+    //System.out.println("***** Feed Forward Starts *******");
     
     MatrixUtil.mprint(debug, "printing inputs to neural network", inp);
     MatrixUtil.mprint(debug, "printing targets to neural network", tgt);
@@ -114,23 +116,25 @@ class NeuralNetwork {
     MatrixUtil.mprint(debug, "printing output layer outputs = final outputs", out[2]);
     
     Matrix output_error = tgt.minus(out[2]);
-    MatrixUtil.mprint(debug, "printing final output_error from neural network", output_error);
+    MatrixUtil.mprint(debug, "printing output_error from neural network", output_error);
 
     Matrix hidden_error = wHO.transpose().times(output_error);
     MatrixUtil.mprint(debug, "printing hidden errors from neural network", hidden_error);    
     
-    System.out.println("***** Back Propagations Starts *******");
+    //System.out.println("***** Back Propagations Starts *******");
+    
+    Matrix unity = new Matrix(hidden_nodes,1,1.0);  // Create a column matrix of 1.0 to use in 1-sigmoid calculation
     
     // Update weights between hidden and output layers based on output error
-    Matrix lhdot1 = out[2].arrayTimes(Matrix.identity(3,1).minus(out[2]));
+    Matrix lhdot1 = output_error.arrayTimes(out[2].arrayTimes(unity.minus(out[2])));
     Matrix lhdot2 = out[1].transpose();
     wHO.plusEquals(lhdot1.times(lhdot2).times(lRate));
-    MatrixUtil.mprint(true, "printing updated weights between hidden and output layers", wHO);
+    MatrixUtil.mprint(debug, "printing updated weights between hidden and output layers", wHO);
     
     // Update weights between input and hidden layers based on calculated error
-    Matrix lhdot3 = out[1].arrayTimes(Matrix.identity(3,1).minus(out[1]));
-    Matrix lhdot4 = out[1].transpose();
+    Matrix lhdot3 = hidden_error.arrayTimes(out[1].arrayTimes(unity.minus(out[1])));
+    Matrix lhdot4 = inp.transpose();
     wIH.plusEquals(lhdot3.times(lhdot4).times(lRate));
-    MatrixUtil.mprint(true, "printing updated weights between input and hidden layers", wIH);
+    MatrixUtil.mprint(debug, "printing updated weights between input and hidden layers", wIH);
   }
 }

@@ -48,8 +48,8 @@ static class MatrixUtil {
     return min;
   }
   /**
-   * mmin function for finding min value in a matrix of values.
-   * @param m: Matrix in which to find min
+   * mmax function for finding max value in a matrix of values.
+   * @param m: Matrix in which to find max
    * @return out: return max value
    */
   static double mmax(Matrix m) {
