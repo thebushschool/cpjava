@@ -432,7 +432,7 @@ DONE IN 3a and previous:
 
 TO DO in 3b:
 
- * Adjust weight matrix in each layer according to the last derived equation. You can use the following as a hint when working on the Processing code template downloaded earlier, [it is linked here](ml_code/ml_workshop_4a_lesson.zip) once again for convenience.
+ * Adjust weight matrix in each layer according to the last derived equation. You can use the following as a hint when working on the Processing code template downloaded earlier, [it is linked here](ml_code/ml_workshop_5_lesson.zip) once again for convenience.
 
     Hints:
     I have added below a depiction of the forward feed and backward prop steps along with specific variables used in our neural network implementation, 
