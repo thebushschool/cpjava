@@ -439,6 +439,7 @@ TO DO in 3b:
     ![gd19](gd19.png)
     ![gd21](gd21.png)
     ![gd20](gd20.png)
+    ![nodes](nodes.jpg)
 
 1. Modify the ``train()`` function by replacing the ``??`` with the appropriate code according to the instructions provided.
 1. Print the adjusted Weight matrices using the ``MatrixUtil.mprint()`` function and verify the answers for the the first input.
