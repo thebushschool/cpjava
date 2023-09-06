@@ -4,7 +4,7 @@
 
 | Date | Topic | Link
 | :--- | :--- | :--- |
-| 09-05-2023 | Declare and Define Primitives, Objects, Array and ArrayList with examples | [click to go there](#hints-faq) |
+| 09-05-2023 | Welcome to Computer Programming in Java (CPJava) course! | [click to go there]() |
 
 
 
