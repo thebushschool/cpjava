@@ -42,7 +42,7 @@ In our CPJava classroom we are already using tools and techniques that are natur
 1. [SLACK Instant Messaging](https://cpjava2020.slack.com/archives/C04174TB020) - communication for differentiated classroom, code extracts, bug fixes, instant help, quick challenges. You will receive an invitation. email communication is discouraged for this purpose.
 1. [Bush EMAIL](mailto:chandru.narayan@bush.edu) will be used for administrative, one-on-one communications as necessary. Please check this once a each day during the Semester. 
 1. [Zoom Conference Appointments](https://calendly.com/chandru-narayan/conf-with-chandru)
-1. STEM Center Support - Tully Eva will be teaching assistant fpr this course. He took the CP Java class last year and can speak with you with direct experience!  Best way to contact him is via email Tully.Eva@bush.edu
+1. STEM Center Support - Wyatt Thelan will be teaching assistant fpr this course. He took the CP Java class last year and can speak with you with direct experience!  Best way to contact him is via email Wyatt.Thelan@bush.edu
 
     
 ### [Downloadable CPJava Course Schedule 2023-2024](src/schedule.png) 
