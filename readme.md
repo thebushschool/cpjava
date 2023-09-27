@@ -186,7 +186,7 @@ Suggested Schedule of Completion updated 09.05.23
 * Question 3: Array/ArrayList—You’ll be asked to write program code to satisfy method specifications and create, traverse, and manipulate elements in 1D array or ArrayList objects.
 * Question 4: 2D Array—You’ll be asked to write program code to satisfy method specifications and create, traverse, and manipulate elements in 2D array objects.
 
-### APCSA Exam Spring 2024 - May 8th
+### [APCSA Exam Spring 2024 - May 8th  REGISTER HERE!!](https://aptsusa.com/bush/)
 
 ### [APCSA Exam Hints](src/examhints.pdf)
 
