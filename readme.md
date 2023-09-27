@@ -156,6 +156,9 @@ In the world of programming - [collaboration with others is everything](https://
 * FINAL PROJECT OPTION 2 [Machine Learning - Perceptron Project](final_projects/readme.md)
 
 ## AP Exam Section
+
+### [APCSA Exam Spring 2024 - May 8th  REGISTER HERE!!](https://aptsusa.com/bush/)
+
 ###  [Codingbat Practice Topics](https://codingbat.com/home/chandru.narayan@bush.edu)
 Make sure you login to codingbat with your username before attempting problem sets. 
 
