@@ -88,7 +88,7 @@ In the world of programming - [collaboration with others is everything](https://
 * William/Boyan
 
 ### Team Stevens 
-* Reed/Reagan
+* Evelyn/Reagan
 
 ### Team Baker 
 * Nathan/Gareth
