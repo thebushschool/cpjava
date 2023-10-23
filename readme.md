@@ -88,7 +88,7 @@ In the world of programming - [collaboration with others is everything](https://
 * William/Boyan
 
 ### Team Stevens 
-* Reed/Reagan
+* Evelyn/Reagan
 
 ### Team Baker 
 * Nathan/Gareth
@@ -121,7 +121,7 @@ In the world of programming - [collaboration with others is everything](https://
 
 ## Project Specific Student Paced Sessions
 * [Unit 0 Processing Primer Scales Project](https://docs.google.com/presentation/d/1oGEPH8JPehlrZLI9IREmoKrNd192qZ_DuNtancZooY4/edit?usp=sharing)
-* [Unit 1 Using MathDotRandom in the Lightning Project](https://docs.google.com/presentation/d/1ga570E_dgM4iSPyWmaa2AmE9roI63Eoe8VdkLu8fdQ4/edit#slide=id.g40fbbe7893_0_24)
+* [Unit 1 Using MathDotRandom in the Lightning Project](https://docs.google.com/presentation/d/1435XkVlj6uslnFmrlQmTb_7yaCpoQaVhdgpYHdxnksg/edit?usp=sharing)
 * [Unit 9b Asteroids Project Part 1](https://docs.google.com/presentation/d/1HfHQTei9qgkBEBhNqUKqmAc6g2V3x8FDprajTp5IZuE/edit?usp=sharing)
 * [Unit 9c Asteroids Project Part 2](https://docs.google.com/presentation/d/1pPeUvTAbIjtZYvfQIv54BDuunra8H6imO654amT6NI4/edit?usp=sharing)
 * [Unit 9d Asteroids Project Final Part 3](https://docs.google.com/presentation/d/1eSpNZiI6WjTBA4Jn_s_0pSicocsRXhOUnGaTOms80CM/edit?usp=sharing)
@@ -165,11 +165,12 @@ Make sure you login to codingbat with your username before attempting problem se
 Completion of these problem sets are not rquired for the CPJava course. However, it is highy recommended and essential in preparing for the APCSA exam if you plan to take it. See suggested schedule sequence below by topic. See additional details about the APCSA exam in the sections below
 
 Suggested Schedule of Completion updated 09.05.23 
+**Indicates shouod be considered In-work Codingbats
 
 | Sequence | Schedule Topic | Codingbat Problemset
 | :--- | :--- | :--- |
-| 1 |Primitives | [Primitives](https://codingbat.com/home/chandru.narayan@bush.edu/intbool1)
-| 2 |Functions | [Functions1](https://codingbat.com/home/chandru.narayan@bush.edu/functions1) [Functions2](https://codingbat.com/home/chandru.narayan@bush.edu/functions2) [Functions3](https://codingbat.com/home/chandru.narayan@bush.edu/functions3)
+| 1 |**Primitives | [Primitives](https://codingbat.com/home/chandru.narayan@bush.edu/intbool1)
+| 2 |**Functions | [Functions1](https://codingbat.com/home/chandru.narayan@bush.edu/functions1) [Functions2](https://codingbat.com/home/chandru.narayan@bush.edu/functions2) [Functions3](https://codingbat.com/home/chandru.narayan@bush.edu/functions3)
 | 3 |Arrays | [Arrays1](https://codingbat.com/home/chandru.narayan@bush.edu/arrays1) [Arrays2](https://codingbat.com/home/chandru.narayan@bush.edu/arrays2) [Arrays3](https://codingbat.com/home/chandru.narayan@bush.edu/arrays3) [Arrays4](https://codingbat.com/home/chandru.narayan@bush.edu/arrays4)
 | 4 |Array List | [ArrayList1](https://codingbat.com/home/chandru.narayan@bush.edu/arraylist1) [ArrayList2](https://codingbat.com/home/chandru.narayan@bush.edu/arraylist2) [ArrayList3](https://codingbat.com/home/chandru.narayan@bush.edu/arraylist3)
 | 5 |Fall Review | [FallReview1](https://codingbat.com/home/chandru.narayan@bush.edu/fallreview1) [FallReview2](https://codingbat.com/home/chandru.narayan@bush.edu/fallreview2)
