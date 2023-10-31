@@ -1,4 +1,4 @@
-[_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
+[_Bush School CPJava Fall Semester 2023_](https://chandrunarayan.github.io/cpjava/)
 
 # What's happening in CPJava this week and next week (Nov 2nd - Nov 13th) ??
 ## A. [Access Impromptu Quiz on Arrays of Objects and Inheritance - Due Nov 15th](impromptu_quiz_assignment.md)

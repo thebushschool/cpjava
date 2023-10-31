@@ -1,4 +1,4 @@
-[_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
+[_Bush School CPJava Fall Semester 2023_](https://chandrunarayan.github.io/cpjava/)
 
 ## What's happening in CPJava for the next 2 weeks of Spring 2021! (Feb 22nd - Mar 5th) ??
 ### A. Reminders/Notifications for assignments coming due in March/April

@@ -1,4 +1,4 @@
-[_Bush School CPJava Fall Semester 2020_](https://chandrunarayan.github.io/cpjava/)
+[_Bush School CPJava Fall Semester 2023_](https://chandrunarayan.github.io/cpjava/)
 
 # What happened in CPJava previously? (Oct 12th - Oct 16th) ??
 
