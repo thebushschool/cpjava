@@ -139,7 +139,7 @@ In the world of programming - [collaboration with others is everything](https://
 * [Lightning Project](https://github.com/chandrunarayan/Lightning)
 * [Dice Project](https://github.com/chandrunarayan/Dice)
 * [Chemotaxis Project](https://github.com/chandrunarayan/Chemotaxis)
-* [Rising Bubbles Project](https://classroom.google.com/c/MzkyMDU1MDY0Njc4/a/NDM0NTIzNzc4MjQ1/details)
+* [Rising Bubbles Project](https://classroom.google.com/c/NjE4MjA5Nzk3NzM4/a/NjMyOTQ4OTM1ODIw/details)
 * [Snowflake Live Coding Project](https://chandrunarayan.github.io/Snowflake/)
 * [Starfield Project](https://github.com/chandrunarayan/Starfield)
 * [Asteroids Part 1 Project](https://github.com/chandrunarayan/AsteroidsGame)
