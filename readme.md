@@ -142,6 +142,7 @@ In the world of programming - [collaboration with others is everything](https://
 * [Rising Bubbles Project](https://github.com/chandrunarayan/Rising_Bubbles)
 * [Snowflake Live Coding Project](https://chandrunarayan.github.io/Snowflake/)
 * [Starfield Project](https://github.com/chandrunarayan/Starfield)
+* [PI-Day Project](https://github.com/chandrunarayan/PIDay)
 * [Asteroids Part 1 Project](https://github.com/chandrunarayan/AsteroidsGame)
 * [Asteroids Part 2 Project](https://github.com/chandrunarayan/AsteroidsPart2)
 * [Asteroids Part 3 Project](https://github.com/chandrunarayan/AsteroidsPart3)
