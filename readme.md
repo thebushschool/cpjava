@@ -1,4 +1,4 @@
-[_Bush School CPJava Spring Semester 2023 (Year-Long)_](https://chandrunarayan.github.io/cpjava/) updated Sep 5, 2023
+[_Bush School CPJava Spring Semester 2023 (Year-Long)_](https://chandrunarayan.github.io/cpjava/) updated Mar 11, 2024
 
 ## Newly added topics
 
@@ -94,7 +94,7 @@ In the world of programming - [collaboration with others is everything](https://
 * Nathan/Gareth
 
 ### Team Glacier Peak
-* Gabe/Charlotte
+* Gabe/Charlotte/Rea
 
 ### Team Alpe d'Huez
 * Chandru/Wyatt
@@ -102,15 +102,15 @@ In the world of programming - [collaboration with others is everything](https://
 ## Lesson Schedule
 
 ## Student Paced Sessions for Java Units
-* [Unit 0 Java Introduction](lessons/unit1/src/CPJavaIntro_v4.pdf)
-* [Units 1 2 3 Consolidated Intro to Java Variables Operators](https://docs.google.com/presentation/d/1SEB8hbirhy00kq0oxLhQX2xcyC_HvaIw35V8pq82INw/edit#slide=id.g97cdd6c7ea_0_0)
-* [Units 4 5 Loops & Objects](https://docs.google.com/presentation/d/1N8HE3B-qbMqxFgjIaLNvaMt4BPYu3n9HpfdjGeafug0/edit#slide=id.g9e087dd4d3_0_2)
-* [Unit 6a Arrays](https://docs.google.com/presentation/d/1raXs9jcimmhj3knEg1HOcgj3eS5Q0Z_Pfx_geDadiAU/edit#slide=id.p1)
-* [Unit 6b Arrays of Objects](https://docs.google.com/presentation/d/1xRdct_tdU00OH15lSnZvkkHT-Y7x6DXme6xJIv0568g/edit#slide=id.p1)
-* [Unit 7a Array List](https://docs.google.com/presentation/d/18etQTe0r3LkQIRptUdi8XEjqIx0qkJ_Xsdx1L9AYpMA/edit#slide=id.p1) 
-* [Unit 7b For Each Loop](https://docs.google.com/presentation/d/1svOtYj6hIec8CR7yqourBmKauEOMhSuEciEqgq7nO4E/edit#slide=id.p1)
-* [Unit 9a Inheritance & Encapsulation](https://docs.google.com/presentation/d/1U6Q4y2aVB-DTWi-jB2GYJP2BUIu_k2O3yY6iDY9w-Mw/edit)
-* [Unit 2a String Objects & Methods and Google Billboard Project](https://drive.google.com/open?id=1H9tzGeTWetjzUz1G450NGxbEO5xZl3BvacfkFWsvWRE&authuser=0)
+* [🟢 COMPLETE Unit 0 Java Introduction](lessons/unit1/src/CPJavaIntro_v4.pdf)
+* [🟢 COMPLETE Units 1 2 3 Consolidated Intro to Java Variables Operators](https://docs.google.com/presentation/d/1SEB8hbirhy00kq0oxLhQX2xcyC_HvaIw35V8pq82INw/edit#slide=id.g97cdd6c7ea_0_0)
+* [🟢 COMPLETE Units 4 5 Loops & Objects](https://docs.google.com/presentation/d/1N8HE3B-qbMqxFgjIaLNvaMt4BPYu3n9HpfdjGeafug0/edit#slide=id.g9e087dd4d3_0_2)
+* [🟢 COMPLETE Unit 6a Arrays](https://docs.google.com/presentation/d/1raXs9jcimmhj3knEg1HOcgj3eS5Q0Z_Pfx_geDadiAU/edit#slide=id.p1)
+* [🟢 COMPLETE Unit 6b Arrays of Objects](https://docs.google.com/presentation/d/1xRdct_tdU00OH15lSnZvkkHT-Y7x6DXme6xJIv0568g/edit#slide=id.p1)
+* [🟢 COMPLETE Unit 7a Array List](https://docs.google.com/presentation/d/18etQTe0r3LkQIRptUdi8XEjqIx0qkJ_Xsdx1L9AYpMA/edit#slide=id.p1) 
+* [🟢 COMPLETE Unit 7b For Each Loop](https://docs.google.com/presentation/d/1svOtYj6hIec8CR7yqourBmKauEOMhSuEciEqgq7nO4E/edit#slide=id.p1)
+* [🟢 COMPLETE Unit 9a Inheritance & Encapsulation](https://docs.google.com/presentation/d/1U6Q4y2aVB-DTWi-jB2GYJP2BUIu_k2O3yY6iDY9w-Mw/edit)
+* [🟢 COMPLETE Unit 2a String Objects & Methods and Google Billboard Project](https://drive.google.com/open?id=1H9tzGeTWetjzUz1G450NGxbEO5xZl3BvacfkFWsvWRE&authuser=0)
 * [Unit 2b String Methods & Pointers and Piglatin Project](https://drive.google.com/open?id=1XLlg2WK9z2RQoCVq5l0EaKquK1Mhw4WYbfshck_Rujw&authuser=0)
 * [Unit 8 2D Arrays Tables](https://docs.google.com/presentation/d/1cIgGz7huTaKrsFC5OKXdKNQ9ftwHSnWO6fjzegs7H0w/edit?usp=sharing)
 * [Unit 10a Recursion and Sierpinski Triangles](https://docs.google.com/presentation/d/1Ef1iENxFbYeJy7XDUlbV9JTiVYeoUkeXxrpcdx6UiwE/edit?usp=sharing)
@@ -120,8 +120,8 @@ In the world of programming - [collaboration with others is everything](https://
 * [Unit 10e Sorting - Sort & Merge](https://docs.google.com/presentation/d/1-f4OU7J88OAA-sbP0U2R_0-3bt1vucoMBUH3U2z5C1A/edit?usp=sharing)
 
 ## Project Specific Student Paced Sessions
-* [Unit 0 Processing Primer Scales Project](https://docs.google.com/presentation/d/1oGEPH8JPehlrZLI9IREmoKrNd192qZ_DuNtancZooY4/edit?usp=sharing)
-* [Unit 1 Using MathDotRandom in the Lightning Project](https://docs.google.com/presentation/d/1435XkVlj6uslnFmrlQmTb_7yaCpoQaVhdgpYHdxnksg/edit?usp=sharing)
+* [🟢 COMPLETE Unit 0 Processing Primer Scales Project](https://docs.google.com/presentation/d/1oGEPH8JPehlrZLI9IREmoKrNd192qZ_DuNtancZooY4/edit?usp=sharing)
+* [🟢 COMPLETE Unit 1 Using MathDotRandom in the Lightning Project](https://docs.google.com/presentation/d/1435XkVlj6uslnFmrlQmTb_7yaCpoQaVhdgpYHdxnksg/edit?usp=sharing)
 * [Unit 9b Asteroids Project Part 1](https://docs.google.com/presentation/d/1HfHQTei9qgkBEBhNqUKqmAc6g2V3x8FDprajTp5IZuE/edit?usp=sharing)
 * [Unit 9c Asteroids Project Part 2](https://docs.google.com/presentation/d/1pPeUvTAbIjtZYvfQIv54BDuunra8H6imO654amT6NI4/edit?usp=sharing)
 * [Unit 9d Asteroids Project Final Part 3](https://docs.google.com/presentation/d/1eSpNZiI6WjTBA4Jn_s_0pSicocsRXhOUnGaTOms80CM/edit?usp=sharing)
@@ -135,14 +135,14 @@ In the world of programming - [collaboration with others is everything](https://
 * [Declare and Define Primitives, Objects, Array and ArrayList with examples](src/declare_define_examples.md)
 
 ## Processing Project Specifications & Repositories
-* [Scales Project](https://github.com/chandrunarayan/Scales)
-* [Lightning Project](https://github.com/chandrunarayan/Lightning)
-* [Dice Project](https://github.com/chandrunarayan/Dice)
-* [Chemotaxis Project](https://github.com/chandrunarayan/Chemotaxis)
-* [Rising Bubbles Project](https://github.com/chandrunarayan/Rising_Bubbles)
-* [Snowflake Live Coding Project](https://chandrunarayan.github.io/Snowflake/)
-* [Starfield Project](https://github.com/chandrunarayan/Starfield)
-* [PI-Day Project](https://github.com/chandrunarayan/PIDay)
+* [Scales Project 🟢 COMPLETE](https://github.com/chandrunarayan/Scales)
+* [Lightning Project 🟢 COMPLETE](https://github.com/chandrunarayan/Lightning)
+* [Dice Project 🟢 COMPLETE](https://github.com/chandrunarayan/Dice)
+* [Chemotaxis Project 🟢 COMPLETE](https://github.com/chandrunarayan/Chemotaxis)
+* [Rising Bubbles Project 🟢 COMPLETE](https://github.com/chandrunarayan/Rising_Bubbles)
+* [Snowflake Live Coding Project 🟢 COMPLETE](https://chandrunarayan.github.io/Snowflake/)
+* [Starfield Project🟢 COMPLETE](https://github.com/chandrunarayan/Starfield)
+* [PI-Day Project 🟡 IN-WORK](https://github.com/chandrunarayan/PIDay)
 * [Google Billboard Project](https://github.com/chandrunarayan/GoogleBillboard)
 * [Asteroids Part 1 Project](https://github.com/chandrunarayan/AsteroidsGame)
 * [Asteroids Part 2 Project](https://github.com/chandrunarayan/AsteroidsPart2)
