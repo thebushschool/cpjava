@@ -111,9 +111,9 @@ In the world of programming - [collaboration with others is everything](https://
 * [🟢 COMPLETE Unit 7b For Each Loop](https://docs.google.com/presentation/d/1svOtYj6hIec8CR7yqourBmKauEOMhSuEciEqgq7nO4E/edit#slide=id.p1)
 * [🟢 COMPLETE Unit 9a Inheritance & Encapsulation](https://docs.google.com/presentation/d/1U6Q4y2aVB-DTWi-jB2GYJP2BUIu_k2O3yY6iDY9w-Mw/edit)
 * [🟢 COMPLETE Unit 2a String Objects & Methods and PI-Day Project](https://drive.google.com/open?id=1H9tzGeTWetjzUz1G450NGxbEO5xZl3BvacfkFWsvWRE&authuser=0)
-* [🟡 IN-WORK Unit 10a Recursion and Sierpinski Triangles](https://docs.google.com/presentation/d/1Ef1iENxFbYeJy7XDUlbV9JTiVYeoUkeXxrpcdx6UiwE/edit?usp=sharing)
+* 🟡 IN-WORK [Unit 8 2D Arrays Tables](https://docs.google.com/presentation/d/1cIgGz7huTaKrsFC5OKXdKNQ9ftwHSnWO6fjzegs7H0w/edit?usp=sharing)
 * [Unit 2b String Methods & Pointers and Piglatin Project](https://drive.google.com/open?id=1XLlg2WK9z2RQoCVq5l0EaKquK1Mhw4WYbfshck_Rujw&authuser=0)
-* [Unit 8 2D Arrays Tables](https://docs.google.com/presentation/d/1cIgGz7huTaKrsFC5OKXdKNQ9ftwHSnWO6fjzegs7H0w/edit?usp=sharing)
+* [Unit 10a Recursion and Sierpinski Triangles](https://docs.google.com/presentation/d/1Ef1iENxFbYeJy7XDUlbV9JTiVYeoUkeXxrpcdx6UiwE/edit?usp=sharing)
 * [Unit 10b Recursion and Fibonacci Sequence](https://docs.google.com/presentation/d/19gdc2QhdPKWhc-BZzwau2WEatgVQI2ftLCHv337OUPc/edit?usp=sharing)
 * [Unit 10c Recursion and Fractals](https://docs.google.com/presentation/d/1aR38R14PDpmxgmxdUPdc1ueedpyYKNXf8x0EmPezd0U/edit?usp=sharing)
 * [Unit 10d Searching - Linear Binary Recursive Search](https://docs.google.com/presentation/d/1DW8ui1wq-oD36bLh8V1L0Am2ZW33LLORZDvMT31DWkc/edit?usp=sharing)
@@ -125,7 +125,7 @@ In the world of programming - [collaboration with others is everything](https://
 * [Unit 9b Asteroids Project Part 1](https://docs.google.com/presentation/d/1HfHQTei9qgkBEBhNqUKqmAc6g2V3x8FDprajTp5IZuE/edit?usp=sharing)
 * [Unit 9c Asteroids Project Part 2](https://docs.google.com/presentation/d/1pPeUvTAbIjtZYvfQIv54BDuunra8H6imO654amT6NI4/edit?usp=sharing)
 * [Unit 9d Asteroids Project Final Part 3](https://docs.google.com/presentation/d/1eSpNZiI6WjTBA4Jn_s_0pSicocsRXhOUnGaTOms80CM/edit?usp=sharing)
-* [Vectors](https://docs.google.com/presentation/d/1H_v-gJwiZyaRqGt4j-gnPoGeW3QGNZEhcqAEEO4Nzf0/edit?usp=sharing)
+* [Vectors & Planetary Orbits Project](https://docs.google.com/presentation/d/1H_v-gJwiZyaRqGt4j-gnPoGeW3QGNZEhcqAEEO4Nzf0/edit?usp=sharing)
 * [Machine Learning - Perceptron Project](final_projects/readme.md)
 ## Student Projects
 * ### [Click Here For Student Projects Currently In-Work](student-githubs.md)
@@ -143,7 +143,8 @@ In the world of programming - [collaboration with others is everything](https://
 * [Snowflake Live Coding Project 🟢 COMPLETE](https://chandrunarayan.github.io/Snowflake/)
 * [Starfield Project🟢 COMPLETE](https://github.com/chandrunarayan/Starfield)
 * [PI-Day Project 🟢 COMPLETE](https://github.com/chandrunarayan/PIDay)
-* [Sierpinski Triangles Project 🟡 IN-WORK](https://github.com/chandrunarayan/Sierpinski)
+* [Game of Life Project 🟡 IN-WORK ](https://github.com/chandrunarayan/GameOfLife)
+* [Sierpinski Triangles Project](https://github.com/chandrunarayan/Sierpinski)
 * [Asteroids Part 1 Project](https://github.com/chandrunarayan/AsteroidsGame)
 * [Asteroids Part 2 Project](https://github.com/chandrunarayan/AsteroidsPart2)
 * [Asteroids Part 3 Project](https://github.com/chandrunarayan/AsteroidsPart3)
@@ -152,8 +153,10 @@ In the world of programming - [collaboration with others is everything](https://
 * [Linear Binary Search Functions Project](https://github.com/chandrunarayan/LinearBinarySearch)
 
 *FINAL PROJECTS ARE EXEMPT FOR AP EXAM TAKERS OR SENIORS DOING SENIOR PROJECTS*
-* FINAL PROJECT OPTION 1 [Game of Life Project with extensions](https://github.com/chandrunarayan/GameOfLife)
-* FINAL PROJECT OPTION 2 [Machine Learning - Perceptron Project](final_projects/readme.md)
+
+* FINAL PROJECT OPTION 1 [Vectors - Planetary Orbits Project](https://docs.google.com/presentation/d/1H_v-gJwiZyaRqGt4j-gnPoGeW3QGNZEhcqAEEO4Nzf0/edit?usp=sharing)
+* FINAL PROJECT OPTION 2 [Collatz Conjecture - Recursion Project]()
+* FINAL PROJECT OPTION 3 [AI Machine Learning - Perceptron Project](final_projects/readme.md)
 
 ## AP Exam Section
 
