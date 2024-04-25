@@ -149,9 +149,9 @@ In the world of programming - [collaboration with others is everything](https://
 * [Palindrome Checker Project 🟡 IN-WORK](https://github.com/chandrunarayan/PalindromeChecker)
 * [OPTIONAL Linear Binary Search Functions 🟡 IN-WORK](https://github.com/chandrunarayan/LinearBinarySearch)
 * [OPTIONAL Sierpinski Triangles Project](https://github.com/chandrunarayan/Sierpinski)
-* [FINAL PROJECT Asteroids Part 1 Project](https://github.com/chandrunarayan/AsteroidsGame)
-* [FINAL PROJECT Asteroids Part 2 Project](https://github.com/chandrunarayan/AsteroidsPart2)
-* [FINAL PROJECT Asteroids Part 3 Project](https://github.com/chandrunarayan/AsteroidsPart3)
+* [Asteroids Part 1 Project](https://github.com/chandrunarayan/AsteroidsGame)
+* [Asteroids Part 2 Project](https://github.com/chandrunarayan/AsteroidsPart2)
+* [Asteroids Part 3 Project](https://github.com/chandrunarayan/AsteroidsPart3)
 
 
 
