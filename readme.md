@@ -144,14 +144,14 @@ In the world of programming - [collaboration with others is everything](https://
 * [Starfield Project🟢 COMPLETE](https://github.com/chandrunarayan/Starfield)
 * [PI-Day Project 🟢 COMPLETE](https://github.com/chandrunarayan/PIDay)
 * [Times Tables Project 🟢 COMPLETE](https://chandrunarayan.github.io/ttexp/)
-* [Game of Life Project - PART 1 & 2 🟡 IN-WORK](https://github.com/chandrunarayan/GameOfLife)
-* [Piglatin Project](https://github.com/chandrunarayan/Piglatin)
-* [Palindrome Checker Project](https://github.com/chandrunarayan/PalindromeChecker)
-* [Linear Binary Search Functions Project](https://github.com/chandrunarayan/LinearBinarySearch)
-* [Sierpinski Triangles Project](https://github.com/chandrunarayan/Sierpinski)
-* [Asteroids Part 1 Project](https://github.com/chandrunarayan/AsteroidsGame)
-* [Asteroids Part 2 Project](https://github.com/chandrunarayan/AsteroidsPart2)
-* [Asteroids Part 3 Project](https://github.com/chandrunarayan/AsteroidsPart3)
+* [Game of Life Project - PART 1 & 2 🟢 COMPLETE](https://github.com/chandrunarayan/GameOfLife)
+* [Piglatin Project 🟡 IN-WORK](https://github.com/chandrunarayan/Piglatin)
+* [Palindrome Checker Project 🟡 IN-WORK](https://github.com/chandrunarayan/PalindromeChecker)
+* [OPTIONAL Linear Binary Search Functions 🟡 IN-WORK](https://github.com/chandrunarayan/LinearBinarySearch)
+* [OPTIONAL Sierpinski Triangles Project](https://github.com/chandrunarayan/Sierpinski)
+* [FINAL PROJECT Asteroids Part 1 Project](https://github.com/chandrunarayan/AsteroidsGame)
+* [FINAL PROJECT Asteroids Part 2 Project](https://github.com/chandrunarayan/AsteroidsPart2)
+* [FINAL PROJECT Asteroids Part 3 Project](https://github.com/chandrunarayan/AsteroidsPart3)
 
 
 
