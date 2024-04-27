@@ -1,4 +1,4 @@
-[_Bush School CPJava Spring Semester 2023 (Year-Long)_](https://chandrunarayan.github.io/cpjava/) updated Apr 23, 2024
+[_Bush School CPJava Spring Semester 2023 (Year-Long)_](https://chandrunarayan.github.io/cpjava/) updated Apr 27, 2024
 
 ## Newly added topics
 
@@ -111,12 +111,12 @@ In the world of programming - [collaboration with others is everything](https://
 * [🟢 COMPLETE Unit 7b For Each Loop](https://docs.google.com/presentation/d/1svOtYj6hIec8CR7yqourBmKauEOMhSuEciEqgq7nO4E/edit#slide=id.p1)
 * [🟢 COMPLETE Unit 9a Inheritance & Encapsulation](https://docs.google.com/presentation/d/1U6Q4y2aVB-DTWi-jB2GYJP2BUIu_k2O3yY6iDY9w-Mw/edit)
 * [🟢 COMPLETE Unit 2a String Objects & Methods and PI-Day Project](https://drive.google.com/open?id=1H9tzGeTWetjzUz1G450NGxbEO5xZl3BvacfkFWsvWRE&authuser=0)
-* 🟢 COMPLETE [Unit 8 2D Arrays Tables](https://docs.google.com/presentation/d/1cIgGz7huTaKrsFC5OKXdKNQ9ftwHSnWO6fjzegs7H0w/edit?usp=sharing)
-* 🟡 IN-WORK [[Unit 2b String Methods & Pointers and Piglatin Project](https://drive.google.com/open?id=1XLlg2WK9z2RQoCVq5l0EaKquK1Mhw4WYbfshck_Rujw&authuser=0)
-* [Unit 10a Recursion and Sierpinski Triangles](https://docs.google.com/presentation/d/1Ef1iENxFbYeJy7XDUlbV9JTiVYeoUkeXxrpcdx6UiwE/edit?usp=sharing)
+* [🟢 COMPLETE Unit 8 2D Arrays Tables](https://docs.google.com/presentation/d/1cIgGz7huTaKrsFC5OKXdKNQ9ftwHSnWO6fjzegs7H0w/edit?usp=sharing)
+* [🟢 COMPLETE Unit 2b String Methods & Pointers and Piglatin Project](https://drive.google.com/open?id=1XLlg2WK9z2RQoCVq5l0EaKquK1Mhw4WYbfshck_Rujw&authuser=0)
+* [🟡 IN-WORK Unit 10a Recursion and Sierpinski Triangles](https://docs.google.com/presentation/d/1Ef1iENxFbYeJy7XDUlbV9JTiVYeoUkeXxrpcdx6UiwE/edit?usp=sharing)
 * [Unit 10b Recursion and Fibonacci Sequence](https://docs.google.com/presentation/d/19gdc2QhdPKWhc-BZzwau2WEatgVQI2ftLCHv337OUPc/edit?usp=sharing)
 * [Unit 10c Recursion and Fractals](https://docs.google.com/presentation/d/1aR38R14PDpmxgmxdUPdc1ueedpyYKNXf8x0EmPezd0U/edit?usp=sharing)
-* [Unit 10d Searching - Linear Binary Recursive Search](https://docs.google.com/presentation/d/1DW8ui1wq-oD36bLh8V1L0Am2ZW33LLORZDvMT31DWkc/edit?usp=sharing)
+* [🟡 IN-WORK Unit 10d Searching - Linear Binary Recursive Search](https://docs.google.com/presentation/d/1DW8ui1wq-oD36bLh8V1L0Am2ZW33LLORZDvMT31DWkc/edit?usp=sharing)
 * [Unit 10e Sorting - Sort & Merge](https://docs.google.com/presentation/d/1-f4OU7J88OAA-sbP0U2R_0-3bt1vucoMBUH3U2z5C1A/edit?usp=sharing)
 
 ## Project Specific Student Paced Sessions
@@ -145,21 +145,18 @@ In the world of programming - [collaboration with others is everything](https://
 * [PI-Day Project 🟢 COMPLETE](https://github.com/chandrunarayan/PIDay)
 * [Times Tables Project 🟢 COMPLETE](https://chandrunarayan.github.io/ttexp/)
 * [Game of Life Project - PART 1 & 2 🟢 COMPLETE](https://github.com/chandrunarayan/GameOfLife)
-* [Piglatin Project 🟡 IN-WORK](https://github.com/chandrunarayan/Piglatin)
-* [Palindrome Checker Project 🟡 IN-WORK](https://github.com/chandrunarayan/PalindromeChecker)
+* [Piglatin Project 🟢 COMPLETE](https://github.com/chandrunarayan/Piglatin)
+* [Palindrome Checker Project 🟢 COMPLETE](https://github.com/chandrunarayan/PalindromeChecker)
+* [Sierpinski Triangles Project 🟡 IN-WORK](https://github.com/chandrunarayan/Sierpinski)
 * [OPTIONAL Linear Binary Search Functions 🟡 IN-WORK](https://github.com/chandrunarayan/LinearBinarySearch)
-* [OPTIONAL Sierpinski Triangles Project](https://github.com/chandrunarayan/Sierpinski)
-* [Asteroids Part 1 Project](https://github.com/chandrunarayan/AsteroidsGame)
-* [Asteroids Part 2 Project](https://github.com/chandrunarayan/AsteroidsPart2)
-* [Asteroids Part 3 Project](https://github.com/chandrunarayan/AsteroidsPart3)
 
 
 
 *FINAL PROJECTS ARE EXEMPT FOR AP EXAM TAKERS OR SENIORS DOING SENIOR PROJECTS*
-
-* FINAL PROJECT OPTION 1 [Vectors - Planetary Orbits Project](https://docs.google.com/presentation/d/1H_v-gJwiZyaRqGt4j-gnPoGeW3QGNZEhcqAEEO4Nzf0/edit?usp=sharing)
-* FINAL PROJECT OPTION 2 [Collatz Conjecture - Recursion Project]()
-* FINAL PROJECT OPTION 3 [AI Machine Learning - Perceptron Project](final_projects/readme.md)
+* FINAL Project OPTION 1 Asteroids [Part 1 ](https://github.com/chandrunarayan/AsteroidsGame) [Part 2](https://github.com/chandrunarayan/AsteroidsPart2) [Part 3](https://github.com/chandrunarayan/AsteroidsPart3)
+* FINAL PROJECT OPTION 2 [Vectors - Planetary Orbits Project](https://docs.google.com/presentation/d/1H_v-gJwiZyaRqGt4j-gnPoGeW3QGNZEhcqAEEO4Nzf0/edit?usp=sharing)
+* FINAL PROJECT OPTION 3 [Collatz Conjecture - Recursion Project]()
+* FINAL PROJECT OPTION 4 [AI Machine Learning - Perceptron Project](final_projects/readme.md)
 
 ## AP Exam Section
 
@@ -183,12 +180,12 @@ Suggested Schedule of Completion updated 09.05.23
 | 6 | **String | [Googlebillboard](https://codingbat.com/home/chandru.narayan@bush.edu/googlebillboard)
 | 7 |**String & Pointers | [Piglatin](https://codingbat.com/home/chandru.narayan@bush.edu/piglatin)
 | 8 |**String & Pointers | [String1](https://codingbat.com/home/chandru.narayan@bush.edu/string1) [String2](https://codingbat.com/home/chandru.narayan@bush.edu/string2) [String3](https://codingbat.com/home/chandru.narayan@bush.edu/string3)
-| 9 |  Array Traversal | [Palindrome](https://codingbat.com/home/chandru.narayan@bush.edu/palindrome)
-| 10 |2D Arrays | [Minesweeper](https://codingbat.com/home/chandru.narayan@bush.edu/minesweeper)
-| 11 | 2D Arrays | [2DArrays](https://codingbat.com/home/chandru.narayan@bush.edu/2darrays)
-| 12 |  Recursion | [Recursion1](https://codingbat.com/home/chandru.narayan@bush.edu/recursion1) [Recursion2](https://codingbat.com/home/chandru.narayan@bush.edu/recursion2) [Recursion3](https://codingbat.com/home/chandru.narayan@bush.edu/recursion3)
-| 13 |   Searching | [Searching1](https://codingbat.com/home/chandru.narayan@bush.edu/searching1) [Searching2](https://codingbat.com/home/chandru.narayan@bush.edu/searching2)
-| 14 |   Sorting | [Sorting](https://codingbat.com/home/chandru.narayan@bush.edu/sorting)
+| 9 |**Array Traversal | [Palindrome](https://codingbat.com/home/chandru.narayan@bush.edu/palindrome)
+| 10 |**2D Arrays | [Minesweeper](https://codingbat.com/home/chandru.narayan@bush.edu/minesweeper)
+| 11 |**2D Arrays | [2DArrays](https://codingbat.com/home/chandru.narayan@bush.edu/2darrays)
+| 12 |**Recursion | [Recursion1](https://codingbat.com/home/chandru.narayan@bush.edu/recursion1) [Recursion2](https://codingbat.com/home/chandru.narayan@bush.edu/recursion2) [Recursion3](https://codingbat.com/home/chandru.narayan@bush.edu/recursion3)
+| 13 |**Searching | [Searching1](https://codingbat.com/home/chandru.narayan@bush.edu/searching1) [Searching2](https://codingbat.com/home/chandru.narayan@bush.edu/searching2)
+| 14 |**Sorting | [Sorting](https://codingbat.com/home/chandru.narayan@bush.edu/sorting)
 
 ### FRQ Notes 
 * Question 1: Methods and Control Structures—You’ll be asked to write program code to create objects of a class and call methods, and satisfy method specifications using expressions, conditional statements, and iterative statements.
