@@ -1,11 +1,10 @@
-[_Bush School CPJava Spring Semester 2023 (Year-Long)_](https://chandrunarayan.github.io/cpjava/) updated Apr 27, 2024
+[_Bush School CPJava Spring Semester 2023 (Year-Long)_](https://chandrunarayan.github.io/cpjava/) updated May, 9th 2024
 
 ## Newly added topics
 
 | Date | Topic | Link
 | :--- | :--- | :--- |
-| 09-05-2023 | Welcome to Computer Programming in Java (CPJava) course! | [click to go there]() |
-
+| 09-05-2024 | CONGRATS TO ALL AP CSA EXAM TAKERS!!!! | [click to go there]() |
 
 
 ## Bouncing Bubbles Java Program
@@ -113,9 +112,9 @@ In the world of programming - [collaboration with others is everything](https://
 * [🟢 COMPLETE Unit 2a String Objects & Methods and PI-Day Project](https://drive.google.com/open?id=1H9tzGeTWetjzUz1G450NGxbEO5xZl3BvacfkFWsvWRE&authuser=0)
 * [🟢 COMPLETE Unit 8 2D Arrays Tables](https://docs.google.com/presentation/d/1cIgGz7huTaKrsFC5OKXdKNQ9ftwHSnWO6fjzegs7H0w/edit?usp=sharing)
 * [🟢 COMPLETE Unit 2b String Methods & Pointers and Piglatin Project](https://drive.google.com/open?id=1XLlg2WK9z2RQoCVq5l0EaKquK1Mhw4WYbfshck_Rujw&authuser=0)
-* [🟡 IN-WORK Unit 10a Recursion and Sierpinski Triangles](https://docs.google.com/presentation/d/1Ef1iENxFbYeJy7XDUlbV9JTiVYeoUkeXxrpcdx6UiwE/edit?usp=sharing)
-* [🟡 IN-WORK Unit 10d Searching - Linear Binary Recursive Search](https://docs.google.com/presentation/d/1DW8ui1wq-oD36bLh8V1L0Am2ZW33LLORZDvMT31DWkc/edit?usp=sharing)
-* [Unit 10e Sorting - Sort & Merge](https://docs.google.com/presentation/d/1-f4OU7J88OAA-sbP0U2R_0-3bt1vucoMBUH3U2z5C1A/edit?usp=sharing)
+* [🟢 COMPLETE Unit 10a Recursion and Sierpinski Triangles](https://docs.google.com/presentation/d/1Ef1iENxFbYeJy7XDUlbV9JTiVYeoUkeXxrpcdx6UiwE/edit?usp=sharing)
+* [🟢 COMPLETE Unit 10d Searching - Linear Binary Recursive Search](https://docs.google.com/presentation/d/1DW8ui1wq-oD36bLh8V1L0Am2ZW33LLORZDvMT31DWkc/edit?usp=sharing)
+* [🟢 COMPLETE Unit 10e Sorting - Sort & Merge](https://docs.google.com/presentation/d/1-f4OU7J88OAA-sbP0U2R_0-3bt1vucoMBUH3U2z5C1A/edit?usp=sharing)
 * [🔴 SKIPPED Unit 10b Recursion and Fibonacci Sequence](https://docs.google.com/presentation/d/19gdc2QhdPKWhc-BZzwau2WEatgVQI2ftLCHv337OUPc/edit?usp=sharing)
 * [🔴 SKIPPED Unit 10c Recursion and Fractals](https://docs.google.com/presentation/d/1aR38R14PDpmxgmxdUPdc1ueedpyYKNXf8x0EmPezd0U/edit?usp=sharing)
 
@@ -147,7 +146,7 @@ In the world of programming - [collaboration with others is everything](https://
 * [Game of Life Project - PART 1 & 2 🟢 COMPLETE](https://github.com/chandrunarayan/GameOfLife)
 * [Piglatin Project 🟢 COMPLETE](https://github.com/chandrunarayan/Piglatin)
 * [Palindrome Checker Project 🟢 COMPLETE](https://github.com/chandrunarayan/PalindromeChecker)
-* [Sierpinski Triangles Project 🟡 IN-WORK](https://github.com/chandrunarayan/Sierpinski)
+* [Sierpinski Triangles Project 🟢 COMPLETE ](https://github.com/chandrunarayan/Sierpinski)
 * [OPTIONAL Linear Binary Search Functions 🟡 IN-WORK](https://github.com/chandrunarayan/LinearBinarySearch)
 
 
