@@ -105,6 +105,8 @@ perceptron’s understanding of the line’s position relative to (0,0).
 
 In the figure above we have a more complete picture. It shows the sum of $\sum (weights * inputs)$ plus the bias (weight of the bias can be thought of as being 1) producing a weighted sum $z$. This $z$ not shown in above figure, is then passed through to $\sigma()$ the activation function which will allow the signal to flow out of the neuron if it is greater than a given threshold. Note the reference to the ```sign activation function``` from before.   The activation function ```sigmoid``` has an equation and graph that looks like this: 
 
+$\sqrt{3x-1}+(1+x)^2$
+
 $`\sigma (z) = \frac{1}{1+e^{-z}}`$
 
 
@@ -175,7 +177,7 @@ int result = p.feedforward(point); The answer!
     - an no-arg one which will initiallize members x, y to random values between -1 and 1.
     - one with args for initializing x, y to specified values between -1 and 1.
 
-1. I have written the main tab including a function ``line_func`` which returns the ``y`` value of a random equation of a line $$y=slope * x + off $$  The main tab also includes coordinate transformations for handling the origin (0,0) being at the center of the canvas and x values -0.5 to 0.5 and y values from -0.5 to 0.5.  I will walkthrough this with you if you do not understand it.
+1. I have written the main tab including a function ``line_func()`` which returns the ``y`` value of a random equation of a line $$y=slope * x + off $$  The main tab also includes coordinate transformation functions `px()` and `py()` for handling the origin (0,0) being at the center of the canvas and x values -0.5 to 0.5 and y values from -0.5 to 0.5.  I will walkthrough this with you if you do not understand it.
     ```
     int nwt = 3;
     int npts = 100;
@@ -200,13 +202,13 @@ int result = p.feedforward(point); The answer!
     float line_func(float x) {
         //y = slope * x + off
         return slope * x + off;
-        }
+    }
 
-        float px(float x) {
+    float px(float x) {
         return map(x, -0.5, 0.5, 0, width);
-        }
+    }
 
-        float py(float y) {
+    float py(float y) {
         return map(y, -0.5, 0.5, height, 0);
     }
 
