@@ -105,19 +105,10 @@ perceptron’s understanding of the line’s position relative to (0,0).
 
 In the figure above we have a more complete picture. It shows the sum of $\sum (weights * inputs)$ plus the bias (weight of the bias can be thought of as being 1) producing a weighted sum $z$. This $z$ not shown in above figure, is then passed through to $\sigma()$ the activation function which will allow the signal to flow out of the neuron if it is greater than a given threshold. Note the reference to the ```sign activation function``` from before.   The activation function ```sigmoid``` has an equation and graph that looks like this: 
 
-$\sqrt{3x-1}+(1+x)^2$
-
-$`\sigma (z) = \frac{1}{1+e^{-z}}`$
-
-
-
-
-
-
-
+$\sigma (z) = \frac{1}{1+e^{-z}}$
 
 ![Alt text](https://machinelearning.tobiashill.se/wp-content/uploads/2022/09/Screenshot-2019-01-07-at-13.30.22-1.png)
-where $`z`$ is the weighted sum.
+where $z$ is the weighted sum.
 
 ### Write code in processing for the Perceptron
 We’re now ready to assemble the code for a Perceptron class. The only data the
