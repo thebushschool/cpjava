@@ -254,9 +254,12 @@ int result = p.feedforward(point); The answer!
 
 ### Review of Feed Forward Algorithm
 
-We looked at a very simplistic Perceptron simulating a single neuron iin the previous Part 1 of this project.  
+We looked at a very simplistic Perceptron simulating a single neuron iin the previous Part 1 of this project.  We will get back to this problem to solve it by creating a multi-layered neural network (NN) which we will discuss now.  Multi-layered NN are much more adept at solving more difficult problems like machine recognition of written numerals which will be end goal of our project.  Interestingly, the arithmetic behind computing the results of the ```Sum``` and ```Sigma``` functions look very much like matrices and operations such as ```scalar product```, ```dot product```, ```inverse```, and ```transpose```. Hence the reason why Machine Learning has so much to do with ```linear algebra```!  
 
-In this section we will look at a multi-layered perceptron model which are much more adept at solving more difficult problems like machine recognition of written numerals which will be end goal of our project.
+We will be using a Java library for doing these operations, first we will get familiar with them by using numerical examples and calculating them by hand.  We will then use the Processing program you wrote from Part 1 to verify a complete example to ensure that your code is doing what is it supposed to do.  This is the main goal of Part 2.
+
+Then in Part 3a we will look at the multi-variable calculus involved with ```back propagation``` to automatically adjust the ```weight matrix``` to enable the NN to make actual predictions!
+
 
 ![neurons](neurons.png)
 
@@ -339,7 +342,7 @@ $$ \sigma (z) = \frac{1}{1+e^{-z}}$$
 1. If correctly updated and built, you should be able to verify the outputs of the neural network by comparing the input, hidden and output values shown below
 ![full](fulloutput.jpg)
 1. Note - you should not need any other function from the Matrix libray other than the constructor and the "times" function.  Built "Column" 3x1 matrices for inputs and outputs.  Do not transpose any matrices at this stage.
-1. Detailed [Java code documentation for for this project can be found here](https://chandrunarayan.github.io/cpjava/final_projects/ml_code/ml_workshop_4/reference/ml_workshop_4.html)
+1. Detailed [Java code documentation for this project can be found here](https://chandrunarayan.github.io/cpjava/final_projects/ml_code/ml_workshop_4/reference/ml_workshop_4.html)
 
 ### WE HAVE NOW CONCLUDED PART 2 OF YOUR FINAL PROJECT!!
 
