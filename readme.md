@@ -121,11 +121,11 @@ In the world of programming - [collaboration with others is everything](https://
 ## Project Specific Student Paced Sessions
 * [🟢 COMPLETE Unit 0 Processing Primer Scales Project](https://docs.google.com/presentation/d/1oGEPH8JPehlrZLI9IREmoKrNd192qZ_DuNtancZooY4/edit?usp=sharing)
 * [🟢 COMPLETE Unit 1 Using MathDotRandom in the Lightning Project](https://docs.google.com/presentation/d/1435XkVlj6uslnFmrlQmTb_7yaCpoQaVhdgpYHdxnksg/edit?usp=sharing)
-* [Unit 9b Asteroids Project Part 1](https://docs.google.com/presentation/d/1HfHQTei9qgkBEBhNqUKqmAc6g2V3x8FDprajTp5IZuE/edit?usp=sharing)
-* [Unit 9c Asteroids Project Part 2](https://docs.google.com/presentation/d/1pPeUvTAbIjtZYvfQIv54BDuunra8H6imO654amT6NI4/edit?usp=sharing)
-* [Unit 9d Asteroids Project Final Part 3](https://docs.google.com/presentation/d/1eSpNZiI6WjTBA4Jn_s_0pSicocsRXhOUnGaTOms80CM/edit?usp=sharing)
-* [Vectors & Planetary Orbits Project](https://docs.google.com/presentation/d/1H_v-gJwiZyaRqGt4j-gnPoGeW3QGNZEhcqAEEO4Nzf0/edit?usp=sharing)
-* [Machine Learning - Perceptron Project](final_projects/readme.md)
+* 🟢 COMPLETE [Unit 9b Asteroids Project Part 1](https://docs.google.com/presentation/d/1HfHQTei9qgkBEBhNqUKqmAc6g2V3x8FDprajTp5IZuE/edit?usp=sharing)
+* 🟡 IN-WORK [Unit 9c Asteroids Project Part 2](https://docs.google.com/presentation/d/1pPeUvTAbIjtZYvfQIv54BDuunra8H6imO654amT6NI4/edit?usp=sharing)
+* 🟡 IN-WORK [Unit 9d Asteroids Project Final Part 3](https://docs.google.com/presentation/d/1eSpNZiI6WjTBA4Jn_s_0pSicocsRXhOUnGaTOms80CM/edit?usp=sharing)
+* [🔴 SKIPPED Vectors & Planetary Orbits Project](https://docs.google.com/presentation/d/1H_v-gJwiZyaRqGt4j-gnPoGeW3QGNZEhcqAEEO4Nzf0/edit?usp=sharing)
+* 🟡 IN-WORK [Machine Learning - Perceptron Project](final_projects/readme.md)
 ## Student Projects
 * ### [Click Here For Student Projects Currently In-Work](student-githubs.md)
 
@@ -147,15 +147,15 @@ In the world of programming - [collaboration with others is everything](https://
 * [Piglatin Project 🟢 COMPLETE](https://github.com/chandrunarayan/Piglatin)
 * [Palindrome Checker Project 🟢 COMPLETE](https://github.com/chandrunarayan/PalindromeChecker)
 * [Sierpinski Triangles Project 🟢 COMPLETE ](https://github.com/chandrunarayan/Sierpinski)
-* [OPTIONAL Linear Binary Search Functions 🟡 IN-WORK](https://github.com/chandrunarayan/LinearBinarySearch)
+* [OPTIONAL Linear Binary Search Functions 🟢 COMPLETE](https://github.com/chandrunarayan/LinearBinarySearch)
 
 
 
 *FINAL PROJECTS ARE EXEMPT FOR AP EXAM TAKERS OR SENIORS DOING SENIOR PROJECTS*
-* FINAL Project OPTION 1 Asteroids [Part 1 ](https://github.com/chandrunarayan/AsteroidsGame) [Part 2](https://github.com/chandrunarayan/AsteroidsPart2) [Part 3](https://github.com/chandrunarayan/AsteroidsPart3)
+* 🟡 IN-WORK FINAL Project OPTION 1 Asteroids [Part 1 ](https://github.com/chandrunarayan/AsteroidsGame) [Part 2](https://github.com/chandrunarayan/AsteroidsPart2) [Part 3](https://github.com/chandrunarayan/AsteroidsPart3)
 * FINAL PROJECT OPTION 2 [Vectors - Planetary Orbits Project](https://docs.google.com/presentation/d/1H_v-gJwiZyaRqGt4j-gnPoGeW3QGNZEhcqAEEO4Nzf0/edit?usp=sharing)
 * FINAL PROJECT OPTION 3 [Collatz Conjecture - Recursion Project]()
-* FINAL PROJECT OPTION 4 [AI Machine Learning - Perceptron Project](final_projects/readme.md)
+* 🟡 IN-WORK FINAL PROJECT OPTION 4 [AI Machine Learning - Perceptron Project](final_projects/readme.md)
 
 ## AP Exam Section
 
