@@ -78,25 +78,25 @@ We will use this method at the start of each Unit, or for unfamiliar and difficu
 In the world of programming - [collaboration with others is everything](https://youtu.be/q7d_JtyCq1A)!.  We will model that in our learning process in the classroom. We will learn by doing and by pairing with others. Each person in a paired team will have the opportunity to teach and to learn from each other. We will be using the Paired Programming teams for team for learning Java and projects. ** Please provide me the Github Account usernames that you created **.  The Paired Programming projects will be published at this location.  I have updated paired programming teams for the 2nd-term also keeping in mind the students remote/on-campus students and those taking the APCSA exam.
  
 ### Team Rainier 
-* Christina/Penelope/Tim
+* TBD
 
 ### Team Hood 
-* Kingston/Cam
+* TBD
 
 ### Team St Helens 
-* William/Boyan
+* TBD
 
 ### Team Stevens 
-* Evelyn/Reagan
+* TBD
 
 ### Team Baker 
-* Nathan/Gareth
+* TBD
 
 ### Team Glacier Peak
 * Gabe/Charlotte/Rea
 
 ### Team Alpe d'Huez
-* Chandru/Wyatt
+* TBD
 
 ## Lesson Schedule
 
@@ -122,10 +122,10 @@ In the world of programming - [collaboration with others is everything](https://
 * [🟢 COMPLETE Unit 0 Processing Primer Scales Project](https://docs.google.com/presentation/d/1oGEPH8JPehlrZLI9IREmoKrNd192qZ_DuNtancZooY4/edit?usp=sharing)
 * [🟢 COMPLETE Unit 1 Using MathDotRandom in the Lightning Project](https://docs.google.com/presentation/d/1435XkVlj6uslnFmrlQmTb_7yaCpoQaVhdgpYHdxnksg/edit?usp=sharing)
 * 🟢 COMPLETE [Unit 9b Asteroids Project Part 1](https://docs.google.com/presentation/d/1HfHQTei9qgkBEBhNqUKqmAc6g2V3x8FDprajTp5IZuE/edit?usp=sharing)
-* 🟡 IN-WORK [Unit 9c Asteroids Project Part 2](https://docs.google.com/presentation/d/1pPeUvTAbIjtZYvfQIv54BDuunra8H6imO654amT6NI4/edit?usp=sharing)
-* 🟡 IN-WORK [Unit 9d Asteroids Project Final Part 3](https://docs.google.com/presentation/d/1eSpNZiI6WjTBA4Jn_s_0pSicocsRXhOUnGaTOms80CM/edit?usp=sharing)
+* 🟢 COMPLETE [Unit 9c Asteroids Project Part 2](https://docs.google.com/presentation/d/1pPeUvTAbIjtZYvfQIv54BDuunra8H6imO654amT6NI4/edit?usp=sharing)
+* 🟢 COMPLETE [Unit 9d Asteroids Project Final Part 3](https://docs.google.com/presentation/d/1eSpNZiI6WjTBA4Jn_s_0pSicocsRXhOUnGaTOms80CM/edit?usp=sharing)
 * [🔴 SKIPPED Vectors & Planetary Orbits Project](https://docs.google.com/presentation/d/1H_v-gJwiZyaRqGt4j-gnPoGeW3QGNZEhcqAEEO4Nzf0/edit?usp=sharing)
-* 🟡 IN-WORK [Machine Learning - Perceptron Project](final_projects/readme.md)
+* 🟢 COMPLETE [Machine Learning - Perceptron Project](final_projects/readme.md)
 ## Student Projects
 * ### [Click Here For Student Projects Currently In-Work](student-githubs.md)
 
@@ -152,10 +152,10 @@ In the world of programming - [collaboration with others is everything](https://
 
 
 *FINAL PROJECTS ARE EXEMPT FOR AP EXAM TAKERS OR SENIORS DOING SENIOR PROJECTS*
-* 🟡 IN-WORK FINAL Project OPTION 1 Asteroids [Part 1 ](https://github.com/chandrunarayan/AsteroidsGame) [Part 2](https://github.com/chandrunarayan/AsteroidsPart2) [Part 3](https://github.com/chandrunarayan/AsteroidsPart3)
+* 🟢 COMPLETE FINAL Project OPTION 1 Asteroids [Part 1 ](https://github.com/chandrunarayan/AsteroidsGame) [Part 2](https://github.com/chandrunarayan/AsteroidsPart2) [Part 3](https://github.com/chandrunarayan/AsteroidsPart3)
 * FINAL PROJECT OPTION 2 [Vectors - Planetary Orbits Project](https://docs.google.com/presentation/d/1H_v-gJwiZyaRqGt4j-gnPoGeW3QGNZEhcqAEEO4Nzf0/edit?usp=sharing)
 * FINAL PROJECT OPTION 3 [Collatz Conjecture - Recursion Project]()
-* 🟡 IN-WORK FINAL PROJECT OPTION 4 [AI Machine Learning - Perceptron Project](final_projects/readme.md)
+* 🟢 COMPLETE FINAL PROJECT OPTION 4 [AI Machine Learning - Perceptron Project](final_projects/readme.md)
 
 ## AP Exam Section
 
@@ -171,20 +171,20 @@ Suggested Schedule of Completion updated 09.05.23
 
 | Sequence | Schedule Topic | Codingbat Problemset
 | :--- | :--- | :--- |
-| 1 |**Primitives | [Primitives](https://codingbat.com/home/chandru.narayan@bush.edu/intbool1)
-| 2 |**Functions | [Functions1](https://codingbat.com/home/chandru.narayan@bush.edu/functions1) [Functions2](https://codingbat.com/home/chandru.narayan@bush.edu/functions2) [Functions3](https://codingbat.com/home/chandru.narayan@bush.edu/functions3)
-| 3 |**Arrays | [Arrays1](https://codingbat.com/home/chandru.narayan@bush.edu/arrays1) [Arrays2](https://codingbat.com/home/chandru.narayan@bush.edu/arrays2) [Arrays3](https://codingbat.com/home/chandru.narayan@bush.edu/arrays3) [Arrays4](https://codingbat.com/home/chandru.narayan@bush.edu/arrays4)
-| 4 |**Array List | [ArrayList1](https://codingbat.com/home/chandru.narayan@bush.edu/arraylist1) [ArrayList2](https://codingbat.com/home/chandru.narayan@bush.edu/arraylist2) [ArrayList3](https://codingbat.com/home/chandru.narayan@bush.edu/arraylist3)
-| 5 |**Fall Review | [FallReview1](https://codingbat.com/home/chandru.narayan@bush.edu/fallreview1) [FallReview2](https://codingbat.com/home/chandru.narayan@bush.edu/fallreview2)
-| 6 | **String | [Googlebillboard](https://codingbat.com/home/chandru.narayan@bush.edu/googlebillboard)
-| 7 |**String & Pointers | [Piglatin](https://codingbat.com/home/chandru.narayan@bush.edu/piglatin)
-| 8 |**String & Pointers | [String1](https://codingbat.com/home/chandru.narayan@bush.edu/string1) [String2](https://codingbat.com/home/chandru.narayan@bush.edu/string2) [String3](https://codingbat.com/home/chandru.narayan@bush.edu/string3)
-| 9 |**Array Traversal | [Palindrome](https://codingbat.com/home/chandru.narayan@bush.edu/palindrome)
-| 10 |**2D Arrays | [Minesweeper](https://codingbat.com/home/chandru.narayan@bush.edu/minesweeper)
-| 11 |**2D Arrays | [2DArrays](https://codingbat.com/home/chandru.narayan@bush.edu/2darrays)
-| 12 |**Recursion | [Recursion1](https://codingbat.com/home/chandru.narayan@bush.edu/recursion1) [Recursion2](https://codingbat.com/home/chandru.narayan@bush.edu/recursion2) [Recursion3](https://codingbat.com/home/chandru.narayan@bush.edu/recursion3)
-| 13 |**Searching | [Searching1](https://codingbat.com/home/chandru.narayan@bush.edu/searching1) [Searching2](https://codingbat.com/home/chandru.narayan@bush.edu/searching2)
-| 14 |**Sorting | [Sorting](https://codingbat.com/home/chandru.narayan@bush.edu/sorting)
+| 1 |Primitives | [Primitives](https://codingbat.com/home/chandru.narayan@bush.edu/intbool1)
+| 2 |Functions | [Functions1](https://codingbat.com/home/chandru.narayan@bush.edu/functions1) [Functions2](https://codingbat.com/home/chandru.narayan@bush.edu/functions2) [Functions3](https://codingbat.com/home/chandru.narayan@bush.edu/functions3)
+| 3 |Arrays | [Arrays1](https://codingbat.com/home/chandru.narayan@bush.edu/arrays1) [Arrays2](https://codingbat.com/home/chandru.narayan@bush.edu/arrays2) [Arrays3](https://codingbat.com/home/chandru.narayan@bush.edu/arrays3) [Arrays4](https://codingbat.com/home/chandru.narayan@bush.edu/arrays4)
+| 4 |Array List | [ArrayList1](https://codingbat.com/home/chandru.narayan@bush.edu/arraylist1) [ArrayList2](https://codingbat.com/home/chandru.narayan@bush.edu/arraylist2) [ArrayList3](https://codingbat.com/home/chandru.narayan@bush.edu/arraylist3)
+| 5 |Fall Review | [FallReview1](https://codingbat.com/home/chandru.narayan@bush.edu/fallreview1) [FallReview2](https://codingbat.com/home/chandru.narayan@bush.edu/fallreview2)
+| 6 | String | [Googlebillboard](https://codingbat.com/home/chandru.narayan@bush.edu/googlebillboard)
+| 7 |String & Pointers | [Piglatin](https://codingbat.com/home/chandru.narayan@bush.edu/piglatin)
+| 8 |String & Pointers | [String1](https://codingbat.com/home/chandru.narayan@bush.edu/string1) [String2](https://codingbat.com/home/chandru.narayan@bush.edu/string2) [String3](https://codingbat.com/home/chandru.narayan@bush.edu/string3)
+| 9 |Array Traversal | [Palindrome](https://codingbat.com/home/chandru.narayan@bush.edu/palindrome)
+| 10 |2D Arrays | [Minesweeper](https://codingbat.com/home/chandru.narayan@bush.edu/minesweeper)
+| 11 |2D Arrays | [2DArrays](https://codingbat.com/home/chandru.narayan@bush.edu/2darrays)
+| 12 |Recursion | [Recursion1](https://codingbat.com/home/chandru.narayan@bush.edu/recursion1) [Recursion2](https://codingbat.com/home/chandru.narayan@bush.edu/recursion2) [Recursion3](https://codingbat.com/home/chandru.narayan@bush.edu/recursion3)
+| 13 |Searching | [Searching1](https://codingbat.com/home/chandru.narayan@bush.edu/searching1) [Searching2](https://codingbat.com/home/chandru.narayan@bush.edu/searching2)
+| 14 |Sorting | [Sorting](https://codingbat.com/home/chandru.narayan@bush.edu/sorting)
 
 ### FRQ Notes 
 * Question 1: Methods and Control Structures—You’ll be asked to write program code to create objects of a class and call methods, and satisfy method specifications using expressions, conditional statements, and iterative statements.
